@@ -1,26 +1,81 @@
 @import "tailwindcss";
 
 :root {
+  --white: #ffffff;
+  --steel-gray: #5c6470;
+  --industrial-silver: #e8eaed;
+  --silver-dark: #c0c5ce;
+  --deep-navy: #0a1628;
+  --navy-mid: #1b2a4a;
+  --energy-blue: #0057b8;
+  --energy-blue-light: #0077c8;
+  --accent-green: #2d6a4f;
+  --accent-green-light: #3d8b6e;
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #0a1628;
 }
 
 @theme inline {
+  --color-white: var(--white);
+  --color-steel: var(--steel-gray);
+  --color-silver: var(--industrial-silver);
+  --color-silver-dark: var(--silver-dark);
+  --color-navy: var(--deep-navy);
+  --color-navy-mid: var(--navy-mid);
+  --color-energy: var(--energy-blue);
+  --color-energy-light: var(--energy-blue-light);
+  --color-accent-green: var(--accent-green);
+  --color-accent-green-light: var(--accent-green-light);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-source-sans);
+  --font-family-display: var(--font-ibm-plex);
+  --font-family-sans: var(--font-source-sans);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-ibm-plex), system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.industrial-grid {
+  background-image:
+    linear-gradient(rgba(0, 87, 184, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 87, 184, 0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.hero-overlay {
+  background: linear-gradient(
+    135deg,
+    rgba(10, 22, 40, 0.92) 0%,
+    rgba(27, 42, 74, 0.85) 50%,
+    rgba(0, 87, 184, 0.75) 100%
+  );
+}
+
+.section-divider {
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--energy-blue) 0%,
+    var(--accent-green) 100%
+  );
+  width: 64px;
 }
