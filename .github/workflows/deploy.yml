@@ -28,6 +28,7 @@ jobs:
       - name: Build static site
         run: npm run build
         env:
+          STATIC_EXPORT: "true"
           NEXT_PUBLIC_BASE_PATH: /TVK-Infrastructure-Energy-Systems
 
       - name: Deploy to gh-pages branch

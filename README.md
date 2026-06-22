@@ -27,23 +27,19 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Deployment (GitHub Pages)
+## Deployment
 
-The site deploys automatically to GitHub Pages on every push to `main`.
+### Vercel (recommended)
+
+Connect the repository to [Vercel](https://vercel.com). No environment variables are required — Vercel runs a standard Next.js build automatically.
+
+### GitHub Pages
+
+The site also deploys to the `gh-pages` branch on every push to `main`.
 
 **Live URL:** [https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/](https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/)
 
-### First-time setup (required — fixes 404)
-
-GitHub Pages must be enabled once in the repository settings:
-
-1. Open **https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems/settings/pages**
-2. Under **Build and deployment → Source**, select **Deploy from a branch**
-3. Set **Branch** to `gh-pages` and folder to `/ (root)`
-4. Click **Save**
-5. Wait 1–2 minutes for the deploy workflow to finish, then visit the live URL
-
-The deploy workflow runs automatically on every push to `main`.
+Enable once at **Settings → Pages → Deploy from branch → `gh-pages` / root**.
 
 ## Build
 
