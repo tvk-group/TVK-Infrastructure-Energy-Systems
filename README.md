@@ -33,11 +33,17 @@ The site deploys automatically to GitHub Pages on every push to `main`.
 
 **Live URL:** [https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/](https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/)
 
-### First-time setup
+### First-time setup (required — fixes 404)
 
-1. Go to **Repository Settings → Pages**
-2. Set **Source** to **GitHub Actions**
-3. Push to `main` — the deploy workflow runs automatically
+GitHub Pages must be enabled once in the repository settings:
+
+1. Open **https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems/settings/pages**
+2. Under **Build and deployment → Source**, select **Deploy from a branch**
+3. Set **Branch** to `gh-pages` and folder to `/ (root)`
+4. Click **Save**
+5. Wait 1–2 minutes for the deploy workflow to finish, then visit the live URL
+
+The deploy workflow runs automatically on every push to `main`.
 
 ## Build
 
