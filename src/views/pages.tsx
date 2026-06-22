@@ -5,13 +5,15 @@ import { localizedPath } from "@/i18n/routing";
 import { Hero, CoreAreas } from "@/components/HomeSections";
 import { ContactForm } from "@/components/ContactForm";
 import { PageHero, Section, FeatureCard, CTABanner, InfoBlock } from "@/components/ui";
+import { PageShell } from "@/components/seo/PageShell";
+import { ArticleJsonLd } from "@/components/seo/ArticleJsonLd";
 
 type PageProps = { dict: Dictionary; locale: Locale };
 
 export function HomeView({ dict, locale }: PageProps) {
   const t = dict.home;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="">
       <Hero locale={locale} dict={dict} />
       <Section title={t.coreAreas.title} subtitle={t.coreAreas.subtitle} className="bg-white">
         <CoreAreas locale={locale} dict={dict} />
@@ -57,14 +59,14 @@ export function HomeView({ dict, locale }: PageProps) {
         secondaryLabel={t.cta.secondaryLabel}
         secondaryHref={localizedPath(locale, "/contact")}
       />
-    </>
+    </PageShell>
   );
 }
 
 export function AboutView({ dict, locale }: PageProps) {
   const t = dict.about;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="about" breadcrumbLabel={dict.nav.about}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.mission.title} subtitle={t.mission.subtitle}>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -97,14 +99,14 @@ export function AboutView({ dict, locale }: PageProps) {
         secondaryLabel={t.cta.secondaryLabel}
         secondaryHref={localizedPath(locale, "/strategic-partnerships")}
       />
-    </>
+    </PageShell>
   );
 }
 
 export function EnergySystemsView({ dict, locale }: PageProps) {
   const t = dict.energySystems;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="energy-systems" breadcrumbLabel={dict.nav.energySystems}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.capabilityAreas.title} subtitle={t.capabilityAreas.subtitle}>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -120,14 +122,14 @@ export function EnergySystemsView({ dict, locale }: PageProps) {
         </div>
       </Section>
       <CTABanner title={t.cta.title} description={t.cta.description} primaryLabel={t.cta.primaryLabel} primaryHref={localizedPath(locale, "/contact")} />
-    </>
+    </PageShell>
   );
 }
 
 export function InfrastructureView({ dict, locale }: PageProps) {
   const t = dict.infrastructure;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="infrastructure" breadcrumbLabel={dict.nav.infrastructure}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.focusAreas.title} subtitle={t.focusAreas.subtitle}>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -156,14 +158,14 @@ export function InfrastructureView({ dict, locale }: PageProps) {
         </div>
       </Section>
       <CTABanner title={t.cta.title} description={t.cta.description} primaryLabel={t.cta.primaryLabel} primaryHref={localizedPath(locale, "/contact")} />
-    </>
+    </PageShell>
   );
 }
 
 export function TechnologyView({ dict, locale }: PageProps) {
   const t = dict.technology;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="technology" breadcrumbLabel={dict.nav.technology}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.focusAreas.title} subtitle={t.focusAreas.subtitle}>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -179,14 +181,14 @@ export function TechnologyView({ dict, locale }: PageProps) {
         </div>
       </Section>
       <CTABanner title={t.cta.title} description={t.cta.description} primaryLabel={t.cta.primaryLabel} primaryHref={localizedPath(locale, "/contact")} />
-    </>
+    </PageShell>
   );
 }
 
 export function ProjectsView({ dict, locale }: PageProps) {
   const t = dict.projects;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="projects" breadcrumbLabel={dict.nav.projects}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.categories.title} subtitle={t.categories.subtitle}>
         <div className="space-y-8">
@@ -228,14 +230,14 @@ export function ProjectsView({ dict, locale }: PageProps) {
         secondaryLabel={t.cta.secondaryLabel}
         secondaryHref={localizedPath(locale, "/contact")}
       />
-    </>
+    </PageShell>
   );
 }
 
 export function PartnershipsView({ dict, locale }: PageProps) {
   const t = dict.strategicPartnerships;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="strategic-partnerships" breadcrumbLabel={dict.nav.strategicPartnerships}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.objectives.title} subtitle={t.objectives.subtitle}>
         <div className="max-w-3xl mb-12">
@@ -273,14 +275,24 @@ export function PartnershipsView({ dict, locale }: PageProps) {
         </div>
       </Section>
       <CTABanner title={t.cta.title} description={t.cta.description} primaryLabel={t.cta.primaryLabel} primaryHref={localizedPath(locale, "/contact")} />
-    </>
+    </PageShell>
   );
 }
 
 export function InsightsView({ dict, locale }: PageProps) {
   const t = dict.insights;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="insights" breadcrumbLabel={dict.nav.insights}>
+      {t.topics.items.map((insight) => (
+        <ArticleJsonLd
+          key={insight.slug}
+          locale={locale}
+          title={insight.title}
+          description={insight.excerpt}
+          slug={insight.slug}
+          datePublished={insight.datePublished}
+        />
+      ))}
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.topics.title} subtitle={t.topics.subtitle}>
         <div className="flex flex-wrap gap-2 mb-12">
@@ -297,7 +309,11 @@ export function InsightsView({ dict, locale }: PageProps) {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {t.topics.items.map((insight) => (
-            <article key={insight.title} className="group border border-silver bg-white p-8 transition-shadow hover:shadow-lg">
+            <article
+              key={insight.slug}
+              id={insight.slug}
+              className="group border border-silver bg-white p-8 transition-shadow hover:shadow-lg"
+            >
               <div className="flex items-center gap-3 mb-4">
                 <span className="text-xs font-semibold uppercase tracking-wider text-energy">{insight.topic}</span>
                 <span className="text-xs text-steel/60">·</span>
@@ -326,14 +342,14 @@ export function InsightsView({ dict, locale }: PageProps) {
         secondaryLabel={t.cta.secondaryLabel}
         secondaryHref={localizedPath(locale, "/about")}
       />
-    </>
+    </PageShell>
   );
 }
 
-export function ContactView({ dict }: PageProps) {
+export function ContactView({ dict, locale }: PageProps) {
   const t = dict.contact;
   return (
-    <>
+    <PageShell locale={locale} dict={dict} slug="contact" breadcrumbLabel={dict.nav.contact}>
       <PageHero eyebrow={t.hero.eyebrow} title={t.hero.title} subtitle={t.hero.subtitle} />
       <Section title={t.section.title}>
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-12">
@@ -357,6 +373,6 @@ export function ContactView({ dict }: PageProps) {
           </div>
         </div>
       </Section>
-    </>
+    </PageShell>
   );
 }

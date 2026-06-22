@@ -86,8 +86,13 @@
   ],
   "home": {
     "meta": {
-      "title": "Hjem",
-      "description": "TVK Infrastructure & Energy Systems utvikler fremtidsrettede initiativer innen energi, infrastruktur, industrielle systemer og strategiske teknologier."
+      "title": "Infrastruktur- og energisystemer | TVK",
+      "description": "TVK Infrastructure & Energy Systems utvikler fremtidsrettede initiativer innen energi, infrastruktur, industri og strategiske teknologier. Fase: forskning, utvikling og oppbygging av partnerskap.",
+      "keywords": "infrastrukturselskap, energisystemer, industriteknologi, TVK Infrastructure, strategiske energipartnerskap",
+      "ogTitle": "Drive infrastruktur. Muliggjøre fremtiden. | TVK",
+      "ogDescription": "Utvikling av enterprise-infrastruktur og energisystemer — fornybar integrasjon, smart infrastruktur, industriell AI og strategiske partnerskap.",
+      "twitterTitle": "TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Initiativer innen infrastruktur, energi og industriteknologi — del av TVK Ecosystem."
     },
     "hero": {
       "eyebrow": "TVK Infrastructure & Energy Systems LTD",
@@ -138,8 +143,13 @@
   },
   "about": {
     "meta": {
-      "title": "Om oss",
-      "description": "Lær mer om TVK Infrastructure & Energy Systems — vårt oppdrag, vår visjon og vår langsiktige industrielle strategi."
+      "title": "Om TVK Infrastructure & Energy Systems",
+      "description": "Misjon, visjon og langsiktig industristategi for TVK Infrastructure & Energy Systems — ingeniørdrevet infrastruktur- og energiutvikling innen TVK Ecosystem.",
+      "keywords": "om TVK, infrastrukturstrategi, energiselskaps misjon, industriell utvikling",
+      "ogTitle": "Om TVK Infrastructure & Energy Systems",
+      "ogDescription": "Ingeniørkunst for infrastruktur og energis fremtid med langsiktig industristategi.",
+      "twitterTitle": "Om TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Misjon, visjon og langsiktig infrastruktur- og energistrategi."
     },
     "hero": {
       "eyebrow": "Om oss",
@@ -200,8 +210,13 @@
   },
   "energySystems": {
     "meta": {
-      "title": "Energisystemer",
-      "description": "Fornybar energi, energiintelligens, overvåking, optimalisering og industrielle energiløsninger."
+      "title": "Energisystemer og Energy Intelligence",
+      "description": "Integrasjon av fornybar energi, energiovervåking, optimalisering, industrielle energiløsninger og EnergieMIND-forskning hos TVK Infrastructure & Energy Systems.",
+      "keywords": "energisystemer, fornybar energi, Energy Intelligence, industriell energi, energiovervåking",
+      "ogTitle": "Energisystemer | TVK Infrastructure & Energy Systems",
+      "ogDescription": "Intelligente energirammer for industrielle miljøer — overvåking, optimalisering og fornybar integrasjon.",
+      "twitterTitle": "Energisystemer | TVK",
+      "twitterDescription": "Fornybar integrasjon, Energy Intelligence og industrielle energiløsninger."
     },
     "hero": {
       "eyebrow": "Kompetanseområder",
@@ -288,8 +303,13 @@
   },
   "infrastructure": {
     "meta": {
-      "title": "Infrastruktur",
-      "description": "Infrastrukturteknologier, smart infrastruktur, digitale systemer og utvikling av kritisk infrastruktur."
+      "title": "Infrastrukturteknologi og smart infrastruktur",
+      "description": "Smart infrastruktur, digital infrastruktur, resiliens for kritisk infrastruktur og fremtidige infrastrukturplattformer — TVK Infrastructure & Energy Systems.",
+      "keywords": "infrastrukturteknologi, smart infrastruktur, digital infrastruktur, kritisk infrastruktur",
+      "ogTitle": "Infrastrukturteknologi | TVK",
+      "ogDescription": "Avansert teknologi for smarte, digitale og resiliente infrastruktursystemer.",
+      "twitterTitle": "Infrastrukturteknologi | TVK",
+      "twitterDescription": "Utvikling av teknologi for smart, digital og kritisk infrastruktur."
     },
     "hero": {
       "eyebrow": "Kompetanseområder",
@@ -371,8 +391,13 @@
   },
   "technology": {
     "meta": {
-      "title": "Teknologi",
-      "description": "Industriell AI, infrastrukturanalyse, overvåkingssystemer, automatisering og forskning på energiintelligens."
+      "title": "Industriteknologi, AI og automatisering",
+      "description": "Industriell AI, infrastrukturanalyse, overvåkingssystemer, automatisering og Energy Intelligence-forskning hos TVK Infrastructure & Energy Systems.",
+      "keywords": "industriell AI, infrastrukturanalyse, automatisering, overvåkingssystemer, industriteknologi",
+      "ogTitle": "Teknologi og innovasjon | TVK",
+      "ogDescription": "Industriell AI, analyse, automatisering og intelligent overvåking for infrastruktur og energi.",
+      "twitterTitle": "Teknologi og innovasjon | TVK",
+      "twitterDescription": "Industriell AI, analyse og automatisering for infrastruktur og energi."
     },
     "hero": {
       "eyebrow": "Kompetanseområder",
@@ -458,8 +483,13 @@
   },
   "projects": {
     "meta": {
-      "title": "Prosjekter",
-      "description": "Energi-, infrastruktur-, industri- og forskningsinitiativer under utvikling hos TVK Infrastructure & Energy Systems."
+      "title": "Prosjekter og forskningsinitiativer under utvikling",
+      "description": "Energi-, infrastruktur-, industri- og forskningsinitiativer under utvikling hos TVK Infrastructure & Energy Systems. Transparente prosjektkategorier i utviklingsfasen.",
+      "keywords": "energiprosjekter, infrastrukturprosjekter, industrprosjekter, forskningsinitiativer, pilotprogrammer",
+      "ogTitle": "Prosjekter under utvikling | TVK",
+      "ogDescription": "Energi-, infrastruktur- og industriinitiativer i utviklingsfasen innen TVK Ecosystem.",
+      "twitterTitle": "Prosjekter | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Energi-, infrastruktur- og industriinitiativer under utvikling."
     },
     "hero": {
       "eyebrow": "Prosjekter",
@@ -541,8 +571,13 @@
   },
   "strategicPartnerships": {
     "meta": {
-      "title": "Strategiske partnerskap",
-      "description": "Søker samarbeid med energiselskaper, infrastrukturoperatører, industrigrupper og teknologileverandører."
+      "title": "Strategiske partnerskap og samarbeid",
+      "description": "TVK Infrastructure & Energy Systems søker strategiske partnerskap med energiselskaper, infrastrukturoperatører, industrigrupper og teknologileverandører.",
+      "keywords": "strategiske partnerskap, energisamarbeid, infrastrukturpartnerskap, industripartnerskap",
+      "ogTitle": "Strategiske partnerskap | TVK",
+      "ogDescription": "Samarbeid og pilotmuligheter med organisasjoner innen energi, infrastruktur og industri.",
+      "twitterTitle": "Strategiske partnerskap | TVK",
+      "twitterDescription": "Søker samarbeid med partnere innen energi, infrastruktur og industri."
     },
     "hero": {
       "eyebrow": "Partnerskap",
@@ -623,8 +658,13 @@
   },
   "insights": {
     "meta": {
-      "title": "Innsikt",
-      "description": "Perspektiver på energi, infrastruktur, industriell teknologi, AI-infrastruktur og ingeniørkunst fra TVK Infrastructure & Energy Systems."
+      "title": "Innsikt — energi, infrastruktur og industriteknologi",
+      "description": "Bransjeperspektiver om energi, infrastruktur, industriteknologi, AI-infrastruktur, bærekraft og ingeniørkunst fra TVK Infrastructure & Energy Systems.",
+      "keywords": "energiinnsikt, infrastrukturtrender, industriteknologi, ingeniørperspektiver",
+      "ogTitle": "Bransjeinnsikt | TVK Infrastructure & Energy Systems",
+      "ogDescription": "Thought leadership om energi, infrastruktur og industriteknologi.",
+      "twitterTitle": "Innsikt | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Forskningsperspektiver om energi, infrastruktur og industrielle systemer."
     },
     "hero": {
       "eyebrow": "Innsikt",
@@ -650,49 +690,65 @@
           "topic": "Energi",
           "title": "Utviklingen av industriell energistyring",
           "excerpt": "Hvordan intelligente energisystemer transformerer måten industriell drift overvåker, optimaliserer og strategiserer rundt energiforbruk.",
-          "date": "Utviklingsperspektiv"
+          "date": "Utviklingsperspektiv",
+          "slug": "insight-1",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Infrastruktur",
           "title": "Smart infrastruktur: Utover tilkobling",
           "excerpt": "Ekte smart infrastruktur går utover sensorer og nettverk — det krever integrert analyse, adaptiv styring og langsiktig systemtenkning.",
-          "date": "Forskningsnotat"
+          "date": "Forskningsnotat",
+          "slug": "insight-2",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Industriell teknologi",
           "title": "Industriell innovasjon i en transformasjonsøkonomi",
           "excerpt": "Industrisektoren står overfor enestående krav til effektivitet, bærekraft og teknologisk modernisering. Strategiske tilnærminger er avgjørende.",
-          "date": "Bransjeperspektiv"
+          "date": "Bransjeperspektiv",
+          "slug": "insight-3",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "AI-infrastruktur",
           "title": "Industriell AI: Krav for utrulling i virkeligheten",
           "excerpt": "Kunstig intelligens i industrielle miljøer krever en fundamentalt annen tilnærming enn forbruker- eller bedriftsprogramvare.",
-          "date": "Teknologibrief"
+          "date": "Teknologibrief",
+          "slug": "insight-4",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Digital transformasjon",
           "title": "Digital infrastruktur som industrielt fundament",
           "excerpt": "Digitale infrastrukturplattformer blir den operative ryggraden for moderne energisystemer og industrielle anlegg over hele verden.",
-          "date": "Utviklingsperspektiv"
+          "date": "Utviklingsperspektiv",
+          "slug": "insight-5",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Bærekraft",
           "title": "Bærekraftig drift i energi og infrastruktur",
           "excerpt": "Langsiktig bærekraft i energi og infrastruktur krever integrerte tilnærminger som balanserer miljøansvar med operasjonell ytelse.",
-          "date": "Forskningsnotat"
+          "date": "Forskningsnotat",
+          "slug": "insight-6",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Ingeniørkunst",
           "title": "Ingeniørmessig ekspertise i infrastrukturutvikling",
           "excerpt": "Infrastrukturprosjektene som varer, er bygget på ingeniørmessig presisjon, grundig planlegging og forpliktelse til operasjonell pålitelighet.",
-          "date": "Ingeniørperspektiv"
+          "date": "Ingeniørperspektiv",
+          "slug": "insight-7",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Energiintelligens",
           "title": "Fra energidata til strategisk intelligens",
           "excerpt": "Overgangen fra rå energidata til handlingsrettet intelligens representerer en av de mest betydningsfulle mulighetene i moderne energistyring.",
-          "date": "Teknologibrief"
+          "date": "Teknologibrief",
+          "slug": "insight-8",
+          "datePublished": "2026-01-15"
         }
       ]
     },
@@ -710,8 +766,13 @@
   },
   "contact": {
     "meta": {
-      "title": "Kontakt",
-      "description": "Kontakt TVK Infrastructure & Energy Systems for å diskutere infrastruktur- og energimuligheter."
+      "title": "Kontakt — infrastruktur- og energimuligheter",
+      "description": "Kontakt TVK Infrastructure & Energy Systems for å diskutere infrastruktur, energisystemer, industrielle løsninger og strategiske partnerskapsmuligheter.",
+      "keywords": "kontakt TVK, infrastrukturforespørsel, energipartnerskap kontakt, industrisamarbeid",
+      "ogTitle": "Kontakt TVK Infrastructure & Energy Systems",
+      "ogDescription": "Diskuter infrastruktur- og energimuligheter med TVK Infrastructure & Energy Systems.",
+      "twitterTitle": "Kontakt | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Ta kontakt om infrastruktur, energi og partnerskapsmuligheter."
     },
     "hero": {
       "eyebrow": "Kontakt",
@@ -773,5 +834,48 @@
       "message": "Beskriv din henvendelse, partnerskapsinteresse eller prosjektmulighet..."
     },
     "submit": "Diskuter infrastruktur- og energimuligheter"
+  },
+  "seo": {
+    "siteName": "TVK Infrastructure & Energy Systems",
+    "websiteDescription": "Enterprise-infrastruktur, energisystemer, industriteknologi og strategiske investeringsinitiativer innen TVK Ecosystem.",
+    "ogImageAlt": "TVK Infrastructure & Energy Systems — Drive infrastruktur. Muliggjøre fremtiden.",
+    "defaultKeywords": "infrastruktur, energisystemer, industriteknologi, smart infrastruktur, Energy Intelligence, TVK, strategiske partnerskap",
+    "breadcrumbAria": "Brødsmule-navigasjon",
+    "internalLinksTitle": "Utforsk infrastruktur- og energikapasiteter",
+    "legalDisclaimer": "TVK Infrastructure & Energy Systems LTD er i en fase med forskning, utvikling og oppbygging av partnerskap. Informasjon på dette nettstedet beskriver kapasitetsområder og utviklingsinitiativer — ikke operative prosjektforpliktelser. Del av TVK Ecosystem.",
+    "organization": {
+      "name": "TVK Infrastructure & Energy Systems",
+      "legalName": "TVK Infrastructure & Energy Systems LTD",
+      "description": "Selskap for infrastruktur, energi, industrielle systemer og strategiske teknologiinvesteringer innen TVK Ecosystem.",
+      "areaServed": "Verden over",
+      "knowsAbout": [
+        "Energisystemer",
+        "Infrastrukturteknologi",
+        "Industriell AI",
+        "Energy Intelligence",
+        "Strategiske partnerskap"
+      ],
+      "sameAs": [
+        "https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Hva gjør TVK Infrastructure & Energy Systems?",
+        "answer": "TVK Infrastructure & Energy Systems utvikler initiativer innen energisystemer, infrastrukturteknologi, industrielle løsninger, Energy Intelligence, AI-infrastruktur og strategiske investeringer innen TVK Ecosystem."
+      },
+      {
+        "question": "Hvilket stadium er selskapet i for øyeblikket?",
+        "answer": "Selskapet er i fasene forskning, utvikling, prosjektforming, oppbygging av strategiske partnerskap og pilotforberedelse."
+      },
+      {
+        "question": "Søker TVK Infrastructure & Energy Systems partnerskap?",
+        "answer": "Ja. Vi samarbeider aktivt med energiselskaper, infrastrukturoperatører, industrigrupper, teknologileverandører og ingeniørfirmaer om samarbeid og pilotmuligheter."
+      },
+      {
+        "question": "Er TVK Infrastructure & Energy Systems en del av et større økosystem?",
+        "answer": "Ja. TVK Infrastructure & Energy Systems er en del av det bredere TVK Ecosystem og integrerer teknologiske, industrielle og strategiske investeringsperspektiver."
+      }
+    ]
   }
 }

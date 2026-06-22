@@ -86,8 +86,13 @@
   ],
   "home": {
     "meta": {
-      "title": "ホーム",
-      "description": "TVK Infrastructure & Energy Systemsは、エネルギー、インフラ、産業システム、戦略的テクノロジー分野における将来志向のイニシアチブを推進しています。"
+      "title": "インフラストラクチャー＆エネルギーシステム | TVK",
+      "description": "TVK Infrastructure & Energy Systemsは、エネルギー、インフラ、産業・戦略的テクノロジー分野の将来志向イニシアチブを推進しています。研究・開発およびパートナーシップ構築段階。",
+      "keywords": "インフラ企業, エネルギーシステム, 産業技術, TVK Infrastructure, 戦略的エネルギーパートナーシップ",
+      "ogTitle": "インフラを支え、未来を拓く。 | TVK",
+      "ogDescription": "再生可能エネルギー統合、スマートインフラ、産業AI、戦略的パートナーシップにわたるエンタープライズインフラ・エネルギーシステム開発。",
+      "twitterTitle": "TVK Infrastructure & Energy Systems",
+      "twitterDescription": "インフラ、エネルギー、産業技術イニシアチブ — TVKエコシステムの一員。"
     },
     "hero": {
       "eyebrow": "TVK Infrastructure & Energy Systems LTD",
@@ -138,8 +143,13 @@
   },
   "about": {
     "meta": {
-      "title": "会社概要",
-      "description": "TVK Infrastructure & Energy Systemsのミッション、ビジョン、長期的な産業戦略についてご紹介します。"
+      "title": "TVK Infrastructure & Energy Systemsについて",
+      "description": "TVK Infrastructure & Energy Systemsのミッション、ビジョン、長期産業戦略 — TVKエコシステムにおけるエンジニアリング重視のインフラ・エネルギー開発。",
+      "keywords": "TVKについて, インフラ戦略, エネルギー企業ミッション, 産業開発",
+      "ogTitle": "TVK Infrastructure & Energy Systemsについて",
+      "ogDescription": "長期産業戦略によるインフラ・エネルギーの未来のエンジニアリング。",
+      "twitterTitle": "TVK Infrastructure & Energy Systemsについて",
+      "twitterDescription": "ミッション、ビジョン、長期インフラ・エネルギー戦略。"
     },
     "hero": {
       "eyebrow": "会社概要",
@@ -200,8 +210,13 @@
   },
   "energySystems": {
     "meta": {
-      "title": "エネルギーシステム",
-      "description": "再生可能エネルギー、エネルギーインテリジェンス、モニタリング、最適化、産業向けエネルギーソリューション。"
+      "title": "エネルギーシステム＆エネルギーインテリジェンス",
+      "description": "再生可能エネルギー統合、エネルギーモニタリング、最適化、産業エネルギーソリューション、EnergieMIND研究 — TVK Infrastructure & Energy Systems。",
+      "keywords": "エネルギーシステム, 再生可能エネルギー, エネルギーインテリジェンス, 産業エネルギー, エネルギーモニタリング",
+      "ogTitle": "エネルギーシステム | TVK Infrastructure & Energy Systems",
+      "ogDescription": "産業環境向けインテリジェントエネルギーフレームワーク — モニタリング、最適化、再生可能エネルギー統合。",
+      "twitterTitle": "エネルギーシステム | TVK",
+      "twitterDescription": "再生可能エネルギー統合、エネルギーインテリジェンス、産業エネルギーソリューション。"
     },
     "hero": {
       "eyebrow": "事業領域",
@@ -288,8 +303,13 @@
   },
   "infrastructure": {
     "meta": {
-      "title": "インフラ",
-      "description": "インフラテクノロジー、スマートインフラ、デジタルシステム、重要インフラ開発。"
+      "title": "インフラテクノロジー＆スマートインフラ",
+      "description": "スマートインフラ、デジタルインフラ、重要インフラのレジリエンス、将来型インフラプラットフォーム — TVK Infrastructure & Energy Systems。",
+      "keywords": "インフラテクノロジー, スマートインフラ, デジタルインフラ, 重要インフラ",
+      "ogTitle": "インフラテクノロジー | TVK",
+      "ogDescription": "スマート、デジタル、レジリエントなインフラシステムの技術推進。",
+      "twitterTitle": "インフラテクノロジー | TVK",
+      "twitterDescription": "スマート、デジタル、重要インフラテクノロジーの開発。"
     },
     "hero": {
       "eyebrow": "事業領域",
@@ -371,8 +391,13 @@
   },
   "technology": {
     "meta": {
-      "title": "テクノロジー",
-      "description": "産業AI、インフラ分析、モニタリングシステム、自動化、エネルギーインテリジェンス研究。"
+      "title": "産業技術、AI＆オートメーション",
+      "description": "産業AI、インフラアナリティクス、モニタリングシステム、オートメーション、エネルギーインテリジェンス研究 — TVK Infrastructure & Energy Systems。",
+      "keywords": "産業AI, インフラアナリティクス, オートメーション, モニタリングシステム, 産業技術",
+      "ogTitle": "テクノロジー＆イノベーション | TVK",
+      "ogDescription": "インフラ・エネルギー向け産業AI、アナリティクス、オートメーション、インテリジェントモニタリング。",
+      "twitterTitle": "テクノロジー＆イノベーション | TVK",
+      "twitterDescription": "インフラ・エネルギー向け産業AI、アナリティクス、オートメーション。"
     },
     "hero": {
       "eyebrow": "事業領域",
@@ -458,8 +483,13 @@
   },
   "projects": {
     "meta": {
-      "title": "プロジェクト",
-      "description": "TVK Infrastructure & Energy Systemsにおいて開発中のエネルギー、インフラ、産業、研究イニシアチブ。"
+      "title": "開発中のプロジェクト＆研究イニシアチブ",
+      "description": "TVK Infrastructure & Energy Systemsにおける開発段階のエネルギー、インフラ、産業、研究イニシアチブ。透明性のある開発段階プロジェクトカテゴリー。",
+      "keywords": "エネルギープロジェクト, インフラプロジェクト, 産業プロジェクト, 研究イニシアチブ, パイロットプログラム",
+      "ogTitle": "開発中のプロジェクト | TVK",
+      "ogDescription": "TVKエコシステム内の開発段階エネルギー、インフラ、産業イニシアチブ。",
+      "twitterTitle": "プロジェクト | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "開発中のエネルギー、インフラ、産業イニシアチブ。"
     },
     "hero": {
       "eyebrow": "プロジェクト",
@@ -541,8 +571,13 @@
   },
   "strategicPartnerships": {
     "meta": {
-      "title": "戦略的パートナーシップ",
-      "description": "エネルギー企業、インフラ事業者、産業グループ、テクノロジープロバイダーとの協業を求めています。"
+      "title": "戦略的パートナーシップ＆コラボレーション",
+      "description": "TVK Infrastructure & Energy Systemsは、エネルギー企業、インフラ事業者、産業グループ、テクノロジープロバイダーとの戦略的パートナーシップを求めています。",
+      "keywords": "戦略的パートナーシップ, エネルギーコラボレーション, インフラパートナーシップ, 産業パートナーシップ",
+      "ogTitle": "戦略的パートナーシップ | TVK",
+      "ogDescription": "エネルギー、インフラ、産業組織とのコラボレーションおよびパイロット機会。",
+      "twitterTitle": "戦略的パートナーシップ | TVK",
+      "twitterDescription": "エネルギー、インフラ、産業パートナーとのコラボレーションを求めています。"
     },
     "hero": {
       "eyebrow": "パートナーシップ",
@@ -623,8 +658,13 @@
   },
   "insights": {
     "meta": {
-      "title": "インサイト",
-      "description": "TVK Infrastructure & Energy Systemsによる、エネルギー、インフラ、産業テクノロジー、AIインフラ、エンジニアリングに関する視点。"
+      "title": "インサイト — エネルギー、インフラ＆産業技術",
+      "description": "TVK Infrastructure & Energy Systemsによるエネルギー、インフラ、産業技術、AIインフラ、サステナビリティ、エンジニアリングに関する業界視点。",
+      "keywords": "エネルギーインサイト, インフラトレンド, 産業技術, エンジニアリング視点",
+      "ogTitle": "業界インサイト | TVK Infrastructure & Energy Systems",
+      "ogDescription": "エネルギー、インフラ、産業技術に関するソートリーダーシップ。",
+      "twitterTitle": "インサイト | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "エネルギー、インフラ、産業システムに関する研究視点。"
     },
     "hero": {
       "eyebrow": "インサイト",
@@ -650,49 +690,65 @@
           "topic": "エネルギー",
           "title": "産業エネルギー管理の進化",
           "excerpt": "インテリジェントなエネルギーシステムが、産業オペレーションにおけるエネルギー消費のモニタリング、最適化、戦略立案の方法をいかに変革しているか。",
-          "date": "開発視点"
+          "date": "開発視点",
+          "slug": "insight-1",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "インフラ",
           "title": "スマートインフラ：接続性を超えて",
           "excerpt": "真のスマートインフラはセンサーとネットワークを超えます。統合分析、適応型管理、長期的なシステム思考が必要です。",
-          "date": "研究ノート"
+          "date": "研究ノート",
+          "slug": "insight-2",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "産業テクノロジー",
           "title": "変革する経済における産業イノベーション",
           "excerpt": "産業セクターは効率性、持続可能性、技術近代化に対する前例のない要求に直面しています。戦略的アプローチが重要です。",
-          "date": "業界視点"
+          "date": "業界視点",
+          "slug": "insight-3",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "AIインフラ",
           "title": "産業AI：実世界展開の要件",
           "excerpt": "産業環境における人工知能は、コンシューマーまたはエンタープライズソフトウェアとは根本的に異なるアプローチを必要とします。",
-          "date": "テクノロジーブリーフ"
+          "date": "テクノロジーブリーフ",
+          "slug": "insight-4",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "デジタルトランスフォーメーション",
           "title": "産業基盤としてのデジタルインフラ",
           "excerpt": "デジタルインフラプラットフォームは、世界の現代エネルギーシステムおよび産業施設のオペレーショナル基盤となりつつあります。",
-          "date": "開発視点"
+          "date": "開発視点",
+          "slug": "insight-5",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "持続可能性",
           "title": "エネルギー・インフラにおける持続可能なオペレーション",
           "excerpt": "エネルギーとインフラにおける長期的持続可能性には、環境責任とオペレーションパフォーマンスのバランスを取る統合的アプローチが必要です。",
-          "date": "研究ノート"
+          "date": "研究ノート",
+          "slug": "insight-6",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "エンジニアリング",
           "title": "インフラ開発におけるエンジニアリングの卓越性",
           "excerpt": "永続するインフラプロジェクトは、エンジニアリングの厳密さ、綿密な計画、オペレーション信頼性へのコミットメントの上に構築されます。",
-          "date": "エンジニアリング視点"
+          "date": "エンジニアリング視点",
+          "slug": "insight-7",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "エネルギーインテリジェンス",
           "title": "エネルギーデータから戦略的インテリジェンスへ",
           "excerpt": "生のエネルギーデータから実用的なインテリジェンスへの移行は、現代のエネルギー管理における最も重要な機会の一つです。",
-          "date": "テクノロジーブリーフ"
+          "date": "テクノロジーブリーフ",
+          "slug": "insight-8",
+          "datePublished": "2026-01-15"
         }
       ]
     },
@@ -710,8 +766,13 @@
   },
   "contact": {
     "meta": {
-      "title": "お問い合わせ",
-      "description": "インフラおよびエネルギー機会について、TVK Infrastructure & Energy Systemsにお問い合わせください。"
+      "title": "お問い合わせ — インフラ＆エネルギー機会",
+      "description": "インフラ、エネルギーシステム、産業ソリューション、戦略的パートナーシップの機会について、TVK Infrastructure & Energy Systemsにお問い合わせください。",
+      "keywords": "TVKお問い合わせ, インフラ問い合わせ, エネルギーパートナーシップ連絡, 産業コラボレーション",
+      "ogTitle": "TVK Infrastructure & Energy Systemsへのお問い合わせ",
+      "ogDescription": "TVK Infrastructure & Energy Systemsとインフラ・エネルギー機会についてご相談ください。",
+      "twitterTitle": "お問い合わせ | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "インフラ、エネルギー、パートナーシップの機会についてお問い合わせください。"
     },
     "hero": {
       "eyebrow": "お問い合わせ",
@@ -773,5 +834,48 @@
       "message": "お問い合わせ内容、パートナーシップへの関心、プロジェクト機会についてご記入ください..."
     },
     "submit": "インフラ・エネルギー機会について相談する"
+  },
+  "seo": {
+    "siteName": "TVK Infrastructure & Energy Systems",
+    "websiteDescription": "TVKエコシステムにおけるエンタープライズインフラ、エネルギーシステム、産業技術、戦略的投資イニシアチブ。",
+    "ogImageAlt": "TVK Infrastructure & Energy Systems — インフラを支え、未来を拓く。",
+    "defaultKeywords": "インフラ, エネルギーシステム, 産業技術, スマートインフラ, エネルギーインテリジェンス, TVK, 戦略的パートナーシップ",
+    "breadcrumbAria": "パンくずナビゲーション",
+    "internalLinksTitle": "インフラ＆エネルギー能力を探索",
+    "legalDisclaimer": "TVK Infrastructure & Energy Systems LTDは研究・開発・パートナーシップ構築段階にあります。本サイトの情報は能力領域と開発イニシアチブを説明するものであり、運用プロジェクトのコミットメントではありません。TVKエコシステムの一員。",
+    "organization": {
+      "name": "TVK Infrastructure & Energy Systems",
+      "legalName": "TVK Infrastructure & Energy Systems LTD",
+      "description": "TVKエコシステムにおけるインフラ、エネルギー、産業システム、戦略的テクノロジー投資企業。",
+      "sameAs": [
+        "https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems"
+      ],
+      "areaServed": "全世界",
+      "knowsAbout": [
+        "エネルギーシステム",
+        "インフラテクノロジー",
+        "産業AI",
+        "エネルギーインテリジェンス",
+        "戦略的パートナーシップ"
+      ]
+    },
+    "faq": [
+      {
+        "question": "TVK Infrastructure & Energy Systemsは何を行っていますか？",
+        "answer": "TVK Infrastructure & Energy Systemsは、TVKエコシステム内でエネルギーシステム、インフラテクノロジー、産業ソリューション、エネルギーインテリジェンス、AIインフラ、戦略的投資にわたるイニシアチブを推進しています。"
+      },
+      {
+        "question": "現在の会社の段階は？",
+        "answer": "研究、開発、プロジェクト形成、戦略的パートナーシップ開発、パイロット準備の段階にあります。"
+      },
+      {
+        "question": "TVK Infrastructure & Energy Systemsはパートナーシップを求めていますか？",
+        "answer": "はい。エネルギー企業、インフラ事業者、産業グループ、テクノロジープロバイダー、エンジニアリング企業とコラボレーションおよびパイロット機会のために積極的に関与しています。"
+      },
+      {
+        "question": "TVK Infrastructure & Energy Systemsはより大きなエコシステムの一部ですか？",
+        "answer": "はい。TVK Infrastructure & Energy SystemsはTVKエコシステムの一員であり、テクノロジー、産業、戦略的投資の視点を統合しています。"
+      }
+    ]
   }
 }

@@ -86,8 +86,13 @@
   ],
   "home": {
     "meta": {
-      "title": "Startseite",
-      "description": "TVK Infrastructure & Energy Systems entwickelt zukunftsorientierte Initiativen in den Bereichen Energie, Infrastruktur, Industriesysteme und strategische Technologien."
+      "title": "Infrastruktur- & Energiesysteme | TVK",
+      "description": "TVK Infrastructure & Energy Systems entwickelt zukunftsorientierte Initiativen in den Bereichen Energie, Infrastruktur, Industrie und strategische Technologien. Phase: Forschung, Entwicklung und Aufbau strategischer Partnerschaften.",
+      "keywords": "Infrastrukturunternehmen, Energiesysteme, Industrietechnologie, TVK Infrastructure, strategische Energiepartnerschaften",
+      "ogTitle": "Infrastruktur antreiben. Die Zukunft ermöglichen. | TVK",
+      "ogDescription": "Unternehmensentwicklung von Infrastruktur- und Energiesystemen — erneuerbare Integration, intelligente Infrastruktur, industrielle KI und strategische Partnerschaften.",
+      "twitterTitle": "TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Initiativen in Infrastruktur, Energie und Industrietechnologie — Teil des TVK Ecosystem."
     },
     "hero": {
       "eyebrow": "TVK Infrastructure & Energy Systems LTD",
@@ -138,8 +143,13 @@
   },
   "about": {
     "meta": {
-      "title": "Über uns",
-      "description": "Erfahren Sie mehr über TVK Infrastructure & Energy Systems — unsere Mission, Vision und langfristige Industriestrategie."
+      "title": "Über TVK Infrastructure & Energy Systems",
+      "description": "Mission, Vision und langfristige Industriestrategie von TVK Infrastructure & Energy Systems — ingenieurorientierte Infrastruktur- und Energieentwicklung innerhalb des TVK Ecosystem.",
+      "keywords": "über TVK, Infrastrukturstrategie, Energieunternehmen Mission, industrielle Entwicklung",
+      "ogTitle": "Über TVK Infrastructure & Energy Systems",
+      "ogDescription": "Die Zukunft von Infrastruktur und Energie gestalten — mit langfristiger Industriestrategie.",
+      "twitterTitle": "Über TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Mission, Vision und langfristige Infrastruktur- & Energiestrategie."
     },
     "hero": {
       "eyebrow": "Über uns",
@@ -200,8 +210,13 @@
   },
   "energySystems": {
     "meta": {
-      "title": "Energiesysteme",
-      "description": "Erneuerbare Energien, Energy Intelligence, Überwachung, Optimierung und industrielle Energielösungen."
+      "title": "Energiesysteme & Energy Intelligence",
+      "description": "Integration erneuerbarer Energien, Energieüberwachung, Optimierung, industrielle Energielösungen und EnergieMIND-Forschung bei TVK Infrastructure & Energy Systems.",
+      "keywords": "Energiesysteme, erneuerbare Energie, Energy Intelligence, industrielle Energie, Energieüberwachung",
+      "ogTitle": "Energiesysteme | TVK Infrastructure & Energy Systems",
+      "ogDescription": "Intelligente Energierahmenwerke für industrielle Umgebungen — Überwachung, Optimierung und Integration erneuerbarer Energien.",
+      "twitterTitle": "Energiesysteme | TVK",
+      "twitterDescription": "Integration erneuerbarer Energien, Energy Intelligence und industrielle Energielösungen."
     },
     "hero": {
       "eyebrow": "Kompetenzen",
@@ -288,8 +303,13 @@
   },
   "infrastructure": {
     "meta": {
-      "title": "Infrastruktur",
-      "description": "Infrastrukturtechnologien, intelligente Infrastruktur, digitale Systeme und Entwicklung kritischer Infrastruktur."
+      "title": "Infrastrukturtechnologien & intelligente Infrastruktur",
+      "description": "Intelligente Infrastruktur, digitale Infrastruktur, Resilienz kritischer Infrastruktur und zukünftige Infrastrukturplattformen — TVK Infrastructure & Energy Systems.",
+      "keywords": "Infrastrukturtechnologie, intelligente Infrastruktur, digitale Infrastruktur, kritische Infrastruktur",
+      "ogTitle": "Infrastrukturtechnologien | TVK",
+      "ogDescription": "Fortschrittliche Technologien für intelligente, digitale und resiliente Infrastruktursysteme.",
+      "twitterTitle": "Infrastrukturtechnologien | TVK",
+      "twitterDescription": "Entwicklung von Technologien für intelligente, digitale und kritische Infrastruktur."
     },
     "hero": {
       "eyebrow": "Kompetenzen",
@@ -371,8 +391,13 @@
   },
   "technology": {
     "meta": {
-      "title": "Technologie",
-      "description": "Industrielle KI, Infrastrukturanalytik, Überwachungssysteme, Automatisierung und Energy-Intelligence-Forschung."
+      "title": "Industrietechnologie, KI & Automatisierung",
+      "description": "Industrielle KI, Infrastrukturanalytik, Überwachungssysteme, Automatisierung und Energy-Intelligence-Forschung bei TVK Infrastructure & Energy Systems.",
+      "keywords": "industrielle KI, Infrastrukturanalytik, Automatisierung, Überwachungssysteme, Industrietechnologie",
+      "ogTitle": "Technologie & Innovation | TVK",
+      "ogDescription": "Industrielle KI, Analytik, Automatisierung und intelligente Überwachung für Infrastruktur und Energie.",
+      "twitterTitle": "Technologie & Innovation | TVK",
+      "twitterDescription": "Industrielle KI, Analytik und Automatisierung für Infrastruktur und Energie."
     },
     "hero": {
       "eyebrow": "Kompetenzen",
@@ -458,8 +483,13 @@
   },
   "projects": {
     "meta": {
-      "title": "Projekte",
-      "description": "Energie-, Infrastruktur-, Industrie- und Forschungsinitiativen in Entwicklung bei TVK Infrastructure & Energy Systems."
+      "title": "Projekte & Forschungsinitiativen in Entwicklung",
+      "description": "Energie-, Infrastruktur-, Industrie- und Forschungsinitiativen in Entwicklung bei TVK Infrastructure & Energy Systems. Transparente Projekt-Kategorien in der Entwicklungsphase.",
+      "keywords": "Energieprojekte, Infrastrukturprojekte, Industrieprojekte, Forschungsinitiativen, Pilotprogramme",
+      "ogTitle": "Projekte in Entwicklung | TVK",
+      "ogDescription": "Energie-, Infrastruktur- und Industrieinitiativen in der Entwicklungsphase innerhalb des TVK Ecosystem.",
+      "twitterTitle": "Projekte | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Energie-, Infrastruktur- und Industrieinitiativen in Entwicklung."
     },
     "hero": {
       "eyebrow": "Projekte",
@@ -541,8 +571,13 @@
   },
   "strategicPartnerships": {
     "meta": {
-      "title": "Strategische Partnerschaften",
-      "description": "Suche nach Zusammenarbeit mit Energieunternehmen, Infrastrukturbetreibern, Industriekonzernen und Technologieanbietern."
+      "title": "Strategische Partnerschaften & Zusammenarbeit",
+      "description": "TVK Infrastructure & Energy Systems sucht strategische Partnerschaften mit Energieunternehmen, Infrastrukturbetreibern, Industriekonzernen und Technologieanbietern.",
+      "keywords": "strategische Partnerschaften, Energiezusammenarbeit, Infrastrukturpartnerschaften, Industriepartnerschaften",
+      "ogTitle": "Strategische Partnerschaften | TVK",
+      "ogDescription": "Zusammenarbeit und Pilotmöglichkeiten mit Organisationen aus Energie, Infrastruktur und Industrie.",
+      "twitterTitle": "Strategische Partnerschaften | TVK",
+      "twitterDescription": "Suche nach Zusammenarbeit mit Partnern aus Energie, Infrastruktur und Industrie."
     },
     "hero": {
       "eyebrow": "Partnerschaften",
@@ -623,8 +658,13 @@
   },
   "insights": {
     "meta": {
-      "title": "Einblicke",
-      "description": "Perspektiven zu Energie, Infrastruktur, Industrietechnologie, KI-Infrastruktur und Ingenieurwesen von TVK Infrastructure & Energy Systems."
+      "title": "Einblicke — Energie, Infrastruktur & Industrietechnologie",
+      "description": "Branchenperspektiven zu Energie, Infrastruktur, Industrietechnologie, KI-Infrastruktur, Nachhaltigkeit und Ingenieurwesen von TVK Infrastructure & Energy Systems.",
+      "keywords": "Energieeinblicke, Infrastrukturtrends, Industrietechnologie, Ingenieurperspektiven",
+      "ogTitle": "Brancheneinblicke | TVK Infrastructure & Energy Systems",
+      "ogDescription": "Thought Leadership zu Energie, Infrastruktur und Industrietechnologie.",
+      "twitterTitle": "Einblicke | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Forschungsperspektiven zu Energie, Infrastruktur und Industriesystemen."
     },
     "hero": {
       "eyebrow": "Einblicke",
@@ -650,49 +690,65 @@
           "topic": "Energie",
           "title": "Die Evolution des industriellen Energiemanagements",
           "excerpt": "Wie intelligente Energiesysteme die Art und Weise verändern, wie industrielle Betriebe Energieverbrauch überwachen, optimieren und strategisch planen.",
-          "date": "Entwicklungsperspektive"
+          "date": "Entwicklungsperspektive",
+          "slug": "insight-1",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Infrastruktur",
           "title": "Intelligente Infrastruktur: Jenseits der Konnektivität",
           "excerpt": "Echte intelligente Infrastruktur geht über Sensoren und Netzwerke hinaus — sie erfordert integrierte Analytik, adaptives Management und langfristiges Systemdenken.",
-          "date": "Forschungsnotiz"
+          "date": "Forschungsnotiz",
+          "slug": "insight-2",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Industrietechnologie",
           "title": "Industrielle Innovation in einer sich wandelnden Wirtschaft",
           "excerpt": "Der Industriesektor steht vor beispiellosen Anforderungen an Effizienz, Nachhaltigkeit und technologische Modernisierung. Strategische Ansätze sind entscheidend.",
-          "date": "Branchenperspektive"
+          "date": "Branchenperspektive",
+          "slug": "insight-3",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "KI-Infrastruktur",
           "title": "Industrielle KI: Anforderungen für den Einsatz in der Praxis",
           "excerpt": "Künstliche Intelligenz in industriellen Umgebungen erfordert einen grundlegend anderen Ansatz als Consumer- oder Enterprise-Softwareanwendungen.",
-          "date": "Technologie-Briefing"
+          "date": "Technologie-Briefing",
+          "slug": "insight-4",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Digitale Transformation",
           "title": "Digitale Infrastruktur als industrielle Grundlage",
           "excerpt": "Digitale Infrastrukturplattformen werden weltweit zum operativen Rückgrat moderner Energiesysteme und Industrieanlagen.",
-          "date": "Entwicklungsperspektive"
+          "date": "Entwicklungsperspektive",
+          "slug": "insight-5",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Nachhaltigkeit",
           "title": "Nachhaltiger Betrieb in Energie & Infrastruktur",
           "excerpt": "Langfristige Nachhaltigkeit in Energie und Infrastruktur erfordert integrierte Ansätze, die Umweltverantwortung und operative Leistung in Einklang bringen.",
-          "date": "Forschungsnotiz"
+          "date": "Forschungsnotiz",
+          "slug": "insight-6",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Ingenieurwesen",
           "title": "Ingenieurkompetenz in der Infrastrukturentwicklung",
           "excerpt": "Infrastrukturprojekte, die Bestand haben, basieren auf ingenieurtechnischer Präzision, gründlicher Planung und dem Engagement für operative Zuverlässigkeit.",
-          "date": "Ingenieurperspektive"
+          "date": "Ingenieurperspektive",
+          "slug": "insight-7",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Energy Intelligence",
           "title": "Von Energiedaten zu strategischer Intelligence",
           "excerpt": "Der Übergang von rohen Energiedaten zu umsetzbarer Intelligence stellt eine der bedeutendsten Chancen im modernen Energiemanagement dar.",
-          "date": "Technologie-Briefing"
+          "date": "Technologie-Briefing",
+          "slug": "insight-8",
+          "datePublished": "2026-01-15"
         }
       ]
     },
@@ -710,8 +766,13 @@
   },
   "contact": {
     "meta": {
-      "title": "Kontakt",
-      "description": "Kontaktieren Sie TVK Infrastructure & Energy Systems, um Infrastruktur- und Energiemöglichkeiten zu besprechen."
+      "title": "Kontakt — Infrastruktur- & Energiemöglichkeiten",
+      "description": "Kontaktieren Sie TVK Infrastructure & Energy Systems, um Infrastruktur, Energiesysteme, industrielle Lösungen und strategische Partnerschaftsmöglichkeiten zu besprechen.",
+      "keywords": "TVK kontaktieren, Infrastrukturanfrage, Energiepartnerschaft Kontakt, industrielle Zusammenarbeit",
+      "ogTitle": "Kontakt TVK Infrastructure & Energy Systems",
+      "ogDescription": "Besprechen Sie Infrastruktur- und Energiemöglichkeiten mit TVK Infrastructure & Energy Systems.",
+      "twitterTitle": "Kontakt | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Kontakt aufnehmen zu Infrastruktur, Energie und Partnerschaftsmöglichkeiten."
     },
     "hero": {
       "eyebrow": "Kontakt",
@@ -773,5 +834,48 @@
       "message": "Beschreiben Sie Ihre Anfrage, Partnerschaftsinteresse oder Projektchance..."
     },
     "submit": "Infrastruktur- & Energiemöglichkeiten besprechen"
+  },
+  "seo": {
+    "siteName": "TVK Infrastructure & Energy Systems",
+    "websiteDescription": "Unternehmensinfrastruktur, Energiesysteme, Industrietechnologie und strategische Investitionsinitiativen innerhalb des TVK Ecosystem.",
+    "ogImageAlt": "TVK Infrastructure & Energy Systems — Infrastruktur antreiben. Die Zukunft ermöglichen.",
+    "defaultKeywords": "Infrastruktur, Energiesysteme, Industrietechnologie, intelligente Infrastruktur, Energy Intelligence, TVK, strategische Partnerschaften",
+    "breadcrumbAria": "Brotkrumen-Navigation",
+    "internalLinksTitle": "Infrastruktur- & Energiekompetenzen entdecken",
+    "legalDisclaimer": "TVK Infrastructure & Energy Systems LTD befindet sich in einer Phase der Forschung, Entwicklung und des Aufbaus strategischer Partnerschaften. Die Informationen auf dieser Website beschreiben Kompetenzbereiche und Entwicklungsinitiativen — keine operativen Projektverpflichtungen. Teil des TVK Ecosystem.",
+    "organization": {
+      "name": "TVK Infrastructure & Energy Systems",
+      "legalName": "TVK Infrastructure & Energy Systems LTD",
+      "description": "Unternehmen für Infrastruktur, Energie, Industriesysteme und strategische Technologieinvestitionen innerhalb des TVK Ecosystem.",
+      "areaServed": "Weltweit",
+      "knowsAbout": [
+        "Energiesysteme",
+        "Infrastrukturtechnologien",
+        "Industrielle KI",
+        "Energy Intelligence",
+        "Strategische Partnerschaften"
+      ],
+      "sameAs": [
+        "https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Was macht TVK Infrastructure & Energy Systems?",
+        "answer": "TVK Infrastructure & Energy Systems entwickelt Initiativen in den Bereichen Energiesysteme, Infrastrukturtechnologien, industrielle Lösungen, Energy Intelligence, KI-Infrastruktur und strategische Investitionen innerhalb des TVK Ecosystem."
+      },
+      {
+        "question": "In welcher Phase befindet sich das Unternehmen derzeit?",
+        "answer": "Das Unternehmen befindet sich in den Phasen Forschung, Entwicklung, Projektentwicklung, Aufbau strategischer Partnerschaften und Pilotvorbereitung."
+      },
+      {
+        "question": "Sucht TVK Infrastructure & Energy Systems Partnerschaften?",
+        "answer": "Ja. Wir arbeiten aktiv mit Energieunternehmen, Infrastrukturbetreibern, Industriekonzernen, Technologieanbietern und Ingenieurbüros an Zusammenarbeit und Pilotmöglichkeiten."
+      },
+      {
+        "question": "Ist TVK Infrastructure & Energy Systems Teil eines größeren Ecosystem?",
+        "answer": "Ja. TVK Infrastructure & Energy Systems ist Teil des breiteren TVK Ecosystem und vereint Technologie-, Industrie- und strategische Investitionsperspektiven."
+      }
+    ]
   }
 }

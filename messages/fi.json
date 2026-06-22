@@ -86,8 +86,13 @@
   ],
   "home": {
     "meta": {
-      "title": "Etusivu",
-      "description": "TVK Infrastructure & Energy Systems kehittää tulevaisuuteen suuntautuneita aloitteita energian, infrastruktuurin, teollisuusjärjestelmien ja strategisten teknologioiden alueilla."
+      "title": "Infrastruktuuri- ja energiajärjestelmät | TVK",
+      "description": "TVK Infrastructure & Energy Systems kehittää tulevaisuuteen suuntautuneita aloitteita energiassa, infrastruktuurissa, teollisuudessa ja strategisissa teknologioissa. Vaihe: tutkimus, kehitys ja kumppanuuksien rakentaminen.",
+      "keywords": "infrastruktuuriyritys, energiajärjestelmät, teollisuusteknologia, TVK Infrastructure, strategiset energiakumppanuudet",
+      "ogTitle": "Infrastruktuurin voimanlähteenä. Tulevaisuuden mahdollistajana. | TVK",
+      "ogDescription": "Yritysinfrastruktuurin ja energiajärjestelmien kehitys — uusiutuvan integraatio, älykäs infrastruktuuri, teollinen AI ja strategiset kumppanuudet.",
+      "twitterTitle": "TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Aloitteita infrastruktuurissa, energiassa ja teollisuusteknologiassa — osa TVK Ecosystemia."
     },
     "hero": {
       "eyebrow": "TVK Infrastructure & Energy Systems LTD",
@@ -138,8 +143,13 @@
   },
   "about": {
     "meta": {
-      "title": "Tietoa meistä",
-      "description": "Tutustu TVK Infrastructure & Energy Systems -yhtiöön — tehtäväämme, visioomme ja pitkän aikavälin teollista strategiaamme."
+      "title": "Tietoa TVK Infrastructure & Energy Systemsistä",
+      "description": "TVK Infrastructure & Energy Systemsin missio, visio ja pitkän aikavälin teollisuusstrategia — insinöörikeskeinen infrastruktuuri- ja energiakehitys TVK Ecosystemin puitteissa.",
+      "keywords": "tietoa TVK, infrastruktuuristrategia, energiayhtiön missio, teollinen kehitys",
+      "ogTitle": "Tietoa TVK Infrastructure & Energy Systemsistä",
+      "ogDescription": "Infrastruktuurin ja energian tulevaisuuden suunnittelu pitkän aikavälin teollisuusstrategialla.",
+      "twitterTitle": "Tietoa TVK Infrastructure & Energy Systemsistä",
+      "twitterDescription": "Missio, visio ja pitkän aikavälin infrastruktuuri- ja energiastrategia."
     },
     "hero": {
       "eyebrow": "Tietoa meistä",
@@ -200,8 +210,13 @@
   },
   "energySystems": {
     "meta": {
-      "title": "Energiarjestelmät",
-      "description": "Uusiutuva energia, energiatiedustelu, seuranta, optimointi ja teolliset energiaratkaisut."
+      "title": "Energiajärjestelmät ja Energy Intelligence",
+      "description": "Uusiutuvan energian integrointi, energian seuranta, optimointi, teolliset energiaratkaisut ja EnergieMIND-tutkimus TVK Infrastructure & Energy Systemsissä.",
+      "keywords": "energiajärjestelmät, uusiutuva energia, Energy Intelligence, teollinen energia, energian seuranta",
+      "ogTitle": "Energiajärjestelmät | TVK Infrastructure & Energy Systems",
+      "ogDescription": "Älykkäät energiakehykset teollisiin ympäristöihin — seuranta, optimointi ja uusiutuvan integrointi.",
+      "twitterTitle": "Energiajärjestelmät | TVK",
+      "twitterDescription": "Uusiutuvan integrointi, Energy Intelligence ja teolliset energiaratkaisut."
     },
     "hero": {
       "eyebrow": "Osaamisalueet",
@@ -288,8 +303,13 @@
   },
   "infrastructure": {
     "meta": {
-      "title": "Infrastruktuuri",
-      "description": "Infrastruktuuriteknologiat, älykäs infrastruktuuri, digitaaliset järjestelmät ja kriittisen infrastruktuurin kehitys."
+      "title": "Infrastruktuuriteknologiat ja älykäs infrastruktuuri",
+      "description": "Älykäs infrastruktuuri, digitaalinen infrastruktuuri, kriittisen infrastruktuurin resilienssi ja tulevaisuuden infrastruktuurialustat — TVK Infrastructure & Energy Systems.",
+      "keywords": "infrastruktuuriteknologia, älykäs infrastruktuuri, digitaalinen infrastruktuuri, kriittinen infrastruktuuri",
+      "ogTitle": "Infrastruktuuriteknologiat | TVK",
+      "ogDescription": "Edistyneitä teknologioita älykkäisiin, digitaalisiin ja resilienssiin infrastruktuurijärjestelmiin.",
+      "twitterTitle": "Infrastruktuuriteknologiat | TVK",
+      "twitterDescription": "Teknologioiden kehitys älykkääseen, digitaaliseen ja kriittiseen infrastruktuuriin."
     },
     "hero": {
       "eyebrow": "Osaamisalueet",
@@ -371,8 +391,13 @@
   },
   "technology": {
     "meta": {
-      "title": "Teknologia",
-      "description": "Teollinen tekoäly, infrastruktuurianalytiikka, seurantajärjestelmät, automaatio ja energiatiedustelun tutkimus."
+      "title": "Teollisuusteknologia, AI ja automaatio",
+      "description": "Teollinen AI, infrastruktuurianalytiikka, seurantajärjestelmät, automaatio ja Energy Intelligence -tutkimus TVK Infrastructure & Energy Systemsissä.",
+      "keywords": "teollinen AI, infrastruktuurianalytiikka, automaatio, seurantajärjestelmät, teollisuusteknologia",
+      "ogTitle": "Teknologia ja innovaatio | TVK",
+      "ogDescription": "Teollinen AI, analytiikka, automaatio ja älykäs seuranta infrastruktuurille ja energialle.",
+      "twitterTitle": "Teknologia ja innovaatio | TVK",
+      "twitterDescription": "Teollinen AI, analytiikka ja automaatio infrastruktuurille ja energialle."
     },
     "hero": {
       "eyebrow": "Osaamisalueet",
@@ -458,8 +483,13 @@
   },
   "projects": {
     "meta": {
-      "title": "Hankkeet",
-      "description": "Energia-, infrastruktuuri-, teollisuus- ja tutkimusaloitteet kehityksessä TVK Infrastructure & Energy Systems -yhtiössä."
+      "title": "Kehityksessä olevat projektit ja tutkimusaloitteet",
+      "description": "Energia-, infrastruktuuri-, teollisuus- ja tutkimusaloitteet kehityksessä TVK Infrastructure & Energy Systemsissä. Läpinäkyvät projektiluokat kehitysvaiheessa.",
+      "keywords": "energiaprojektit, infrastruktuuriprojektit, teollisuusprojektit, tutkimusaloitteet, pilottiohjelmat",
+      "ogTitle": "Kehityksessä olevat projektit | TVK",
+      "ogDescription": "Energia-, infrastruktuuri- ja teollisuusaloitteet kehitysvaiheessa TVK Ecosystemin puitteissa.",
+      "twitterTitle": "Projektit | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Energia-, infrastruktuuri- ja teollisuusaloitteet kehityksessä."
     },
     "hero": {
       "eyebrow": "Hankkeet",
@@ -541,8 +571,13 @@
   },
   "strategicPartnerships": {
     "meta": {
-      "title": "Strategiset kumppanuudet",
-      "description": "Etsimme yhteistyötä energiayhtiöiden, infrastruktuurin operaattoreiden, teollisuusryhmien ja teknologiatoimittajien kanssa."
+      "title": "Strategiset kumppanuudet ja yhteistyö",
+      "description": "TVK Infrastructure & Energy Systems etsii strategisia kumppanuuksia energiayhtiöiden, infrastruktuurin operaattoreiden, teollisuusryhmien ja teknologiatoimittajien kanssa.",
+      "keywords": "strategiset kumppanuudet, energiayhteistyö, infrastruktuurikumppanuudet, teollisuuskumppanuudet",
+      "ogTitle": "Strategiset kumppanuudet | TVK",
+      "ogDescription": "Yhteistyö- ja pilottimahdollisuudet energian, infrastruktuurin ja teollisuuden organisaatioiden kanssa.",
+      "twitterTitle": "Strategiset kumppanuudet | TVK",
+      "twitterDescription": "Etsimme yhteistyötä energian, infrastruktuurin ja teollisuuden kumppaneiden kanssa."
     },
     "hero": {
       "eyebrow": "Kumppanuudet",
@@ -623,8 +658,13 @@
   },
   "insights": {
     "meta": {
-      "title": "Näkemykset",
-      "description": "Näkökulmia energiaan, infrastruktuuriin, teolliseen teknologiaan, tekoälyinfrastruktuuriin ja insinööritaitoon TVK Infrastructure & Energy Systems -yhtiöltä."
+      "title": "Näkökulmia — energia, infrastruktuuri ja teollisuusteknologia",
+      "description": "Toimialan näkökulmia energiasta, infrastruktuurista, teollisuusteknologiasta, AI-infrastruktuurista, kestävyydestä ja insinööritieteestä TVK Infrastructure & Energy Systemsiltä.",
+      "keywords": "energianäkökulmat, infrastruktuuritrendit, teollisuusteknologia, insinöörinäkökulmat",
+      "ogTitle": "Toimialan näkökulmia | TVK Infrastructure & Energy Systems",
+      "ogDescription": "Thought leadership energiasta, infrastruktuurista ja teollisuusteknologiasta.",
+      "twitterTitle": "Näkökulmia | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Tutkimusnäkökulmia energiasta, infrastruktuurista ja teollisista järjestelmistä."
     },
     "hero": {
       "eyebrow": "Näkemykset",
@@ -650,49 +690,65 @@
           "topic": "Energia",
           "title": "Teollisen energianhallinnan kehitys",
           "excerpt": "Miten älykkäät energiajärjestelmät muuttavat tapaa, jolla teollinen toiminta seuraa, optimoi ja strategisoi energiankulutusta.",
-          "date": "Kehitysnäkökulma"
+          "date": "Kehitysnäkökulma",
+          "slug": "insight-1",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Infrastruktuuri",
           "title": "Älykäs infrastruktuuri: Yhteyksien tuolla puolen",
           "excerpt": "Todellinen älykäs infrastruktuuri ulottuu antureiden ja verkkojen ulkopuolelle — se vaatii integroitua analytiikkaa, adaptiivista hallintaa ja pitkän aikavälin järjestelmäajattelua.",
-          "date": "Tutkimusmuistiinpano"
+          "date": "Tutkimusmuistiinpano",
+          "slug": "insight-2",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Teollinen teknologia",
           "title": "Teollinen innovaatio muuttuvassa taloudessa",
           "excerpt": "Teollisuussektori kohtaa ennennäkemättömiä vaatimuksia tehokkuudelle, kestävyydelle ja teknologiselle modernisoinnille. Strategiset lähestymistavat ovat ratkaisevia.",
-          "date": "Toimialan näkökulma"
+          "date": "Toimialan näkökulma",
+          "slug": "insight-3",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Tekoälyinfrastruktuuri",
           "title": "Teollinen tekoäly: Vaatimukset todellisen käyttöönoton osalta",
           "excerpt": "Tekoäly teollisissa ympäristöissä vaatii perustavanlaatuisesti erilaisen lähestymistavan kuin kuluttaja- tai yritysohjelmistosovellukset.",
-          "date": "Teknologiakatsaus"
+          "date": "Teknologiakatsaus",
+          "slug": "insight-4",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Digitaalinen transformaatio",
           "title": "Digitaalinen infrastruktuuri teollisena perustana",
           "excerpt": "Digitaaliset infrastruktuurialustat ovat muodostumassa modernien energiajärjestelmien ja teollisuuslaitosten operatiiviseksi selkärangaksi maailmanlaajuisesti.",
-          "date": "Kehitysnäkökulma"
+          "date": "Kehitysnäkökulma",
+          "slug": "insight-5",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Kestävyys",
           "title": "Kestävä toiminta energiassa ja infrastruktuurissa",
           "excerpt": "Pitkän aikavälin kestävyys energiassa ja infrastruktuurissa vaatii integroituja lähestymistapoja, jotka tasapainottavat ympäristövastuun operatiivisen suorituskyvyn kanssa.",
-          "date": "Tutkimusmuistiinpano"
+          "date": "Tutkimusmuistiinpano",
+          "slug": "insight-6",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Insinööritaito",
           "title": "Insinöörimäinen erinomaisuus infrastruktuurin kehittämisessä",
           "excerpt": "Infrastruktuurihankkeet, jotka kestävät aikaa, rakentuvat insinöörimäiselle tarkkuudelle, perusteelliselle suunnittelulle ja sitoutumiselle operatiiviselle luotettavuudelle.",
-          "date": "Insinöörinäkökulma"
+          "date": "Insinöörinäkökulma",
+          "slug": "insight-7",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "Energiatiedustelu",
           "title": "Energiadatasta strategiseen tiedusteluun",
           "excerpt": "Siirtymä raa'asta energiadatasta toimintakelpoiseen tiedusteluun edustaa yhtä merkittävimmistä mahdollisuuksista modernissa energianhallinnassa.",
-          "date": "Teknologiakatsaus"
+          "date": "Teknologiakatsaus",
+          "slug": "insight-8",
+          "datePublished": "2026-01-15"
         }
       ]
     },
@@ -710,8 +766,13 @@
   },
   "contact": {
     "meta": {
-      "title": "Yhteystiedot",
-      "description": "Ota yhteyttä TVK Infrastructure & Energy Systems -yhtiöön keskustellaksesi infrastruktuuri- ja energiamahdollisuuksista."
+      "title": "Yhteystiedot — infrastruktuuri- ja energiamahdollisuudet",
+      "description": "Ota yhteyttä TVK Infrastructure & Energy Systemsiin keskustellaksesi infrastruktuurista, energiajärjestelmistä, teollisista ratkaisuista ja strategisista kumppanuusmahdollisuuksista.",
+      "keywords": "yhteys TVK, infrastruktuurikysely, energiakumppanuus yhteystiedot, teollinen yhteistyö",
+      "ogTitle": "Yhteystiedot TVK Infrastructure & Energy Systems",
+      "ogDescription": "Keskustele infrastruktuuri- ja energiamahdollisuuksista TVK Infrastructure & Energy Systemsin kanssa.",
+      "twitterTitle": "Yhteystiedot | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "Ota yhteyttä infrastruktuurista, energiasta ja kumppanuusmahdollisuuksista."
     },
     "hero": {
       "eyebrow": "Yhteystiedot",
@@ -773,5 +834,48 @@
       "message": "Kuvaile tiedusteluasi, kumppanuuskiinnostustasi tai hankemahdollisuutta..."
     },
     "submit": "Keskustele infrastruktuuri- ja energiamahdollisuuksista"
+  },
+  "seo": {
+    "siteName": "TVK Infrastructure & Energy Systems",
+    "websiteDescription": "Yritysinfrastruktuuri, energiajärjestelmät, teollisuusteknologia ja strategiset sijoitusaloitteet TVK Ecosystemin puitteissa.",
+    "ogImageAlt": "TVK Infrastructure & Energy Systems — Infrastruktuurin voimanlähteenä. Tulevaisuuden mahdollistajana.",
+    "defaultKeywords": "infrastruktuuri, energiajärjestelmät, teollisuusteknologia, älykäs infrastruktuuri, Energy Intelligence, TVK, strategiset kumppanuudet",
+    "breadcrumbAria": "Murupolku-navigointi",
+    "internalLinksTitle": "Tutustu infrastruktuuri- ja energiakapasiteetteihin",
+    "legalDisclaimer": "TVK Infrastructure & Energy Systems LTD on tutkimus-, kehitys- ja kumppanuuksien rakentamisvaiheessa. Tämän verkkosivuston tiedot kuvaavat kapasiteettialueita ja kehitysaloitteita — eivät operatiivisia projektisitoumuksia. Osa TVK Ecosystemia.",
+    "organization": {
+      "name": "TVK Infrastructure & Energy Systems",
+      "legalName": "TVK Infrastructure & Energy Systems LTD",
+      "description": "Infrastruktuuri-, energia-, teollisuusjärjestelmä- ja strategisen teknologiasijoitusyritys TVK Ecosystemin puitteissa.",
+      "areaServed": "Maailmanlaajuisesti",
+      "knowsAbout": [
+        "Energiajärjestelmät",
+        "Infrastruktuuriteknologiat",
+        "Teollinen AI",
+        "Energy Intelligence",
+        "Strategiset kumppanuudet"
+      ],
+      "sameAs": [
+        "https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Mitä TVK Infrastructure & Energy Systems tekee?",
+        "answer": "TVK Infrastructure & Energy Systems kehittää aloitteita energiajärjestelmissä, infrastruktuuriteknologioissa, teollisissa ratkaisuissa, Energy Intelligencessa, AI-infrastruktuurissa ja strategisissa sijoituksissa TVK Ecosystemin puitteissa."
+      },
+      {
+        "question": "Missä vaiheessa yritys on tällä hetkellä?",
+        "answer": "Yritys on tutkimus-, kehitys-, projektinmuodostus-, strategisten kumppanuuksien rakentamis- ja pilottivalmisteluvaiheessa."
+      },
+      {
+        "question": "Etsikö TVK Infrastructure & Energy Systems kumppanuuksia?",
+        "answer": "Kyllä. Teemme aktiivisesti yhteistyötä energiayhtiöiden, infrastruktuurin operaattoreiden, teollisuusryhmien, teknologiatoimittajien ja insinööritoimistojen kanssa yhteistyö- ja pilottimahdollisuuksien osalta."
+      },
+      {
+        "question": "Onko TVK Infrastructure & Energy Systems osa laajempaa ekosysteemiä?",
+        "answer": "Kyllä. TVK Infrastructure & Energy Systems on osa laajempaa TVK Ecosystemia ja integroi teknologisia, teollisia ja strategisia sijoitusnäkökulmia."
+      }
+    ]
   }
 }

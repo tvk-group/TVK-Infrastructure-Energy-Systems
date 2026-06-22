@@ -1,19 +1,13 @@
 import { InsightsView } from "@/views/pages";
-import { loadPage, localeStaticParams, pageTitle } from "@/lib/page-utils";
-import type { Metadata } from "next";
+import { loadPage, localeStaticParams, buildMetadataForPage } from "@/lib/page-utils";
 
 export function generateStaticParams() {
   return localeStaticParams();
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const { dict } = await loadPage(locale);
-  const meta = dict.insights.meta;
-  return {
-    title: pageTitle(dict, meta.title),
-    description: meta.description,
-  };
+  return buildMetadataForPage(locale, "insights");
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {

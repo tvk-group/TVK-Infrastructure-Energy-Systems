@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans, Source_Sans_3 } from "next/font/google";
+import { SITE_URL } from "@/i18n/config";
 import "./globals.css";
 
 const ibmPlex = IBM_Plex_Sans({
@@ -15,9 +16,11 @@ const sourceSans = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: "TVK Infrastructure & Energy Systems LTD",
   description:
     "TVK Infrastructure & Energy Systems develops future-focused initiatives across energy, infrastructure, industrial systems and strategic technologies.",
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({

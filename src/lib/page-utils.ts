@@ -1,7 +1,8 @@
-import type { Locale } from "@/i18n/config";
-import { locales } from "@/i18n/config";
-import { getDictionary } from "@/i18n/get-dictionary";
-import type { Dictionary } from "@/i18n/get-dictionary";
+import type { Metadata } from "next";
+import type { Locale, PageSlug } from "@/i18n/config";
+import { pageDictKeys, locales } from "@/i18n/config";
+import { getDictionary, type Dictionary } from "@/i18n/get-dictionary";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
 export function localeStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -13,6 +14,12 @@ export async function loadPage(locale: string): Promise<{ dict: Dictionary; loca
   return { dict, locale: validLocale };
 }
 
-export function pageTitle(dict: Dictionary, title: string) {
-  return dict.meta.titleTemplate.replace("%s", title);
+export async function buildMetadataForPage(
+  locale: string,
+  slug: PageSlug
+): Promise<Metadata> {
+  const { dict, locale: validLocale } = await loadPage(locale);
+  const dictKey = pageDictKeys[slug] as keyof Dictionary;
+  const page = dict[dictKey] as { meta: Dictionary["home"]["meta"] };
+  return buildPageMetadata(validLocale, slug, page.meta, dict);
 }

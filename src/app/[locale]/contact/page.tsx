@@ -1,19 +1,13 @@
 import { ContactView } from "@/views/pages";
-import { loadPage, localeStaticParams, pageTitle } from "@/lib/page-utils";
-import type { Metadata } from "next";
+import { loadPage, localeStaticParams, buildMetadataForPage } from "@/lib/page-utils";
 
 export function generateStaticParams() {
   return localeStaticParams();
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const { dict } = await loadPage(locale);
-  const meta = dict.contact.meta;
-  return {
-    title: pageTitle(dict, meta.title),
-    description: meta.description,
-  };
+  return buildMetadataForPage(locale, "contact");
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
