@@ -1,75 +1,71 @@
 # TVK Infrastructure & Energy Systems LTD
 
-Official corporate website for **TVK Infrastructure & Energy Systems LTD** — representing the infrastructure, energy, industrial systems and strategic technology investment activities of the TVK ecosystem.
+Official corporate website for **TVK Infrastructure & Energy Systems LTD**.
 
-## Overview
-
-A professional corporate website built with Next.js, TypeScript, and Tailwind CSS. Designed to reflect the positioning of a serious infrastructure and energy company.
-
-## Pages
-
-- **Home** — Hero, core capability areas, development stage overview
-- **About** — Mission, vision, long-term industrial strategy
-- **Energy Systems** — Renewable energy, intelligence, monitoring, optimization
-- **Infrastructure** — Smart, digital, and critical infrastructure technologies
-- **Technology** — Industrial AI, analytics, monitoring, automation
-- **Projects** — Development-stage project categories
-- **Strategic Partnerships** — Collaboration and partnership inquiry
-- **Insights** — Industry perspectives and research notes
-- **Contact** — Partnership and inquiry form
-
-## Development
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open http://localhost:3000 — redirects to `/en/`.
 
-## Languages
-
-The site supports **25 languages** with ready-made translations (no Google Translate):
+## Languages (25)
 
 English, Deutsch, Français, Español, Italiano, Português, Nederlands, Polski, Русский, العربية, 中文, 日本語, 한국어, हिन्दी, Türkçe, Svenska, Norsk, Dansk, Suomi, Čeština, Română, Magyar, Ελληνικά, Bahasa Indonesia, Tiếng Việt
 
-Use the language dropdown in the header to switch. URLs follow `/en/`, `/de/about`, etc.
+Use the **language dropdown** in the header. No Google Translate — all content is pre-translated.
 
-## Deployment
+## Deploy to Vercel (recommended)
 
-### Vercel (recommended)
+The site builds as a **static export** to the `/out` folder. `vercel.json` is included.
 
-1. Connect the repository to [Vercel](https://vercel.com)
-2. **Deploy the latest commit** on `main` or `cursor/tvk-corporate-website-ce49` (must be after the Vercel config split)
-3. In Vercel **Project Settings → General**, confirm:
-   - **Framework Preset:** Next.js
-   - **Root Directory:** (empty / repository root)
-   - **Output Directory:** (empty — do NOT set to `out`)
-4. In **Environment Variables**, remove any of these if present:
-   - `NEXT_PUBLIC_BASE_PATH`
-   - `STATIC_EXPORT`
-   - `GITHUB_PAGES`
-5. **Do not "Redeploy" an old deployment** — push a new commit or redeploy the latest commit from the branch
+### Option A — Vercel Dashboard (quick fix)
 
-`next.config.ts` is a clean standard Next.js config. GitHub Pages uses a separate `next.config.pages.ts`.
+1. Open your project in [Vercel Dashboard](https://vercel.com)
+2. Go to **Settings → General**
+3. Set these values **exactly**:
 
-### GitHub Pages
+| Setting | Value |
+|---------|-------|
+| Framework Preset | **Other** |
+| Root Directory | *(leave empty)* |
+| Build Command | `npm run build` |
+| Output Directory | `out` |
+| Install Command | `npm install` |
 
-The site also deploys to the `gh-pages` branch on every push to `main`.
+4. Go to **Deployments → Redeploy** the latest `main` commit
+5. Visit your URL — it should redirect to `/en/`
 
-**Live URL:** [https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/](https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/)
+### Option B — GitHub Actions (automatic)
 
-Enable once at **Settings → Pages → Deploy from branch → `gh-pages` / root**.
+Add these secrets to the repository (**Settings → Secrets → Actions**):
 
-## Build
+- `VERCEL_TOKEN` — from Vercel Account Settings → Tokens
+- `VERCEL_ORG_ID` — from Vercel project settings
+- `VERCEL_PROJECT_ID` — from Vercel project settings
+
+Push to `main` — the workflow `.github/workflows/vercel.yml` deploys automatically.
+
+### If you still see 404
+
+The Vercel error `NOT_FOUND` means the deployment has **no files to serve**. This happens when:
+
+- **Output Directory** is wrong (must be `out`, not empty or `.next`)
+- You redeployed an **old commit** before the static export fix
+- **Framework Preset** is Next.js but Output Directory is `out` (use **Other** instead)
+
+**Fix:** Set Output Directory to `out`, Framework to **Other**, redeploy latest `main`.
+
+## GitHub Pages
+
+1. **Settings → Pages → Source:** Deploy from branch `gh-pages` / root
+2. Live URL: https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/en/
+
+## Build commands
 
 ```bash
-npm run build
-npm start
+npm run build        # Vercel / static hosting → outputs to /out
+npm run build:pages  # GitHub Pages (with basePath)
 ```
-
-## Design System
-
-- **Colors:** White, Steel Gray, Industrial Silver, Deep Navy, Energy Blue, Subtle Green
-- **Typography:** IBM Plex Sans (headings), Source Sans 3 (body)
-- **Style:** Corporate, industrial, engineering-focused

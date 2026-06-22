@@ -28,6 +28,22 @@ jobs:
       - name: Build static site
         run: npm run build:pages
 
+      - name: Add GitHub Pages root redirect
+        run: |
+          cat > out/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8" />
+            <meta http-equiv="refresh" content="0; url=/TVK-Infrastructure-Energy-Systems/en/" />
+            <script>window.location.replace("/TVK-Infrastructure-Energy-Systems/en/");</script>
+          </head>
+          <body>
+            <p><a href="/TVK-Infrastructure-Energy-Systems/en/">TVK Infrastructure &amp; Energy Systems</a></p>
+          </body>
+          </html>
+          EOF
+
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
