@@ -1,0 +1,777 @@
+{
+  "meta": {
+    "title": "TVK Infrastructure & Energy Systems LTD",
+    "titleTemplate": "%s | TVK Infrastructure & Energy Systems",
+    "description": "TVK Infrastructure & Energy Systems, enerji, altyapı, endüstriyel sistemler ve stratejik teknolojiler alanında geleceğe yönelik girişimler geliştirmektedir."
+  },
+  "header": {
+    "brandMain": "TVK Infrastructure",
+    "brandSub": "& Energy Systems LTD",
+    "mainNavAria": "Ana navigasyon",
+    "mobileNavAria": "Mobil navigasyon",
+    "contact": "İletişim"
+  },
+  "footer": {
+    "description": "TVK ekosistemi kapsamında enerji, altyapı, endüstriyel sistemler ve stratejik teknolojiler alanında geleceğe yönelik girişimler geliştirmekteyiz.",
+    "capabilities": "Yetkinlikler",
+    "company": "Şirket",
+    "connect": "Bağlantı",
+    "connectDescription": "Altyapı ve enerji alanında stratejik ortaklıklar ve iş birliği fırsatları arıyoruz.",
+    "discussOpportunities": "Fırsatları Görüşün →",
+    "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
+    "ecosystem": "TVK Ekosisteminin Parçası"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "energySystems": "Enerji Sistemleri",
+    "infrastructure": "Altyapı",
+    "technology": "Teknoloji",
+    "projects": "Projeler",
+    "strategicPartnerships": "Stratejik Ortaklıklar",
+    "insights": "Görüşler",
+    "contact": "İletişim"
+  },
+  "common": {
+    "learnMore": "Daha fazla bilgi →",
+    "contactUs": "Bize Ulaşın",
+    "exploreCapabilities": "Yetkinlikleri Keşfedin",
+    "strategicPartnershipInquiry": "Stratejik Ortaklık Talebi",
+    "aboutUs": "Hakkımızda",
+    "capabilities": "Yetkinlikler",
+    "getInTouch": "İletişime Geçin",
+    "currentStage": "Mevcut Aşama",
+    "inDevelopment": "Geliştirme Aşamasında",
+    "active": "Aktif",
+    "preparation": "Hazırlık"
+  },
+  "coreAreas": [
+    {
+      "title": "Enerji Sistemleri",
+      "description": "Yenilenebilir entegrasyon, endüstriyel enerji çözümleri ve akıllı enerji yönetimi çerçeveleri.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Altyapı Teknolojileri",
+      "description": "Akıllı altyapı, dijital sistemler ve kritik altyapı teknolojisi geliştirme.",
+      "href": "/infrastructure"
+    },
+    {
+      "title": "Enerji Zekâsı",
+      "description": "Karmaşık enerji ortamları için izleme, analitik ve optimizasyon yetkinlikleri.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Endüstriyel İnovasyon",
+      "description": "Gelişmiş endüstriyel sistemler, otomasyon ve yeni nesil operasyonel teknolojiler.",
+      "href": "/technology"
+    },
+    {
+      "title": "Yapay Zekâ Altyapısı",
+      "description": "Endüstriyel yapay zekâ, altyapı analitiği ve akıllı otomasyon araştırması.",
+      "href": "/technology"
+    },
+    {
+      "title": "Stratejik Yatırımlar",
+      "description": "TVK ekosistemi kapsamında uzun vadeli stratejik teknoloji ve endüstriyel yetkinlik yatırımları.",
+      "href": "/strategic-partnerships"
+    }
+  ],
+  "developmentStages": [
+    "Araştırma",
+    "Geliştirme",
+    "Proje Oluşturma",
+    "Stratejik Ortaklık Geliştirme",
+    "Pilot Hazırlığı"
+  ],
+  "home": {
+    "meta": {
+      "title": "Ana Sayfa",
+      "description": "TVK Infrastructure & Energy Systems, enerji, altyapı, endüstriyel sistemler ve stratejik teknolojiler alanında geleceğe yönelik girişimler geliştirmektedir."
+    },
+    "hero": {
+      "eyebrow": "TVK Infrastructure & Energy Systems LTD",
+      "titleLine1": "Altyapıya Güç Veriyoruz.",
+      "titleLine2": "Geleceği Şekillendiriyoruz.",
+      "subtitle": "TVK Infrastructure & Energy Systems, enerji, altyapı, endüstriyel sistemler ve stratejik teknolojiler alanında geleceğe yönelik girişimler geliştirmektedir.",
+      "exploreCapabilities": "Yetkinlikleri Keşfedin",
+      "strategicPartnershipInquiry": "Stratejik Ortaklık Talebi",
+      "tags": [
+        "Enerji Tesisleri",
+        "Altyapı Ağları",
+        "Endüstriyel Sistemler",
+        "Kontrol Merkezleri"
+      ]
+    },
+    "coreAreas": {
+      "title": "Temel Odak Alanları",
+      "subtitle": "TVK Infrastructure & Energy Systems, TVK ekosistemi kapsamında uzun vadeli endüstriyel ve enerji girişimlerini destekleyen altı birbiriyle bağlantılı yetkinlik alanında faaliyet göstermektedir."
+    },
+    "longTerm": {
+      "title": "Uzun Vadeli Endüstriyel Yetkinlik İnşası",
+      "paragraph1": "Modern ekonomilerin taleplerini karşılayan enerji sistemleri, altyapı teknolojileri ve endüstriyel çözümler için temeller oluşturuyoruz. Çalışmalarımız araştırma, geliştirme ve stratejik ortaklık oluşturmayı kapsamaktadır.",
+      "paragraph2": "TVK ekosisteminin bir parçası olarak mühendislik uzmanlığı, teknoloji araştırması ve stratejik yatırım perspektiflerini bir araya getirerek sürdürülebilir endüstriyel büyümeyi destekliyoruz."
+    },
+    "stats": [
+      {
+        "stat": "Enerji",
+        "label": "Sistemler ve Zekâ",
+        "desc": "Yenilenebilir entegrasyon, izleme ve optimizasyon çerçeveleri."
+      },
+      {
+        "stat": "Altyapı",
+        "label": "Teknolojiler ve Platformlar",
+        "desc": "Akıllı, dijital ve kritik altyapı geliştirme."
+      },
+      {
+        "stat": "Endüstriyel",
+        "label": "Çözümler ve İnovasyon",
+        "desc": "Otomasyon, analitik ve yeni nesil endüstriyel sistemler."
+      }
+    ],
+    "cta": {
+      "title": "Stratejik İş Birliğini Keşfedin",
+      "description": "Enerji şirketleri, altyapı işletmecileri, endüstriyel gruplar ve teknoloji sağlayıcılarıyla aktif olarak iş birliği yaparak pilot programlar ve uzun vadeli ortaklıklar geliştiriyoruz.",
+      "primaryLabel": "Stratejik Ortaklık Talebi",
+      "secondaryLabel": "Bize Ulaşın"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Hakkımızda",
+      "description": "TVK Infrastructure & Energy Systems hakkında bilgi edinin — misyonumuz, vizyonumuz ve uzun vadeli endüstriyel stratejimiz."
+    },
+    "hero": {
+      "eyebrow": "Hakkımızda",
+      "title": "Altyapı ve Enerjinin Geleceğini Mühendislikle Şekillendiriyoruz",
+      "subtitle": "TVK Infrastructure & Energy Systems LTD, TVK ekosisteminin altyapı, enerji, endüstriyel sistemler ve stratejik teknoloji yatırım faaliyetlerini temsil etmektedir."
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "subtitle": "Enerji sistemlerini güçlendiren, altyapı teknolojilerini ilerleten ve uzun vadeli endüstriyel yetkinliği mümkün kılan girişimleri geliştirmek ve desteklemek.",
+      "missionLabel": "Misyon",
+      "missionTitle": "Sürdürülebilir Endüstriyel Büyümeye Güç Vermek",
+      "missionDescription": "Endüstriyel ekonomilere hizmet eden enerji ve altyapı girişimlerinin araştırma, geliştirme ve stratejik oluşturulmasına odaklanıyoruz. Misyonumuz mühendislik mükemmelliği, teknolojik titizlik ve uzun vadeli değer yaratımına dayanmaktadır.",
+      "visionLabel": "Vizyon",
+      "visionTitle": "Küresel Bir Altyapı ve Enerji Platformu",
+      "visionDescription": "TVK Infrastructure & Energy Systems'i küresel enerji ve altyapı alanında tanınan bir katkı sağlayıcı olarak konumlandırıyoruz — akıllı sistemler, sürdürülebilir operasyonlar ve pazarlar genelinde stratejik endüstriyel ortaklıkları destekliyoruz."
+    },
+    "strategy": {
+      "title": "Uzun Vadeli Endüstriyel Strateji",
+      "subtitle": "Yaklaşımımız sabır, teknik derinlik ve endüstriyel ortaklarla stratejik uyum tarafından tanımlanmaktadır.",
+      "items": [
+        {
+          "title": "Teknoloji ve Altyapı Odağı",
+          "description": "Teknolojinin doğrudan altyapı performansını mümkün kıldığı alanlara odaklanıyoruz — enerji zekâsı, izleme sistemleri, otomasyon ve dijital altyapı platformları."
+        },
+        {
+          "title": "Uluslararası Perspektif",
+          "description": "Stratejik bakış açımız küresel enerji pazarlarını, sınır ötesi altyapı geliştirmeyi ve endüstriyel ile kamu kuruluşlarıyla uluslararası ortaklık fırsatlarını kapsamaktadır."
+        },
+        {
+          "title": "Ekosistem Entegrasyonu",
+          "description": "TVK ekosisteminin bir parçası olarak teknoloji, yatırım ve endüstriyel alanlardaki kolektif uzmanlığı kullanarak disiplinler arası yetkinlik gerektiren fırsatları değerlendiriyoruz."
+        },
+        {
+          "title": "Araştırma Odaklı Geliştirme",
+          "description": "Mevcut faaliyetler araştırma, geliştirme ve proje oluşturma üzerine odaklanmıştır — gelecekteki operasyonel girişimler için teknik ve organizasyonel temellerin inşası."
+        },
+        {
+          "title": "Ortaklık Öncelikli Yaklaşım",
+          "description": "Yetkinlik geliştirmeyi ve pilot hazırlığını hızlandırmak için köklü enerji şirketleri, altyapı işletmecileri ve mühendislik firmalarıyla stratejik ortaklıklara öncelik veriyoruz."
+        },
+        {
+          "title": "Sürdürülebilir Operasyonlar",
+          "description": "Çevresel sorumluluk ve operasyonel verimlilik, enerji sistemleri ve altyapı teknolojisi geliştirme yaklaşımımızın temelinde yer almaktadır."
+        }
+      ]
+    },
+    "developmentStage": {
+      "title": "Mevcut Geliştirme Aşaması",
+      "paragraph1": "TVK Infrastructure & Energy Systems şu anda aktif bir geliştirme ve ortaklık oluşturma aşamasındadır. Araştırma yürütüyor, proje konseptleri oluşturuyor ve enerji ile altyapı sektörlerinde potansiyel stratejik ortaklarla görüşmeler gerçekleştiriyoruz.",
+      "paragraph2": "Bu aşama, yetkinliği düşünceli bir şekilde inşa etme taahhüdümüzü yansıtmaktadır — her girişimin teknik olarak sağlam, stratejik olarak uyumlu ve uzun vadeli endüstriyel etki için konumlandırılmış olmasını sağlamak."
+    },
+    "cta": {
+      "title": "Bizimle Ortak Olun",
+      "description": "Enerji sistemleri, altyapı teknolojileri ve endüstriyel iş birliğiyle ilgilenen kuruluşlardan gelen talepleri memnuniyetle karşılıyoruz.",
+      "primaryLabel": "Bize Ulaşın",
+      "secondaryLabel": "Stratejik Ortaklıklar"
+    }
+  },
+  "energySystems": {
+    "meta": {
+      "title": "Enerji Sistemleri",
+      "description": "Yenilenebilir enerji, enerji zekâsı, izleme, optimizasyon ve endüstriyel enerji çözümleri."
+    },
+    "hero": {
+      "eyebrow": "Yetkinlikler",
+      "title": "Enerji Sistemleri",
+      "subtitle": "Endüstriyel ortamlar için akıllı enerji çerçeveleri geliştiriyoruz — yenilenebilir entegrasyondan gelişmiş izleme ve optimizasyona kadar."
+    },
+    "capabilityAreas": {
+      "title": "Enerji Yetkinlik Alanları",
+      "subtitle": "Enerji sistemleri çalışmalarımız modern enerji yönetiminin tüm yelpazesini kapsamakta olup endüstriyel uygulamalar ve akıllı operasyonlara odaklanmaktadır.",
+      "cards": [
+        {
+          "title": "Yenilenebilir Enerji",
+          "description": "Endüstriyel ve altyapı uygulamaları için yenilenebilir enerji entegrasyon stratejilerinin araştırma ve geliştirilmesi.",
+          "items": [
+            "Yenilenebilir entegrasyon çerçeveleri",
+            "Hibrit enerji sistemi tasarımı",
+            "Endüstriyel yenilenebilir uygulamalar",
+            "Şebeke etkileşimli enerji çözümleri"
+          ]
+        },
+        {
+          "title": "Enerji Zekâsı",
+          "description": "Karmaşık enerji ortamlarını anlama ve optimize etme için gelişmiş analitik ve zekâ yetkinlikleri.",
+          "items": [
+            "Enerji veri analitiği",
+            "Tahmine dayalı enerji modelleme",
+            "Talep tahmini",
+            "Akıllı enerji karar desteği"
+          ]
+        },
+        {
+          "title": "Enerji İzleme",
+          "description": "Enerji varlıkları ve tüketim kalıplarında gerçek zamanlı görünürlük için kapsamlı izleme sistemleri.",
+          "items": [
+            "Gerçek zamanlı enerji izleme",
+            "Varlık performans takibi",
+            "Tüketim kalıbı analizi",
+            "Çoklu tesis enerji görünürlüğü"
+          ]
+        },
+        {
+          "title": "Enerji Optimizasyonu",
+          "description": "Enerji verimliliğini artırma, israfı azaltma ve operasyonel enerji performansını optimize etme için sistematik yaklaşımlar.",
+          "items": [
+            "Operasyonel verimlilik optimizasyonu",
+            "Yük yönetimi stratejileri",
+            "Enerji maliyeti azaltma çerçeveleri",
+            "Sürekli iyileştirme sistemleri"
+          ]
+        },
+        {
+          "title": "Endüstriyel Enerji Çözümleri",
+          "description": "Endüstriyel operasyonların ve üretim ortamlarının özel taleplerine yönelik tasarlanmış enerji çözümleri.",
+          "items": [
+            "Endüstriyel enerji yönetimi",
+            "Proses enerji optimizasyonu",
+            "Tesis düzeyinde enerji sistemleri",
+            "Endüstriyel karbonsuzlaştırma yolları"
+          ]
+        },
+        {
+          "title": "Gelecekteki EnergieMIND Entegrasyonu",
+          "description": "TVK teknoloji ekosisteminin bir parçası olarak EnergieMIND enerji zekâsı yetkinlikleriyle planlanan entegrasyon.",
+          "items": [
+            "Enerji zekâsı platformu araştırması",
+            "Sistemler arası entegrasyon planlaması",
+            "Birleşik enerji analitiği vizyonu",
+            "Ekosistem teknoloji uyumu"
+          ]
+        }
+      ]
+    },
+    "approach": {
+      "title": "Geliştirme Yaklaşımı",
+      "subtitle": "Enerji sistemleri girişimlerimiz şu anda araştırma ve geliştirme aşamasındadır; pilot program hazırlıkları devam etmektedir.",
+      "paragraph1": "Anlamlı enerji çözümleri sunmak için gerekli teknik ve ortaklık temellerini oluşturuyoruz. Bu, enerji teknolojisi sağlayıcıları, endüstriyel işletmeciler ve araştırma kurumlarıyla iş birliği yaparak konseptleri doğrulamayı ve gelecekteki pilot uygulamalara hazırlanmayı içermektedir.",
+      "paragraph2": "Tüm enerji girişimleri uzun vadeli bir perspektifle geliştirilmektedir — kısa vadeli sonuçlardan ziyade güvenilirlik, ölçeklenebilirlik ve endüstriyel düzeyde performansa öncelik verilmektedir."
+    },
+    "cta": {
+      "title": "Enerji Sistemleri İş Birliği",
+      "description": "Enerji zekâsı, izleme veya endüstriyel enerji çözümleriyle ilgileniyor musunuz? Ortaklık görüşmelerini memnuniyetle karşılıyoruz.",
+      "primaryLabel": "Enerji Fırsatlarını Görüşün"
+    }
+  },
+  "infrastructure": {
+    "meta": {
+      "title": "Altyapı",
+      "description": "Altyapı teknolojileri, akıllı altyapı, dijital sistemler ve kritik altyapı geliştirme."
+    },
+    "hero": {
+      "eyebrow": "Yetkinlikler",
+      "title": "Altyapı Teknolojileri",
+      "subtitle": "Modern altyapının temelini oluşturan teknolojileri ilerletiyoruz — akıllı sistemler ve dijital platformlardan kritik altyapı dayanıklılığına kadar."
+    },
+    "focusAreas": {
+      "title": "Altyapı Odak Alanları",
+      "subtitle": "Daha akıllı, daha dayanıklı ve daha verimli operasyonel ortamlar sağlayan altyapı teknolojileri geliştiriyor ve araştırıyoruz.",
+      "cards": [
+        {
+          "title": "Altyapı Teknolojileri",
+          "description": "Yeni nesil altyapı sistemleri ve platformları için temel teknoloji araştırma ve geliştirme.",
+          "items": [
+            "Altyapı sistemi mimarisi",
+            "Teknoloji entegrasyon çerçeveleri",
+            "Modüler altyapı çözümleri",
+            "Sektörler arası altyapı araştırması"
+          ]
+        },
+        {
+          "title": "Akıllı Altyapı",
+          "description": "Bağlantı, sensörler ve analitikten yararlanarak operasyonel performansı artıran akıllı altyapı sistemleri.",
+          "items": [
+            "Bağlantılı altyapı sistemleri",
+            "Sensör ağı entegrasyonu",
+            "Gerçek zamanlı altyapı analitiği",
+            "Uyarlanabilir altyapı yönetimi"
+          ]
+        },
+        {
+          "title": "Dijital Altyapı",
+          "description": "Altyapı operasyonlarını, yönetimini ve stratejik karar almayı destekleyen dijital platformlar ve sistemler.",
+          "items": [
+            "Dijital ikiz araştırması",
+            "Altyapı veri platformları",
+            "Bulut-kenar altyapı sistemleri",
+            "Dijital operasyon yönetimi"
+          ]
+        },
+        {
+          "title": "Kritik Altyapı",
+          "description": "Kritik altyapı sistemlerinin güvenliği, güvenilirliği ve dayanıklılığına odaklanan araştırma ve geliştirme.",
+          "items": [
+            "Altyapı dayanıklılık çerçeveleri",
+            "Operasyonel süreklilik planlaması",
+            "Kritik sistem izleme",
+            "Altyapı risk yönetimi"
+          ]
+        },
+        {
+          "title": "Gelecek Altyapı Platformları",
+          "description": "Önümüzdeki on yıllarda endüstriyel operasyonları tanımlayacak yeni nesil altyapı platformlarına yönelik uzun vadeli araştırma.",
+          "items": [
+            "Platform mimarisi araştırması",
+            "Birlikte çalışabilirlik standartları geliştirme",
+            "Ölçeklenebilir altyapı çerçeveleri",
+            "Geleceğe hazır sistem tasarımı"
+          ]
+        }
+      ]
+    },
+    "vision": {
+      "title": "Stratejik Altyapı Vizyonu",
+      "paragraph1": "Altyapı, endüstriyel ekonomilerin omurgasıdır. TVK Infrastructure & Energy Systems, onlarca yıl güvenilir şekilde çalışması gereken sistemler için gerekli titizlik ve uzun vadeli perspektifle altyapı teknolojisine yaklaşmaktadır.",
+      "paragraph2": "Mevcut çalışmalarımız, önümüzdeki yıllarda anlamlı altyapı katkıları sağlayacak teknolojileri, ortaklıkları ve proje yapılarını belirlemeye odaklanmaktadır.",
+      "currentStageItems": [
+        "Teknoloji araştırması ve değerlendirme",
+        "Ortaklık belirleme ve iş birliği",
+        "Proje konsepti geliştirme",
+        "Pilot program hazırlığı"
+      ]
+    },
+    "cta": {
+      "title": "Altyapı İş Birliği",
+      "description": "Altyapı işletmecileri, teknoloji sağlayıcıları ve mühendislik kuruluşlarıyla ortaklık arıyoruz.",
+      "primaryLabel": "Altyapı Fırsatlarını Görüşün"
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Teknoloji",
+      "description": "Endüstriyel yapay zekâ, altyapı analitiği, izleme sistemleri, otomasyon ve enerji zekâsı araştırması."
+    },
+    "hero": {
+      "eyebrow": "Yetkinlikler",
+      "title": "Teknoloji ve İnovasyon",
+      "subtitle": "Endüstriyel ve altyapı zorluklarına gelişmiş teknoloji uyguluyoruz — yapay zekâ ve analitikten otomasyona ve akıllı izlemeye kadar."
+    },
+    "focusAreas": {
+      "title": "Teknoloji Odak Alanları",
+      "subtitle": "Teknoloji araştırmamız enerji sistemleri ve altyapının operasyonel ihtiyaçlarını desteklemektedir — endüstriyel düzeyde güvenilirlik ve uzun vadeli uygulanabilirliğe vurgu yapılmaktadır.",
+      "cards": [
+        {
+          "title": "Endüstriyel Yapay Zekâ",
+          "description": "Endüstriyel ortamlar için tasarlanmış yapay zekâ uygulamaları — doğruluk, güvenilirlik ve operasyonel güvenliğin öncelikli olduğu alanlar.",
+          "items": [
+            "Endüstriyel makine öğrenimi araştırması",
+            "Yapay zekâ destekli proses optimizasyonu",
+            "Tahmine dayalı bakım zekâsı",
+            "Endüstriyel karar destek sistemleri"
+          ]
+        },
+        {
+          "title": "Altyapı Analitiği",
+          "description": "Altyapı performansını, kullanımını ve operasyonel verimliliği anlamak için gelişmiş analitik platformlar.",
+          "items": [
+            "Altyapı performans analitiği",
+            "Operasyonel veri zekâsı",
+            "Trend analizi ve tahmin",
+            "Çapraz varlık analitik çerçeveleri"
+          ]
+        },
+        {
+          "title": "İzleme Sistemleri",
+          "description": "Enerji varlıkları, altyapı sistemleri ve endüstriyel operasyonlar için kapsamlı izleme çözümleri.",
+          "items": [
+            "Çok parametreli izleme sistemleri",
+            "Dağıtık sensör ağları",
+            "Uyarı ve bildirim çerçeveleri",
+            "Geçmiş veri yönetimi"
+          ]
+        },
+        {
+          "title": "Otomasyon",
+          "description": "İnsan denetimi ve güvenliğini korurken operasyonel verimliliği artıran otomasyon teknolojileri araştırması.",
+          "items": [
+            "Proses otomasyonu araştırması",
+            "Kontrol sistemi entegrasyonu",
+            "Otomatik yanıt çerçeveleri",
+            "İnsan-makine iş birliği sistemleri"
+          ]
+        },
+        {
+          "title": "Enerji Zekâsı",
+          "description": "Enerji verilerini operasyonel ve stratejik karar alma için uygulanabilir içgörülere dönüştüren akıllı sistemler.",
+          "items": [
+            "Enerji analitik platformları",
+            "Akıllı yük yönetimi",
+            "Enerji kalıbı tanıma",
+            "Stratejik enerji planlama araçları"
+          ]
+        },
+        {
+          "title": "Gelecek Araştırma Girişimleri",
+          "description": "Enerji ve altyapı alanlarında uygulama potansiyeli taşıyan gelişmekte olan teknolojilere yönelik ileri görüşlü araştırma.",
+          "items": [
+            "Gelişen teknoloji değerlendirmesi",
+            "Uygulamalı araştırma programları",
+            "Akademik ve endüstriyel iş birliği",
+            "Teknoloji hazırlık değerlendirmesi"
+          ]
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Teknoloji Felsefesi",
+      "paragraph1": "Enerji ve altyapıdaki teknoloji en yüksek güvenilirlik ve operasyonel uygunluk standartlarını karşılamalıdır. Teknoloji için teknoloji peşinde koşmuyoruz — her araştırma girişimi ölçülebilir endüstriyel değer sunma potansiyeline göre değerlendirilmektedir.",
+      "paragraph2": "Teknoloji geliştirmemiz şu anda araştırma ve ortaklık oluşturma aşamasındadır; birden fazla yetkinlik alanında pilot program konseptleri geliştirilmektedir."
+    },
+    "cta": {
+      "title": "Teknoloji İş Birliği",
+      "description": "Teknoloji sağlayıcıları, araştırma kurumları ve endüstriyel kuruluşların katılımını memnuniyetle karşılıyoruz.",
+      "primaryLabel": "Teknoloji Fırsatlarını Görüşün"
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Projeler",
+      "description": "TVK Infrastructure & Energy Systems bünyesinde geliştirilmekte olan enerji, altyapı, endüstriyel ve araştırma girişimleri."
+    },
+    "hero": {
+      "eyebrow": "Projeler",
+      "title": "Geliştirme Aşamasındaki Girişimler",
+      "subtitle": "TVK Infrastructure & Energy Systems, enerji, altyapı ve endüstriyel alanlarda aktif olarak projeler oluşturmaktadır. Tüm girişimler şu anda araştırma, geliştirme veya pilot hazırlık aşamasındadır."
+    },
+    "categories": {
+      "title": "Proje Kategorileri",
+      "subtitle": "Çalışmalarımızı beş birbiriyle bağlantılı kategoride düzenliyoruz; her biri TVK ekosistemi kapsamında ayrı bir yetkinlik geliştirme alanını temsil etmektedir.",
+      "items": [
+        {
+          "category": "Enerji Projeleri",
+          "status": "Geliştirme Aşamasında",
+          "description": "Yenilenebilir enerji entegrasyonu, enerji zekâsı platformları ve endüstriyel enerji yönetimi çerçevelerine odaklanan girişimler.",
+          "areas": [
+            "Yenilenebilir enerji entegrasyon araştırması",
+            "Enerji izleme sistemi geliştirme",
+            "Endüstriyel enerji optimizasyon çerçeveleri",
+            "EnergieMIND entegrasyon planlaması"
+          ]
+        },
+        {
+          "category": "Altyapı Projeleri",
+          "status": "Geliştirme Aşamasında",
+          "description": "Akıllı altyapı, dijital platformlar ve kritik altyapı teknolojisi gereksinimlerini ele alan projeler.",
+          "areas": [
+            "Akıllı altyapı sistemi araştırması",
+            "Dijital altyapı platformu konseptleri",
+            "Kritik altyapı dayanıklılık çalışmaları",
+            "Altyapı analitiği geliştirme"
+          ]
+        },
+        {
+          "category": "Endüstriyel Projeler",
+          "status": "Geliştirme Aşamasında",
+          "description": "Otomasyon, izleme ve yeni nesil operasyonel teknoloji araştırmasını kapsayan endüstriyel çözümler.",
+          "areas": [
+            "Endüstriyel otomasyon araştırması",
+            "Proses izleme sistemi geliştirme",
+            "Endüstriyel yapay zekâ uygulama çalışmaları",
+            "Operasyonel teknoloji entegrasyonu"
+          ]
+        },
+        {
+          "category": "Araştırma Girişimleri",
+          "status": "Aktif",
+          "description": "Gelişmekte olan teknolojileri ve bunların enerji ile altyapı bağlamlarındaki uygulamalarını keşfeden devam eden araştırma programları.",
+          "areas": [
+            "Enerji zekâsı araştırması",
+            "Altyapı teknolojisi değerlendirmesi",
+            "Endüstriyel yapay zekâ fizibilite çalışmaları",
+            "Sürdürülebilirlik ve verimlilik araştırması"
+          ]
+        },
+        {
+          "category": "Gelecek Pilot Programları",
+          "status": "Hazırlık",
+          "description": "Enerji ve altyapı sektörlerinde potansiyel iş ortaklarıyla birlikte geliştirilmekte olan pilot program konseptleri.",
+          "areas": [
+            "Pilot kapsam tanımlama",
+            "Ortak belirleme ve iş birliği",
+            "Teknik fizibilite doğrulama",
+            "Uygulama planlama çerçeveleri"
+          ]
+        }
+      ]
+    },
+    "transparency": {
+      "title": "Geliştirme Şeffaflığı",
+      "paragraph1": "TVK Infrastructure & Energy Systems aktif bir geliştirme aşamasındadır. Bu aşamada tamamlanmış veya operasyonel projeler sunmuyoruz — listelenen tüm girişimler araştırma, geliştirme ve ortaklık oluşturma kapsamındaki gerçek devam eden çalışmaları temsil etmektedir.",
+      "paragraph2": "Projeler pilot hazırlığı ve operasyonel uygulama aşamalarından geçtikçe bu sayfa anlamlı ilerleme ve sonuçları yansıtacak şekilde güncellenecektir."
+    },
+    "cta": {
+      "title": "Gelecek Projelerde İş Birliği Yapın",
+      "description": "Enerji ve altyapı alanında pilot programları ve uzun vadeli girişimleri birlikte geliştirecek ortaklar arıyoruz.",
+      "primaryLabel": "Stratejik Ortaklık Talebi",
+      "secondaryLabel": "Bize Ulaşın"
+    }
+  },
+  "strategicPartnerships": {
+    "meta": {
+      "title": "Stratejik Ortaklıklar",
+      "description": "Enerji şirketleri, altyapı işletmecileri, endüstriyel gruplar ve teknoloji sağlayıcılarıyla iş birliği arıyoruz."
+    },
+    "hero": {
+      "eyebrow": "Ortaklıklar",
+      "title": "Stratejik Ortaklıklar",
+      "subtitle": "Enerji, altyapı ve endüstriyel sektörlerdeki kuruluşlarla iş birliği, pilot fırsatları ve stratejik ortaklıkları aktif olarak arıyoruz."
+    },
+    "objectives": {
+      "title": "Ortaklık Hedefleri",
+      "subtitle": "Ortaklık yaklaşımımız uzun vadeli endüstriyel ilişkiler kurmaya odaklanmıştır — yatırım talebi değildir. Altyapı ve enerji mükemmelliğine olan bağlılığımızı paylaşan iş ortakları arıyoruz.",
+      "intro": "TVK Infrastructure & Energy Systems bir ortaklık oluşturma aşamasındadır. Geliştirmekte olduğumuz girişimlere teknik uzmanlık, pazar erişimi, operasyonel yetkinlik veya stratejik uyum sağlayabilecek kuruluşların katılımını memnuniyetle karşılıyoruz.",
+      "collaborationAreas": [
+        "Ortak araştırma ve geliştirme programları",
+        "Pilot proje ortak geliştirme",
+        "Teknoloji entegrasyon ortaklıkları",
+        "Pazar erişimi ve dağıtım iş birliği",
+        "Bilgi paylaşımı ve teknik değişim",
+        "Uzun vadeli stratejik ittifak oluşturma"
+      ]
+    },
+    "partners": {
+      "title": "Hedef Ortak Kuruluşlar",
+      "items": [
+        {
+          "title": "Enerji Şirketleri",
+          "description": "Akıllı enerji sistemleri ve optimizasyon konusunda iş birliği arayan kamu hizmeti şirketleri, yenilenebilir enerji geliştiricileri ve enerji teknolojisi firmaları."
+        },
+        {
+          "title": "Altyapı İşletmecileri",
+          "description": "Kritik altyapı, ulaşım ağları ve kentsel sistemleri yöneten, akıllı altyapı teknolojileriyle ilgilenen kuruluşlar."
+        },
+        {
+          "title": "Endüstriyel Gruplar",
+          "description": "Enerji verimliliği, otomasyon ve yeni nesil operasyonel teknolojileri keşfeden imalat ve endüstriyel işletmeler."
+        },
+        {
+          "title": "Devlet Bağlantılı Kuruluşlar",
+          "description": "Altyapı geliştirme ve enerji politikası uygulamasına dahil olan kamu kurumları ve devlet bağlantılı kuruluşlar."
+        },
+        {
+          "title": "Teknoloji Sağlayıcıları",
+          "description": "Enerji sistemleri, altyapı analitiği, izleme ve endüstriyel otomasyona uygulanabilir çözümlere sahip teknoloji şirketleri."
+        },
+        {
+          "title": "Mühendislik Firmaları",
+          "description": "Enerji sistemleri, altyapı tasarımı ve endüstriyel proje teslimatında uzmanlığa sahip mühendislik danışmanlık ve EPC firmaları."
+        },
+        {
+          "title": "Yatırım Ortakları",
+          "description": "Uzun vadeli altyapı ve enerji teknolojisi geliştirmeyle uyumlu stratejik yatırımcılar ve endüstriyel yatırım grupları."
+        }
+      ]
+    },
+    "engage": {
+      "title": "Nasıl İletişime Geçilir",
+      "steps": [
+        {
+          "step": "01",
+          "title": "İlk Talep",
+          "description": "İletişim formumuz aracılığıyla ortaklık talebi gönderin; kuruluşunuzu, ilgi alanınızı ve iş birliği hedeflerinizi belirtin."
+        },
+        {
+          "step": "02",
+          "title": "Değerlendirme ve Uyum",
+          "description": "Ekibimiz talebi inceler ve geliştirmekte olduğumuz girişimler ve yetkinlik alanlarıyla stratejik uyumu değerlendirir."
+        },
+        {
+          "step": "03",
+          "title": "İş Birliği Görüşmesi",
+          "description": "Uyumlu ortaklar, belirli iş birliği modellerini, pilot fırsatlarını ve uzun vadeli ortaklık çerçevelerini keşfetmek üzere yapılandırılmış görüşmelere davet edilir."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ortaklık Görüşmesine Başlayın",
+      "description": "Enerji sistemleri, altyapı teknolojileri ve endüstriyel iş birliğiyle ilgilenen kuruluşlardan gelen talepleri memnuniyetle karşılıyoruz.",
+      "primaryLabel": "Stratejik Ortaklık Talebi"
+    }
+  },
+  "insights": {
+    "meta": {
+      "title": "Görüşler",
+      "description": "TVK Infrastructure & Energy Systems'ten enerji, altyapı, endüstriyel teknoloji, yapay zekâ altyapısı ve mühendislik konularında perspektifler."
+    },
+    "hero": {
+      "eyebrow": "Görüşler",
+      "title": "Sektör Perspektifleri",
+      "subtitle": "Enerji, altyapı, endüstriyel teknoloji ve endüstriyel sistemlerin geleceğine ilişkin düşünce liderliği ve araştırma perspektifleri."
+    },
+    "topics": {
+      "title": "Ele Aldığımız Konular",
+      "subtitle": "Görüşlerimiz, araştırma, sektör analizi ve stratejik geliştirme çalışmalarıyla bilgilendirilen TVK Infrastructure & Energy Systems'in temel alanlarını yansıtmaktadır.",
+      "filters": [
+        "Tümü",
+        "Enerji",
+        "Altyapı",
+        "Endüstriyel Teknoloji",
+        "Yapay Zekâ Altyapısı",
+        "Dijital Dönüşüm",
+        "Sürdürülebilirlik",
+        "Mühendislik"
+      ],
+      "disclaimer": "Görüşler, geliştirme aşamasındaki perspektifleri ve araştırma notlarını temsil etmektedir. Araştırma programlarımız ilerledikçe tam yayınlar sunulacaktır.",
+      "items": [
+        {
+          "topic": "Enerji",
+          "title": "Endüstriyel Enerji Yönetiminin Evrimi",
+          "excerpt": "Akıllı enerji sistemleri, endüstriyel operasyonlarda enerji tüketiminin izlenmesi, optimize edilmesi ve stratejik planlanması biçimini nasıl dönüştürüyor.",
+          "date": "Geliştirme Perspektifi"
+        },
+        {
+          "topic": "Altyapı",
+          "title": "Akıllı Altyapı: Bağlantının Ötesinde",
+          "excerpt": "Gerçek akıllı altyapı sensörlerin ve ağların ötesine geçer — entegre analitik, uyarlanabilir yönetim ve uzun vadeli sistem düşüncesi gerektirir.",
+          "date": "Araştırma Notu"
+        },
+        {
+          "topic": "Endüstriyel Teknoloji",
+          "title": "Dönüşen Bir Ekonomide Endüstriyel İnovasyon",
+          "excerpt": "Endüstriyel sektör verimlilik, sürdürülebilirlik ve teknolojik modernizasyon konusunda benzeri görülmemiş taleplerle karşı karşıyadır. Stratejik yaklaşımlar önemlidir.",
+          "date": "Sektör Perspektifi"
+        },
+        {
+          "topic": "Yapay Zekâ Altyapısı",
+          "title": "Endüstriyel Yapay Zekâ: Gerçek Dünya Uygulaması Gereksinimleri",
+          "excerpt": "Endüstriyel ortamlardaki yapay zekâ, tüketici veya kurumsal yazılım uygulamalarından temel olarak farklı bir yaklaşım gerektirir.",
+          "date": "Teknoloji Özeti"
+        },
+        {
+          "topic": "Dijital Dönüşüm",
+          "title": "Endüstriyel Temel Olarak Dijital Altyapı",
+          "excerpt": "Dijital altyapı platformları, dünya genelinde modern enerji sistemleri ve endüstriyel tesislerin operasyonel omurgası haline gelmektedir.",
+          "date": "Geliştirme Perspektifi"
+        },
+        {
+          "topic": "Sürdürülebilirlik",
+          "title": "Enerji ve Altyapıda Sürdürülebilir Operasyonlar",
+          "excerpt": "Enerji ve altyapıda uzun vadeli sürdürülebilirlik, çevresel sorumluluk ile operasyonel performansı dengeleyen entegre yaklaşımlar gerektirir.",
+          "date": "Araştırma Notu"
+        },
+        {
+          "topic": "Mühendislik",
+          "title": "Altyapı Geliştirmede Mühendislik Mükemmelliği",
+          "excerpt": "Kalıcı altyapı projeleri mühendislik titizliği, kapsamlı planlama ve operasyonel güvenilirliğe bağlılık üzerine inşa edilir.",
+          "date": "Mühendislik Perspektifi"
+        },
+        {
+          "topic": "Enerji Zekâsı",
+          "title": "Enerji Verisinden Stratejik Zekâya",
+          "excerpt": "Ham enerji verisinden uygulanabilir zekâya geçiş, modern enerji yönetimindeki en önemli fırsatlardan birini temsil etmektedir.",
+          "date": "Teknoloji Özeti"
+        }
+      ]
+    },
+    "stayInformed": {
+      "title": "Bilgilendirilmeye Devam Edin",
+      "description": "Enerji, altyapı ve endüstriyel teknoloji konularındaki perspektiflerimizle ilgileniyor musunuz? Araştırma alanları ve sektör gelişmeleri hakkında görüşmek için bizimle iletişime geçin.",
+      "button": "İletişime Geçin"
+    },
+    "cta": {
+      "title": "Yetkinliklerimizi Keşfedin",
+      "description": "Enerji sistemleri, altyapı teknolojileri ve endüstriyel inovasyon alanındaki çalışmalarımız hakkında daha fazla bilgi edinin.",
+      "primaryLabel": "Yetkinlikleri Keşfedin",
+      "secondaryLabel": "Hakkımızda"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "İletişim",
+      "description": "Altyapı ve enerji fırsatlarını görüşmek için TVK Infrastructure & Energy Systems ile iletişime geçin."
+    },
+    "hero": {
+      "eyebrow": "İletişim",
+      "title": "Altyapı ve Enerji Fırsatlarını Görüşün",
+      "subtitle": "Enerji sistemleri, altyapı teknolojileri, endüstriyel çözümler ve stratejik ortaklıklarla ilgilenen kuruluşlardan gelen talepleri memnuniyetle karşılıyoruz."
+    },
+    "section": {
+      "title": "İletişime Geçin",
+      "intro": "İster bir enerji şirketini, altyapı işletmecisini, endüstriyel grubu, teknoloji sağlayıcısını veya mühendislik firmasını temsil ediyor olun — ilginizi paylaşmanızı ve bir görüşme başlatmanızı davet ediyoruz.",
+      "inquiryTypes": [
+        {
+          "title": "Ortaklık Talepleri",
+          "description": "Stratejik iş birliği, pilot fırsatları veya uzun vadeli ortaklık geliştirme arayan kuruluşlar."
+        },
+        {
+          "title": "Teknoloji Görüşmeleri",
+          "description": "Enerji zekâsı, altyapı analitiği veya endüstriyel yapay zekâ ile ilgilenen teknoloji sağlayıcıları ve araştırma kurumları."
+        },
+        {
+          "title": "Genel Talepler",
+          "description": "TVK Infrastructure & Energy Systems, yetkinliklerimiz veya TVK ekosistemi hakkındaki sorular."
+        }
+      ],
+      "companyName": "TVK Infrastructure & Energy Systems LTD",
+      "ecosystem": "TVK Ekosisteminin Parçası"
+    }
+  },
+  "contactForm": {
+    "interestAreas": [
+      "Enerji Sistemleri",
+      "Altyapı Teknolojileri",
+      "Endüstriyel Çözümler",
+      "Enerji Zekâsı",
+      "Yapay Zekâ Altyapısı",
+      "Stratejik Ortaklıklar",
+      "Genel Talep"
+    ],
+    "success": {
+      "title": "Talep Alındı",
+      "message": "TVK Infrastructure & Energy Systems'e gösterdiğiniz ilgi için teşekkür ederiz. Ekibimiz talebinizi inceleyecek ve uygun şekilde yanıt verecektir."
+    },
+    "fields": {
+      "name": "Ad Soyad",
+      "company": "Şirket",
+      "role": "Görev",
+      "country": "Ülke",
+      "email": "E-posta",
+      "interest": "İlgi Alanı",
+      "message": "Mesaj",
+      "required": "*"
+    },
+    "placeholders": {
+      "name": "Adınız ve soyadınız",
+      "company": "Kuruluş adı",
+      "role": "Pozisyonunuz",
+      "country": "Faaliyet gösterilen ülke",
+      "email": "professional@company.com",
+      "interest": "Bir alan seçin",
+      "message": "Talebinizi, ortaklık ilginizi veya proje fırsatınızı açıklayın..."
+    },
+    "submit": "Altyapı ve Enerji Fırsatlarını Görüşün"
+  }
+}

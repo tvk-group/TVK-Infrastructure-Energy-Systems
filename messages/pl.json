@@ -1,0 +1,777 @@
+{
+  "meta": {
+    "title": "TVK Infrastructure & Energy Systems LTD",
+    "titleTemplate": "%s | TVK Infrastructure & Energy Systems",
+    "description": "TVK Infrastructure & Energy Systems rozwija inicjatywy ukierunkowane na przyszłość w zakresie energii, infrastruktury, systemów przemysłowych i technologii strategicznych."
+  },
+  "header": {
+    "brandMain": "TVK Infrastructure",
+    "brandSub": "& Energy Systems LTD",
+    "mainNavAria": "Nawigacja główna",
+    "mobileNavAria": "Nawigacja mobilna",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "description": "Rozwój inicjatyw ukierunkowanych na przyszłość w zakresie energii, infrastruktury, systemów przemysłowych i technologii strategicznych w ramach TVK Ecosystem.",
+    "capabilities": "Kompetencje",
+    "company": "Firma",
+    "connect": "Kontakt",
+    "connectDescription": "Poszukiwanie strategicznych partnerstw i możliwości współpracy w zakresie infrastruktury i energii.",
+    "discussOpportunities": "Omów możliwości →",
+    "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
+    "ecosystem": "Część TVK Ecosystem"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "energySystems": "Systemy energetyczne",
+    "infrastructure": "Infrastruktura",
+    "technology": "Technologia",
+    "projects": "Projekty",
+    "strategicPartnerships": "Partnerstwa strategiczne",
+    "insights": "Analizy",
+    "contact": "Kontakt"
+  },
+  "common": {
+    "learnMore": "Dowiedz się więcej →",
+    "contactUs": "Skontaktuj się z nami",
+    "exploreCapabilities": "Poznaj nasze kompetencje",
+    "strategicPartnershipInquiry": "Zapytanie o partnerstwo strategiczne",
+    "aboutUs": "O nas",
+    "capabilities": "Kompetencje",
+    "getInTouch": "Skontaktuj się",
+    "currentStage": "Obecny etap",
+    "inDevelopment": "W rozwoju",
+    "active": "Aktywny",
+    "preparation": "Przygotowanie"
+  },
+  "coreAreas": [
+    {
+      "title": "Systemy energetyczne",
+      "description": "Integracja odnawialnych źródeł, przemysłowe rozwiązania energetyczne i inteligentne ramy zarządzania energią.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Technologie infrastrukturalne",
+      "description": "Inteligentna infrastruktura, systemy cyfrowe i rozwój technologii infrastruktury krytycznej.",
+      "href": "/infrastructure"
+    },
+    {
+      "title": "Inteligencja energetyczna",
+      "description": "Możliwości monitoringu, analityki i optymalizacji dla złożonych środowisk energetycznych.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Innowacje przemysłowe",
+      "description": "Zaawansowane systemy przemysłowe, automatyzacja i technologie operacyjne nowej generacji.",
+      "href": "/technology"
+    },
+    {
+      "title": "Infrastruktura AI",
+      "description": "Przemysłowa AI, analityka infrastrukturalna i badania inteligentnej automatyzacji.",
+      "href": "/technology"
+    },
+    {
+      "title": "Inwestycje strategiczne",
+      "description": "Długoterminowe inwestycje w technologie strategiczne i zdolności przemysłowe w ramach TVK Ecosystem.",
+      "href": "/strategic-partnerships"
+    }
+  ],
+  "developmentStages": [
+    "Badania",
+    "Rozwój",
+    "Formowanie projektów",
+    "Rozwój partnerstw strategicznych",
+    "Przygotowanie pilotażu"
+  ],
+  "home": {
+    "meta": {
+      "title": "Strona główna",
+      "description": "TVK Infrastructure & Energy Systems rozwija inicjatywy ukierunkowane na przyszłość w zakresie energii, infrastruktury, systemów przemysłowych i technologii strategicznych."
+    },
+    "hero": {
+      "eyebrow": "TVK Infrastructure & Energy Systems LTD",
+      "titleLine1": "Napędzanie infrastruktury.",
+      "titleLine2": "Umożliwianie przyszłości.",
+      "subtitle": "TVK Infrastructure & Energy Systems rozwija inicjatywy ukierunkowane na przyszłość w zakresie energii, infrastruktury, systemów przemysłowych i technologii strategicznych.",
+      "exploreCapabilities": "Poznaj nasze kompetencje",
+      "strategicPartnershipInquiry": "Zapytanie o partnerstwo strategiczne",
+      "tags": [
+        "Obiekty energetyczne",
+        "Sieci infrastrukturalne",
+        "Systemy przemysłowe",
+        "Centra kontroli"
+      ]
+    },
+    "coreAreas": {
+      "title": "Kluczowe obszary działalności",
+      "subtitle": "TVK Infrastructure & Energy Systems działa w sześciu powiązanych obszarach kompetencji, wspierając długoterminowe inicjatywy przemysłowe i energetyczne w ramach TVK Ecosystem."
+    },
+    "longTerm": {
+      "title": "Budowanie zdolności przemysłowych na długą metę",
+      "paragraph1": "Rozwijamy fundamenty systemów energetycznych, technologii infrastrukturalnych i rozwiązań przemysłowych odpowiadających na wymagania nowoczesnych gospodarek. Nasza praca obejmuje badania, rozwój i formowanie strategicznych partnerstw.",
+      "paragraph2": "Jako część szerszego TVK Ecosystem łączymy wiedzę inżynieryjną, badania technologiczne i perspektywy strategicznych inwestycji, aby wspierać zrównoważony wzrost przemysłowy."
+    },
+    "stats": [
+      {
+        "stat": "Energia",
+        "label": "Systemy i inteligencja",
+        "desc": "Integracja odnawialnych źródeł, monitoring i ramy optymalizacji."
+      },
+      {
+        "stat": "Infrastruktura",
+        "label": "Technologie i platformy",
+        "desc": "Rozwój inteligentnej, cyfrowej i krytycznej infrastruktury."
+      },
+      {
+        "stat": "Przemysłowy",
+        "label": "Rozwiązania i innowacje",
+        "desc": "Automatyzacja, analityka i systemy przemysłowe nowej generacji."
+      }
+    ],
+    "cta": {
+      "title": "Poznaj strategiczną współpracę",
+      "description": "Aktywnie współpracujemy z firmami energetycznymi, operatorami infrastruktury, grupami przemysłowymi i dostawcami technologii w celu rozwoju programów pilotażowych i długoterminowych partnerstw.",
+      "primaryLabel": "Zapytanie o partnerstwo strategiczne",
+      "secondaryLabel": "Skontaktuj się z nami"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "O nas",
+      "description": "Poznaj TVK Infrastructure & Energy Systems — naszą misję, wizję i długoterminową strategię przemysłową."
+    },
+    "hero": {
+      "eyebrow": "O nas",
+      "title": "Kształtowanie przyszłości infrastruktury i energii",
+      "subtitle": "TVK Infrastructure & Energy Systems LTD reprezentuje działalność inwestycyjną w zakresie infrastruktury, energii, systemów przemysłowych i technologii strategicznych w ramach TVK Ecosystem."
+    },
+    "mission": {
+      "title": "Nasza misja",
+      "subtitle": "Rozwijanie i wspieranie inicjatyw wzmacniających systemy energetyczne, rozwijających technologie infrastrukturalne i umożliwiających długoterminowe zdolności przemysłowe.",
+      "missionLabel": "Misja",
+      "missionTitle": "Napędzanie zrównoważonego wzrostu przemysłowego",
+      "missionDescription": "Koncentrujemy się na badaniach, rozwoju i strategicznym formowaniu inicjatyw energetycznych i infrastrukturalnych służących gospodarkom przemysłowym. Nasza misja opiera się na doskonałości inżynieryjnej, rygorystyczności technologicznej i tworzeniu wartości długoterminowej.",
+      "visionLabel": "Wizja",
+      "visionTitle": "Globalna platforma infrastrukturalna i energetyczna",
+      "visionDescription": "Widzimy TVK Infrastructure & Energy Systems jako uznany wkład w globalny krajobraz energetyczny i infrastrukturalny — wspierający inteligentne systemy, zrównoważone operacje i strategiczne partnerstwa przemysłowe na różnych rynkach."
+    },
+    "strategy": {
+      "title": "Długoterminowa strategia przemysłowa",
+      "subtitle": "Nasze podejście charakteryzuje cierpliwość, głęboka wiedza techniczna i strategiczne dopasowanie do partnerów przemysłowych.",
+      "items": [
+        {
+          "title": "Koncentracja na technologii i infrastrukturze",
+          "description": "Koncentrujemy się na obszarach, gdzie technologia bezpośrednio umożliwia wydajność infrastruktury — inteligencja energetyczna, systemy monitoringu, automatyzacja i cyfrowe platformy infrastrukturalne."
+        },
+        {
+          "title": "Perspektywa międzynarodowa",
+          "description": "Nasza strategiczna perspektywa obejmuje globalne rynki energetyczne, transgraniczny rozwój infrastruktury i międzynarodowe możliwości partnerstwa z organizacjami przemysłowymi i rządowymi."
+        },
+        {
+          "title": "Integracja ekosystemu",
+          "description": "Jako część TVK Ecosystem wykorzystujemy zbiorową wiedzę specjalistyczną w dziedzinie technologii, inwestycji i przemysłu, aby realizować możliwości wymagające multidyscyplinarnych kompetencji."
+        },
+        {
+          "title": "Rozwój oparty na badaniach",
+          "description": "Obecne działania koncentrują się na badaniach, rozwoju i formowaniu projektów — budowaniu technicznych i organizacyjnych fundamentów przyszłych inicjatyw operacyjnych."
+        },
+        {
+          "title": "Podejście oparte na partnerstwie",
+          "description": "Priorytetowo traktujemy partnerstwa strategiczne z uznanymi firmami energetycznymi, operatorami infrastruktury i firmami inżynieryjnymi, aby przyspieszyć rozwój kompetencji i przygotowanie pilotażu."
+        },
+        {
+          "title": "Zrównoważone operacje",
+          "description": "Odpowiedzialność środowiskowa i efektywność operacyjna są wbudowane w nasze podejście do rozwoju systemów energetycznych i technologii infrastrukturalnych."
+        }
+      ]
+    },
+    "developmentStage": {
+      "title": "Obecny etap rozwoju",
+      "paragraph1": "TVK Infrastructure & Energy Systems jest obecnie w aktywnej fazie rozwoju i budowania partnerstw. Prowadzimy badania, formujemy koncepcje projektów i angażujemy potencjalnych partnerów strategicznych w sektorach energii i infrastruktury.",
+      "paragraph2": "Ten etap odzwierciedla nasze zaangażowanie w przemyślane budowanie zdolności — zapewniając, że każda inicjatywa jest technicznie solidna, strategicznie dopasowana i przygotowana na długoterminowy wpływ przemysłowy."
+    },
+    "cta": {
+      "title": "Zostań partnerem",
+      "description": "Zapraszamy zapytania od organizacji zainteresowanych systemami energetycznymi, technologiami infrastrukturalnymi i współpracą przemysłową.",
+      "primaryLabel": "Skontaktuj się z nami",
+      "secondaryLabel": "Partnerstwa strategiczne"
+    }
+  },
+  "energySystems": {
+    "meta": {
+      "title": "Systemy energetyczne",
+      "description": "Energia odnawialna, inteligencja energetyczna, monitoring, optymalizacja i przemysłowe rozwiązania energetyczne."
+    },
+    "hero": {
+      "eyebrow": "Kompetencje",
+      "title": "Systemy energetyczne",
+      "subtitle": "Rozwój inteligentnych ram energetycznych dla środowisk przemysłowych — od integracji odnawialnych źródeł po zaawansowany monitoring i optymalizację."
+    },
+    "capabilityAreas": {
+      "title": "Obszary kompetencji energetycznych",
+      "subtitle": "Nasza praca w zakresie systemów energetycznych obejmuje pełne spektrum nowoczesnego zarządzania energią, z naciskiem na zastosowania przemysłowe i inteligentne operacje.",
+      "cards": [
+        {
+          "title": "Energia odnawialna",
+          "description": "Badania i rozwój strategii integracji energii odnawialnej dla zastosowań przemysłowych i infrastrukturalnych.",
+          "items": [
+            "Ramowe systemy integracji odnawialnych źródeł",
+            "Projektowanie hybrydowych systemów energetycznych",
+            "Przemysłowe zastosowania odnawialnych źródeł energii",
+            "Rozwiązania energetyczne interaktywne z siecią"
+          ]
+        },
+        {
+          "title": "Inteligencja energetyczna",
+          "description": "Zaawansowane możliwości analityczne i inteligencji do rozumienia i optymalizacji złożonych środowisk energetycznych.",
+          "items": [
+            "Analityka danych energetycznych",
+            "Predykcyjne modelowanie energetyczne",
+            "Prognozowanie popytu",
+            "Inteligentne wspomaganie decyzji energetycznych"
+          ]
+        },
+        {
+          "title": "Monitoring energetyczny",
+          "description": "Kompleksowe systemy monitoringu zapewniające widoczność w czasie rzeczywistym aktywów energetycznych i wzorców zużycia.",
+          "items": [
+            "Monitoring energetyczny w czasie rzeczywistym",
+            "Monitorowanie wydajności aktywów",
+            "Analiza wzorców zużycia",
+            "Widoczność energii w wielu lokalizacjach"
+          ]
+        },
+        {
+          "title": "Optymalizacja energetyczna",
+          "description": "Systematyczne podejścia do poprawy efektywności energetycznej, redukcji marnotrawstwa i optymalizacji operacyjnej wydajności energetycznej.",
+          "items": [
+            "Optymalizacja efektywności operacyjnej",
+            "Strategie zarządzania obciążeniem",
+            "Ramowe systemy redukcji kosztów energii",
+            "Systemy ciągłego doskonalenia"
+          ]
+        },
+        {
+          "title": "Przemysłowe rozwiązania energetyczne",
+          "description": "Dostosowane rozwiązania energetyczne zaprojektowane dla specyficznych wymagań operacji przemysłowych i środowisk produkcyjnych.",
+          "items": [
+            "Zarządzanie energią w przemyśle",
+            "Optymalizacja energii procesowej",
+            "Systemy energetyczne na poziomie obiektu",
+            "Ścieżki dekarbonizacji przemysłowej"
+          ]
+        },
+        {
+          "title": "Przyszła integracja EnergieMIND",
+          "description": "Planowana integracja z możliwościami inteligencji energetycznej EnergieMIND w ramach szerszego ekosystemu technologicznego TVK.",
+          "items": [
+            "Badania platform inteligencji energetycznej",
+            "Planowanie integracji międzysystemowej",
+            "Wizja zunifikowanej analityki energetycznej",
+            "Dopasowanie technologii ekosystemu"
+          ]
+        }
+      ]
+    },
+    "approach": {
+      "title": "Podejście rozwojowe",
+      "subtitle": "Nasze inicjatywy w zakresie systemów energetycznych są obecnie w fazie badań i rozwoju, z trwającym przygotowaniem programów pilotażowych.",
+      "paragraph1": "Budujemy techniczne i partnerskie fundamenty wymagane do dostarczenia znaczących rozwiązań energetycznych. Obejmuje to współpracę z dostawcami technologii energetycznych, operatorami przemysłowymi i instytucjami badawczymi w celu walidacji koncepcji i przygotowania przyszłych wdrożeń pilotażowych.",
+      "paragraph2": "Wszystkie inicjatywy energetyczne są rozwijane z perspektywy długoterminowej — z priorytetem dla niezawodności, skalowalności i wydajności przemysłowej nad krótkoterminowymi rezultatami."
+    },
+    "cta": {
+      "title": "Współpraca w zakresie systemów energetycznych",
+      "description": "Zainteresowany inteligencją energetyczną, monitoringiem lub przemysłowymi rozwiązaniami energetycznymi? Zapraszamy do rozmów o partnerstwie.",
+      "primaryLabel": "Omów możliwości energetyczne"
+    }
+  },
+  "infrastructure": {
+    "meta": {
+      "title": "Infrastruktura",
+      "description": "Technologie infrastrukturalne, inteligentna infrastruktura, systemy cyfrowe i rozwój infrastruktury krytycznej."
+    },
+    "hero": {
+      "eyebrow": "Kompetencje",
+      "title": "Technologie infrastrukturalne",
+      "subtitle": "Rozwój technologii stanowiących fundament nowoczesnej infrastruktury — od inteligentnych systemów i platform cyfrowych po odporność infrastruktury krytycznej."
+    },
+    "focusAreas": {
+      "title": "Obszary koncentracji infrastrukturalnej",
+      "subtitle": "Rozwijamy i badamy technologie infrastrukturalne umożliwiające inteligentniejsze, bardziej odporne i wydajniejsze środowiska operacyjne.",
+      "cards": [
+        {
+          "title": "Technologie infrastrukturalne",
+          "description": "Podstawowe badania i rozwój technologii dla systemów i platform infrastrukturalnych nowej generacji.",
+          "items": [
+            "Architektura systemów infrastrukturalnych",
+            "Ramowe systemy integracji technologii",
+            "Modułowe rozwiązania infrastrukturalne",
+            "Badania infrastruktury międzysektorowej"
+          ]
+        },
+        {
+          "title": "Inteligentna infrastruktura",
+          "description": "Inteligentne systemy infrastrukturalne wykorzystujące łączność, czujniki i analitykę dla lepszej wydajności operacyjnej.",
+          "items": [
+            "Połączone systemy infrastrukturalne",
+            "Integracja sieci czujników",
+            "Analityka infrastrukturalna w czasie rzeczywistym",
+            "Adaptacyjne zarządzanie infrastrukturą"
+          ]
+        },
+        {
+          "title": "Infrastruktura cyfrowa",
+          "description": "Platformy i systemy cyfrowe wspierające operacje infrastrukturalne, zarządzanie i strategiczne podejmowanie decyzji.",
+          "items": [
+            "Badania cyfrowych bliźniaków",
+            "Platformy danych infrastrukturalnych",
+            "Systemy infrastruktury chmura-edge",
+            "Cyfrowe zarządzanie operacjami"
+          ]
+        },
+        {
+          "title": "Infrastruktura krytyczna",
+          "description": "Badania i rozwój skoncentrowane na bezpieczeństwie, niezawodności i odporności systemów infrastruktury krytycznej.",
+          "items": [
+            "Ramowe systemy odporności infrastruktury",
+            "Planowanie ciągłości operacyjnej",
+            "Monitoring systemów krytycznych",
+            "Zarządzanie ryzykiem infrastrukturalnym"
+          ]
+        },
+        {
+          "title": "Przyszłe platformy infrastrukturalne",
+          "description": "Długoterminowe badania platform infrastrukturalnych nowej generacji, które zdefiniują operacje przemysłowe w nadchodzących dekadach.",
+          "items": [
+            "Badania architektury platform",
+            "Rozwój standardów interoperacyjności",
+            "Skalowalne ramy infrastrukturalne",
+            "Projektowanie systemów gotowych na przyszłość"
+          ]
+        }
+      ]
+    },
+    "vision": {
+      "title": "Strategiczna wizja infrastruktury",
+      "paragraph1": "Infrastruktura jest kręgosłupem gospodarek przemysłowych. TVK Infrastructure & Energy Systems podchodzi do technologii infrastrukturalnych z rygorem i perspektywą długoterminową wymaganą dla systemów, które muszą działać niezawodnie przez dziesięciolecia.",
+      "paragraph2": "Nasza obecna praca koncentruje się na identyfikacji technologii, partnerstw i struktur projektowych, które umożliwią istotny wkład infrastrukturalny w nadchodzących latach.",
+      "currentStageItems": [
+        "Badania i ocena technologii",
+        "Identyfikacja i zaangażowanie partnerstw",
+        "Rozwój koncepcji projektowych",
+        "Przygotowanie programu pilotażowego"
+      ]
+    },
+    "cta": {
+      "title": "Współpraca infrastrukturalna",
+      "description": "Poszukujemy partnerstw z operatorami infrastruktury, dostawcami technologii i organizacjami inżynieryjnymi.",
+      "primaryLabel": "Omów możliwości infrastrukturalne"
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Technologia",
+      "description": "Przemysłowa AI, analityka infrastrukturalna, systemy monitoringu, automatyzacja i badania inteligencji energetycznej."
+    },
+    "hero": {
+      "eyebrow": "Kompetencje",
+      "title": "Technologia i innowacje",
+      "subtitle": "Stosowanie zaawansowanych technologii w wyzwaniach przemysłowych i infrastrukturalnych — od AI i analityki po automatyzację i inteligentny monitoring."
+    },
+    "focusAreas": {
+      "title": "Obszary koncentracji technologicznej",
+      "subtitle": "Nasze badania technologiczne wspierają potrzeby operacyjne systemów energetycznych i infrastruktury — z naciskiem na niezawodność przemysłową i długoterminową użyteczność.",
+      "cards": [
+        {
+          "title": "Przemysłowa AI",
+          "description": "Zastosowania sztucznej inteligencji zaprojektowane dla środowisk przemysłowych — gdzie dokładność, niezawodność i bezpieczeństwo operacyjne są najważniejsze.",
+          "items": [
+            "Badania uczenia maszynowego w przemyśle",
+            "Optymalizacja procesów wspierana przez AI",
+            "Inteligencja predykcyjnego utrzymania",
+            "Przemysłowe systemy wspomagania decyzji"
+          ]
+        },
+        {
+          "title": "Analityka infrastrukturalna",
+          "description": "Zaawansowane platformy analityczne do analizy wydajności infrastruktury, wykorzystania i efektywności operacyjnej.",
+          "items": [
+            "Analityka wydajności infrastruktury",
+            "Inteligencja danych operacyjnych",
+            "Analiza trendów i prognozowanie",
+            "Ramowe systemy analityki międzyaktywów"
+          ]
+        },
+        {
+          "title": "Systemy monitoringu",
+          "description": "Kompleksowe rozwiązania monitoringu dla aktywów energetycznych, systemów infrastrukturalnych i operacji przemysłowych.",
+          "items": [
+            "Wieloparametrowe systemy monitoringu",
+            "Rozproszone sieci czujników",
+            "Systemy alertów i powiadomień",
+            "Zarządzanie danymi historycznymi"
+          ]
+        },
+        {
+          "title": "Automatyzacja",
+          "description": "Badania technologii automatyzacji poprawiających efektywność operacyjną przy zachowaniu nadzoru ludzkiego i bezpieczeństwa.",
+          "items": [
+            "Badania automatyzacji procesów",
+            "Integracja systemów sterowania",
+            "Systemy automatycznej reakcji",
+            "Systemy współpracy człowiek-maszyna"
+          ]
+        },
+        {
+          "title": "Inteligencja energetyczna",
+          "description": "Inteligentne systemy przekształcające dane energetyczne w praktyczne informacje do operacyjnego i strategicznego podejmowania decyzji.",
+          "items": [
+            "Platformy analityki energetycznej",
+            "Inteligentne zarządzanie obciążeniem",
+            "Rozpoznawanie wzorców energetycznych",
+            "Narzędzia strategicznego planowania energetycznego"
+          ]
+        },
+        {
+          "title": "Przyszłe inicjatywy badawcze",
+          "description": "Wybiegające w przyszłość badania wschodzących technologii z potencjalnym zastosowaniem w dziedzinie energii i infrastruktury.",
+          "items": [
+            "Ocena wschodzących technologii",
+            "Programy badań stosowanych",
+            "Współpraca akademicka i przemysłowa",
+            "Ocena gotowości technologicznej"
+          ]
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Filozofia technologiczna",
+      "paragraph1": "Technologia w energii i infrastrukturze musi spełniać najwyższe standardy niezawodności i przydatności operacyjnej. Nie dążymy do technologii dla samej technologii — każda inicjatywa badawcza jest oceniana pod kątem potencjału dostarczenia mierzalnej wartości przemysłowej.",
+      "paragraph2": "Nasz rozwój technologiczny jest obecnie na etapie badań i formowania partnerstw, z koncepcjami programów pilotażowych rozwijanymi w wielu obszarach kompetencji."
+    },
+    "cta": {
+      "title": "Współpraca technologiczna",
+      "description": "Zapraszamy do współpracy dostawców technologii, instytucje badawcze i organizacje przemysłowe.",
+      "primaryLabel": "Omów możliwości technologiczne"
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Projekty",
+      "description": "Inicjatywy energetyczne, infrastrukturalne, przemysłowe i badawcze w fazie rozwoju w TVK Infrastructure & Energy Systems."
+    },
+    "hero": {
+      "eyebrow": "Projekty",
+      "title": "Inicjatywy w fazie rozwoju",
+      "subtitle": "TVK Infrastructure & Energy Systems aktywnie formuje projekty w dziedzinach energii, infrastruktury i przemysłu. Wszystkie inicjatywy są obecnie na etapie badań, rozwoju lub przygotowania pilotażowego."
+    },
+    "categories": {
+      "title": "Kategorie projektów",
+      "subtitle": "Organizujemy naszą pracę w pięć powiązanych kategorii, z których każda reprezentuje odrębny obszar rozwoju kompetencji w ramach TVK Ecosystem.",
+      "items": [
+        {
+          "category": "Projekty energetyczne",
+          "status": "W rozwoju",
+          "description": "Inicjatywy skoncentrowane na integracji odnawialnych źródeł energii, platformach inteligencji energetycznej i ramach zarządzania energią przemysłową.",
+          "areas": [
+            "Badania integracji energii odnawialnej",
+            "Rozwój systemów monitoringu energetycznego",
+            "Ramowe systemy optymalizacji energii przemysłowej",
+            "Planowanie integracji EnergieMIND"
+          ]
+        },
+        {
+          "category": "Projekty infrastrukturalne",
+          "status": "W rozwoju",
+          "description": "Projekty dotyczące inteligentnej infrastruktury, platform cyfrowych i wymagań technologicznych infrastruktury krytycznej.",
+          "areas": [
+            "Badania inteligentnych systemów infrastrukturalnych",
+            "Koncepcje platform infrastruktury cyfrowej",
+            "Badania odporności infrastruktury krytycznej",
+            "Rozwój analityki infrastrukturalnej"
+          ]
+        },
+        {
+          "category": "Projekty przemysłowe",
+          "status": "W rozwoju",
+          "description": "Rozwiązania przemysłowe obejmujące automatyzację, monitoring i badania technologii operacyjnych nowej generacji.",
+          "areas": [
+            "Badania automatyzacji przemysłowej",
+            "Rozwój systemów monitoringu procesów",
+            "Badania zastosowań przemysłowej AI",
+            "Integracja technologii operacyjnych"
+          ]
+        },
+        {
+          "category": "Inicjatywy badawcze",
+          "status": "Aktywny",
+          "description": "Trwające programy badawcze badające wschodzące technologie i ich zastosowanie w kontekście energii i infrastruktury.",
+          "areas": [
+            "Badania inteligencji energetycznej",
+            "Ocena technologii infrastrukturalnych",
+            "Studia wykonalności przemysłowej AI",
+            "Badania zrównoważoności i efektywności"
+          ]
+        },
+        {
+          "category": "Przyszłe programy pilotażowe",
+          "status": "Przygotowanie",
+          "description": "Koncepcje programów pilotażowych w rozwoju we współpracy z potencjalnymi partnerami w sektorach energii i infrastruktury.",
+          "areas": [
+            "Definicja zakresu pilotażu",
+            "Identyfikacja i zaangażowanie partnerów",
+            "Walidacja wykonalności technicznej",
+            "Ramowe systemy planowania wdrożenia"
+          ]
+        }
+      ]
+    },
+    "transparency": {
+      "title": "Przejrzystość rozwoju",
+      "paragraph1": "TVK Infrastructure & Energy Systems jest w aktywnej fazie rozwoju. Na tym etapie nie prezentujemy ukończonych ani operacyjnych projektów — wszystkie wymienione inicjatywy reprezentują rzeczywistą pracę w toku w zakresie badań, rozwoju i formowania partnerstw.",
+      "paragraph2": "W miarę postępów projektów w przygotowaniu pilotażowym i wdrożeniu operacyjnym, ta strona będzie aktualizowana, aby odzwierciedlać istotny postęp i wyniki."
+    },
+    "cta": {
+      "title": "Współpracuj przy przyszłych projektach",
+      "description": "Poszukujemy partnerów do wspólnego rozwoju programów pilotażowych i długoterminowych inicjatyw w zakresie energii i infrastruktury.",
+      "primaryLabel": "Zapytanie o partnerstwo strategiczne",
+      "secondaryLabel": "Skontaktuj się z nami"
+    }
+  },
+  "strategicPartnerships": {
+    "meta": {
+      "title": "Partnerstwa strategiczne",
+      "description": "Poszukiwanie współpracy z firmami energetycznymi, operatorami infrastruktury, grupami przemysłowymi i dostawcami technologii."
+    },
+    "hero": {
+      "eyebrow": "Partnerstwa",
+      "title": "Partnerstwa strategiczne",
+      "subtitle": "Aktywnie poszukujemy współpracy, możliwości pilotażowych i partnerstw strategicznych z organizacjami w sektorach energii, infrastruktury i przemysłu."
+    },
+    "objectives": {
+      "title": "Cele partnerstwa",
+      "subtitle": "Nasze podejście do partnerstwa koncentruje się na budowaniu długoterminowych relacji przemysłowych — nie na pozyskiwaniu inwestycji. Szukamy współpracowników, którzy podzielają nasze zaangażowanie w doskonałość infrastruktury i energii.",
+      "intro": "TVK Infrastructure & Energy Systems jest w fazie budowania partnerstw. Zapraszamy organizacje, które mogą wnieść wiedzę techniczną, dostęp do rynku, zdolności operacyjne lub strategiczne dopasowanie do naszych rozwijających się inicjatyw.",
+      "collaborationAreas": [
+        "Wspólne programy badawczo-rozwojowe",
+        "Wspólny rozwój projektu pilotażowego",
+        "Partnerstwa integracji technologicznej",
+        "Współpraca w zakresie dostępu do rynku i dystrybucji",
+        "Wymiana wiedzy i wymiana techniczna",
+        "Tworzenie długoterminowych sojuszy strategicznych"
+      ]
+    },
+    "partners": {
+      "title": "Docelowe organizacje partnerskie",
+      "items": [
+        {
+          "title": "Firmy energetyczne",
+          "description": "Firmy użyteczności publicznej, deweloperzy energii odnawialnej i firmy technologii energetycznej poszukujące współpracy w zakresie inteligentnych systemów energetycznych i optymalizacji."
+        },
+        {
+          "title": "Operatorzy infrastruktury",
+          "description": "Organizacje zarządzające infrastrukturą krytyczną, sieciami transportowymi i systemami miejskimi zainteresowane inteligentnymi technologiami infrastrukturalnymi."
+        },
+        {
+          "title": "Grupy przemysłowe",
+          "description": "Przedsiębiorstwa produkcyjne i przemysłowe badające efektywność energetyczną, automatyzację i technologie operacyjne nowej generacji."
+        },
+        {
+          "title": "Organizacje powiązane z rządem",
+          "description": "Podmioty sektora publicznego i organizacje powiązane z rządem zaangażowane w rozwój infrastruktury i wdrażanie polityki energetycznej."
+        },
+        {
+          "title": "Dostawcy technologii",
+          "description": "Firmy technologiczne z rozwiązaniami stosowanymi w systemach energetycznych, analityce infrastrukturalnej, monitoringu i automatyzacji przemysłowej."
+        },
+        {
+          "title": "Firmy inżynieryjne",
+          "description": "Firmy doradcze inżynieryjne i EPC z doświadczeniem w systemach energetycznych, projektowaniu infrastruktury i realizacji projektów przemysłowych."
+        },
+        {
+          "title": "Partnerzy inwestycyjni",
+          "description": "Inwestorzy strategiczni i grupy inwestycyjne przemysłowe zorientowane na długoterminowy rozwój technologii infrastrukturalnych i energetycznych."
+        }
+      ]
+    },
+    "engage": {
+      "title": "Jak nawiązać kontakt",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Wstępne zapytanie",
+          "description": "Prześlij zapytanie o partnerstwo za pośrednictwem formularza kontaktowego, opisując swoją organizację, obszar zainteresowania i cele współpracy."
+        },
+        {
+          "step": "02",
+          "title": "Ocena i dopasowanie",
+          "description": "Nasz zespół analizuje zapytanie i ocenia strategiczne dopasowanie do naszych rozwijających się inicjatyw i obszarów kompetencji."
+        },
+        {
+          "step": "03",
+          "title": "Rozmowa o współpracy",
+          "description": "Dopasowani partnerzy są zapraszani do ustrukturyzowanych rozmów w celu zbadania modeli współpracy, możliwości pilotażowych i długoterminowych ram partnerstwa."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Rozpocznij rozmowę o partnerstwie",
+      "description": "Zapraszamy zapytania od organizacji zainteresowanych systemami energetycznymi, technologiami infrastrukturalnymi i współpracą przemysłową.",
+      "primaryLabel": "Zapytanie o partnerstwo strategiczne"
+    }
+  },
+  "insights": {
+    "meta": {
+      "title": "Analizy",
+      "description": "Perspektywy dotyczące energii, infrastruktury, technologii przemysłowej, infrastruktury AI i inżynierii od TVK Infrastructure & Energy Systems."
+    },
+    "hero": {
+      "eyebrow": "Analizy",
+      "title": "Perspektywy branżowe",
+      "subtitle": "Przywództwo myślowe i perspektywy badawcze dotyczące energii, infrastruktury, technologii przemysłowej i przyszłości systemów przemysłowych."
+    },
+    "topics": {
+      "title": "Tematy, które poruszamy",
+      "subtitle": "Nasze analizy odzwierciedlają kluczowe obszary TVK Infrastructure & Energy Systems — oparte na badaniach, analizie branżowej i strategicznej pracy rozwojowej.",
+      "filters": [
+        "Wszystkie",
+        "Energia",
+        "Infrastruktura",
+        "Technologia przemysłowa",
+        "Infrastruktura AI",
+        "Transformacja cyfrowa",
+        "Zrównoważony rozwój",
+        "Inżynieria"
+      ],
+      "disclaimer": "Analizy przedstawiają perspektywy i notatki badawcze na etapie rozwoju. Pełne publikacje zostaną udostępnione w miarę postępów naszych programów badawczych.",
+      "items": [
+        {
+          "topic": "Energia",
+          "title": "Ewolucja przemysłowego zarządzania energią",
+          "excerpt": "Jak inteligentne systemy energetyczne transformują sposób, w jaki operacje przemysłowe monitorują, optymalizują i strategicznie planują zużycie energii.",
+          "date": "Perspektywa rozwojowa"
+        },
+        {
+          "topic": "Infrastruktura",
+          "title": "Inteligentna infrastruktura: poza łącznością",
+          "excerpt": "Prawdziwa inteligentna infrastruktura wykracza poza czujniki i sieci — wymaga zintegrowanej analityki, adaptacyjnego zarządzania i długoterminowego myślenia systemowego.",
+          "date": "Notatka badawcza"
+        },
+        {
+          "topic": "Technologia przemysłowa",
+          "title": "Innowacje przemysłowe w transformującej się gospodarce",
+          "excerpt": "Sektor przemysłowy stoi przed bezprecedensowymi wymaganiami dotyczącymi efektywności, zrównoważoności i modernizacji technologicznej. Strategiczne podejścia mają znaczenie.",
+          "date": "Perspektywa branżowa"
+        },
+        {
+          "topic": "Infrastruktura AI",
+          "title": "Przemysłowa AI: wymagania wdrożenia w rzeczywistych warunkach",
+          "excerpt": "Sztuczna inteligencja w środowiskach przemysłowych wymaga fundamentalnie innego podejścia niż aplikacje konsumenckie lub korporacyjne.",
+          "date": "Brief technologiczny"
+        },
+        {
+          "topic": "Transformacja cyfrowa",
+          "title": "Infrastruktura cyfrowa jako fundament przemysłowy",
+          "excerpt": "Platformy infrastruktury cyfrowej stają się operacyjnym kręgosłupem nowoczesnych systemów energetycznych i obiektów przemysłowych na całym świecie.",
+          "date": "Perspektywa rozwojowa"
+        },
+        {
+          "topic": "Zrównoważony rozwój",
+          "title": "Zrównoważone operacje w energii i infrastrukturze",
+          "excerpt": "Długoterminowa zrównoważoność w energii i infrastrukturze wymaga zintegrowanych podejść równoważących odpowiedzialność środowiskową z wydajnością operacyjną.",
+          "date": "Notatka badawcza"
+        },
+        {
+          "topic": "Inżynieria",
+          "title": "Doskonałość inżynieryjna w rozwoju infrastruktury",
+          "excerpt": "Projekty infrastrukturalne, które przetrwają, są budowane na inżynieryjnej rygorystyczności, dokładnym planowaniu i zaangażowaniu w niezawodność operacyjną.",
+          "date": "Perspektywa inżynieryjna"
+        },
+        {
+          "topic": "Inteligencja energetyczna",
+          "title": "Od danych energetycznych do strategicznej inteligencji",
+          "excerpt": "Przejście od surowych danych energetycznych do praktycznej inteligencji stanowi jedną z najważniejszych szans w nowoczesnym zarządzaniu energią.",
+          "date": "Brief technologiczny"
+        }
+      ]
+    },
+    "stayInformed": {
+      "title": "Bądź na bieżąco",
+      "description": "Zainteresowany naszymi perspektywami dotyczącymi energii, infrastruktury i technologii przemysłowej? Skontaktuj się z nami, aby omówić obszary badań i rozwój branży.",
+      "button": "Skontaktuj się"
+    },
+    "cta": {
+      "title": "Poznaj nasze kompetencje",
+      "description": "Dowiedz się więcej o naszej pracy w zakresie systemów energetycznych, technologii infrastrukturalnych i innowacji przemysłowych.",
+      "primaryLabel": "Poznaj nasze kompetencje",
+      "secondaryLabel": "O nas"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontakt",
+      "description": "Skontaktuj się z TVK Infrastructure & Energy Systems, aby omówić możliwości w zakresie infrastruktury i energii."
+    },
+    "hero": {
+      "eyebrow": "Kontakt",
+      "title": "Omów możliwości infrastrukturalne i energetyczne",
+      "subtitle": "Zapraszamy zapytania od organizacji zainteresowanych systemami energetycznymi, technologiami infrastrukturalnymi, rozwiązaniami przemysłowymi i partnerstwami strategicznymi."
+    },
+    "section": {
+      "title": "Skontaktuj się",
+      "intro": "Niezależnie od tego, czy reprezentujesz firmę energetyczną, operatora infrastruktury, grupę przemysłową, dostawcę technologii czy firmę inżynieryjną — zapraszamy do podzielenia się zainteresowaniem i rozpoczęcia rozmowy.",
+      "inquiryTypes": [
+        {
+          "title": "Zapytania o partnerstwo",
+          "description": "Organizacje poszukujące strategicznej współpracy, możliwości pilotażowych lub rozwoju długoterminowego partnerstwa."
+        },
+        {
+          "title": "Rozmowy technologiczne",
+          "description": "Dostawcy technologii i instytucje badawcze zainteresowane inteligencją energetyczną, analityką infrastrukturalną lub przemysłową AI."
+        },
+        {
+          "title": "Zapytania ogólne",
+          "description": "Pytania dotyczące TVK Infrastructure & Energy Systems, naszych kompetencji lub szerszego TVK Ecosystem."
+        }
+      ],
+      "companyName": "TVK Infrastructure & Energy Systems LTD",
+      "ecosystem": "Część TVK Ecosystem"
+    }
+  },
+  "contactForm": {
+    "interestAreas": [
+      "Systemy energetyczne",
+      "Technologie infrastrukturalne",
+      "Rozwiązania przemysłowe",
+      "Inteligencja energetyczna",
+      "Infrastruktura AI",
+      "Partnerstwa strategiczne",
+      "Zapytanie ogólne"
+    ],
+    "success": {
+      "title": "Zapytanie otrzymane",
+      "message": "Dziękujemy za zainteresowanie TVK Infrastructure & Energy Systems. Nasz zespół przeanalizuje zapytanie i odpowie odpowiednio."
+    },
+    "fields": {
+      "name": "Imię i nazwisko",
+      "company": "Firma",
+      "role": "Stanowisko",
+      "country": "Kraj",
+      "email": "E-mail",
+      "interest": "Obszar zainteresowania",
+      "message": "Wiadomość",
+      "required": "*"
+    },
+    "placeholders": {
+      "name": "Twoje imię i nazwisko",
+      "company": "Nazwa organizacji",
+      "role": "Twoje stanowisko",
+      "country": "Kraj działalności",
+      "email": "professional@company.com",
+      "interest": "Wybierz obszar",
+      "message": "Opisz swoje zapytanie, zainteresowanie partnerstwem lub możliwość projektu..."
+    },
+    "submit": "Omów możliwości infrastrukturalne i energetyczne"
+  }
+}

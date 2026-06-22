@@ -1,0 +1,777 @@
+{
+  "meta": {
+    "title": "TVK Infrastructure & Energy Systems LTD",
+    "titleTemplate": "%s | TVK Infrastructure & Energy Systems",
+    "description": "TVK Infrastructure & Energy Systems kehittää tulevaisuuteen suuntautuneita aloitteita energian, infrastruktuurin, teollisuusjärjestelmien ja strategisten teknologioiden alueilla."
+  },
+  "header": {
+    "brandMain": "TVK Infrastructure",
+    "brandSub": "& Energy Systems LTD",
+    "mainNavAria": "Päänavigaatio",
+    "mobileNavAria": "Mobiilinavigaatio",
+    "contact": "Yhteystiedot"
+  },
+  "footer": {
+    "description": "Kehittää tulevaisuuteen suuntautuneita aloitteita energian, infrastruktuurin, teollisuusjärjestelmien ja strategisten teknologioiden alueilla TVK-ekosysteemissä.",
+    "capabilities": "Osaamisalueet",
+    "company": "Yritys",
+    "connect": "Ota yhteyttä",
+    "connectDescription": "Etsimme strategisia kumppanuuksia ja yhteistyömahdollisuuksia infrastruktuurin ja energian alueilla.",
+    "discussOpportunities": "Keskustele mahdollisuuksista →",
+    "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Kaikki oikeudet pidätetään.",
+    "ecosystem": "Osa TVK-ekosysteemiä"
+  },
+  "nav": {
+    "home": "Etusivu",
+    "about": "Tietoa meistä",
+    "energySystems": "Energiarjestelmät",
+    "infrastructure": "Infrastruktuuri",
+    "technology": "Teknologia",
+    "projects": "Hankkeet",
+    "strategicPartnerships": "Strategiset kumppanuudet",
+    "insights": "Näkemykset",
+    "contact": "Yhteystiedot"
+  },
+  "common": {
+    "learnMore": "Lue lisää →",
+    "contactUs": "Ota yhteyttä",
+    "exploreCapabilities": "Tutustu osaamisalueisiin",
+    "strategicPartnershipInquiry": "Strategisen kumppanuuden tiedustelu",
+    "aboutUs": "Tietoa meistä",
+    "capabilities": "Osaamisalueet",
+    "getInTouch": "Ota yhteyttä",
+    "currentStage": "Nykyinen vaihe",
+    "inDevelopment": "Kehityksessä",
+    "active": "Aktiivinen",
+    "preparation": "Valmistelu"
+  },
+  "coreAreas": [
+    {
+      "title": "Energiarjestelmät",
+      "description": "Uusiutuvan energian integrointi, teolliset energiaratkaisut ja älykkäät energianhallintakehykset.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Infrastruktuuriteknologiat",
+      "description": "Älykäs infrastruktuuri, digitaaliset järjestelmät ja kriittisen infrastruktuurin teknologian kehitys.",
+      "href": "/infrastructure"
+    },
+    {
+      "title": "Energiatiedustelu",
+      "description": "Seuranta-, analytiikka- ja optimointikyvykkyydet monimutkaisissa energiaympäristöissä.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Teollinen innovaatio",
+      "description": "Edistyneet teollisuusjärjestelmät, automaatio ja seuraavan sukupolven operatiiviset teknologiat.",
+      "href": "/technology"
+    },
+    {
+      "title": "Tekoälyinfrastruktuuri",
+      "description": "Teollinen tekoäly, infrastruktuurianalytiikka ja älykkään automaation tutkimus.",
+      "href": "/technology"
+    },
+    {
+      "title": "Strategiset investoinnit",
+      "description": "Pitkän aikavälin strategiset teknologia- ja teollisuuskyvykkyysinvestoinnit TVK-ekosysteemissä.",
+      "href": "/strategic-partnerships"
+    }
+  ],
+  "developmentStages": [
+    "Tutkimus",
+    "Kehitys",
+    "Hankkeen muodostaminen",
+    "Strategisten kumppanuuksien kehittäminen",
+    "Pilottiohjelmien valmistelu"
+  ],
+  "home": {
+    "meta": {
+      "title": "Etusivu",
+      "description": "TVK Infrastructure & Energy Systems kehittää tulevaisuuteen suuntautuneita aloitteita energian, infrastruktuurin, teollisuusjärjestelmien ja strategisten teknologioiden alueilla."
+    },
+    "hero": {
+      "eyebrow": "TVK Infrastructure & Energy Systems LTD",
+      "titleLine1": "Infrastruktuurin voimavarana.",
+      "titleLine2": "Tulevaisuuden mahdollistajana.",
+      "subtitle": "TVK Infrastructure & Energy Systems kehittää tulevaisuuteen suuntautuneita aloitteita energian, infrastruktuurin, teollisuusjärjestelmien ja strategisten teknologioiden alueilla.",
+      "exploreCapabilities": "Tutustu osaamisalueisiin",
+      "strategicPartnershipInquiry": "Strategisen kumppanuuden tiedustelu",
+      "tags": [
+        "Energiainfrastruktuuri",
+        "Infrastruktuuriverkot",
+        "Teollisuusjärjestelmät",
+        "Ohjauskeskukset"
+      ]
+    },
+    "coreAreas": {
+      "title": "Keskeiset painopistealueet",
+      "subtitle": "TVK Infrastructure & Energy Systems toimii kuudella toisiinsa liittyvällä osaamisalueella ja tukee pitkän aikavälin teollisia ja energiaan liittyviä aloitteita TVK-ekosysteemissä."
+    },
+    "longTerm": {
+      "title": "Rakennamme teollista kyvykkyyttä pitkällä aikavälillä",
+      "paragraph1": "Kehitämme perustaa energiajärjestelmille, infrastruktuuriteknologioille ja teollisille ratkaisuille, jotka vastaavat nykyaikaisten talouksien vaatimuksiin. Työmme kattaa tutkimuksen, kehityksen ja strategisten kumppanuuksien muodostamisen.",
+      "paragraph2": "Osana laajempaa TVK-ekosysteemiä yhdistämme insinööriosaamisen, teknologiatutkimuksen ja strategiset sijoitusnäkökulmat kestävän teollisen kasvun tueksi."
+    },
+    "stats": [
+      {
+        "stat": "Energia",
+        "label": "Järjestelmät ja tiedustelu",
+        "desc": "Uusiutuvan energian integroinnin, seurannan ja optimoinnin kehykset."
+      },
+      {
+        "stat": "Infrastruktuuri",
+        "label": "Teknologiat ja alustat",
+        "desc": "Älykkään, digitaalisen ja kriittisen infrastruktuurin kehitys."
+      },
+      {
+        "stat": "Teollisuus",
+        "label": "Ratkaisut ja innovaatio",
+        "desc": "Automaatio, analytiikka ja seuraavan sukupolven teollisuusjärjestelmät."
+      }
+    ],
+    "cta": {
+      "title": "Tutustu strategiseen yhteistyöhön",
+      "description": "Käymme aktiivisesti vuoropuhelua energiayhtiöiden, infrastruktuurin operaattoreiden, teollisuusryhmien ja teknologiatoimittajien kanssa pilottiohjelmien ja pitkän aikavälin kumppanuuksien kehittämiseksi.",
+      "primaryLabel": "Strategisen kumppanuuden tiedustelu",
+      "secondaryLabel": "Ota yhteyttä"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Tietoa meistä",
+      "description": "Tutustu TVK Infrastructure & Energy Systems -yhtiöön — tehtäväämme, visioomme ja pitkän aikavälin teollista strategiaamme."
+    },
+    "hero": {
+      "eyebrow": "Tietoa meistä",
+      "title": "Rakennamme tulevaisuuden infrastruktuuria ja energiaa",
+      "subtitle": "TVK Infrastructure & Energy Systems LTD edustaa infrastruktuurin, energian, teollisuusjärjestelmien ja strategisten teknologiainvestointien toimintaa TVK-ekosysteemissä."
+    },
+    "mission": {
+      "title": "Tehtävämme",
+      "subtitle": "Kehittää ja tukea aloitteita, jotka vahvistavat energiajärjestelmiä, edistävät infrastruktuuriteknologioita ja mahdollistavat pitkän aikavälin teollisen kyvykkyyden.",
+      "missionLabel": "Tehtävä",
+      "missionTitle": "Kestävän teollisen kasvun edistäminen",
+      "missionDescription": "Keskitymme energia- ja infrastruktuurialoitteiden tutkimukseen, kehitykseen ja strategiseen muodostamiseen, jotka palvelevat teollisia talouksia. Tehtävämme perustuu insinöörimäiseen erinomaisuuteen, teknologiseen tarkkuuteen ja pitkän aikavälin arvonluontiin.",
+      "visionLabel": "Visio",
+      "visionTitle": "Globaali infrastruktuuri- ja energia-alusta",
+      "visionDescription": "Näemme TVK Infrastructure & Energy Systemsin tunnustettuna toimijana globaalissa energia- ja infrastruktuurikentässä — tukien älykkäitä järjestelmiä, kestävää toimintaa ja strategisia teollisia kumppanuuksia eri markkinoilla."
+    },
+    "strategy": {
+      "title": "Pitkän aikavälin teollinen strategia",
+      "subtitle": "Lähestymistapamme on määritelty kärsivällisyydellä, teknisellä syvyydellä ja strategisella yhtenevyydellä teollisiin kumppaneihin.",
+      "items": [
+        {
+          "title": "Teknologia- ja infrastruktuuripainotus",
+          "description": "Keskitymme alueisiin, joilla teknologia suoraan mahdollistaa infrastruktuurin suorituskyvyn — energiatiedustelu, seurantajärjestelmät, automaatio ja digitaaliset infrastruktuurialustat."
+        },
+        {
+          "title": "Kansainvälinen näkökulma",
+          "description": "Strateginen näkemyksemme kattaa globaalit energiamarkkinat, rajat ylittävän infrastruktuurin kehittämisen ja kansainväliset kumppanuusmahdollisuudet teollisten ja julkisten organisaatioiden kanssa."
+        },
+        {
+          "title": "Ekosysteemi-integraatio",
+          "description": "Osana TVK-ekosysteemiä hyödynnämme yhteistä asiantuntemusta teknologian, sijoittamisen ja teollisuuden aloilla monitieteistä kyvykkyyttä vaativien mahdollisuuksien tavoittelemiseksi."
+        },
+        {
+          "title": "Tutkimuslähtöinen kehitys",
+          "description": "Nykyiset toimintamme keskittyvät tutkimukseen, kehitykseen ja hankkeiden muodostamiseen — rakentaen tekniset ja organisatoriset perustat tuleville operatiivisille aloitteille."
+        },
+        {
+          "title": "Kumppanuus ensin",
+          "description": "Priorisoimme strategisia kumppanuuksia vakiintuneiden energiayhtiöiden, infrastruktuurin operaattoreiden ja insinööritoimistojen kanssa kyvykkyyden kehittämisen ja pilottivalmistelun nopeuttamiseksi."
+        },
+        {
+          "title": "Kestävä toiminta",
+          "description": "Ympäristövastuu ja operatiivinen tehokkuus ovat integroitu osa lähestymistapaamme energiajärjestelmiin ja infrastruktuuriteknologian kehitykseen."
+        }
+      ]
+    },
+    "developmentStage": {
+      "title": "Nykyinen kehitysvaihe",
+      "paragraph1": "TVK Infrastructure & Energy Systems on tällä hetkellä aktiivisessa kehitys- ja kumppanuusrakentamisvaiheessa. Teemme tutkimusta, muotoilemme hankkeiden konsepteja ja käymme vuoropuhelua potentiaalisten strategisten kumppaneiden kanssa energia- ja infrastruktuurisektoreilla.",
+      "paragraph2": "Tämä vaihe heijastaa sitoutumistamme kyvykkyyden harkittuun rakentamiseen — varmistaen, että jokainen aloite on teknisesti vankka, strategisesti linjassa ja asemoitu pitkän aikavälin teolliseen vaikutukseen."
+    },
+    "cta": {
+      "title": "Ryhdy kumppaniksemme",
+      "description": "Toivotamme tervetulleiksi tiedustelut organisaatioilta, jotka ovat kiinnostuneita energiajärjestelmistä, infrastruktuuriteknologioista ja teollisesta yhteistyöstä.",
+      "primaryLabel": "Ota yhteyttä",
+      "secondaryLabel": "Strategiset kumppanuudet"
+    }
+  },
+  "energySystems": {
+    "meta": {
+      "title": "Energiarjestelmät",
+      "description": "Uusiutuva energia, energiatiedustelu, seuranta, optimointi ja teolliset energiaratkaisut."
+    },
+    "hero": {
+      "eyebrow": "Osaamisalueet",
+      "title": "Energiarjestelmät",
+      "subtitle": "Kehitämme älykkäitä energiakehyksiä teollisiin ympäristöihin — uusiutuvan energian integroinnista edistyneeseen seurantaan ja optimointiin."
+    },
+    "capabilityAreas": {
+      "title": "Energian osaamisalueet",
+      "subtitle": "Energiarjestelmätyömme kattaa modernin energianhallinnan koko kirjon painottaen teollisia sovelluksia ja älykästä toimintaa.",
+      "cards": [
+        {
+          "title": "Uusiutuva energia",
+          "description": "Uusiutuvan energian integrointistrategioiden tutkimus ja kehitys teollisiin ja infrastruktuurisovelluksiin.",
+          "items": [
+            "Uusiutuvan energian integrointikehykset",
+            "Hybridienergiarjestelmien suunnittelu",
+            "Teolliset uusiutuvan energian sovellukset",
+            "Verkkovuorovaikutteiset energiaratkaisut"
+          ]
+        },
+        {
+          "title": "Energiatiedustelu",
+          "description": "Edistyneet analytiikka- ja tiedustelukyvykkyydet monimutkaisten energiaympäristöjen ymmärtämiseen ja optimointiin.",
+          "items": [
+            "Energiadatan analytiikka",
+            "Ennakoiva energiamallinnus",
+            "Kysynnän ennustaminen",
+            "Älykäs energiapäätösten tuki"
+          ]
+        },
+        {
+          "title": "Energian seuranta",
+          "description": "Kattavat seurantajärjestelmät reaaliaikaiseen näkyvyyteen energiavarojen ja kulutuskuvioiden osalta.",
+          "items": [
+            "Reaaliaikainen energian seuranta",
+            "Varojen suorituskyvyn seuranta",
+            "Kulutuskuvioiden analyysi",
+            "Monipaikkainen energianäkyvyys"
+          ]
+        },
+        {
+          "title": "Energian optimointi",
+          "description": "Järjestelmälliset lähestymistavat energiatehokkuuden parantamiseen, hävikin vähentämiseen ja operatiivisen energiasuorituskyvyn optimointiin.",
+          "items": [
+            "Operatiivisen tehokkuuden optimointi",
+            "Kuormanhallintastrategiat",
+            "Energiakustannusten vähentämisen kehykset",
+            "Jatkuvan parantamisen järjestelmät"
+          ]
+        },
+        {
+          "title": "Teolliset energiaratkaisut",
+          "description": "Räätälöidyt energiaratkaisut teollisen toiminnan ja tuotantoympäristöjen erityistarpeisiin.",
+          "items": [
+            "Teollinen energianhallinta",
+            "Prosessienergian optimointi",
+            "Laitostason energiajärjestelmät",
+            "Teollisen hiilidioksidipäästöjen vähentämisen polut"
+          ]
+        },
+        {
+          "title": "Tuleva EnergieMIND-integraatio",
+          "description": "Suunniteltu integraatio EnergieMINDin energiatiedustelukyvykkyyksien kanssa osana laajempaa TVK-teknologiaekosysteemiä.",
+          "items": [
+            "Energiatiedustelualustan tutkimus",
+            "Järjestelmien välisen integraation suunnittelu",
+            "Yhtenäinen energia-analytiikan visio",
+            "Ekosysteemin teknologinen yhtenevyys"
+          ]
+        }
+      ]
+    },
+    "approach": {
+      "title": "Kehityslähestymistapa",
+      "subtitle": "Energiarjestelmäaloitteemme ovat tällä hetkellä tutkimus- ja kehitysvaiheessa, ja pilottiohjelmien valmistelu on käynnissä.",
+      "paragraph1": "Rakennamme tekniset ja kumppanuuspohjat, jotka tarvitaan merkityksellisten energiaratkaisujen toimittamiseen. Tämä sisältää yhteistyön energiateknologiatoimittajien, teollisten operaattoreiden ja tutkimuslaitosten kanssa konseptien validoimiseksi ja tulevien pilottikäyttöönottojen valmistelemiseksi.",
+      "paragraph2": "Kaikki energia-aloitteet kehitetään pitkän aikavälin näkökulmasta — priorisoiden luotettavuutta, skaalautuvuutta ja teollisen tason suorituskykyä lyhyen aikavälin tulosten sijaan."
+    },
+    "cta": {
+      "title": "Yhteistyö energiajärjestelmissä",
+      "description": "Kiinnostunut energiatiedustelusta, seurannasta tai teollisista energiaratkaisuista? Toivotamme tervetulleiksi kumppanuuskeskustelut.",
+      "primaryLabel": "Keskustele energiamahdollisuuksista"
+    }
+  },
+  "infrastructure": {
+    "meta": {
+      "title": "Infrastruktuuri",
+      "description": "Infrastruktuuriteknologiat, älykäs infrastruktuuri, digitaaliset järjestelmät ja kriittisen infrastruktuurin kehitys."
+    },
+    "hero": {
+      "eyebrow": "Osaamisalueet",
+      "title": "Infrastruktuuriteknologiat",
+      "subtitle": "Edistämme nykyaikaisen infrastruktuurin perustana olevia teknologioita — älykkäistä järjestelmistä ja digitaalisista alustoista kriittisen infrastruktuurin resilienssiin."
+    },
+    "focusAreas": {
+      "title": "Infrastruktuurin painopistealueet",
+      "subtitle": "Kehitämme ja tutkimme infrastruktuuriteknologioita, jotka mahdollistavat älykkäämmät, kestävämmät ja tehokkaammat operatiiviset ympäristöt.",
+      "cards": [
+        {
+          "title": "Infrastruktuuriteknologiat",
+          "description": "Ydintutkimus ja -kehitys seuraavan sukupolven infrastruktuurijärjestelmille ja -alustoille.",
+          "items": [
+            "Infrastruktuurijärjestelmien arkkitehtuuri",
+            "Teknologiaintegraation kehykset",
+            "Modulaariset infrastruktuuriratkaisut",
+            "Sektorirajat ylittävä infrastruktuuritutkimus"
+          ]
+        },
+        {
+          "title": "Älykäs infrastruktuuri",
+          "description": "Älykkäät infrastruktuurijärjestelmät, jotka hyödyntävät yhteyksiä, antureita ja analytiikkaa operatiivisen suorituskyvyn parantamiseksi.",
+          "items": [
+            "Yhdistetyt infrastruktuurijärjestelmät",
+            "Anturiverkkojen integrointi",
+            "Reaaliaikainen infrastruktuurianalytiikka",
+            "Adaptiivinen infrastruktuurin hallinta"
+          ]
+        },
+        {
+          "title": "Digitaalinen infrastruktuuri",
+          "description": "Digitaaliset alustat ja järjestelmät, jotka tukevat infrastruktuurin toimintaa, hallintaa ja strategista päätöksentekoa.",
+          "items": [
+            "Digitaalisten kaksosten tutkimus",
+            "Infrastruktuuridatan alustat",
+            "Pilvi-reuna-infrastruktuurijärjestelmät",
+            "Digitaalinen toiminnan hallinta"
+          ]
+        },
+        {
+          "title": "Kriittinen infrastruktuuri",
+          "description": "Tutkimus ja kehitys, joka keskittyy kriittisten infrastruktuurijärjestelmien turvallisuuteen, luotettavuuteen ja resilienssiin.",
+          "items": [
+            "Infrastruktuurin resilienssikehykset",
+            "Operatiivisen jatkuvuuden suunnittelu",
+            "Kriittisten järjestelmien seuranta",
+            "Infrastruktuurin riskienhallinta"
+          ]
+        },
+        {
+          "title": "Tulevaisuuden infrastruktuurialustat",
+          "description": "Pitkän aikavälin tutkimus seuraavan sukupolven infrastruktuurialustoista, jotka määrittävät teollista toimintaa tulevina vuosikymmeninä.",
+          "items": [
+            "Alustan arkkitehtuuritutkimus",
+            "Yhteentoimivuusstandardien kehitys",
+            "Skaalautuvat infrastruktuurikehykset",
+            "Tulevaisuuteen valmis järjestelmäsuunnittelu"
+          ]
+        }
+      ]
+    },
+    "vision": {
+      "title": "Strateginen infrastruktuurin visio",
+      "paragraph1": "Infrastruktuuri on teollisten talouksien selkäranka. TVK Infrastructure & Energy Systems lähestyy infrastruktuuriteknologiaa sellaisella tarkkuudella ja pitkän aikavälin näkökulmalla, jota järjestelmät vaativat toimiakseen luotettavasti vuosikymmeniä.",
+      "paragraph2": "Nykyinen työmme keskittyy tunnistamaan teknologiat, kumppanuudet ja hankerakenteet, jotka mahdollistavat merkitykselliset infrastruktuuripanokset tulevina vuosina.",
+      "currentStageItems": [
+        "Teknologian tutkimus ja arviointi",
+        "Kumppaneiden tunnistaminen ja sitouttaminen",
+        "Hankkeiden konseptien kehitys",
+        "Pilottiohjelmien valmistelu"
+      ]
+    },
+    "cta": {
+      "title": "Yhteistyö infrastruktuurissa",
+      "description": "Etsimme kumppanuuksia infrastruktuurin operaattoreiden, teknologiatoimittajien ja insinööriorganisaatioiden kanssa.",
+      "primaryLabel": "Keskustele infrastruktuurimahdollisuuksista"
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Teknologia",
+      "description": "Teollinen tekoäly, infrastruktuurianalytiikka, seurantajärjestelmät, automaatio ja energiatiedustelun tutkimus."
+    },
+    "hero": {
+      "eyebrow": "Osaamisalueet",
+      "title": "Teknologia ja innovaatio",
+      "subtitle": "Soveltaa edistynyttä teknologiaa teollisiin ja infrastruktuurin haasteisiin — tekoälystä ja analytiikasta automaatioon ja älykkääseen seurantaan."
+    },
+    "focusAreas": {
+      "title": "Teknologian painopistealueet",
+      "subtitle": "Teknologiatutkimuksemme tukee energiajärjestelmien ja infrastruktuurin operatiivisia tarpeita — painottaen teollista luotettavuutta ja pitkän aikavälin sovellettavuutta.",
+      "cards": [
+        {
+          "title": "Teollinen tekoäly",
+          "description": "Tekoälysovellukset, jotka on suunniteltu teollisiin ympäristöihin — joissa tarkkuus, luotettavuus ja operatiivinen turvallisuus ovat ensiarvoisen tärkeitä.",
+          "items": [
+            "Teollisen koneoppimisen tutkimus",
+            "Tekoälypohjainen prosessin optimointi",
+            "Ennakoiva huoltointelligenssi",
+            "Teolliset päätöksentukijärjestelmät"
+          ]
+        },
+        {
+          "title": "Infrastruktuurianalytiikka",
+          "description": "Edistyneet analytiikka-alustat infrastruktuurin suorituskyvyn, käytön ja operatiivisen tehokkuuden ymmärtämiseksi.",
+          "items": [
+            "Infrastruktuurin suorituskykyanalytiikka",
+            "Operatiivisen datan tiedustelu",
+            "Trendianalyysi ja ennustaminen",
+            "Monivarojen analytiikkakehykset"
+          ]
+        },
+        {
+          "title": "Seurantajärjestelmät",
+          "description": "Kattavat seurantaratkaisut energiavarojen, infrastruktuurijärjestelmien ja teollisen toiminnan osalta.",
+          "items": [
+            "Moniparametriset seurantajärjestelmät",
+            "Hajautetut anturiverkot",
+            "Hälytys- ja ilmoituskehykset",
+            "Historiallisen datan hallinta"
+          ]
+        },
+        {
+          "title": "Automaatio",
+          "description": "Tutkimus automaatioteknologioista, jotka parantavat operatiivista tehokkuutta säilyttäen samalla ihmisen valvonnan ja turvallisuuden.",
+          "items": [
+            "Prosessiautomaation tutkimus",
+            "Ohjausjärjestelmien integrointi",
+            "Automatisoidut vastekehykset",
+            "Ihmisen ja koneen yhteistyöjärjestelmät"
+          ]
+        },
+        {
+          "title": "Energiatiedustelu",
+          "description": "Älykkäät järjestelmät, jotka muuttavat energiadatan toimintakelpoiseksi tiedoksi operatiiviseen ja strategiseen päätöksentekoon.",
+          "items": [
+            "Energia-analytiikka-alustat",
+            "Älykäs kuormanhallinta",
+            "Energiakuvioiden tunnistus",
+            "Strategisen energiasuunnittelun työkalut"
+          ]
+        },
+        {
+          "title": "Tulevaisuuden tutkimusaloitteet",
+          "description": "Tulevaisuuteen suuntautunut tutkimus nousevista teknologioista, joilla on potentiaalia energian ja infrastruktuurin aloilla.",
+          "items": [
+            "Nousevien teknologioiden arviointi",
+            "Sovelletut tutkimusohjelmat",
+            "Akateeminen ja teollinen yhteistyö",
+            "Teknologian valmiusasteen arviointi"
+          ]
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Teknologiafilosofia",
+      "paragraph1": "Energian ja infrastruktuurin teknologian on täytettävä korkeimmat luotettavuuden ja operatiivisen soveltuvuuden standardit. Emme tavoittele teknologiaa teknologian itsensä vuoksi — jokainen tutkimusaloite arvioidaan sen potentiaalin perusteella tuottaa mitattavaa teollista arvoa.",
+      "paragraph2": "Teknologian kehityksemme on tällä hetkellä tutkimus- ja kumppanuusmuodostamisvaiheessa, ja pilottiohjelmakonseptit ovat kehityksessä useilla osaamisalueilla."
+    },
+    "cta": {
+      "title": "Teknologiayhteistyö",
+      "description": "Toivotamme tervetulleiksi sitoutumisen teknologiatoimittajilta, tutkimuslaitoksilta ja teollisilta organisaatioilta.",
+      "primaryLabel": "Keskustele teknologiamahdollisuuksista"
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Hankkeet",
+      "description": "Energia-, infrastruktuuri-, teollisuus- ja tutkimusaloitteet kehityksessä TVK Infrastructure & Energy Systems -yhtiössä."
+    },
+    "hero": {
+      "eyebrow": "Hankkeet",
+      "title": "Kehityksessä olevat aloitteet",
+      "subtitle": "TVK Infrastructure & Energy Systems muodostaa aktiivisesti hankkeita energian, infrastruktuurin ja teollisuuden aloilla. Kaikki aloitteet ovat tällä hetkellä tutkimus-, kehitys- tai pilottivalmisteluvaiheessa."
+    },
+    "categories": {
+      "title": "Hankeluokat",
+      "subtitle": "Organisoimme työmme viiteen toisiinsa liittyvään luokkaan, joista jokainen edustaa erillistä kyvykkyyden kehittämisaluetta TVK-ekosysteemissä.",
+      "items": [
+        {
+          "category": "Energiahankkeet",
+          "status": "Kehityksessä",
+          "description": "Aloitteet, jotka keskittyvät uusiutuvan energian integrointiin, energiatiedustelualustoihin ja teollisen energianhallinnan kehyksiin.",
+          "areas": [
+            "Uusiutuvan energian integrointitutkimus",
+            "Energian seurantajärjestelmien kehitys",
+            "Teollisen energian optimoinnin kehykset",
+            "EnergieMIND-integraation suunnittelu"
+          ]
+        },
+        {
+          "category": "Infrastruktuurihankkeet",
+          "status": "Kehityksessä",
+          "description": "Hankkeet, jotka käsittelevät älykästä infrastruktuuria, digitaalisia alustoja ja kriittisen infrastruktuurin teknologiavaatimuksia.",
+          "areas": [
+            "Älykkäiden infrastruktuurijärjestelmien tutkimus",
+            "Digitaalisten infrastruktuurialustojen konseptit",
+            "Kriittisen infrastruktuurin resilienssitutkimukset",
+            "Infrastruktuurianalytiikan kehitys"
+          ]
+        },
+        {
+          "category": "Teollisuushankkeet",
+          "status": "Kehityksessä",
+          "description": "Teolliset ratkaisut, jotka kattavat automaation, seurannan ja seuraavan sukupolven operatiivisen teknologian tutkimuksen.",
+          "areas": [
+            "Teollisen automaation tutkimus",
+            "Prosessin seurantajärjestelmien kehitys",
+            "Teollisen tekoälyn sovellustutkimukset",
+            "Operatiivisen teknologian integrointi"
+          ]
+        },
+        {
+          "category": "Tutkimusaloitteet",
+          "status": "Aktiivinen",
+          "description": "Käynnissä olevat tutkimusohjelmat, jotka tutkivat nousevia teknologioita ja niiden sovelluksia energia- ja infrastruktuurikonteksteissa.",
+          "areas": [
+            "Energiatiedustelun tutkimus",
+            "Infrastruktuuriteknologian arviointi",
+            "Teollisen tekoälyn toteutettavuustutkimukset",
+            "Kestävyyden ja tehokkuuden tutkimus"
+          ]
+        },
+        {
+          "category": "Tulevat pilottiohjelmat",
+          "status": "Valmistelu",
+          "description": "Pilottiohjelmakonseptit kehityksessä yhteistyössä potentiaalisten kumppaneiden kanssa energia- ja infrastruktuurisektoreilla.",
+          "areas": [
+            "Pilotin laajuuden määrittely",
+            "Kumppaneiden tunnistaminen ja sitouttaminen",
+            "Teknisen toteutettavuuden validointi",
+            "Käyttöönoton suunnittelukehykset"
+          ]
+        }
+      ]
+    },
+    "transparency": {
+      "title": "Avoimuus kehityksessä",
+      "paragraph1": "TVK Infrastructure & Energy Systems on aktiivisessa kehitysvaiheessa. Emme esitä valmiita tai operatiivisia hankkeita tässä vaiheessa — kaikki listatut aloitteet edustavat aitoa käynnissä olevaa työtä tutkimuksen, kehityksen ja kumppanuuksien muodostamisen alueilla.",
+      "paragraph2": "Hankkeiden edetessä pilottivalmistelun ja operatiivisen käyttöönoton kautta tämä sivu päivitetään heijastamaan merkityksellistä edistymistä ja tuloksia."
+    },
+    "cta": {
+      "title": "Yhteistyö tulevissa hankkeissa",
+      "description": "Etsimme kumppaneita pilottiohjelmien ja pitkän aikavälin aloitteiden yhteiskehittämiseen energian ja infrastruktuurin aloilla.",
+      "primaryLabel": "Strategisen kumppanuuden tiedustelu",
+      "secondaryLabel": "Ota yhteyttä"
+    }
+  },
+  "strategicPartnerships": {
+    "meta": {
+      "title": "Strategiset kumppanuudet",
+      "description": "Etsimme yhteistyötä energiayhtiöiden, infrastruktuurin operaattoreiden, teollisuusryhmien ja teknologiatoimittajien kanssa."
+    },
+    "hero": {
+      "eyebrow": "Kumppanuudet",
+      "title": "Strategiset kumppanuudet",
+      "subtitle": "Etsimme aktiivisesti yhteistyötä, pilottimahdollisuuksia ja strategisia kumppanuuksia organisaatioiden kanssa energia-, infrastruktuuri- ja teollisuussektoreilla."
+    },
+    "objectives": {
+      "title": "Kumppanuustavoitteet",
+      "subtitle": "Kumppanuuslähestymistapamme keskittyy pitkän aikavälin teollisten suhteiden rakentamiseen — ei sijoitusten keräämiseen. Etsimme yhteistyökumppaneita, jotka jakavat sitoutumisemme infrastruktuurin ja energian erinomaisuuteen.",
+      "intro": "TVK Infrastructure & Energy Systems on kumppanuusrakentamisvaiheessa. Toivotamme tervetulleiksi sitoutumisen organisaatioilta, jotka voivat tuoda teknistä asiantuntemusta, markkinapääsyä, operatiivista kyvykkyyttä tai strategista yhtenevyyttä kehittyviin aloitteisiimme.",
+      "collaborationAreas": [
+        "Yhteiset tutkimus- ja kehitysohjelmat",
+        "Pilottihankkeiden yhteiskehitys",
+        "Teknologiaintegraation kumppanuudet",
+        "Markkinapääsyn ja jakelun yhteistyö",
+        "Tiedon jakaminen ja tekninen vaihto",
+        "Pitkän aikavälin strategisten liittojen muodostaminen"
+      ]
+    },
+    "partners": {
+      "title": "Kohdeorganisaatiot",
+      "items": [
+        {
+          "title": "Energiayhtiöt",
+          "description": "Sähköyhtiöt, uusiutuvan energian kehittäjät ja energiateknologiayritykset, jotka etsivät yhteistyötä älykkäiden energiajärjestelmien ja optimoinnin alueilla."
+        },
+        {
+          "title": "Infrastruktuurin operaattorit",
+          "description": "Organisaatiot, jotka hallinnoivat kriittistä infrastruktuuria, liikenneverkkoja ja kaupunkijärjestelmiä ja ovat kiinnostuneita älykkäistä infrastruktuuriteknologioista."
+        },
+        {
+          "title": "Teollisuusryhmät",
+          "description": "Valmistavat ja teolliset yritykset, jotka tutkivat energiatehokkuutta, automaatiota ja seuraavan sukupolven operatiivisia teknologioita."
+        },
+        {
+          "title": "Julkiseen sektoriin liittyvät organisaatiot",
+          "description": "Julkisen sektorin toimijat ja viranomaisiin liittyvät organisaatiot, jotka ovat mukana infrastruktuurin kehittämisessä ja energiapolitiikan toteuttamisessa."
+        },
+        {
+          "title": "Teknologiatoimittajat",
+          "description": "Teknologiayritykset, joiden ratkaisut soveltuvat energiajärjestelmiin, infrastruktuurianalytiikkaan, seurantaan ja teolliseen automaatioon."
+        },
+        {
+          "title": "Insinööritoimistot",
+          "description": "Insinöörikonsulttiyritykset ja EPC-yritykset, joilla on asiantuntemusta energiajärjestelmissä, infrastruktuurin suunnittelussa ja teollisessa hanketoimituksessa."
+        },
+        {
+          "title": "Sijoitusyhteistyökumppanit",
+          "description": "Strategiset sijoittajat ja teolliset sijoitusryhmät, jotka ovat linjassa pitkän aikavälin infrastruktuuri- ja energiateknologian kehityksen kanssa."
+        }
+      ]
+    },
+    "engage": {
+      "title": "Miten sitoudut",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Alustava tiedustelu",
+          "description": "Lähetä kumppanuustiedustelu yhteystietolomakkeemme kautta kuvaamalla organisaatiosi, kiinnostusalueesi ja yhteistyötavoitteesi."
+        },
+        {
+          "step": "02",
+          "title": "Arviointi ja yhtenevyys",
+          "description": "Tiimimme käy tiedustelun läpi ja arvioi strategisen yhtenevyyden kehittyviin aloitteisiimme ja osaamisalueisiimme."
+        },
+        {
+          "step": "03",
+          "title": "Yhteistyökeskustelu",
+          "description": "Yhteensopivat kumppanit kutsutaan jäsenneltyihin keskusteluihin erityisten yhteistyömallien, pilottimahdollisuuksien ja pitkän aikavälin kumppanuuskehyksien tutkimiseksi."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Aloita kumppanuuskeskustelu",
+      "description": "Toivotamme tervetulleiksi tiedustelut organisaatioilta, jotka ovat kiinnostuneita energiajärjestelmistä, infrastruktuuriteknologioista ja teollisesta yhteistyöstä.",
+      "primaryLabel": "Strategisen kumppanuuden tiedustelu"
+    }
+  },
+  "insights": {
+    "meta": {
+      "title": "Näkemykset",
+      "description": "Näkökulmia energiaan, infrastruktuuriin, teolliseen teknologiaan, tekoälyinfrastruktuuriin ja insinööritaitoon TVK Infrastructure & Energy Systems -yhtiöltä."
+    },
+    "hero": {
+      "eyebrow": "Näkemykset",
+      "title": "Toimialan näkökulmat",
+      "subtitle": "Ajatusjohtajuutta ja tutkimusnäkökulmia energiasta, infrastruktuurista, teollisesta teknologiasta ja teollisuusjärjestelmien tulevaisuudesta."
+    },
+    "topics": {
+      "title": "Käsittelemämme aiheet",
+      "subtitle": "Näkemyksemme heijastavat TVK Infrastructure & Energy Systems -yhtiön keskeisiä alueita — tutkimuksen, toimiala-analyysin ja strategisen kehitystyön pohjalta.",
+      "filters": [
+        "Kaikki",
+        "Energia",
+        "Infrastruktuuri",
+        "Teollinen teknologia",
+        "Tekoälyinfrastruktuuri",
+        "Digitaalinen transformaatio",
+        "Kestävyys",
+        "Insinööritaito"
+      ],
+      "disclaimer": "Näkemykset edustavat kehitysvaiheen näkökulmia ja tutkimusmuistiinpanoja. Täydelliset julkaisut julkaistaan tutkimusohjelmien edetessä.",
+      "items": [
+        {
+          "topic": "Energia",
+          "title": "Teollisen energianhallinnan kehitys",
+          "excerpt": "Miten älykkäät energiajärjestelmät muuttavat tapaa, jolla teollinen toiminta seuraa, optimoi ja strategisoi energiankulutusta.",
+          "date": "Kehitysnäkökulma"
+        },
+        {
+          "topic": "Infrastruktuuri",
+          "title": "Älykäs infrastruktuuri: Yhteyksien tuolla puolen",
+          "excerpt": "Todellinen älykäs infrastruktuuri ulottuu antureiden ja verkkojen ulkopuolelle — se vaatii integroitua analytiikkaa, adaptiivista hallintaa ja pitkän aikavälin järjestelmäajattelua.",
+          "date": "Tutkimusmuistiinpano"
+        },
+        {
+          "topic": "Teollinen teknologia",
+          "title": "Teollinen innovaatio muuttuvassa taloudessa",
+          "excerpt": "Teollisuussektori kohtaa ennennäkemättömiä vaatimuksia tehokkuudelle, kestävyydelle ja teknologiselle modernisoinnille. Strategiset lähestymistavat ovat ratkaisevia.",
+          "date": "Toimialan näkökulma"
+        },
+        {
+          "topic": "Tekoälyinfrastruktuuri",
+          "title": "Teollinen tekoäly: Vaatimukset todellisen käyttöönoton osalta",
+          "excerpt": "Tekoäly teollisissa ympäristöissä vaatii perustavanlaatuisesti erilaisen lähestymistavan kuin kuluttaja- tai yritysohjelmistosovellukset.",
+          "date": "Teknologiakatsaus"
+        },
+        {
+          "topic": "Digitaalinen transformaatio",
+          "title": "Digitaalinen infrastruktuuri teollisena perustana",
+          "excerpt": "Digitaaliset infrastruktuurialustat ovat muodostumassa modernien energiajärjestelmien ja teollisuuslaitosten operatiiviseksi selkärangaksi maailmanlaajuisesti.",
+          "date": "Kehitysnäkökulma"
+        },
+        {
+          "topic": "Kestävyys",
+          "title": "Kestävä toiminta energiassa ja infrastruktuurissa",
+          "excerpt": "Pitkän aikavälin kestävyys energiassa ja infrastruktuurissa vaatii integroituja lähestymistapoja, jotka tasapainottavat ympäristövastuun operatiivisen suorituskyvyn kanssa.",
+          "date": "Tutkimusmuistiinpano"
+        },
+        {
+          "topic": "Insinööritaito",
+          "title": "Insinöörimäinen erinomaisuus infrastruktuurin kehittämisessä",
+          "excerpt": "Infrastruktuurihankkeet, jotka kestävät aikaa, rakentuvat insinöörimäiselle tarkkuudelle, perusteelliselle suunnittelulle ja sitoutumiselle operatiiviselle luotettavuudelle.",
+          "date": "Insinöörinäkökulma"
+        },
+        {
+          "topic": "Energiatiedustelu",
+          "title": "Energiadatasta strategiseen tiedusteluun",
+          "excerpt": "Siirtymä raa'asta energiadatasta toimintakelpoiseen tiedusteluun edustaa yhtä merkittävimmistä mahdollisuuksista modernissa energianhallinnassa.",
+          "date": "Teknologiakatsaus"
+        }
+      ]
+    },
+    "stayInformed": {
+      "title": "Pysy ajan tasalla",
+      "description": "Kiinnostunut näkemyksistämme energiasta, infrastruktuurista ja teollisesta teknologiasta? Ota yhteyttä keskustellaksesi tutkimusalueista ja toimialan kehityksestä.",
+      "button": "Ota yhteyttä"
+    },
+    "cta": {
+      "title": "Tutustu osaamisalueisiimme",
+      "description": "Lue lisää työstämme energiajärjestelmissä, infrastruktuuriteknologioissa ja teollisessa innovaatiossa.",
+      "primaryLabel": "Tutustu osaamisalueisiin",
+      "secondaryLabel": "Tietoa meistä"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Yhteystiedot",
+      "description": "Ota yhteyttä TVK Infrastructure & Energy Systems -yhtiöön keskustellaksesi infrastruktuuri- ja energiamahdollisuuksista."
+    },
+    "hero": {
+      "eyebrow": "Yhteystiedot",
+      "title": "Keskustele infrastruktuuri- ja energiamahdollisuuksista",
+      "subtitle": "Toivotamme tervetulleiksi tiedustelut organisaatioilta, jotka ovat kiinnostuneita energiajärjestelmistä, infrastruktuuriteknologioista, teollisista ratkaisuista ja strategisista kumppanuuksista."
+    },
+    "section": {
+      "title": "Ota yhteyttä",
+      "intro": "Edustatpa energiayhtiötä, infrastruktuurin operaattoria, teollisuusryhmää, teknologiatoimittajaa tai insinööritoimistoa — kutsumme sinut jakamaan kiinnostuksesi ja aloittamaan keskustelun.",
+      "inquiryTypes": [
+        {
+          "title": "Kumppanuustiedustelut",
+          "description": "Organisaatiot, jotka etsivät strategista yhteistyötä, pilottimahdollisuuksia tai pitkän aikavälin kumppanuuden kehittämistä."
+        },
+        {
+          "title": "Teknologiakeskustelut",
+          "description": "Teknologiatoimittajat ja tutkimuslaitokset, jotka ovat kiinnostuneita energiatiedustelusta, infrastruktuurianalytiikasta tai teollisesta tekoälystä."
+        },
+        {
+          "title": "Yleiset tiedustelut",
+          "description": "Kysymykset TVK Infrastructure & Energy Systems -yhtiöstä, osaamisalueistamme tai laajemmasta TVK-ekosysteemistä."
+        }
+      ],
+      "companyName": "TVK Infrastructure & Energy Systems LTD",
+      "ecosystem": "Osa TVK-ekosysteemiä"
+    }
+  },
+  "contactForm": {
+    "interestAreas": [
+      "Energiarjestelmät",
+      "Infrastruktuuriteknologiat",
+      "Teolliset ratkaisut",
+      "Energiatiedustelu",
+      "Tekoälyinfrastruktuuri",
+      "Strategiset kumppanuudet",
+      "Yleinen tiedustelu"
+    ],
+    "success": {
+      "title": "Tiedustelu vastaanotettu",
+      "message": "Kiitos kiinnostuksestasi TVK Infrastructure & Energy Systems -yhtiötä kohtaan. Tiimimme käy tiedustelun läpi ja vastaa asianmukaisesti."
+    },
+    "fields": {
+      "name": "Nimi",
+      "company": "Yritys",
+      "role": "Rooli",
+      "country": "Maa",
+      "email": "Sähköposti",
+      "interest": "Kiinnostusalue",
+      "message": "Viesti",
+      "required": "*"
+    },
+    "placeholders": {
+      "name": "Koko nimesi",
+      "company": "Organisaation nimi",
+      "role": "Asemasi",
+      "country": "Toimintamaa",
+      "email": "ammattilainen@yritys.fi",
+      "interest": "Valitse alue",
+      "message": "Kuvaile tiedusteluasi, kumppanuuskiinnostustasi tai hankemahdollisuutta..."
+    },
+    "submit": "Keskustele infrastruktuuri- ja energiamahdollisuuksista"
+  }
+}

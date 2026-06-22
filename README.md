@@ -27,6 +27,14 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Languages
+
+The site supports **25 languages** with ready-made translations (no Google Translate):
+
+English, Deutsch, Français, Español, Italiano, Português, Nederlands, Polski, Русский, العربية, 中文, 日本語, 한국어, हिन्दी, Türkçe, Svenska, Norsk, Dansk, Suomi, Čeština, Română, Magyar, Ελληνικά, Bahasa Indonesia, Tiếng Việt
+
+Use the language dropdown in the header to switch. URLs follow `/en/`, `/de/about`, etc.
+
 ## Deployment
 
 ### Vercel (recommended)

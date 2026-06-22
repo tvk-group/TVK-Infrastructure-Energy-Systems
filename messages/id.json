@@ -1,0 +1,777 @@
+{
+  "meta": {
+    "title": "TVK Infrastructure & Energy Systems LTD",
+    "titleTemplate": "%s | TVK Infrastructure & Energy Systems",
+    "description": "TVK Infrastructure & Energy Systems mengembangkan inisiatif berorientasi masa depan di bidang energi, infrastruktur, sistem industri, dan teknologi strategis."
+  },
+  "header": {
+    "brandMain": "TVK Infrastructure",
+    "brandSub": "& Energy Systems LTD",
+    "mainNavAria": "Navigasi utama",
+    "mobileNavAria": "Navigasi seluler",
+    "contact": "Kontak"
+  },
+  "footer": {
+    "description": "Mengembangkan inisiatif berorientasi masa depan di bidang energi, infrastruktur, sistem industri, dan teknologi strategis dalam ekosistem TVK.",
+    "capabilities": "Kapabilitas",
+    "company": "Perusahaan",
+    "connect": "Terhubung",
+    "connectDescription": "Mencari kemitraan strategis dan peluang kolaborasi di bidang infrastruktur dan energi.",
+    "discussOpportunities": "Diskusikan Peluang →",
+    "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Hak cipta dilindungi.",
+    "ecosystem": "Bagian dari Ekosistem TVK"
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "energySystems": "Sistem Energi",
+    "infrastructure": "Infrastruktur",
+    "technology": "Teknologi",
+    "projects": "Proyek",
+    "strategicPartnerships": "Kemitraan Strategis",
+    "insights": "Wawasan",
+    "contact": "Kontak"
+  },
+  "common": {
+    "learnMore": "Pelajari lebih lanjut →",
+    "contactUs": "Hubungi Kami",
+    "exploreCapabilities": "Jelajahi Kapabilitas",
+    "strategicPartnershipInquiry": "Permintaan Kemitraan Strategis",
+    "aboutUs": "Tentang Kami",
+    "capabilities": "Kapabilitas",
+    "getInTouch": "Hubungi Kami",
+    "currentStage": "Tahap Saat Ini",
+    "inDevelopment": "Dalam Pengembangan",
+    "active": "Aktif",
+    "preparation": "Persiapan"
+  },
+  "coreAreas": [
+    {
+      "title": "Sistem Energi",
+      "description": "Integrasi energi terbarukan, solusi energi industri, dan kerangka manajemen energi cerdas.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Teknologi Infrastruktur",
+      "description": "Infrastruktur cerdas, sistem digital, dan pengembangan teknologi infrastruktur kritis.",
+      "href": "/infrastructure"
+    },
+    {
+      "title": "Kecerdasan Energi",
+      "description": "Kapabilitas pemantauan, analitik, dan optimasi untuk lingkungan energi yang kompleks.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Inovasi Industri",
+      "description": "Sistem industri canggih, otomasi, dan teknologi operasional generasi berikutnya.",
+      "href": "/technology"
+    },
+    {
+      "title": "Infrastruktur AI",
+      "description": "AI industri, analitik infrastruktur, dan penelitian otomasi cerdas.",
+      "href": "/technology"
+    },
+    {
+      "title": "Investasi Strategis",
+      "description": "Investasi teknologi strategis jangka panjang dan kapabilitas industri dalam ekosistem TVK.",
+      "href": "/strategic-partnerships"
+    }
+  ],
+  "developmentStages": [
+    "Penelitian",
+    "Pengembangan",
+    "Pembentukan Proyek",
+    "Pengembangan Kemitraan Strategis",
+    "Persiapan Pilot"
+  ],
+  "home": {
+    "meta": {
+      "title": "Beranda",
+      "description": "TVK Infrastructure & Energy Systems mengembangkan inisiatif berorientasi masa depan di bidang energi, infrastruktur, sistem industri, dan teknologi strategis."
+    },
+    "hero": {
+      "eyebrow": "TVK Infrastructure & Energy Systems LTD",
+      "titleLine1": "Menggerakkan Infrastruktur.",
+      "titleLine2": "Memungkinkan Masa Depan.",
+      "subtitle": "TVK Infrastructure & Energy Systems mengembangkan inisiatif berorientasi masa depan di bidang energi, infrastruktur, sistem industri, dan teknologi strategis.",
+      "exploreCapabilities": "Jelajahi Kapabilitas",
+      "strategicPartnershipInquiry": "Permintaan Kemitraan Strategis",
+      "tags": [
+        "Fasilitas Energi",
+        "Jaringan Infrastruktur",
+        "Sistem Industri",
+        "Pusat Kendali"
+      ]
+    },
+    "coreAreas": {
+      "title": "Area Fokus Utama",
+      "subtitle": "TVK Infrastructure & Energy Systems beroperasi di enam area kapabilitas yang saling terhubung, mendukung inisiatif industri dan energi jangka panjang dalam ekosistem TVK."
+    },
+    "longTerm": {
+      "title": "Membangun Kapabilitas Industri untuk Jangka Panjang",
+      "paragraph1": "Kami mengembangkan fondasi untuk sistem energi, teknologi infrastruktur, dan solusi industri yang memenuhi tuntutan ekonomi modern. Pekerjaan kami mencakup penelitian, pengembangan, dan pembentukan kemitraan strategis.",
+      "paragraph2": "Sebagai bagian dari ekosistem TVK yang lebih luas, kami menyatukan keahlian teknik, penelitian teknologi, dan perspektif investasi strategis untuk mendukung pertumbuhan industri berkelanjutan."
+    },
+    "stats": [
+      {
+        "stat": "Energi",
+        "label": "Sistem & Kecerdasan",
+        "desc": "Kerangka integrasi terbarukan, pemantauan, dan optimasi."
+      },
+      {
+        "stat": "Infrastruktur",
+        "label": "Teknologi & Platform",
+        "desc": "Pengembangan infrastruktur cerdas, digital, dan kritis."
+      },
+      {
+        "stat": "Industri",
+        "label": "Solusi & Inovasi",
+        "desc": "Otomasi, analitik, dan sistem industri generasi berikutnya."
+      }
+    ],
+    "cta": {
+      "title": "Jelajahi Kolaborasi Strategis",
+      "description": "Kami secara aktif berkolaborasi dengan perusahaan energi, operator infrastruktur, grup industri, dan penyedia teknologi untuk mengembangkan program pilot dan kemitraan jangka panjang.",
+      "primaryLabel": "Permintaan Kemitraan Strategis",
+      "secondaryLabel": "Hubungi Kami"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Tentang",
+      "description": "Pelajari tentang TVK Infrastructure & Energy Systems — misi, visi, dan strategi industri jangka panjang kami."
+    },
+    "hero": {
+      "eyebrow": "Tentang Kami",
+      "title": "Merekayasa Masa Depan Infrastruktur & Energi",
+      "subtitle": "TVK Infrastructure & Energy Systems LTD mewakili aktivitas infrastruktur, energi, sistem industri, dan investasi teknologi strategis dari ekosistem TVK."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "subtitle": "Mengembangkan dan mendukung inisiatif yang memperkuat sistem energi, memajukan teknologi infrastruktur, dan memungkinkan kapabilitas industri jangka panjang.",
+      "missionLabel": "Misi",
+      "missionTitle": "Menggerakkan Pertumbuhan Industri Berkelanjutan",
+      "missionDescription": "Kami berfokus pada penelitian, pengembangan, dan pembentukan strategis inisiatif energi dan infrastruktur yang melayani ekonomi industri. Misi kami berlandaskan pada keunggulan teknik, ketelitian teknologi, dan penciptaan nilai jangka panjang.",
+      "visionLabel": "Visi",
+      "visionTitle": "Platform Infrastruktur & Energi Global",
+      "visionDescription": "Kami membayangkan TVK Infrastructure & Energy Systems sebagai kontributor yang diakui dalam lanskap energi dan infrastruktur global — mendukung sistem cerdas, operasi berkelanjutan, dan kemitraan industri strategis di berbagai pasar."
+    },
+    "strategy": {
+      "title": "Strategi Industri Jangka Panjang",
+      "subtitle": "Pendekatan kami ditentukan oleh kesabaran, kedalaman teknis, dan keselarasan strategis dengan mitra industri.",
+      "items": [
+        {
+          "title": "Fokus Teknologi & Infrastruktur",
+          "description": "Kami berkonsentrasi pada area di mana teknologi secara langsung meningkatkan kinerja infrastruktur — kecerdasan energi, sistem pemantauan, otomasi, dan platform infrastruktur digital."
+        },
+        {
+          "title": "Perspektif Internasional",
+          "description": "Outlook strategis kami mencakup pasar energi global, pengembangan infrastruktur lintas batas, dan peluang kemitraan internasional dengan organisasi industri dan pemerintah."
+        },
+        {
+          "title": "Integrasi Ekosistem",
+          "description": "Sebagai bagian dari ekosistem TVK, kami memanfaatkan keahlian kolektif di bidang teknologi, investasi, dan industri untuk mengejar peluang yang memerlukan kapabilitas multidisiplin."
+        },
+        {
+          "title": "Pengembangan Berbasis Penelitian",
+          "description": "Aktivitas saat ini berpusat pada penelitian, pengembangan, dan pembentukan proyek — membangun fondasi teknis dan organisasi untuk inisiatif operasional masa depan."
+        },
+        {
+          "title": "Pendekatan Berbasis Kemitraan",
+          "description": "Kami memprioritaskan kemitraan strategis dengan perusahaan energi mapan, operator infrastruktur, dan firma teknik untuk mempercepat pengembangan kapabilitas dan persiapan pilot."
+        },
+        {
+          "title": "Operasi Berkelanjutan",
+          "description": "Tanggung jawab lingkungan dan efisiensi operasional tertanam dalam pendekatan kami terhadap pengembangan sistem energi dan teknologi infrastruktur."
+        }
+      ]
+    },
+    "developmentStage": {
+      "title": "Tahap Pengembangan Saat Ini",
+      "paragraph1": "TVK Infrastructure & Energy Systems saat ini berada dalam fase pengembangan aktif dan pembangunan kemitraan. Kami melakukan penelitian, membentuk konsep proyek, dan terlibat dengan calon mitra strategis di sektor energi dan infrastruktur.",
+      "paragraph2": "Tahap ini mencerminkan komitmen kami untuk membangun kapabilitas secara bijaksana — memastikan setiap inisiatif secara teknis kokoh, selaras secara strategis, dan diposisikan untuk dampak industri jangka panjang."
+    },
+    "cta": {
+      "title": "Bermitra dengan Kami",
+      "description": "Kami menyambut pertanyaan dari organisasi yang tertarik pada sistem energi, teknologi infrastruktur, dan kolaborasi industri.",
+      "primaryLabel": "Hubungi Kami",
+      "secondaryLabel": "Kemitraan Strategis"
+    }
+  },
+  "energySystems": {
+    "meta": {
+      "title": "Sistem Energi",
+      "description": "Energi terbarukan, kecerdasan energi, pemantauan, optimasi, dan solusi energi industri."
+    },
+    "hero": {
+      "eyebrow": "Kapabilitas",
+      "title": "Sistem Energi",
+      "subtitle": "Mengembangkan kerangka energi cerdas untuk lingkungan industri — dari integrasi terbarukan hingga pemantauan dan optimasi tingkat lanjut."
+    },
+    "capabilityAreas": {
+      "title": "Area Kapabilitas Energi",
+      "subtitle": "Pekerjaan sistem energi kami mencakup spektrum penuh manajemen energi modern, dengan fokus pada aplikasi industri dan operasi cerdas.",
+      "cards": [
+        {
+          "title": "Energi Terbarukan",
+          "description": "Penelitian dan pengembangan strategi integrasi energi terbarukan untuk aplikasi industri dan infrastruktur.",
+          "items": [
+            "Kerangka integrasi terbarukan",
+            "Desain sistem energi hibrida",
+            "Aplikasi terbarukan industri",
+            "Solusi energi interaktif jaringan"
+          ]
+        },
+        {
+          "title": "Kecerdasan Energi",
+          "description": "Kapabilitas analitik dan kecerdasan tingkat lanjut untuk memahami dan mengoptimalkan lingkungan energi yang kompleks.",
+          "items": [
+            "Analitik data energi",
+            "Pemodelan energi prediktif",
+            "Peramalan permintaan",
+            "Dukungan keputusan energi cerdas"
+          ]
+        },
+        {
+          "title": "Pemantauan Energi",
+          "description": "Sistem pemantauan komprehensif untuk visibilitas real-time pada aset energi dan pola konsumsi.",
+          "items": [
+            "Pemantauan energi real-time",
+            "Pelacakan kinerja aset",
+            "Analisis pola konsumsi",
+            "Visibilitas energi multi-lokasi"
+          ]
+        },
+        {
+          "title": "Optimasi Energi",
+          "description": "Pendekatan sistematis untuk meningkatkan efisiensi energi, mengurangi pemborosan, dan mengoptimalkan kinerja energi operasional.",
+          "items": [
+            "Optimasi efisiensi operasional",
+            "Strategi manajemen beban",
+            "Kerangka pengurangan biaya energi",
+            "Sistem perbaikan berkelanjutan"
+          ]
+        },
+        {
+          "title": "Solusi Energi Industri",
+          "description": "Solusi energi yang disesuaikan untuk tuntutan spesifik operasi industri dan lingkungan manufaktur.",
+          "items": [
+            "Manajemen energi industri",
+            "Optimasi energi proses",
+            "Sistem energi tingkat fasilitas",
+            "Jalur dekarbonisasi industri"
+          ]
+        },
+        {
+          "title": "Integrasi EnergieMIND Masa Depan",
+          "description": "Integrasi yang direncanakan dengan kapabilitas kecerdasan energi EnergieMIND sebagai bagian dari ekosistem teknologi TVK yang lebih luas.",
+          "items": [
+            "Penelitian platform kecerdasan energi",
+            "Perencanaan integrasi lintas sistem",
+            "Visi analitik energi terpadu",
+            "Keselarasan teknologi ekosistem"
+          ]
+        }
+      ]
+    },
+    "approach": {
+      "title": "Pendekatan Pengembangan",
+      "subtitle": "Inisiatif sistem energi kami saat ini dalam penelitian dan pengembangan, dengan persiapan program pilot yang sedang berlangsung.",
+      "paragraph1": "Kami membangun fondasi teknis dan kemitraan yang diperlukan untuk memberikan solusi energi yang bermakna. Ini termasuk keterlibatan dengan penyedia teknologi energi, operator industri, dan lembaga penelitian untuk memvalidasi konsep dan mempersiapkan penerapan pilot di masa depan.",
+      "paragraph2": "Semua inisiatif energi dikembangkan dengan perspektif jangka panjang — memprioritaskan keandalan, skalabilitas, dan kinerja tingkat industri di atas hasil jangka pendek."
+    },
+    "cta": {
+      "title": "Kolaborasi Sistem Energi",
+      "description": "Tertarik pada kecerdasan energi, pemantauan, atau solusi energi industri? Kami menyambut diskusi kemitraan.",
+      "primaryLabel": "Diskusikan Peluang Energi"
+    }
+  },
+  "infrastructure": {
+    "meta": {
+      "title": "Infrastruktur",
+      "description": "Teknologi infrastruktur, infrastruktur cerdas, sistem digital, dan pengembangan infrastruktur kritis."
+    },
+    "hero": {
+      "eyebrow": "Kapabilitas",
+      "title": "Teknologi Infrastruktur",
+      "subtitle": "Memajukan teknologi yang mendasari infrastruktur modern — dari sistem cerdas dan platform digital hingga ketahanan infrastruktur kritis."
+    },
+    "focusAreas": {
+      "title": "Area Fokus Infrastruktur",
+      "subtitle": "Kami mengembangkan dan meneliti teknologi infrastruktur yang memungkinkan lingkungan operasional yang lebih cerdas, tangguh, dan efisien.",
+      "cards": [
+        {
+          "title": "Teknologi Infrastruktur",
+          "description": "Penelitian dan pengembangan teknologi inti untuk sistem dan platform infrastruktur generasi berikutnya.",
+          "items": [
+            "Arsitektur sistem infrastruktur",
+            "Kerangka integrasi teknologi",
+            "Solusi infrastruktur modular",
+            "Penelitian infrastruktur lintas sektor"
+          ]
+        },
+        {
+          "title": "Infrastruktur Cerdas",
+          "description": "Sistem infrastruktur cerdas yang memanfaatkan konektivitas, sensor, dan analitik untuk kinerja operasional yang lebih baik.",
+          "items": [
+            "Sistem infrastruktur terhubung",
+            "Integrasi jaringan sensor",
+            "Analitik infrastruktur real-time",
+            "Manajemen infrastruktur adaptif"
+          ]
+        },
+        {
+          "title": "Infrastruktur Digital",
+          "description": "Platform dan sistem digital yang mendukung operasi, manajemen, dan pengambilan keputusan strategis infrastruktur.",
+          "items": [
+            "Penelitian digital twin",
+            "Platform data infrastruktur",
+            "Sistem infrastruktur cloud-edge",
+            "Manajemen operasi digital"
+          ]
+        },
+        {
+          "title": "Infrastruktur Kritis",
+          "description": "Penelitian dan pengembangan yang berfokus pada keamanan, keandalan, dan ketahanan sistem infrastruktur kritis.",
+          "items": [
+            "Kerangka ketahanan infrastruktur",
+            "Perencanaan kelangsungan operasional",
+            "Pemantauan sistem kritis",
+            "Manajemen risiko infrastruktur"
+          ]
+        },
+        {
+          "title": "Platform Infrastruktur Masa Depan",
+          "description": "Penelitian jangka panjang tentang platform infrastruktur generasi berikutnya yang akan menentukan operasi industri pada dekade mendatang.",
+          "items": [
+            "Penelitian arsitektur platform",
+            "Pengembangan standar interoperabilitas",
+            "Kerangka infrastruktur yang dapat diskalakan",
+            "Desain sistem siap masa depan"
+          ]
+        }
+      ]
+    },
+    "vision": {
+      "title": "Visi Infrastruktur Strategis",
+      "paragraph1": "Infrastruktur adalah tulang punggung ekonomi industri. TVK Infrastructure & Energy Systems mendekati teknologi infrastruktur dengan ketelitian dan perspektif jangka panjang yang dibutuhkan untuk sistem yang harus beroperasi andal selama puluhan tahun.",
+      "paragraph2": "Pekerjaan kami saat ini berfokus pada mengidentifikasi teknologi, kemitraan, dan struktur proyek yang akan memungkinkan kontribusi infrastruktur yang bermakna di tahun-tahun mendatang.",
+      "currentStageItems": [
+        "Penelitian dan penilaian teknologi",
+        "Identifikasi dan keterlibatan kemitraan",
+        "Pengembangan konsep proyek",
+        "Persiapan program pilot"
+      ]
+    },
+    "cta": {
+      "title": "Kolaborasi Infrastruktur",
+      "description": "Kami mencari kemitraan dengan operator infrastruktur, penyedia teknologi, dan organisasi teknik.",
+      "primaryLabel": "Diskusikan Peluang Infrastruktur"
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Teknologi",
+      "description": "AI industri, analitik infrastruktur, sistem pemantauan, otomasi, dan penelitian kecerdasan energi."
+    },
+    "hero": {
+      "eyebrow": "Kapabilitas",
+      "title": "Teknologi & Inovasi",
+      "subtitle": "Menerapkan teknologi canggih pada tantangan industri dan infrastruktur — dari AI dan analitik hingga otomasi dan pemantauan cerdas."
+    },
+    "focusAreas": {
+      "title": "Area Fokus Teknologi",
+      "subtitle": "Penelitian teknologi kami mendukung kebutuhan operasional sistem energi dan infrastruktur — dengan penekanan pada keandalan tingkat industri dan aplikabilitas jangka panjang.",
+      "cards": [
+        {
+          "title": "AI Industri",
+          "description": "Aplikasi kecerdasan buatan yang dirancang untuk lingkungan industri — di mana akurasi, keandalan, dan keselamatan operasional adalah yang utama.",
+          "items": [
+            "Penelitian machine learning industri",
+            "Optimasi proses berbasis AI",
+            "Kecerdasan pemeliharaan prediktif",
+            "Sistem dukungan keputusan industri"
+          ]
+        },
+        {
+          "title": "Analitik Infrastruktur",
+          "description": "Platform analitik canggih untuk memahami kinerja, utilisasi, dan efisiensi operasional infrastruktur.",
+          "items": [
+            "Analitik kinerja infrastruktur",
+            "Kecerdasan data operasional",
+            "Analisis tren dan peramalan",
+            "Kerangka analitik lintas aset"
+          ]
+        },
+        {
+          "title": "Sistem Pemantauan",
+          "description": "Solusi pemantauan komprehensif untuk aset energi, sistem infrastruktur, dan operasi industri.",
+          "items": [
+            "Sistem pemantauan multi-parameter",
+            "Jaringan sensor terdistribusi",
+            "Kerangka peringatan dan notifikasi",
+            "Manajemen data historis"
+          ]
+        },
+        {
+          "title": "Otomasi",
+          "description": "Penelitian teknologi otomasi yang meningkatkan efisiensi operasional sambil mempertahankan pengawasan dan keselamatan manusia.",
+          "items": [
+            "Penelitian otomasi proses",
+            "Integrasi sistem kontrol",
+            "Kerangka respons otomatis",
+            "Sistem kolaborasi manusia-mesin"
+          ]
+        },
+        {
+          "title": "Kecerdasan Energi",
+          "description": "Sistem cerdas yang mengubah data energi menjadi wawasan yang dapat ditindaklanjuti untuk pengambilan keputusan operasional dan strategis.",
+          "items": [
+            "Platform analitik energi",
+            "Manajemen beban cerdas",
+            "Pengenalan pola energi",
+            "Alat perencanaan energi strategis"
+          ]
+        },
+        {
+          "title": "Inisiatif Penelitian Masa Depan",
+          "description": "Penelitian berorientasi ke depan tentang teknologi baru dengan potensi aplikasi di bidang energi dan infrastruktur.",
+          "items": [
+            "Penilaian teknologi baru",
+            "Program penelitian terapan",
+            "Kolaborasi akademik dan industri",
+            "Evaluasi kesiapan teknologi"
+          ]
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Filosofi Teknologi",
+      "paragraph1": "Teknologi dalam energi dan infrastruktur harus memenuhi standar keandalan dan kesesuaian operasional tertinggi. Kami tidak mengejar teknologi demi teknologi — setiap inisiatif penelitian dievaluasi berdasarkan potensinya untuk memberikan nilai industri yang terukur.",
+      "paragraph2": "Pengembangan teknologi kami saat ini dalam tahap penelitian dan pembentukan kemitraan, dengan konsep program pilot yang sedang dikembangkan di berbagai area kapabilitas."
+    },
+    "cta": {
+      "title": "Kolaborasi Teknologi",
+      "description": "Kami menyambut keterlibatan dari penyedia teknologi, lembaga penelitian, dan organisasi industri.",
+      "primaryLabel": "Diskusikan Peluang Teknologi"
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Proyek",
+      "description": "Inisiatif energi, infrastruktur, industri, dan penelitian yang sedang dikembangkan di TVK Infrastructure & Energy Systems."
+    },
+    "hero": {
+      "eyebrow": "Proyek",
+      "title": "Inisiatif dalam Pengembangan",
+      "subtitle": "TVK Infrastructure & Energy Systems secara aktif membentuk proyek di bidang energi, infrastruktur, dan industri. Semua inisiatif saat ini dalam tahap penelitian, pengembangan, atau persiapan pilot."
+    },
+    "categories": {
+      "title": "Kategori Proyek",
+      "subtitle": "Kami mengorganisir pekerjaan kami ke dalam lima kategori yang saling terhubung, masing-masing mewakili area pengembangan kapabilitas yang berbeda dalam ekosistem TVK.",
+      "items": [
+        {
+          "category": "Proyek Energi",
+          "status": "Dalam Pengembangan",
+          "description": "Inisiatif yang berfokus pada integrasi energi terbarukan, platform kecerdasan energi, dan kerangka manajemen energi industri.",
+          "areas": [
+            "Penelitian integrasi energi terbarukan",
+            "Pengembangan sistem pemantauan energi",
+            "Kerangka optimasi energi industri",
+            "Perencanaan integrasi EnergieMIND"
+          ]
+        },
+        {
+          "category": "Proyek Infrastruktur",
+          "status": "Dalam Pengembangan",
+          "description": "Proyek yang menangani infrastruktur cerdas, platform digital, dan persyaratan teknologi infrastruktur kritis.",
+          "areas": [
+            "Penelitian sistem infrastruktur cerdas",
+            "Konsep platform infrastruktur digital",
+            "Studi ketahanan infrastruktur kritis",
+            "Pengembangan analitik infrastruktur"
+          ]
+        },
+        {
+          "category": "Proyek Industri",
+          "status": "Dalam Pengembangan",
+          "description": "Solusi industri yang mencakup otomasi, pemantauan, dan penelitian teknologi operasional generasi berikutnya.",
+          "areas": [
+            "Penelitian otomasi industri",
+            "Pengembangan sistem pemantauan proses",
+            "Studi aplikasi AI industri",
+            "Integrasi teknologi operasional"
+          ]
+        },
+        {
+          "category": "Inisiatif Penelitian",
+          "status": "Aktif",
+          "description": "Program penelitian berkelanjutan yang mengeksplorasi teknologi baru dan penerapannya dalam konteks energi dan infrastruktur.",
+          "areas": [
+            "Penelitian kecerdasan energi",
+            "Penilaian teknologi infrastruktur",
+            "Studi kelayakan AI industri",
+            "Penelitian keberlanjutan dan efisiensi"
+          ]
+        },
+        {
+          "category": "Program Pilot Masa Depan",
+          "status": "Persiapan",
+          "description": "Konsep program pilot yang sedang dikembangkan bersama calon kolaborator di sektor energi dan infrastruktur.",
+          "areas": [
+            "Definisi ruang lingkup pilot",
+            "Identifikasi dan keterlibatan mitra",
+            "Validasi kelayakan teknis",
+            "Kerangka perencanaan penerapan"
+          ]
+        }
+      ]
+    },
+    "transparency": {
+      "title": "Transparansi Pengembangan",
+      "paragraph1": "TVK Infrastructure & Energy Systems berada dalam fase pengembangan aktif. Kami tidak menyajikan proyek yang selesai atau operasional pada tahap ini — semua inisiatif yang tercantum mewakili pekerjaan nyata yang sedang berlangsung dalam penelitian, pengembangan, dan pembentukan kemitraan.",
+      "paragraph2": "Seiring proyek maju melalui persiapan pilot dan penerapan operasional, halaman ini akan diperbarui untuk mencerminkan kemajuan dan hasil yang bermakna."
+    },
+    "cta": {
+      "title": "Berkolaborasi pada Proyek Masa Depan",
+      "description": "Kami mencari mitra untuk mengembangkan program pilot dan inisiatif jangka panjang di bidang energi dan infrastruktur.",
+      "primaryLabel": "Permintaan Kemitraan Strategis",
+      "secondaryLabel": "Hubungi Kami"
+    }
+  },
+  "strategicPartnerships": {
+    "meta": {
+      "title": "Kemitraan Strategis",
+      "description": "Mencari kolaborasi dengan perusahaan energi, operator infrastruktur, grup industri, dan penyedia teknologi."
+    },
+    "hero": {
+      "eyebrow": "Kemitraan",
+      "title": "Kemitraan Strategis",
+      "subtitle": "Kami secara aktif mencari kolaborasi, peluang pilot, dan kemitraan strategis dengan organisasi di sektor energi, infrastruktur, dan industri."
+    },
+    "objectives": {
+      "title": "Tujuan Kemitraan",
+      "subtitle": "Pendekatan kemitraan kami berfokus pada membangun hubungan industri jangka panjang — bukan ajakan investasi. Kami mencari kolaborator yang berbagi komitmen kami terhadap keunggulan infrastruktur dan energi.",
+      "intro": "TVK Infrastructure & Energy Systems berada dalam fase pembangunan kemitraan. Kami menyambut keterlibatan dari organisasi yang dapat menyumbangkan keahlian teknis, akses pasar, kapabilitas operasional, atau keselarasan strategis pada inisiatif yang sedang kami kembangkan.",
+      "collaborationAreas": [
+        "Program penelitian dan pengembangan bersama",
+        "Pengembangan proyek pilot bersama",
+        "Kemitraan integrasi teknologi",
+        "Kolaborasi akses pasar dan distribusi",
+        "Berbagi pengetahuan dan pertukaran teknis",
+        "Pembentukan aliansi strategis jangka panjang"
+      ]
+    },
+    "partners": {
+      "title": "Organisasi Mitra Target",
+      "items": [
+        {
+          "title": "Perusahaan Energi",
+          "description": "Utilitas, pengembang energi terbarukan, dan perusahaan teknologi energi yang mencari kolaborasi pada sistem energi cerdas dan optimasi."
+        },
+        {
+          "title": "Operator Infrastruktur",
+          "description": "Organisasi yang mengelola infrastruktur kritis, jaringan transportasi, dan sistem perkotaan yang tertarik pada teknologi infrastruktur cerdas."
+        },
+        {
+          "title": "Grup Industri",
+          "description": "Perusahaan manufaktur dan industri yang mengeksplorasi efisiensi energi, otomasi, dan teknologi operasional generasi berikutnya."
+        },
+        {
+          "title": "Organisasi Terkait Pemerintah",
+          "description": "Entitas sektor publik dan organisasi afiliasi pemerintah yang terlibat dalam pengembangan infrastruktur dan implementasi kebijakan energi."
+        },
+        {
+          "title": "Penyedia Teknologi",
+          "description": "Perusahaan teknologi dengan solusi yang dapat diterapkan pada sistem energi, analitik infrastruktur, pemantauan, dan otomasi industri."
+        },
+        {
+          "title": "Firma Teknik",
+          "description": "Konsultan teknik dan firma EPC dengan keahlian dalam sistem energi, desain infrastruktur, dan pengiriman proyek industri."
+        },
+        {
+          "title": "Mitra Investasi",
+          "description": "Investor strategis dan grup investasi industri yang selaras dengan pengembangan teknologi infrastruktur dan energi jangka panjang."
+        }
+      ]
+    },
+    "engage": {
+      "title": "Cara Terlibat",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Permintaan Awal",
+          "description": "Kirimkan permintaan kemitraan melalui formulir kontak kami, menjelaskan organisasi Anda, area minat, dan tujuan kolaborasi."
+        },
+        {
+          "step": "02",
+          "title": "Penilaian & Keselarasan",
+          "description": "Tim kami meninjau permintaan dan menilai keselarasan strategis dengan inisiatif dan area kapabilitas yang sedang kami kembangkan."
+        },
+        {
+          "step": "03",
+          "title": "Diskusi Kolaborasi",
+          "description": "Mitra yang selaras diundang ke diskusi terstruktur untuk mengeksplorasi model kolaborasi spesifik, peluang pilot, dan kerangka kemitraan jangka panjang."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Mulai Diskusi Kemitraan",
+      "description": "Kami menyambut pertanyaan dari organisasi yang tertarik pada sistem energi, teknologi infrastruktur, dan kolaborasi industri.",
+      "primaryLabel": "Permintaan Kemitraan Strategis"
+    }
+  },
+  "insights": {
+    "meta": {
+      "title": "Wawasan",
+      "description": "Perspektif tentang energi, infrastruktur, teknologi industri, infrastruktur AI, dan teknik dari TVK Infrastructure & Energy Systems."
+    },
+    "hero": {
+      "eyebrow": "Wawasan",
+      "title": "Perspektif Industri",
+      "subtitle": "Kepemimpinan pemikiran dan perspektif penelitian tentang energi, infrastruktur, teknologi industri, dan masa depan sistem industri."
+    },
+    "topics": {
+      "title": "Topik yang Kami Bahas",
+      "subtitle": "Wawasan kami mencerminkan area inti TVK Infrastructure & Energy Systems — diinformasikan oleh penelitian, analisis industri, dan pekerjaan pengembangan strategis.",
+      "filters": [
+        "Semua",
+        "Energi",
+        "Infrastruktur",
+        "Teknologi Industri",
+        "Infrastruktur AI",
+        "Transformasi Digital",
+        "Keberlanjutan",
+        "Teknik"
+      ],
+      "disclaimer": "Wawasan mewakili perspektif tahap pengembangan dan catatan penelitian. Publikasi lengkap akan dirilis seiring kemajuan program penelitian kami.",
+      "items": [
+        {
+          "topic": "Energi",
+          "title": "Evolusi Manajemen Energi Industri",
+          "excerpt": "Bagaimana sistem energi cerdas mengubah cara operasi industri memantau, mengoptimalkan, dan merencanakan strategi seputar konsumsi energi.",
+          "date": "Perspektif Pengembangan"
+        },
+        {
+          "topic": "Infrastruktur",
+          "title": "Infrastruktur Cerdas: Melampaui Konektivitas",
+          "excerpt": "Infrastruktur cerdas yang sesungguhnya melampaui sensor dan jaringan — memerlukan analitik terintegrasi, manajemen adaptif, dan pemikiran sistem jangka panjang.",
+          "date": "Catatan Penelitian"
+        },
+        {
+          "topic": "Teknologi Industri",
+          "title": "Inovasi Industri dalam Ekonomi yang Bertransformasi",
+          "excerpt": "Sektor industri menghadapi tuntutan yang belum pernah terjadi sebelumnya untuk efisiensi, keberlanjutan, dan modernisasi teknologi. Pendekatan strategis sangat penting.",
+          "date": "Perspektif Industri"
+        },
+        {
+          "topic": "Infrastruktur AI",
+          "title": "AI Industri: Persyaratan untuk Penerapan Dunia Nyata",
+          "excerpt": "Kecerdasan buatan dalam lingkungan industri menuntut pendekatan yang secara fundamental berbeda dari aplikasi perangkat lunak konsumen atau perusahaan.",
+          "date": "Ringkasan Teknologi"
+        },
+        {
+          "topic": "Transformasi Digital",
+          "title": "Infrastruktur Digital sebagai Fondasi Industri",
+          "excerpt": "Platform infrastruktur digital menjadi tulang punggung operasional sistem energi modern dan fasilitas industri di seluruh dunia.",
+          "date": "Perspektif Pengembangan"
+        },
+        {
+          "topic": "Keberlanjutan",
+          "title": "Operasi Berkelanjutan dalam Energi & Infrastruktur",
+          "excerpt": "Keberlanjutan jangka panjang dalam energi dan infrastruktur memerlukan pendekatan terintegrasi yang menyeimbangkan tanggung jawab lingkungan dengan kinerja operasional.",
+          "date": "Catatan Penelitian"
+        },
+        {
+          "topic": "Teknik",
+          "title": "Keunggulan Teknik dalam Pengembangan Infrastruktur",
+          "excerpt": "Proyek infrastruktur yang bertahan dibangun di atas ketelitian teknik, perencanaan menyeluruh, dan komitmen terhadap keandalan operasional.",
+          "date": "Perspektif Teknik"
+        },
+        {
+          "topic": "Kecerdasan Energi",
+          "title": "Dari Data Energi ke Kecerdasan Strategis",
+          "excerpt": "Transisi dari data energi mentah ke kecerdasan yang dapat ditindaklanjuti merupakan salah satu peluang paling signifikan dalam manajemen energi modern.",
+          "date": "Ringkasan Teknologi"
+        }
+      ]
+    },
+    "stayInformed": {
+      "title": "Tetap Terinformasi",
+      "description": "Tertarik pada perspektif kami tentang energi, infrastruktur, dan teknologi industri? Hubungi kami untuk mendiskusikan area penelitian dan perkembangan industri.",
+      "button": "Hubungi Kami"
+    },
+    "cta": {
+      "title": "Jelajahi Kapabilitas Kami",
+      "description": "Pelajari lebih lanjut tentang pekerjaan kami dalam sistem energi, teknologi infrastruktur, dan inovasi industri.",
+      "primaryLabel": "Jelajahi Kapabilitas",
+      "secondaryLabel": "Tentang Kami"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontak",
+      "description": "Hubungi TVK Infrastructure & Energy Systems untuk mendiskusikan peluang infrastruktur dan energi."
+    },
+    "hero": {
+      "eyebrow": "Kontak",
+      "title": "Diskusikan Peluang Infrastruktur & Energi",
+      "subtitle": "Kami menyambut pertanyaan dari organisasi yang tertarik pada sistem energi, teknologi infrastruktur, solusi industri, dan kemitraan strategis."
+    },
+    "section": {
+      "title": "Hubungi Kami",
+      "intro": "Baik Anda mewakili perusahaan energi, operator infrastruktur, grup industri, penyedia teknologi, atau firma teknik — kami mengundang Anda untuk berbagi minat dan memulai percakapan.",
+      "inquiryTypes": [
+        {
+          "title": "Permintaan Kemitraan",
+          "description": "Organisasi yang mencari kolaborasi strategis, peluang pilot, atau pengembangan kemitraan jangka panjang."
+        },
+        {
+          "title": "Diskusi Teknologi",
+          "description": "Penyedia teknologi dan lembaga penelitian yang tertarik pada kecerdasan energi, analitik infrastruktur, atau AI industri."
+        },
+        {
+          "title": "Pertanyaan Umum",
+          "description": "Pertanyaan tentang TVK Infrastructure & Energy Systems, kapabilitas kami, atau ekosistem TVK yang lebih luas."
+        }
+      ],
+      "companyName": "TVK Infrastructure & Energy Systems LTD",
+      "ecosystem": "Bagian dari Ekosistem TVK"
+    }
+  },
+  "contactForm": {
+    "interestAreas": [
+      "Sistem Energi",
+      "Teknologi Infrastruktur",
+      "Solusi Industri",
+      "Kecerdasan Energi",
+      "Infrastruktur AI",
+      "Kemitraan Strategis",
+      "Pertanyaan Umum"
+    ],
+    "success": {
+      "title": "Permintaan Diterima",
+      "message": "Terima kasih atas minat Anda pada TVK Infrastructure & Energy Systems. Tim kami akan meninjau permintaan Anda dan merespons sesuai."
+    },
+    "fields": {
+      "name": "Nama",
+      "company": "Perusahaan",
+      "role": "Jabatan",
+      "country": "Negara",
+      "email": "Email",
+      "interest": "Area Minat",
+      "message": "Pesan",
+      "required": "*"
+    },
+    "placeholders": {
+      "name": "Nama lengkap Anda",
+      "company": "Nama organisasi",
+      "role": "Jabatan Anda",
+      "country": "Negara operasi",
+      "email": "professional@company.com",
+      "interest": "Pilih area",
+      "message": "Jelaskan permintaan Anda, minat kemitraan, atau peluang proyek..."
+    },
+    "submit": "Diskusikan Peluang Infrastruktur & Energi"
+  }
+}

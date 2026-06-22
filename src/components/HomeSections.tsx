@@ -1,5 +1,8 @@
 import Link from "next/link";
-import { coreAreas } from "@/lib/navigation";
+import type { Dictionary } from "@/i18n/get-dictionary";
+import type { Locale } from "@/i18n/config";
+import { getCoreAreas } from "@/i18n/navigation";
+import { localizedPath } from "@/i18n/routing";
 
 const icons: Record<string, React.ReactNode> = {
   energy: (
@@ -34,10 +37,17 @@ const icons: Record<string, React.ReactNode> = {
   ),
 };
 
-export function CoreAreas() {
+interface HomeSectionsProps {
+  locale: Locale;
+  dict: Dictionary;
+}
+
+export function CoreAreas({ locale, dict }: HomeSectionsProps) {
+  const areas = getCoreAreas(locale, dict);
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {coreAreas.map((area) => (
+      {areas.map((area) => (
         <Link
           key={area.title}
           href={area.href}
@@ -51,7 +61,7 @@ export function CoreAreas() {
           </h3>
           <p className="text-steel leading-relaxed flex-grow">{area.description}</p>
           <span className="mt-6 text-sm font-semibold text-energy group-hover:text-energy-light transition-colors">
-            Learn more →
+            {dict.common.learnMore}
           </span>
         </Link>
       ))}
@@ -59,14 +69,15 @@ export function CoreAreas() {
   );
 }
 
-export function Hero() {
+export function Hero({ locale, dict }: HomeSectionsProps) {
+  const t = dict.home.hero;
+
   return (
     <section className="relative min-h-[85vh] flex items-center overflow-hidden bg-navy">
       <div
         className="absolute inset-0"
         style={{
-          backgroundImage:
-            "url('https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1920&q=80')",
+          backgroundImage: "url('https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1920&q=80')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
@@ -77,49 +88,33 @@ export function Hero() {
 
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-24 sm:py-32 w-full">
         <div className="max-w-3xl">
-          <p className="text-sm font-semibold uppercase tracking-[0.25em] text-energy-light mb-6">
-            TVK Infrastructure & Energy Systems LTD
-          </p>
+          <p className="text-sm font-semibold uppercase tracking-[0.25em] text-energy-light mb-6">{t.eyebrow}</p>
           <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-semibold text-white leading-[1.1]">
-            Powering Infrastructure.
+            {t.titleLine1}
             <br />
-            <span className="text-energy-light">Enabling the Future.</span>
+            <span className="text-energy-light">{t.titleLine2}</span>
           </h1>
-          <p className="mt-8 text-lg sm:text-xl text-white/80 leading-relaxed max-w-2xl">
-            TVK Infrastructure & Energy Systems develops future-focused initiatives
-            across energy, infrastructure, industrial systems and strategic
-            technologies.
-          </p>
+          <p className="mt-8 text-lg sm:text-xl text-white/80 leading-relaxed max-w-2xl">{t.subtitle}</p>
           <div className="mt-10 flex flex-col sm:flex-row gap-4">
             <Link
-              href="/energy-systems"
+              href={localizedPath(locale, "/energy-systems")}
               className="inline-flex items-center justify-center rounded bg-energy px-8 py-4 text-sm font-semibold text-white transition-colors hover:bg-energy-light"
             >
-              Explore Capabilities
+              {t.exploreCapabilities}
             </Link>
             <Link
-              href="/strategic-partnerships"
+              href={localizedPath(locale, "/strategic-partnerships")}
               className="inline-flex items-center justify-center rounded border border-white/40 px-8 py-4 text-sm font-semibold text-white transition-colors hover:bg-white/10"
             >
-              Strategic Partnership Inquiry
+              {t.strategicPartnershipInquiry}
             </Link>
           </div>
         </div>
 
         <div className="mt-16 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-4xl">
-          {[
-            "Energy Facilities",
-            "Infrastructure Networks",
-            "Industrial Systems",
-            "Control Centers",
-          ].map((label) => (
-            <div
-              key={label}
-              className="border border-white/20 bg-white/5 backdrop-blur-sm px-4 py-3 text-center"
-            >
-              <span className="text-xs font-medium uppercase tracking-wider text-white/70">
-                {label}
-              </span>
+          {t.tags.map((label) => (
+            <div key={label} className="border border-white/20 bg-white/5 backdrop-blur-sm px-4 py-3 text-center">
+              <span className="text-xs font-medium uppercase tracking-wider text-white/70">{label}</span>
             </div>
           ))}
         </div>

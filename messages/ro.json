@@ -1,0 +1,777 @@
+{
+  "meta": {
+    "title": "TVK Infrastructure & Energy Systems LTD",
+    "titleTemplate": "%s | TVK Infrastructure & Energy Systems",
+    "description": "TVK Infrastructure & Energy Systems dezvoltă inițiative orientate spre viitor în domeniul energiei, infrastructurii, sistemelor industriale și tehnologiilor strategice."
+  },
+  "header": {
+    "brandMain": "TVK Infrastructure",
+    "brandSub": "& Energy Systems LTD",
+    "mainNavAria": "Navigare principală",
+    "mobileNavAria": "Navigare mobilă",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Dezvoltă inițiative orientate spre viitor în domeniul energiei, infrastructurii, sistemelor industriale și tehnologiilor strategice în cadrul ecosistemului TVK.",
+    "capabilities": "Domenii de competență",
+    "company": "Companie",
+    "connect": "Contactați-ne",
+    "connectDescription": "Căutăm parteneriate strategice și oportunități de colaborare în infrastructură și energie.",
+    "discussOpportunities": "Discutați oportunități →",
+    "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Toate drepturile rezervate.",
+    "ecosystem": "Parte a ecosistemului TVK"
+  },
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre noi",
+    "energySystems": "Sisteme energetice",
+    "infrastructure": "Infrastructură",
+    "technology": "Tehnologie",
+    "projects": "Proiecte",
+    "strategicPartnerships": "Parteneriate strategice",
+    "insights": "Perspective",
+    "contact": "Contact"
+  },
+  "common": {
+    "learnMore": "Aflați mai multe →",
+    "contactUs": "Contactați-ne",
+    "exploreCapabilities": "Explorați domeniile de competență",
+    "strategicPartnershipInquiry": "Solicitare de parteneriat strategic",
+    "aboutUs": "Despre noi",
+    "capabilities": "Domenii de competență",
+    "getInTouch": "Luați legătura",
+    "currentStage": "Etapa actuală",
+    "inDevelopment": "În dezvoltare",
+    "active": "Activ",
+    "preparation": "Pregătire"
+  },
+  "coreAreas": [
+    {
+      "title": "Sisteme energetice",
+      "description": "Integrarea energiei regenerabile, soluții energetice industriale și cadre inteligente de management al energiei.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Tehnologii de infrastructură",
+      "description": "Infrastructură inteligentă, sisteme digitale și dezvoltarea tehnologiilor pentru infrastructura critică.",
+      "href": "/infrastructure"
+    },
+    {
+      "title": "Inteligență energetică",
+      "description": "Capacități de monitorizare, analiză și optimizare pentru medii energetice complexe.",
+      "href": "/energy-systems"
+    },
+    {
+      "title": "Inovație industrială",
+      "description": "Sisteme industriale avansate, automatizare și tehnologii operaționale de nouă generație.",
+      "href": "/technology"
+    },
+    {
+      "title": "Infrastructură AI",
+      "description": "Inteligență artificială industrială, analiză de infrastructură și cercetare în automatizare inteligentă.",
+      "href": "/technology"
+    },
+    {
+      "title": "Investiții strategice",
+      "description": "Investiții strategice pe termen lung în tehnologie și capacități industriale în cadrul ecosistemului TVK.",
+      "href": "/strategic-partnerships"
+    }
+  ],
+  "developmentStages": [
+    "Cercetare",
+    "Dezvoltare",
+    "Formarea proiectelor",
+    "Dezvoltarea parteneriatelor strategice",
+    "Pregătirea programelor pilot"
+  ],
+  "home": {
+    "meta": {
+      "title": "Acasă",
+      "description": "TVK Infrastructure & Energy Systems dezvoltă inițiative orientate spre viitor în domeniul energiei, infrastructurii, sistemelor industriale și tehnologiilor strategice."
+    },
+    "hero": {
+      "eyebrow": "TVK Infrastructure & Energy Systems LTD",
+      "titleLine1": "Alimentăm infrastructura.",
+      "titleLine2": "Facilităm viitorul.",
+      "subtitle": "TVK Infrastructure & Energy Systems dezvoltă inițiative orientate spre viitor în domeniul energiei, infrastructurii, sistemelor industriale și tehnologiilor strategice.",
+      "exploreCapabilities": "Explorați domeniile de competență",
+      "strategicPartnershipInquiry": "Solicitare de parteneriat strategic",
+      "tags": [
+        "Facilități energetice",
+        "Rețele de infrastructură",
+        "Sisteme industriale",
+        "Centre de control"
+      ]
+    },
+    "coreAreas": {
+      "title": "Domenii principale de activitate",
+      "subtitle": "TVK Infrastructure & Energy Systems operează în șase domenii de competență interconectate, susținând inițiative industriale și energetice pe termen lung în cadrul ecosistemului TVK."
+    },
+    "longTerm": {
+      "title": "Construim capacitate industrială pe termen lung",
+      "paragraph1": "Dezvoltăm fundamentele pentru sisteme energetice, tehnologii de infrastructură și soluții industriale care răspund cerințelor economiilor moderne. Activitatea noastră cuprinde cercetare, dezvoltare și formarea de parteneriate strategice.",
+      "paragraph2": "Ca parte a ecosistemului TVK mai larg, reunim expertiză inginerească, cercetare tehnologică și perspective de investiții strategice pentru a susține creșterea industrială durabilă."
+    },
+    "stats": [
+      {
+        "stat": "Energie",
+        "label": "Sisteme și inteligență",
+        "desc": "Cadre pentru integrarea energiei regenerabile, monitorizare și optimizare."
+      },
+      {
+        "stat": "Infrastructură",
+        "label": "Tehnologii și platforme",
+        "desc": "Dezvoltarea infrastructurii inteligente, digitale și critice."
+      },
+      {
+        "stat": "Industrie",
+        "label": "Soluții și inovație",
+        "desc": "Automatizare, analiză și sisteme industriale de nouă generație."
+      }
+    ],
+    "cta": {
+      "title": "Explorați colaborarea strategică",
+      "description": "Colaborăm activ cu companii energetice, operatori de infrastructură, grupuri industriale și furnizori de tehnologie pentru a dezvolta programe pilot și parteneriate pe termen lung.",
+      "primaryLabel": "Solicitare de parteneriat strategic",
+      "secondaryLabel": "Contactați-ne"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Despre noi",
+      "description": "Aflați despre TVK Infrastructure & Energy Systems — misiunea, viziunea și strategia noastră industrială pe termen lung."
+    },
+    "hero": {
+      "eyebrow": "Despre noi",
+      "title": "Inginerie pentru viitorul infrastructurii și energiei",
+      "subtitle": "TVK Infrastructure & Energy Systems LTD reprezintă activitățile de infrastructură, energie, sisteme industriale și investiții strategice în tehnologie din cadrul ecosistemului TVK."
+    },
+    "mission": {
+      "title": "Misiunea noastră",
+      "subtitle": "Să dezvoltăm și să susținem inițiative care consolidează sistemele energetice, avansează tehnologiile de infrastructură și permit capacități industriale pe termen lung.",
+      "missionLabel": "Misiune",
+      "missionTitle": "Susținerea creșterii industriale durabile",
+      "missionDescription": "Ne concentrăm pe cercetarea, dezvoltarea și formarea strategică a inițiativelor energetice și de infrastructură care servesc economiilor industriale. Misiunea noastră este fundamentată pe excelență inginerească, rigoare tehnologică și creare de valoare pe termen lung.",
+      "visionLabel": "Viziune",
+      "visionTitle": "O platformă globală de infrastructură și energie",
+      "visionDescription": "Ne imaginăm TVK Infrastructure & Energy Systems ca un contributor recunoscut în peisajul global al energiei și infrastructurii — susținând sisteme inteligente, operațiuni durabile și parteneriate industriale strategice pe piețe diverse."
+    },
+    "strategy": {
+      "title": "Strategie industrială pe termen lung",
+      "subtitle": "Abordarea noastră este definită de răbdare, profunzime tehnică și aliniere strategică cu partenerii industriali.",
+      "items": [
+        {
+          "title": "Focus pe tehnologie și infrastructură",
+          "description": "Ne concentrăm pe domeniile în care tehnologia permite direct performanța infrastructurii — inteligență energetică, sisteme de monitorizare, automatizare și platforme digitale de infrastructură."
+        },
+        {
+          "title": "Perspectivă internațională",
+          "description": "Perspectiva noastră strategică cuprinde piețele energetice globale, dezvoltarea infrastructurii transfrontaliere și oportunități de parteneriat internațional cu organizații industriale și guvernamentale."
+        },
+        {
+          "title": "Integrare în ecosistem",
+          "description": "Ca parte a ecosistemului TVK, valorificăm expertiza colectivă în tehnologie, investiții și domenii industriale pentru a urmări oportunități care necesită capacități multidisciplinare."
+        },
+        {
+          "title": "Dezvoltare bazată pe cercetare",
+          "description": "Activitățile actuale sunt centrate pe cercetare, dezvoltare și formarea proiectelor — construind fundamentele tehnice și organizaționale pentru inițiative operaționale viitoare."
+        },
+        {
+          "title": "Abordare orientată spre parteneriat",
+          "description": "Prioritizăm parteneriatele strategice cu companii energetice consacrate, operatori de infrastructură și firme de inginerie pentru a accelera dezvoltarea capacităților și pregătirea programelor pilot."
+        },
+        {
+          "title": "Operațiuni durabile",
+          "description": "Responsabilitatea de mediu și eficiența operațională sunt integrate în abordarea noastră față de sistemele energetice și dezvoltarea tehnologiilor de infrastructură."
+        }
+      ]
+    },
+    "developmentStage": {
+      "title": "Etapa actuală de dezvoltare",
+      "paragraph1": "TVK Infrastructure & Energy Systems se află în prezent într-o fază activă de dezvoltare și construire a parteneriatelor. Desfășurăm cercetare, formulăm concepte de proiecte și colaborăm cu potențiali parteneri strategici din sectoarele energetic și de infrastructură.",
+      "paragraph2": "Această etapă reflectă angajamentul nostru de a construi capacități cu atenție — asigurând că fiecare inițiativă este solidă din punct de vedere tehnic, aliniată strategic și poziționată pentru un impact industrial pe termen lung."
+    },
+    "cta": {
+      "title": "Colaborați cu noi",
+      "description": "Primim cu plăcere solicitări de la organizații interesate de sisteme energetice, tehnologii de infrastructură și colaborare industrială.",
+      "primaryLabel": "Contactați-ne",
+      "secondaryLabel": "Parteneriate strategice"
+    }
+  },
+  "energySystems": {
+    "meta": {
+      "title": "Sisteme energetice",
+      "description": "Energie regenerabilă, inteligență energetică, monitorizare, optimizare și soluții energetice industriale."
+    },
+    "hero": {
+      "eyebrow": "Domenii de competență",
+      "title": "Sisteme energetice",
+      "subtitle": "Dezvoltăm cadre energetice inteligente pentru medii industriale — de la integrarea energiei regenerabile la monitorizare și optimizare avansată."
+    },
+    "capabilityAreas": {
+      "title": "Domenii de competență energetică",
+      "subtitle": "Activitatea noastră în sisteme energetice acoperă întregul spectru al managementului modern al energiei, cu accent pe aplicații industriale și operațiuni inteligente.",
+      "cards": [
+        {
+          "title": "Energie regenerabilă",
+          "description": "Cercetare și dezvoltare a strategiilor de integrare a energiei regenerabile pentru aplicații industriale și de infrastructură.",
+          "items": [
+            "Cadre de integrare a energiei regenerabile",
+            "Proiectarea sistemelor energetice hibride",
+            "Aplicații industriale ale energiei regenerabile",
+            "Soluții energetice interactive cu rețeaua"
+          ]
+        },
+        {
+          "title": "Inteligență energetică",
+          "description": "Capacități avansate de analiză și inteligență pentru înțelegerea și optimizarea mediilor energetice complexe.",
+          "items": [
+            "Analiză a datelor energetice",
+            "Modelare predictivă a energiei",
+            "Prognozarea cererii",
+            "Suport inteligent pentru decizii energetice"
+          ]
+        },
+        {
+          "title": "Monitorizare energetică",
+          "description": "Sisteme complete de monitorizare pentru vizibilitate în timp real asupra activelor energetice și modelelor de consum.",
+          "items": [
+            "Monitorizare energetică în timp real",
+            "Urmărirea performanței activelor",
+            "Analiza modelelor de consum",
+            "Vizibilitate energetică multi-locație"
+          ]
+        },
+        {
+          "title": "Optimizare energetică",
+          "description": "Abordări sistematice pentru îmbunătățirea eficienței energetice, reducerea pierderilor și optimizarea performanței energetice operaționale.",
+          "items": [
+            "Optimizarea eficienței operaționale",
+            "Strategii de management al sarcinii",
+            "Cadre de reducere a costurilor energetice",
+            "Sisteme de îmbunătățire continuă"
+          ]
+        },
+        {
+          "title": "Soluții energetice industriale",
+          "description": "Soluții energetice personalizate concepute pentru cerințele specifice ale operațiunilor industriale și mediilor de producție.",
+          "items": [
+            "Management energetic industrial",
+            "Optimizarea energiei proceselor",
+            "Sisteme energetice la nivel de facilitate",
+            "Căi de decarbonizare industrială"
+          ]
+        },
+        {
+          "title": "Integrare viitoare EnergieMIND",
+          "description": "Integrare planificată cu capacitățile de inteligență energetică EnergieMIND ca parte a ecosistemului tehnologic TVK mai larg.",
+          "items": [
+            "Cercetare pe platforme de inteligență energetică",
+            "Planificarea integrării inter-sisteme",
+            "Viziune unificată pentru analiza energetică",
+            "Aliniere tehnologică în ecosistem"
+          ]
+        }
+      ]
+    },
+    "approach": {
+      "title": "Abordare de dezvoltare",
+      "subtitle": "Inițiativele noastre în sisteme energetice sunt în prezent în fază de cercetare și dezvoltare, cu pregătirea programelor pilot în curs.",
+      "paragraph1": "Construim fundamentele tehnice și de parteneriat necesare pentru a livra soluții energetice semnificative. Aceasta include colaborarea cu furnizori de tehnologie energetică, operatori industriali și instituții de cercetare pentru validarea conceptelor și pregătirea implementărilor pilot viitoare.",
+      "paragraph2": "Toate inițiativele energetice sunt dezvoltate cu o perspectivă pe termen lung — prioritizând fiabilitatea, scalabilitatea și performanța de nivel industrial în detrimentul rezultatelor pe termen scurt."
+    },
+    "cta": {
+      "title": "Colaborare în sisteme energetice",
+      "description": "Sunteți interesat de inteligență energetică, monitorizare sau soluții energetice industriale? Primim cu plăcere discuții despre parteneriate.",
+      "primaryLabel": "Discutați oportunități energetice"
+    }
+  },
+  "infrastructure": {
+    "meta": {
+      "title": "Infrastructură",
+      "description": "Tehnologii de infrastructură, infrastructură inteligentă, sisteme digitale și dezvoltarea infrastructurii critice."
+    },
+    "hero": {
+      "eyebrow": "Domenii de competență",
+      "title": "Tehnologii de infrastructură",
+      "subtitle": "Avansăm tehnologiile care stau la baza infrastructurii moderne — de la sisteme inteligente și platforme digitale la reziliența infrastructurii critice."
+    },
+    "focusAreas": {
+      "title": "Domenii de focus în infrastructură",
+      "subtitle": "Dezvoltăm și cercetăm tehnologii de infrastructură care permit medii operaționale mai inteligente, mai reziliente și mai eficiente.",
+      "cards": [
+        {
+          "title": "Tehnologii de infrastructură",
+          "description": "Cercetare și dezvoltare de bază pentru sisteme și platforme de infrastructură de nouă generație.",
+          "items": [
+            "Arhitectura sistemelor de infrastructură",
+            "Cadre de integrare tehnologică",
+            "Soluții modulare de infrastructură",
+            "Cercetare inter-sectorială în infrastructură"
+          ]
+        },
+        {
+          "title": "Infrastructură inteligentă",
+          "description": "Sisteme de infrastructură inteligente care utilizează conectivitatea, senzorii și analiza pentru performanță operațională îmbunătățită.",
+          "items": [
+            "Sisteme de infrastructură conectate",
+            "Integrarea rețelelor de senzori",
+            "Analiză de infrastructură în timp real",
+            "Management adaptiv al infrastructurii"
+          ]
+        },
+        {
+          "title": "Infrastructură digitală",
+          "description": "Platforme și sisteme digitale care susțin operațiunile, managementul și deciziile strategice în infrastructură.",
+          "items": [
+            "Cercetare în gemeni digitali",
+            "Platforme de date pentru infrastructură",
+            "Sisteme de infrastructură cloud-edge",
+            "Management digital al operațiunilor"
+          ]
+        },
+        {
+          "title": "Infrastructură critică",
+          "description": "Cercetare și dezvoltare axată pe securitatea, fiabilitatea și reziliența sistemelor de infrastructură critică.",
+          "items": [
+            "Cadre de reziliență a infrastructurii",
+            "Planificarea continuității operaționale",
+            "Monitorizarea sistemelor critice",
+            "Managementul riscurilor în infrastructură"
+          ]
+        },
+        {
+          "title": "Platforme viitoare de infrastructură",
+          "description": "Cercetare pe termen lung privind platformele de infrastructură de nouă generație care vor defini operațiunile industriale în deceniile următoare.",
+          "items": [
+            "Cercetare în arhitectura platformelor",
+            "Dezvoltarea standardelor de interoperabilitate",
+            "Cadre scalabile de infrastructură",
+            "Proiectare de sisteme pregătite pentru viitor"
+          ]
+        }
+      ]
+    },
+    "vision": {
+      "title": "Viziune strategică privind infrastructura",
+      "paragraph1": "Infrastructura este coloana vertebrală a economiilor industriale. TVK Infrastructure & Energy Systems abordează tehnologia de infrastructură cu rigoarea și perspectiva pe termen lung necesare pentru sisteme care trebuie să funcționeze fiabil timp de decenii.",
+      "paragraph2": "Activitatea noastră actuală se concentrează pe identificarea tehnologiilor, parteneriatelor și structurilor de proiect care vor permite contribuții semnificative în infrastructură în anii următori.",
+      "currentStageItems": [
+        "Cercetare și evaluare tehnologică",
+        "Identificarea și angajarea partenerilor",
+        "Dezvoltarea conceptelor de proiect",
+        "Pregătirea programelor pilot"
+      ]
+    },
+    "cta": {
+      "title": "Colaborare în infrastructură",
+      "description": "Căutăm parteneriate cu operatori de infrastructură, furnizori de tehnologie și organizații de inginerie.",
+      "primaryLabel": "Discutați oportunități de infrastructură"
+    }
+  },
+  "technology": {
+    "meta": {
+      "title": "Tehnologie",
+      "description": "Inteligență artificială industrială, analiză de infrastructură, sisteme de monitorizare, automatizare și cercetare în inteligență energetică."
+    },
+    "hero": {
+      "eyebrow": "Domenii de competență",
+      "title": "Tehnologie și inovație",
+      "subtitle": "Aplicăm tehnologie avansată la provocările industriale și de infrastructură — de la inteligență artificială și analiză la automatizare și monitorizare inteligentă."
+    },
+    "focusAreas": {
+      "title": "Domenii de focus tehnologic",
+      "subtitle": "Cercetarea noastră tehnologică susține nevoile operaționale ale sistemelor energetice și infrastructurii — cu accent pe fiabilitate industrială și aplicabilitate pe termen lung.",
+      "cards": [
+        {
+          "title": "Inteligență artificială industrială",
+          "description": "Aplicații de inteligență artificială concepute pentru medii industriale — unde acuratețea, fiabilitatea și siguranța operațională sunt esențiale.",
+          "items": [
+            "Cercetare în învățare automată industrială",
+            "Optimizare de proces bazată pe AI",
+            "Inteligență predictivă pentru mentenanță",
+            "Sisteme industriale de suport pentru decizii"
+          ]
+        },
+        {
+          "title": "Analiză de infrastructură",
+          "description": "Platforme avansate de analiză pentru înțelegerea performanței, utilizării și eficienței operaționale a infrastructurii.",
+          "items": [
+            "Analiză a performanței infrastructurii",
+            "Inteligență a datelor operaționale",
+            "Analiză de tendințe și prognozare",
+            "Cadre de analiză multi-active"
+          ]
+        },
+        {
+          "title": "Sisteme de monitorizare",
+          "description": "Soluții complete de monitorizare pentru active energetice, sisteme de infrastructură și operațiuni industriale.",
+          "items": [
+            "Sisteme de monitorizare multi-parametru",
+            "Rețele distribuite de senzori",
+            "Cadre de alertă și notificare",
+            "Managementul datelor istorice"
+          ]
+        },
+        {
+          "title": "Automatizare",
+          "description": "Cercetare în tehnologii de automatizare care îmbunătățesc eficiența operațională menținând supravegherea umană și siguranța.",
+          "items": [
+            "Cercetare în automatizarea proceselor",
+            "Integrarea sistemelor de control",
+            "Cadre de răspuns automatizat",
+            "Sisteme de colaborare om-mașină"
+          ]
+        },
+        {
+          "title": "Inteligență energetică",
+          "description": "Sisteme inteligente care transformă datele energetice în informații acționabile pentru decizii operaționale și strategice.",
+          "items": [
+            "Platforme de analiză energetică",
+            "Management inteligent al sarcinii",
+            "Recunoașterea modelelor energetice",
+            "Instrumente de planificare energetică strategică"
+          ]
+        },
+        {
+          "title": "Inițiative viitoare de cercetare",
+          "description": "Cercetare orientată spre viitor privind tehnologii emergente cu potențial de aplicare în domeniile energiei și infrastructurii.",
+          "items": [
+            "Evaluarea tehnologiilor emergente",
+            "Programe de cercetare aplicată",
+            "Colaborare academică și industrială",
+            "Evaluarea pregătirii tehnologice"
+          ]
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Filozofie tehnologică",
+      "paragraph1": "Tehnologia în energie și infrastructură trebuie să îndeplinească cele mai înalte standarde de fiabilitate și aptitudine operațională. Nu urmărim tehnologia de dragul tehnologiei — fiecare inițiativă de cercetare este evaluată în funcție de potențialul de a livra valoare industrială măsurabilă.",
+      "paragraph2": "Dezvoltarea noastră tehnologică se află în prezent în faza de cercetare și formare a parteneriatelor, cu concepte de programe pilot în dezvoltare pe mai multe domenii de competență."
+    },
+    "cta": {
+      "title": "Colaborare tehnologică",
+      "description": "Primim cu plăcere implicarea furnizorilor de tehnologie, instituțiilor de cercetare și organizațiilor industriale.",
+      "primaryLabel": "Discutați oportunități tehnologice"
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Proiecte",
+      "description": "Inițiative energetice, de infrastructură, industriale și de cercetare în dezvoltare la TVK Infrastructure & Energy Systems."
+    },
+    "hero": {
+      "eyebrow": "Proiecte",
+      "title": "Inițiative în dezvoltare",
+      "subtitle": "TVK Infrastructure & Energy Systems formează activ proiecte în domeniile energiei, infrastructurii și industriei. Toate inițiativele sunt în prezent în faze de cercetare, dezvoltare sau pregătire pilot."
+    },
+    "categories": {
+      "title": "Categorii de proiecte",
+      "subtitle": "Organizăm activitatea noastră în cinci categorii interconectate, fiecare reprezentând un domeniu distinct de dezvoltare a capacităților în cadrul ecosistemului TVK.",
+      "items": [
+        {
+          "category": "Proiecte energetice",
+          "status": "În dezvoltare",
+          "description": "Inițiative axate pe integrarea energiei regenerabile, platforme de inteligență energetică și cadre de management energetic industrial.",
+          "areas": [
+            "Cercetare în integrarea energiei regenerabile",
+            "Dezvoltarea sistemelor de monitorizare energetică",
+            "Cadre de optimizare energetică industrială",
+            "Planificarea integrării EnergieMIND"
+          ]
+        },
+        {
+          "category": "Proiecte de infrastructură",
+          "status": "În dezvoltare",
+          "description": "Proiecte care abordează infrastructura inteligentă, platformele digitale și cerințele tehnologice pentru infrastructura critică.",
+          "areas": [
+            "Cercetare în sisteme de infrastructură inteligentă",
+            "Concepte de platforme digitale de infrastructură",
+            "Studii de reziliență a infrastructurii critice",
+            "Dezvoltarea analizei de infrastructură"
+          ]
+        },
+        {
+          "category": "Proiecte industriale",
+          "status": "În dezvoltare",
+          "description": "Soluții industriale care cuprind automatizare, monitorizare și cercetare în tehnologii operaționale de nouă generație.",
+          "areas": [
+            "Cercetare în automatizare industrială",
+            "Dezvoltarea sistemelor de monitorizare a proceselor",
+            "Studii de aplicare a inteligenței artificiale industriale",
+            "Integrarea tehnologiei operaționale"
+          ]
+        },
+        {
+          "category": "Inițiative de cercetare",
+          "status": "Activ",
+          "description": "Programe de cercetare în curs care explorează tehnologii emergente și aplicarea acestora în contexte energetice și de infrastructură.",
+          "areas": [
+            "Cercetare în inteligență energetică",
+            "Evaluarea tehnologiilor de infrastructură",
+            "Studii de fezabilitate pentru inteligența artificială industrială",
+            "Cercetare în sustenabilitate și eficiență"
+          ]
+        },
+        {
+          "category": "Programe pilot viitoare",
+          "status": "Pregătire",
+          "description": "Concepte de programe pilot în dezvoltare în parteneriat cu potențiali colaboratori din sectoarele energetic și de infrastructură.",
+          "areas": [
+            "Definirea domeniului de aplicare al pilotului",
+            "Identificarea și angajarea partenerilor",
+            "Validarea fezabilității tehnice",
+            "Cadre de planificare a implementării"
+          ]
+        }
+      ]
+    },
+    "transparency": {
+      "title": "Transparență în dezvoltare",
+      "paragraph1": "TVK Infrastructure & Energy Systems se află într-o fază activă de dezvoltare. Nu prezentăm proiecte finalizate sau operaționale în această etapă — toate inițiativele listate reprezintă activitate autentică în curs în cercetare, dezvoltare și formarea parteneriatelor.",
+      "paragraph2": "Pe măsură ce proiectele avansează prin pregătirea pilotului și implementarea operațională, această pagină va fi actualizată pentru a reflecta progresul și rezultatele semnificative."
+    },
+    "cta": {
+      "title": "Colaborați la proiecte viitoare",
+      "description": "Căutăm parteneri pentru a co-dezvolta programe pilot și inițiative pe termen lung în energie și infrastructură.",
+      "primaryLabel": "Solicitare de parteneriat strategic",
+      "secondaryLabel": "Contactați-ne"
+    }
+  },
+  "strategicPartnerships": {
+    "meta": {
+      "title": "Parteneriate strategice",
+      "description": "Căutăm colaborare cu companii energetice, operatori de infrastructură, grupuri industriale și furnizori de tehnologie."
+    },
+    "hero": {
+      "eyebrow": "Parteneriate",
+      "title": "Parteneriate strategice",
+      "subtitle": "Căutăm activ colaborare, oportunități pilot și parteneriate strategice cu organizații din sectoarele energetic, de infrastructură și industrial."
+    },
+    "objectives": {
+      "title": "Obiectivele parteneriatului",
+      "subtitle": "Abordarea noastră privind parteneriatele este concentrată pe construirea de relații industriale pe termen lung — nu pe solicitarea de investiții. Căutăm colaboratori care împărtășesc angajamentul nostru față de excelența în infrastructură și energie.",
+      "intro": "TVK Infrastructure & Energy Systems se află într-o fază de construire a parteneriatelor. Primim cu plăcere implicarea organizațiilor care pot contribui cu expertiză tehnică, acces pe piață, capacitate operațională sau aliniere strategică cu inițiativele noastre în dezvoltare.",
+      "collaborationAreas": [
+        "Programe comune de cercetare și dezvoltare",
+        "Co-dezvoltarea proiectelor pilot",
+        "Parteneriate de integrare tehnologică",
+        "Colaborare în acces pe piață și distribuție",
+        "Schimb de cunoștințe și schimb tehnic",
+        "Formarea de alianțe strategice pe termen lung"
+      ]
+    },
+    "partners": {
+      "title": "Organizații partenere vizate",
+      "items": [
+        {
+          "title": "Companii energetice",
+          "description": "Utilități, dezvoltatori de energie regenerabilă și firme de tehnologie energetică care caută colaborare în sisteme energetice inteligente și optimizare."
+        },
+        {
+          "title": "Operatori de infrastructură",
+          "description": "Organizații care gestionează infrastructura critică, rețele de transport și sisteme urbane interesate de tehnologii de infrastructură inteligentă."
+        },
+        {
+          "title": "Grupuri industriale",
+          "description": "Întreprinderi de producție și industriale care explorează eficiența energetică, automatizarea și tehnologiile operaționale de nouă generație."
+        },
+        {
+          "title": "Organizații legate de sectorul public",
+          "description": "Entități din sectorul public și organizații afiliate guvernului implicate în dezvoltarea infrastructurii și implementarea politicilor energetice."
+        },
+        {
+          "title": "Furnizori de tehnologie",
+          "description": "Companii de tehnologie cu soluții aplicabile sistemelor energetice, analizei infrastructurii, monitorizării și automatizării industriale."
+        },
+        {
+          "title": "Firme de inginerie",
+          "description": "Firme de consultanță în inginerie și EPC cu expertiză în sisteme energetice, proiectarea infrastructurii și livrarea proiectelor industriale."
+        },
+        {
+          "title": "Parteneri de investiții",
+          "description": "Investitori strategici și grupuri de investiții industriale aliniate cu dezvoltarea pe termen lung a tehnologiilor de infrastructură și energie."
+        }
+      ]
+    },
+    "engage": {
+      "title": "Cum să vă implicați",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Solicitare inițială",
+          "description": "Trimiteți o solicitare de parteneriat prin formularul nostru de contact, prezentând organizația, domeniul de interes și obiectivele de colaborare."
+        },
+        {
+          "step": "02",
+          "title": "Evaluare și aliniere",
+          "description": "Echipa noastră analizează solicitarea și evaluează alinierea strategică cu inițiativele și domeniile noastre de competență în dezvoltare."
+        },
+        {
+          "step": "03",
+          "title": "Discuție de colaborare",
+          "description": "Partenerii aliniați sunt invitați la discuții structurate pentru a explora modele specifice de colaborare, oportunități pilot și cadre de parteneriat pe termen lung."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Începeți o discuție de parteneriat",
+      "description": "Primim cu plăcere solicitări de la organizații interesate de sisteme energetice, tehnologii de infrastructură și colaborare industrială.",
+      "primaryLabel": "Solicitare de parteneriat strategic"
+    }
+  },
+  "insights": {
+    "meta": {
+      "title": "Perspective",
+      "description": "Perspective asupra energiei, infrastructurii, tehnologiei industriale, infrastructurii AI și ingineriei de la TVK Infrastructure & Energy Systems."
+    },
+    "hero": {
+      "eyebrow": "Perspective",
+      "title": "Perspective din industrie",
+      "subtitle": "Lideriat de gândire și perspective de cercetare privind energia, infrastructura, tehnologia industrială și viitorul sistemelor industriale."
+    },
+    "topics": {
+      "title": "Subiecte pe care le abordăm",
+      "subtitle": "Perspectivele noastre reflectă domeniile centrale ale TVK Infrastructure & Energy Systems — informate de cercetare, analiză de industrie și activitate de dezvoltare strategică.",
+      "filters": [
+        "Toate",
+        "Energie",
+        "Infrastructură",
+        "Tehnologie industrială",
+        "Infrastructură AI",
+        "Transformare digitală",
+        "Sustenabilitate",
+        "Inginerie"
+      ],
+      "disclaimer": "Perspectivele reprezintă puncte de vedere și note de cercetare în faza de dezvoltare. Publicațiile complete vor fi lansate pe măsură ce programele noastre de cercetare avansează.",
+      "items": [
+        {
+          "topic": "Energie",
+          "title": "Evoluția managementului energetic industrial",
+          "excerpt": "Cum sistemele energetice inteligente transformă modul în care operațiunile industriale monitorizează, optimizează și elaborează strategii privind consumul de energie.",
+          "date": "Perspectivă de dezvoltare"
+        },
+        {
+          "topic": "Infrastructură",
+          "title": "Infrastructură inteligentă: Dincolo de conectivitate",
+          "excerpt": "Adevărata infrastructură inteligentă depășește senzorii și rețelele — necesită analiză integrată, management adaptiv și gândire sistemică pe termen lung.",
+          "date": "Notă de cercetare"
+        },
+        {
+          "topic": "Tehnologie industrială",
+          "title": "Inovație industrială într-o economie în transformare",
+          "excerpt": "Sectorul industrial se confruntă cu cerințe fără precedent privind eficiența, sustenabilitatea și modernizarea tehnologică. Abordările strategice contează.",
+          "date": "Perspectivă din industrie"
+        },
+        {
+          "topic": "Infrastructură AI",
+          "title": "Inteligență artificială industrială: Cerințe pentru implementare în lumea reală",
+          "excerpt": "Inteligența artificială în medii industriale necesită o abordare fundamental diferită față de aplicațiile software de consum sau enterprise.",
+          "date": "Brief tehnologic"
+        },
+        {
+          "topic": "Transformare digitală",
+          "title": "Infrastructura digitală ca fundament industrial",
+          "excerpt": "Platformele de infrastructură digitală devin coloana vertebrală operațională a sistemelor energetice moderne și a facilităților industriale la nivel global.",
+          "date": "Perspectivă de dezvoltare"
+        },
+        {
+          "topic": "Sustenabilitate",
+          "title": "Operațiuni durabile în energie și infrastructură",
+          "excerpt": "Sustenabilitatea pe termen lung în energie și infrastructură necesită abordări integrate care echilibrează responsabilitatea de mediu cu performanța operațională.",
+          "date": "Notă de cercetare"
+        },
+        {
+          "topic": "Inginerie",
+          "title": "Excelență inginerească în dezvoltarea infrastructurii",
+          "excerpt": "Proiectele de infrastructură care rezistă sunt construite pe rigoare inginerească, planificare amănunțită și angajament față de fiabilitatea operațională.",
+          "date": "Perspectivă inginerească"
+        },
+        {
+          "topic": "Inteligență energetică",
+          "title": "De la date energetice la inteligență strategică",
+          "excerpt": "Tranziția de la date energetice brute la inteligență acționabilă reprezintă una dintre cele mai semnificative oportunități în managementul modern al energiei.",
+          "date": "Brief tehnologic"
+        }
+      ]
+    },
+    "stayInformed": {
+      "title": "Rămâneți informat",
+      "description": "Sunteți interesat de perspectivele noastre privind energia, infrastructura și tehnologia industrială? Contactați-ne pentru a discuta domeniile de cercetare și evoluțiile din industrie.",
+      "button": "Luați legătura"
+    },
+    "cta": {
+      "title": "Explorați domeniile noastre de competență",
+      "description": "Aflați mai multe despre activitatea noastră în sisteme energetice, tehnologii de infrastructură și inovație industrială.",
+      "primaryLabel": "Explorați domeniile de competență",
+      "secondaryLabel": "Despre noi"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Contactați TVK Infrastructure & Energy Systems pentru a discuta oportunități în infrastructură și energie."
+    },
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Discutați oportunități în infrastructură și energie",
+      "subtitle": "Primim cu plăcere solicitări de la organizații interesate de sisteme energetice, tehnologii de infrastructură, soluții industriale și parteneriate strategice."
+    },
+    "section": {
+      "title": "Luați legătura",
+      "intro": "Fie că reprezentați o companie energetică, un operator de infrastructură, un grup industrial, un furnizor de tehnologie sau o firmă de inginerie — vă invităm să ne împărtășiți interesul și să inițiați o conversație.",
+      "inquiryTypes": [
+        {
+          "title": "Solicitări de parteneriat",
+          "description": "Organizații care caută colaborare strategică, oportunități pilot sau dezvoltarea parteneriatelor pe termen lung."
+        },
+        {
+          "title": "Discuții tehnologice",
+          "description": "Furnizori de tehnologie și instituții de cercetare interesate de inteligență energetică, analiză de infrastructură sau inteligență artificială industrială."
+        },
+        {
+          "title": "Solicitări generale",
+          "description": "Întrebări despre TVK Infrastructure & Energy Systems, domeniile noastre de competență sau ecosistemul TVK mai larg."
+        }
+      ],
+      "companyName": "TVK Infrastructure & Energy Systems LTD",
+      "ecosystem": "Parte a ecosistemului TVK"
+    }
+  },
+  "contactForm": {
+    "interestAreas": [
+      "Sisteme energetice",
+      "Tehnologii de infrastructură",
+      "Soluții industriale",
+      "Inteligență energetică",
+      "Infrastructură AI",
+      "Parteneriate strategice",
+      "Solicitare generală"
+    ],
+    "success": {
+      "title": "Solicitare primită",
+      "message": "Vă mulțumim pentru interesul față de TVK Infrastructure & Energy Systems. Echipa noastră va analiza solicitarea și va răspunde în consecință."
+    },
+    "fields": {
+      "name": "Nume",
+      "company": "Companie",
+      "role": "Funcție",
+      "country": "Țară",
+      "email": "E-mail",
+      "interest": "Domeniu de interes",
+      "message": "Mesaj",
+      "required": "*"
+    },
+    "placeholders": {
+      "name": "Numele dumneavoastră complet",
+      "company": "Numele organizației",
+      "role": "Funcția dumneavoastră",
+      "country": "Țara de operare",
+      "email": "profesional@companie.ro",
+      "interest": "Selectați un domeniu",
+      "message": "Descrieți solicitarea, interesul de parteneriat sau oportunitatea de proiect..."
+    },
+    "submit": "Discutați oportunități în infrastructură și energie"
+  }
+}

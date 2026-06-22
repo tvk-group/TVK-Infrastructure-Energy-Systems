@@ -1,23 +1,34 @@
 import Link from "next/link";
-import { navItems } from "@/lib/navigation";
+import type { Dictionary } from "@/i18n/get-dictionary";
+import type { Locale } from "@/i18n/config";
+import { getNavItems } from "@/i18n/navigation";
+import { localizedPath } from "@/i18n/routing";
+import { LanguageSwitcher } from "./LanguageSwitcher";
 
-export function Header() {
+interface HeaderProps {
+  locale: Locale;
+  dict: Dictionary;
+}
+
+export function Header({ locale, dict }: HeaderProps) {
+  const navItems = getNavItems(locale, dict);
+
   return (
     <header className="sticky top-0 z-50 bg-navy border-b border-white/10">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="flex h-20 items-center justify-between gap-8">
-          <Link href="/" className="flex shrink-0 flex-col group">
+        <div className="flex h-20 items-center justify-between gap-4">
+          <Link href={localizedPath(locale)} className="flex shrink-0 flex-col group">
             <span className="font-display text-lg font-semibold tracking-tight text-white sm:text-xl">
-              TVK Infrastructure
+              {dict.header.brandMain}
             </span>
             <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-silver-dark sm:text-xs">
-              & Energy Systems LTD
+              {dict.header.brandSub}
             </span>
           </Link>
 
           <nav
             className="hidden xl:flex items-center gap-1"
-            aria-label="Main navigation"
+            aria-label={dict.header.mainNavAria}
           >
             {navItems.map((item) => (
               <Link
@@ -30,17 +41,20 @@ export function Header() {
             ))}
           </nav>
 
-          <Link
-            href="/contact"
-            className="hidden sm:inline-flex items-center justify-center rounded bg-energy px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-energy-light"
-          >
-            Contact
-          </Link>
+          <div className="flex items-center gap-3 shrink-0">
+            <LanguageSwitcher currentLocale={locale} label={dict.header.mainNavAria} />
+            <Link
+              href={localizedPath(locale, "/contact")}
+              className="hidden sm:inline-flex items-center justify-center rounded bg-energy px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-energy-light"
+            >
+              {dict.header.contact}
+            </Link>
+          </div>
         </div>
 
         <nav
           className="xl:hidden flex gap-1 overflow-x-auto pb-3 -mx-4 px-4 scrollbar-hide"
-          aria-label="Mobile navigation"
+          aria-label={dict.header.mobileNavAria}
         >
           {navItems.map((item) => (
             <Link
