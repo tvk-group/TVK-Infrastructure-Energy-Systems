@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:pages": "cp next.config.ts next.config.vercel.bak && cp next.config.pages.ts next.config.ts && next build && mv next.config.vercel.bak next.config.ts",
     "start": "next start",
     "lint": "eslint"
   },

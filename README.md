@@ -31,7 +31,19 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ### Vercel (recommended)
 
-Connect the repository to [Vercel](https://vercel.com). No environment variables are required — Vercel runs a standard Next.js build automatically.
+1. Connect the repository to [Vercel](https://vercel.com)
+2. **Deploy the latest commit** on `main` or `cursor/tvk-corporate-website-ce49` (must be after the Vercel config split)
+3. In Vercel **Project Settings → General**, confirm:
+   - **Framework Preset:** Next.js
+   - **Root Directory:** (empty / repository root)
+   - **Output Directory:** (empty — do NOT set to `out`)
+4. In **Environment Variables**, remove any of these if present:
+   - `NEXT_PUBLIC_BASE_PATH`
+   - `STATIC_EXPORT`
+   - `GITHUB_PAGES`
+5. **Do not "Redeploy" an old deployment** — push a new commit or redeploy the latest commit from the branch
+
+`next.config.ts` is a clean standard Next.js config. GitHub Pages uses a separate `next.config.pages.ts`.
 
 ### GitHub Pages
 
