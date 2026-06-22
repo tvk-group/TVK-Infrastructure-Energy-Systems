@@ -27,6 +27,18 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Deployment (GitHub Pages)
+
+The site deploys automatically to GitHub Pages on every push to `main`.
+
+**Live URL:** [https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/](https://tvk-group.github.io/TVK-Infrastructure-Energy-Systems/)
+
+### First-time setup
+
+1. Go to **Repository Settings → Pages**
+2. Set **Source** to **GitHub Actions**
+3. Push to `main` — the deploy workflow runs automatically
+
 ## Build
 
 ```bash
