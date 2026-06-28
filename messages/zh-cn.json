@@ -89,8 +89,13 @@
   ],
   "home": {
     "meta": {
-      "title": "首页",
-      "description": "TVK Infrastructure & Energy Systems 开发面向未来的能源、基础设施、工业系统和战略技术举措。"
+      "title": "基础设施与能源系统 | TVK",
+      "description": "TVK Infrastructure & Energy Systems 开发面向未来的能源、基础设施、工业和战略技术举措。处于研究、开发和合作伙伴建设阶段。",
+      "keywords": "基础设施公司, 能源系统, 工业技术, TVK Infrastructure, 战略能源合作",
+      "ogTitle": "驱动基础设施。赋能未来。 | TVK",
+      "ogDescription": "涵盖可再生能源集成、智能基础设施、工业 AI 和战略合作伙伴关系的企业级基础设施与能源系统开发。",
+      "twitterTitle": "TVK Infrastructure & Energy Systems",
+      "twitterDescription": "基础设施、能源和工业技术举措 — TVK Ecosystem 的一部分。"
     },
     "hero": {
       "eyebrow": "TVK Infrastructure & Energy Systems LTD",
@@ -141,8 +146,13 @@
   },
   "about": {
     "meta": {
-      "title": "关于我们",
-      "description": "了解 TVK Infrastructure & Energy Systems——我们的使命、愿景和长期工业战略。"
+      "title": "关于 TVK Infrastructure & Energy Systems",
+      "description": "TVK Infrastructure & Energy Systems 的使命、愿景和长期工业战略 — 在 TVK Ecosystem 内以工程为导向的基础设施与能源开发。",
+      "keywords": "关于 TVK, 基础设施战略, 能源公司使命, 工业发展",
+      "ogTitle": "关于 TVK Infrastructure & Energy Systems",
+      "ogDescription": "以长期工业战略塑造基础设施与能源的未来。",
+      "twitterTitle": "关于 TVK Infrastructure & Energy Systems",
+      "twitterDescription": "使命、愿景和长期基础设施与能源战略。"
     },
     "hero": {
       "eyebrow": "关于我们",
@@ -203,8 +213,13 @@
   },
   "energySystems": {
     "meta": {
-      "title": "能源系统",
-      "description": "可再生能源、能源智能、监控、优化和工业能源解决方案。"
+      "title": "能源系统与能源智能",
+      "description": "可再生能源集成、能源监控、优化、工业能源解决方案以及 TVK Infrastructure & Energy Systems 的 EnergieMIND 研究。",
+      "keywords": "能源系统, 可再生能源, 能源智能, 工业能源, 能源监控",
+      "ogTitle": "能源系统 | TVK Infrastructure & Energy Systems",
+      "ogDescription": "面向工业环境的智能能源框架 — 监控、优化与可再生能源集成。",
+      "twitterTitle": "能源系统 | TVK",
+      "twitterDescription": "可再生能源集成、能源智能与工业能源解决方案。"
     },
     "hero": {
       "eyebrow": "核心能力",
@@ -291,8 +306,13 @@
   },
   "infrastructure": {
     "meta": {
-      "title": "基础设施",
-      "description": "基础设施技术、智能基础设施、数字系统和关键基础设施开发。"
+      "title": "基础设施技术与智能基础设施",
+      "description": "智能基础设施、数字基础设施、关键基础设施韧性及未来基础设施平台 — TVK Infrastructure & Energy Systems。",
+      "keywords": "基础设施技术, 智能基础设施, 数字基础设施, 关键基础设施",
+      "ogTitle": "基础设施技术 | TVK",
+      "ogDescription": "推进智能、数字和韧性基础设施系统技术。",
+      "twitterTitle": "基础设施技术 | TVK",
+      "twitterDescription": "智能、数字和关键基础设施技术开发。"
     },
     "hero": {
       "eyebrow": "核心能力",
@@ -374,8 +394,13 @@
   },
   "technology": {
     "meta": {
-      "title": "技术",
-      "description": "工业 AI、基础设施分析、监控系统、自动化和能源智能研究。"
+      "title": "工业技术、AI 与自动化",
+      "description": "工业 AI、基础设施分析、监控系统、自动化及能源智能研究 — TVK Infrastructure & Energy Systems。",
+      "keywords": "工业 AI, 基础设施分析, 自动化, 监控系统, 工业技术",
+      "ogTitle": "技术与创新 | TVK",
+      "ogDescription": "面向基础设施与能源的工业 AI、分析、自动化与智能监控。",
+      "twitterTitle": "技术与创新 | TVK",
+      "twitterDescription": "面向基础设施与能源的工业 AI、分析与自动化。"
     },
     "hero": {
       "eyebrow": "核心能力",
@@ -461,8 +486,13 @@
   },
   "projects": {
     "meta": {
-      "title": "项目",
-      "description": "TVK Infrastructure & Energy Systems 正在开发的能源、基础设施、工业和研究举措。"
+      "title": "开发中的项目与研究举措",
+      "description": "TVK Infrastructure & Energy Systems 正在开发的能源、基础设施、工业和研究举措。透明的开发阶段项目分类。",
+      "keywords": "能源项目, 基础设施项目, 工业项目, 研究举措, 试点项目",
+      "ogTitle": "开发中的项目 | TVK",
+      "ogDescription": "TVK Ecosystem 内处于开发阶段的能源、基础设施与工业举措。",
+      "twitterTitle": "项目 | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "开发中的能源、基础设施与工业举措。"
     },
     "hero": {
       "eyebrow": "项目",
@@ -544,8 +574,13 @@
   },
   "strategicPartnerships": {
     "meta": {
-      "title": "战略合作伙伴",
-      "description": "寻求与能源企业、基础设施运营商、工业集团和技术供应商的合作。"
+      "title": "战略合作伙伴与协作",
+      "description": "TVK Infrastructure & Energy Systems 寻求与能源企业、基础设施运营商、工业集团和技术供应商建立战略合作伙伴关系。",
+      "keywords": "战略合作, 能源协作, 基础设施合作, 工业合作",
+      "ogTitle": "战略合作伙伴 | TVK",
+      "ogDescription": "与能源、基础设施和工业机构的协作与试点机会。",
+      "twitterTitle": "战略合作伙伴 | TVK",
+      "twitterDescription": "寻求与能源、基础设施和工业合作伙伴协作。"
     },
     "hero": {
       "eyebrow": "合作伙伴",
@@ -626,8 +661,13 @@
   },
   "insights": {
     "meta": {
-      "title": "行业洞察",
-      "description": "TVK Infrastructure & Energy Systems 关于能源、基础设施、工业技术、AI 基础设施和工程的观点。"
+      "title": "行业洞察 — 能源、基础设施与工业技术",
+      "description": "TVK Infrastructure & Energy Systems 关于能源、基础设施、工业技术、AI 基础设施、可持续发展与工程的行业观点。",
+      "keywords": "能源洞察, 基础设施趋势, 工业技术, 工程观点",
+      "ogTitle": "行业洞察 | TVK Infrastructure & Energy Systems",
+      "ogDescription": "关于能源、基础设施与工业技术的思想领导力。",
+      "twitterTitle": "行业洞察 | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "关于能源、基础设施与工业系统的研究观点。"
     },
     "hero": {
       "eyebrow": "行业洞察",
@@ -653,49 +693,65 @@
           "topic": "能源",
           "title": "工业能源管理的演进",
           "excerpt": "智能能源系统如何改变工业运营监控、优化和制定能源消耗战略的方式。",
-          "date": "发展视角"
+          "date": "发展视角",
+          "slug": "insight-1",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "基础设施",
           "title": "智能基础设施：超越连接",
           "excerpt": "真正的智能基础设施超越传感器和网络——它需要集成分析、自适应管理和长期系统思维。",
-          "date": "研究笔记"
+          "date": "研究笔记",
+          "slug": "insight-2",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "工业技术",
           "title": "转型经济中的工业创新",
           "excerpt": "工业部门面临前所未有的效率、可持续性和技术现代化要求。战略方法至关重要。",
-          "date": "行业视角"
+          "date": "行业视角",
+          "slug": "insight-3",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "AI 基础设施",
           "title": "工业 AI：实际部署要求",
           "excerpt": "工业环境中的人工智能需要与消费者或企业软件应用根本不同的方法。",
-          "date": "技术简报"
+          "date": "技术简报",
+          "slug": "insight-4",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "数字化转型",
           "title": "数字基础设施作为工业基础",
           "excerpt": "数字基础设施平台正成为全球现代能源系统和工业设施的运营骨干。",
-          "date": "发展视角"
+          "date": "发展视角",
+          "slug": "insight-5",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "可持续发展",
           "title": "能源与基础设施的可持续运营",
           "excerpt": "能源和基础设施的长期可持续性需要平衡环境责任与运营绩效的综合方法。",
-          "date": "研究笔记"
+          "date": "研究笔记",
+          "slug": "insight-6",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "工程",
           "title": "基础设施开发中的工程卓越",
           "excerpt": "经得起时间考验的基础设施项目建立在工程严谨性、周密规划和运营可靠性承诺之上。",
-          "date": "工程视角"
+          "date": "工程视角",
+          "slug": "insight-7",
+          "datePublished": "2026-01-15"
         },
         {
           "topic": "能源智能",
           "title": "从能源数据到战略智能",
           "excerpt": "从原始能源数据到可行智能的转化代表现代能源管理中最重要的机遇之一。",
-          "date": "技术简报"
+          "date": "技术简报",
+          "slug": "insight-8",
+          "datePublished": "2026-01-15"
         }
       ]
     },
@@ -713,8 +769,13 @@
   },
   "contact": {
     "meta": {
-      "title": "联系我们",
-      "description": "联系 TVK Infrastructure & Energy Systems，探讨基础设施与能源合作机会。"
+      "title": "联系我们 — 基础设施与能源合作机会",
+      "description": "联系 TVK Infrastructure & Energy Systems，探讨基础设施、能源系统、工业解决方案和战略合作伙伴机会。",
+      "keywords": "联系 TVK, 基础设施咨询, 能源合作联系, 工业协作",
+      "ogTitle": "联系 TVK Infrastructure & Energy Systems",
+      "ogDescription": "与 TVK Infrastructure & Energy Systems 探讨基础设施与能源合作机会。",
+      "twitterTitle": "联系我们 | TVK Infrastructure & Energy Systems",
+      "twitterDescription": "就基础设施、能源和合作机会与我们联系。"
     },
     "hero": {
       "eyebrow": "联系我们",
@@ -970,5 +1031,48 @@
         "steps": "Chrome 或 Edge → 地址栏中的安装图标，或将 Partner Portal 加入书签"
       }
     }
+  },
+  "seo": {
+    "siteName": "TVK Infrastructure & Energy Systems",
+    "websiteDescription": "TVK Ecosystem 内的企业级基础设施、能源系统、工业技术与战略投资举措。",
+    "ogImageAlt": "TVK Infrastructure & Energy Systems — 驱动基础设施。赋能未来。",
+    "defaultKeywords": "基础设施, 能源系统, 工业技术, 智能基础设施, 能源智能, TVK, 战略合作",
+    "breadcrumbAria": "面包屑导航",
+    "internalLinksTitle": "探索基础设施与能源核心能力",
+    "legalDisclaimer": "TVK Infrastructure & Energy Systems LTD 目前处于研究、开发和合作伙伴建设阶段。本网站信息描述的是能力领域和开发举措，而非运营项目承诺。TVK Ecosystem 的一部分。",
+    "organization": {
+      "name": "TVK Infrastructure & Energy Systems",
+      "legalName": "TVK Infrastructure & Energy Systems LTD",
+      "description": "TVK Ecosystem 内的基础设施、能源、工业系统与战略技术投资公司。",
+      "sameAs": [
+        "https://github.com/tvk-group/TVK-Infrastructure-Energy-Systems"
+      ],
+      "areaServed": "全球",
+      "knowsAbout": [
+        "能源系统",
+        "基础设施技术",
+        "工业 AI",
+        "能源智能",
+        "战略合作伙伴"
+      ]
+    },
+    "faq": [
+      {
+        "question": "TVK Infrastructure & Energy Systems 做什么？",
+        "answer": "TVK Infrastructure & Energy Systems 在 TVK Ecosystem 内开发涵盖能源系统、基础设施技术、工业解决方案、能源智能、AI 基础设施和战略投资的举措。"
+      },
+      {
+        "question": "公司目前处于什么阶段？",
+        "answer": "公司处于研究、开发、项目形成、战略合作伙伴关系发展和试点准备阶段。"
+      },
+      {
+        "question": "TVK Infrastructure & Energy Systems 是否寻求合作伙伴？",
+        "answer": "是的。我们积极与能源企业、基础设施运营商、工业集团、技术供应商和工程公司接洽，寻求协作与试点机会。"
+      },
+      {
+        "question": "TVK Infrastructure & Energy Systems 是否属于更大的生态系统？",
+        "answer": "是的。TVK Infrastructure & Energy Systems 是更广泛的 TVK Ecosystem 的一部分，整合技术、工业和战略投资视角。"
+      }
+    ]
   }
 }

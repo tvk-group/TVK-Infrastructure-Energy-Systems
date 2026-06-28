@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { AppShell } from "@/components/app/AppShell";
-import { loadPage, localeStaticParams, pageTitle } from "@/lib/page-utils";
+import { loadPage, localeStaticParams } from "@/lib/page-utils";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 import type { Locale } from "@/i18n/config";
 
 export function generateStaticParams() {
@@ -13,10 +14,11 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const { dict } = await loadPage(locale);
+  const { dict, locale: validLocale } = await loadPage(locale);
+  const base = buildPageMetadata(validLocale, "", dict.app.meta, dict);
   return {
-    title: pageTitle(dict, dict.app.meta.title),
-    description: dict.app.meta.description,
+    ...base,
+    title: dict.app.meta.title,
     manifest: "/manifest.webmanifest",
     appleWebApp: {
       capable: true,
@@ -24,6 +26,7 @@ export async function generateMetadata({
       title: dict.app.brand,
     },
     other: {
+      ...base.other,
       "mobile-web-app-capable": "yes",
     },
   };

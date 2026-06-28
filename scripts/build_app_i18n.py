@@ -154,9 +154,9 @@ from app_i18n_data import LOCALE_BUNDLES  # noqa: E402
 LOCALES.update(LOCALE_BUNDLES)
 
 ORDER = [
-    "en", "de", "fr", "es", "it", "pt", "nl", "pl", "ru", "ar",
-    "zh", "ja", "ko", "hi", "tr", "sv", "no", "da", "fi", "cs",
-    "ro", "hu", "el", "id", "vi",
+    "en", "tr", "de", "fr", "es", "it", "pt", "nl", "ar", "ru",
+    "zh-cn", "zh-tw", "ja", "ko", "hi", "ur", "pl", "ro", "el",
+    "sv", "no", "da", "fi", "he", "id",
 ]
 
 

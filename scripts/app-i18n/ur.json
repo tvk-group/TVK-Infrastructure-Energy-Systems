@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "ایپ حاصل کریں"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal ایپ ←"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems پارٹنر پورٹل — اسٹریٹجک شراکت داری کے لیے درخواست دیں، ترقیاتی اقدامات ٹریک کریں، اور صلاحیت کے دستاویزات تک رسائی حاصل کریں۔"
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "ویب سائٹ",
+    "navAria": "پارٹنر پورٹل نیویگیشن",
+    "nav": {
+      "dashboard": "ڈیش بورڈ",
+      "apply": "درخواست",
+      "projects": "منصوبے",
+      "documents": "دستاویزات",
+      "support": "معاونت"
+    },
+    "dashboard": {
+      "title": "پارٹنر ڈیش بورڈ",
+      "subtitle": "TVK Ecosystem میں اپنی شراکت داری کی درخواست، ترقیاتی اقدامات اور اگلے اقدامات کو ٹریک کریں۔",
+      "stats": [
+        {
+          "label": "شراکت داری کا مرحلہ",
+          "value": "ترقی"
+        },
+        {
+          "label": "فعال اقدامات",
+          "value": "6 شعبے"
+        },
+        {
+          "label": "درخواست کی حالت",
+          "value": "کھula"
+        },
+        {
+          "label": "پورٹل زبانیں",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "اسٹریٹجک شراکت داری پائپ لائن",
+        "badge": "ترقی میں",
+        "description": "TVK Infrastructure & Energy Systems تحقیق، ترقی اور شراکت داری کی تعمیر کے مرحلے میں ہے۔ منظم تعاون کی گفتگو شروع کرنے کے لیے درخواست جمع کروائیں۔"
+      },
+      "nextSteps": {
+        "title": "تجویز کردہ اگلے اقدامات",
+        "items": [
+          "اپنی تنظیم کی تفصیلات کے ساتھ اسٹریٹجک شراکت داری کی درخواست جمع کروائیں",
+          "توانائی کے نظام اور انفراسٹرکچر ٹیکنالوجیز میں صلاحیت کے شعبے دیکھیں",
+          "منصوبوں کے سیکشن میں فعال ترقیاتی اقدامات دریافت کریں",
+          "پائلٹ یا تعاون کے مواقع کے لیے ہماری شراکت داری ٹیم سے رابطہ کریں"
+        ]
+      },
+      "cta": "شراکت داری کی درخواست جمع کروائیں ←"
+    },
+    "apply": {
+      "title": "شراکت داری کی درخواست",
+      "subtitle": "TVK Infrastructure & Energy Systems کے ساتھ اسٹریٹجک تعاون کے لیے درخواست دیں۔",
+      "intro": "اپنی تنظیم متعارف کروانے اور شراکت داری کی دلچسپی بیان کرنے کے لیے یہ فارم مکمل کریں۔ ہماری ٹیم تمام درخواستوں کا جائزہ لیتی ہے اور اہل استفسارات کا جواب دیتی ہے۔",
+      "disclaimer": "یہ درخواست پابند معاہدہ نہیں بناتی۔ TVK Infrastructure & Energy Systems LTD ترقی کے مرحلے میں ہے — معلومات صلاحیت کے شعبے بیان کرتی ہے، نہ کہ آپریشنل وعدے۔"
+    },
+    "applyForm": {
+      "interestAreas": [
+        "توانائی کے نظام",
+        "انفراسٹرکچر ٹیکنالوجیز",
+        "صنعتی حل",
+        "Energy Intelligence",
+        "AI انفراسٹرکچر",
+        "اسٹریٹجک شراکت داریاں",
+        "عام استفسار"
+      ],
+      "success": {
+        "title": "درخواست موصول ہوئی",
+        "message": "شراکت داری میں دلچسپی کا شکریہ۔ ہماری ٹیم آپ کی درخواست کا جائزہ لے گی اور 5–10 کاروباری دنوں میں جواب دے گی۔"
+      },
+      "fields": {
+        "name": "مکمل نام",
+        "company": "تنظیم",
+        "role": "کردار / عہدہ",
+        "country": "ملک",
+        "email": "ای میل",
+        "interest": "شراکت داری کا شعبہ",
+        "allocation": "اشارتی دائرہ (USD یا وضاحت)",
+        "message": "شراکت داری کی تجویز",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "آپ کا مکمل نام",
+        "company": "تنظیم کا نام",
+        "role": "آپ کا عہدہ",
+        "country": "آپریشن کا ملک",
+        "email": "professional@company.com",
+        "interest": "شعبہ منتخب کریں",
+        "allocation": "مثال: پائلٹ منصوبہ، $500K تعاون، ٹیکنالوجی انضمام",
+        "message": "اپنی تنظیم، اسٹریٹجک مطابقت اور مجوزہ تعاون بیان کریں..."
+      },
+      "submit": "شراکت داری کی درخواست جمع کروائیں"
+    },
+    "projects": {
+      "title": "ترقیاتی اقدامات",
+      "subtitle": "TVK Ecosystem میں موجودہ صلاحیت کے شعبے اور ترقی کے مرحلے کے اقدامات۔",
+      "items": [
+        {
+          "title": "توانائی کے نظام کا انضمام",
+          "stage": "ترقی میں",
+          "stageKey": "development",
+          "description": "قابل تجدید انضمام، صنعتی توانائی کے حل اور ذہین توانائی کے انتظام کے فریم ورک۔"
+        },
+        {
+          "title": "سمارٹ انفراسٹرکچر ٹیکنالوجیز",
+          "stage": "تحقیق",
+          "stageKey": "development",
+          "description": "ڈیجیٹل انفراسٹرکچر سسٹمز، مانیٹرنگ پلیٹ فارمز اور اہم انفراسٹرکچر ٹیکنالوجی کی ترقی۔"
+        },
+        {
+          "title": "صنعتی AI اور تجزیات",
+          "stage": "فعال تحقیق",
+          "stageKey": "active",
+          "description": "پیچیدہ آپریشنل ماحول کے لیے صنعتی AI، انفراسٹرکچر تجزیات اور ذہین آٹومیشن تحقیق۔"
+        }
+      ]
+    },
+    "documents": {
+      "title": "صلاحیت کے دستاویزات",
+      "subtitle": "کارپوریٹ ویب سائٹ سے سرکاری صلاحیت کے خلاصے اور حوالہ جات۔",
+      "openLabel": "دستاویز کھولیں",
+      "items": [
+        {
+          "title": "توانائی کے نظام کی صلاحیتیں",
+          "description": "توانائی کے نظام کی ترقی، قابل تجدید انضمام اور Energy Intelligence کا جائزہ۔",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "انفراسٹرکچر ٹیکنالوجیز",
+          "description": "سمارٹ انفراسٹرکچر، ڈیجیٹل سسٹمز اور اہم انفراسٹرکچر ٹیکنالوجی کی ترقی۔",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "اسٹریٹجک شراکت داریاں",
+          "description": "شراکت داری کے ماڈل، تعاون کے فریم ورک اور شمولیت کا عمل۔",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "بصیرت اور تحقیق",
+          "description": "توانائی، انفراسٹرکچر اور صنعتی ٹیکنالوجی پر صنعتی نقطہ نظر۔",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "پارٹنر معاونت",
+      "subtitle": "شراکت داری، تکنیکی اور عمومی استفسارات کے لیے TVK Infrastructure & Energy Systems ٹیم سے رابطہ کریں۔",
+      "disclaimer": "فوری آپریشنل معاملات کے لیے اپنے مقرر کردہ شراکت داری نمائندے سے رابطہ کریں۔ عمومی استفسارات کا جواب: 1–2 کاروباری دن۔",
+      "channels": [
+        {
+          "title": "شراکت داری کے استفسارات",
+          "description": "اسٹریٹجک تعاون، پائلٹ مواقع اور طویل مدتی شراکت داری کی ترقی۔",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "سرمایہ کار تعلقات",
+          "description": "TVK Ecosystem میں سرمایہ کی تشکیل اور اسٹریٹجک سرمایہ کاری کی گفتگو۔",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "تکنیکی معاونت",
+          "description": "پورٹل تک رسائی، درخواست کی حالت اور تکنیکی سوالات۔",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "عام رابطہ",
+          "description": "TVK Infrastructure & Energy Systems کے بارے میں عمومی استفسارات۔",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal ایپ",
+      "title": "TVK Partner Portal ایپ حاصل کریں",
+      "subtitle": "اپنے فون پر شراکت داری پورٹل انسٹال کریں — درخواست دیں، اقدامات ٹریک کریں اور ہوم اسکرین آئیکن سے صلاحیت کے دستاویزات تک رسائی حاصل کریں۔ آج Add to Home Screen کے ذریعے دستیاب؛ App Store لisting مرحلہ 2 میں منصوبہ بند ہے۔",
+      "openApp": "Partner Portal کھولیں",
+      "howToInstall": "انسٹال کیسے کریں",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Partner Portal کھولیں → Share → Add to Home Screen"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Partner Portal کھولیں → menu → Install app یا Add to Home screen"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome یا Edge → address bar میں install آئیکن، یا Partner Portal بک مارک کریں"
+      }
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "取得應用"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal 應用 →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems 合作伙伴門戶 — 申請戰略合作、跟蹤開發舉措并访问能力文檔。"
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "網站",
+    "navAria": "合作伙伴門戶导航",
+    "nav": {
+      "dashboard": "儀表板",
+      "apply": "申請",
+      "projects": "項目",
+      "documents": "文檔",
+      "support": "支持"
+    },
+    "dashboard": {
+      "title": "合作伙伴儀表板",
+      "subtitle": "在 TVK Ecosystem 内跟蹤您的合作諮詢、開發舉措和後續行动。",
+      "stats": [
+        {
+          "label": "合作階段",
+          "value": "開發中"
+        },
+        {
+          "label": "活躍舉措",
+          "value": "6 个領域"
+        },
+        {
+          "label": "諮詢狀態",
+          "value": "開放"
+        },
+        {
+          "label": "門戶語言",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "戰略合作管道",
+        "badge": "開發中",
+        "description": "TVK Infrastructure & Energy Systems 目前处于研究、開發和合作伙伴建設階段。提交申請以開始结構化的合作对话。"
+      },
+      "nextSteps": {
+        "title": "建議的後續步驟",
+        "items": [
+          "提交包含組織信息的戰略合作申請",
+          "查閱能源繫統和基礎設施技術領域的能力",
+          "在項目部分探索活躍的開發舉措",
+          "聯繫我们的合作伙伴團隊了解試點或合作機會"
+        ]
+      },
+      "cta": "提交合作申請 →"
+    },
+    "apply": {
+      "title": "合作申請",
+      "subtitle": "申請与 TVK Infrastructure & Energy Systems 进行戰略合作。",
+      "intro": "填寫此表單以介紹您的組織并描述合作意向。我们的團隊會審核所有申請并对符合条件的諮詢予以回複。",
+      "disclaimer": "本申請不構成具有約束力的協議。TVK Infrastructure & Energy Systems LTD 处于開發階段 — 信息描述的是能力領域，而非運營承諾。"
+    },
+    "applyForm": {
+      "interestAreas": [
+        "能源繫統",
+        "基礎設施技術",
+        "工業解决方案",
+        "Energy Intelligence",
+        "AI 基礎設施",
+        "戰略合作",
+        "一般諮詢"
+      ],
+      "success": {
+        "title": "申請已收到",
+        "message": "感谢您对合作的关注。我们的團隊將在 5–10 个工作日内審核您的申請并回複。"
+      },
+      "fields": {
+        "name": "全名",
+        "company": "組織",
+        "role": "職位 / 頭銜",
+        "country": "國家",
+        "email": "電子郵件",
+        "interest": "合作領域",
+        "allocation": "參考範圍（美元或描述）",
+        "message": "合作提案",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "您的全名",
+        "company": "組織名称",
+        "role": "您的職位",
+        "country": "運營國家/地区",
+        "email": "professional@company.com",
+        "interest": "选择領域",
+        "allocation": "例如：試點項目、50 萬美元合作、技術集成",
+        "message": "描述您的組織、戰略契合度及擬議合作..."
+      },
+      "submit": "提交合作申請"
+    },
+    "projects": {
+      "title": "開發舉措",
+      "subtitle": "TVK Ecosystem 内當前的能力領域和開發階段舉措。",
+      "items": [
+        {
+          "title": "能源繫統集成",
+          "stage": "開發中",
+          "stageKey": "development",
+          "description": "可再生能源集成、工業能源解决方案和智能能源管理框架。"
+        },
+        {
+          "title": "智能基礎設施技術",
+          "stage": "研究",
+          "stageKey": "development",
+          "description": "数字基礎設施繫統、监控平台和关键基礎設施技術開發。"
+        },
+        {
+          "title": "工業 AI 与分析",
+          "stage": "活躍研究",
+          "stageKey": "active",
+          "description": "面向複雜運營環境的工業 AI、基礎設施分析和智能自动化研究。"
+        }
+      ]
+    },
+    "documents": {
+      "title": "能力文檔",
+      "subtitle": "來自企業網站的官方能力簡介和參考資料。",
+      "openLabel": "打開文檔",
+      "items": [
+        {
+          "title": "能源繫統能力",
+          "description": "能源繫統開發、可再生能源集成和 Energy Intelligence 概述。",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "基礎設施技術",
+          "description": "智能基礎設施、数字繫統和关键基礎設施技術開發。",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "戰略合作",
+          "description": "合作模式、協作框架和參与流程。",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "洞察与研究",
+          "description": "关于能源、基礎設施和工業技術的行業观點。",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "合作伙伴支持",
+      "subtitle": "聯繫 TVK Infrastructure & Energy Systems 團隊，獲取合作、技術和一般諮詢方面的帮助。",
+      "disclaimer": "如有紧急運營事項，請聯繫指定的合作伙伴代表。一般諮詢的回複时间：1–2 个工作日。",
+      "channels": [
+        {
+          "title": "合作諮詢",
+          "description": "戰略合作、試點機會和长期合作伙伴关繫發展。",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "投資者关繫",
+          "description": "TVK Ecosystem 内的資本形成和戰略投資讨论。",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "技術支持",
+          "description": "門戶访问、申請狀態和技術问题。",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "一般聯繫",
+          "description": "关于 TVK Infrastructure & Energy Systems 的一般諮詢。",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal 應用",
+      "title": "取得 TVK Partner Portal 應用",
+      "subtitle": "在手機上安裝合作伙伴門戶 — 申請、跟蹤舉措并从主屏幕圖標访问能力文檔。目前可通過「添加到主屏幕」使用；App Store 上架計劃為第二階段。",
+      "openApp": "打開 Partner Portal",
+      "howToInstall": "如何安裝",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → 打開 Partner Portal → 共享 → 添加到主屏幕"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → 打開 Partner Portal → 菜單 → 安裝應用或添加到主屏幕"
+      },
+      "desktop": {
+        "title": "桌面",
+        "steps": "Chrome 或 Edge → 地址欄中的安裝圖標，或將 Partner Portal 加入書籤"
+      }
+    }
+  }
+}

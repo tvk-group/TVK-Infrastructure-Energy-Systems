@@ -749,3 +749,88 @@ LOCALE_BUNDLES["vi"] = bundle(
         "install": {"eyebrow": "Ứng dụng Partner Portal", "title": "Tải ứng dụng TVK Partner Portal", "subtitle": "Cài đặt cổng quan hệ đối tác trên điện thoại — đăng ký, theo dõi sáng kiến và truy cập tài liệu năng lực từ biểu tượng màn hình chính. Hoạt động ngay hôm nay qua Thêm vào Màn hình chính; đăng ký App Store dự kiến cho Giai đoạn 2.", "openApp": "Mở Partner Portal", "howToInstall": "Cách cài đặt", "iphone": {"title": "iPhone / iPad", "steps": "Safari → Mở Partner Portal → Chia sẻ → Thêm vào Màn hình chính"}, "android": {"title": "Android", "steps": "Chrome → Mở Partner Portal → menu → Cài đặt ứng dụng hoặc Thêm vào màn hình chính"}, "desktop": {"title": "Máy tính", "steps": "Chrome hoặc Edge → biểu tượng cài đặt trên thanh địa chỉ, hoặc đánh dấu Partner Portal"}},
     },
 )
+
+LOCALE_BUNDLES["zh-cn"] = LOCALE_BUNDLES.pop("zh")
+for _removed in ("cs", "hu", "vi"):
+    LOCALE_BUNDLES.pop(_removed, None)
+
+_TRAD_MAP = str.maketrans(
+    "应用获取网站仪表板申请项目文档支持开发中领域开放门户语言合作阶段活跃举措咨询状态建议后续步骤提交包含组织信息查阅能源系统基础设施技术探索活跃联系团队了解试点机会填写表单介绍描述意向审核回复构成具有约束力协议运营承诺全名组织职位头衔国家电子邮件参考范围例如试点万美元集成描述战略契合度拟议举措当前能力简介参考资料打开来自企业官方智能工业分析面向复杂运营环境安装手机跟踪主屏幕图标目前可通过添加到主屏幕使用上架计划为第二阶段如何共享菜单桌面地址栏中的图标或将加入书签",
+    "應用獲取網站儀表板申請項目文檔支持開發中領域開放門戶語言合作階段活躍舉措諮詢狀態建議後續步驟提交包含組織信息查閱能源系統基礎設施技術探索活躍聯繫團隊了解試點機會填寫表單介紹描述意向審核回覆構成具有約束力協議運營承諾全名組織職位頭銜國家電子郵件參考範圍例如試點萬美元集成描述戰略契合度擬議舉措當前能力簡介參考資料打開來自企業官方智能工業分析面向複雜運營環境安裝手機跟蹤主屏幕圖標目前可通過添加到主屏幕使用上架計劃為第二階段如何共享菜單桌面地址欄中的圖標或將加入書籤",
+)
+
+
+def _to_traditional(obj):
+    if isinstance(obj, str):
+        return obj.translate(_TRAD_MAP)
+    if isinstance(obj, list):
+        return [_to_traditional(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: _to_traditional(v) for k, v in obj.items()}
+    return obj
+
+
+LOCALE_BUNDLES["zh-tw"] = _to_traditional(LOCALE_BUNDLES["zh-cn"])
+LOCALE_BUNDLES["zh-tw"]["header"]["getApp"] = "取得應用"
+LOCALE_BUNDLES["zh-tw"]["footer"]["partnerPortal"] = "Partner Portal 應用 →"
+LOCALE_BUNDLES["zh-tw"]["app"]["install"]["title"] = "取得 TVK Partner Portal 應用"
+
+LOCALE_BUNDLES["ur"] = bundle(
+    "Partner Portal", "ایپ حاصل کریں", "Partner Portal ایپ ←",
+    {
+        "meta": {"title": "Partner Portal", "description": "TVK Infrastructure & Energy Systems پارٹنر پورٹل — اسٹریٹجک شراکت داری کے لیے درخواست دیں، ترقیاتی اقدامات ٹریک کریں، اور صلاحیت کے دستاویزات تک رسائی حاصل کریں۔"},
+        "brand": "TVK Partner Portal", "tagline": "Infrastructure & Energy Systems", "backToSite": "ویب سائٹ",
+        "navAria": "پارٹنر پورٹل نیویگیشن",
+        "nav": {"dashboard": "ڈیش بورڈ", "apply": "درخواست", "projects": "منصوبے", "documents": "دستاویزات", "support": "معاونت"},
+        "dashboard": {
+            "title": "پارٹنر ڈیش بورڈ",
+            "subtitle": "TVK Ecosystem میں اپنی شراکت داری کی درخواست، ترقیاتی اقدامات اور اگلے اقدامات کو ٹریک کریں۔",
+            "stats": [{"label": "شراکت داری کا مرحلہ", "value": "ترقی"}, {"label": "فعال اقدامات", "value": "6 شعبے"}, {"label": "درخواست کی حالت", "value": "کھula"}, {"label": "پورٹل زبانیں", "value": "25"}],
+            "partnershipStatus": {"title": "اسٹریٹجک شراکت داری پائپ لائن", "badge": "ترقی میں", "description": "TVK Infrastructure & Energy Systems تحقیق، ترقی اور شراکت داری کی تعمیر کے مرحلے میں ہے۔ منظم تعاون کی گفتگو شروع کرنے کے لیے درخواست جمع کروائیں۔"},
+            "nextSteps": {"title": "تجویز کردہ اگلے اقدامات", "items": ["اپنی تنظیم کی تفصیلات کے ساتھ اسٹریٹجک شراکت داری کی درخواست جمع کروائیں", "توانائی کے نظام اور انفراسٹرکچر ٹیکنالوجیز میں صلاحیت کے شعبے دیکھیں", "منصوبوں کے سیکشن میں فعال ترقیاتی اقدامات دریافت کریں", "پائلٹ یا تعاون کے مواقع کے لیے ہماری شراکت داری ٹیم سے رابطہ کریں"]},
+            "cta": "شراکت داری کی درخواست جمع کروائیں ←",
+        },
+        "apply": {"title": "شراکت داری کی درخواست", "subtitle": "TVK Infrastructure & Energy Systems کے ساتھ اسٹریٹجک تعاون کے لیے درخواست دیں۔", "intro": "اپنی تنظیم متعارف کروانے اور شراکت داری کی دلچسپی بیان کرنے کے لیے یہ فارم مکمل کریں۔ ہماری ٹیم تمام درخواستوں کا جائزہ لیتی ہے اور اہل استفسارات کا جواب دیتی ہے۔", "disclaimer": "یہ درخواست پابند معاہدہ نہیں بناتی۔ TVK Infrastructure & Energy Systems LTD ترقی کے مرحلے میں ہے — معلومات صلاحیت کے شعبے بیان کرتی ہے، نہ کہ آپریشنل وعدے۔"},
+        "applyForm": {
+            "interestAreas": ["توانائی کے نظام", "انفراسٹرکچر ٹیکنالوجیز", "صنعتی حل", "Energy Intelligence", "AI انفراسٹرکچر", "اسٹریٹجک شراکت داریاں", "عام استفسار"],
+            "success": {"title": "درخواست موصول ہوئی", "message": "شراکت داری میں دلچسپی کا شکریہ۔ ہماری ٹیم آپ کی درخواست کا جائزہ لے گی اور 5–10 کاروباری دنوں میں جواب دے گی۔"},
+            "fields": {"name": "مکمل نام", "company": "تنظیم", "role": "کردار / عہدہ", "country": "ملک", "email": "ای میل", "interest": "شراکت داری کا شعبہ", "allocation": "اشارتی دائرہ (USD یا وضاحت)", "message": "شراکت داری کی تجویز", "required": "*"},
+            "placeholders": {"name": "آپ کا مکمل نام", "company": "تنظیم کا نام", "role": "آپ کا عہدہ", "country": "آپریشن کا ملک", "email": "professional@company.com", "interest": "شعبہ منتخب کریں", "allocation": "مثال: پائلٹ منصوبہ، $500K تعاون، ٹیکنالوجی انضمام", "message": "اپنی تنظیم، اسٹریٹجک مطابقت اور مجوزہ تعاون بیان کریں..."},
+            "submit": "شراکت داری کی درخواست جمع کروائیں",
+        },
+        "projects": {"title": "ترقیاتی اقدامات", "subtitle": "TVK Ecosystem میں موجودہ صلاحیت کے شعبے اور ترقی کے مرحلے کے اقدامات۔", "items": make_projects([("توانائی کے نظام کا انضمام", "ترقی میں", "قابل تجدید انضمام، صنعتی توانائی کے حل اور ذہین توانائی کے انتظام کے فریم ورک۔"), ("سمارٹ انفراسٹرکچر ٹیکنالوجیز", "تحقیق", "ڈیجیٹل انفراسٹرکچر سسٹمز، مانیٹرنگ پلیٹ فارمز اور اہم انفراسٹرکچر ٹیکنالوجی کی ترقی۔"), ("صنعتی AI اور تجزیات", "فعال تحقیق", "پیچیدہ آپریشنل ماحول کے لیے صنعتی AI، انفراسٹرکچر تجزیات اور ذہین آٹومیشن تحقیق۔")])},
+        "documents": {"title": "صلاحیت کے دستاویزات", "subtitle": "کارپوریٹ ویب سائٹ سے سرکاری صلاحیت کے خلاصے اور حوالہ جات۔", "openLabel": "دستاویز کھولیں", "items": make_docs([("توانائی کے نظام کی صلاحیتیں", "توانائی کے نظام کی ترقی، قابل تجدید انضمام اور Energy Intelligence کا جائزہ۔"), ("انفراسٹرکچر ٹیکنالوجیز", "سمارٹ انفراسٹرکچر، ڈیجیٹل سسٹمز اور اہم انفراسٹرکچر ٹیکنالوجی کی ترقی۔"), ("اسٹریٹجک شراکت داریاں", "شراکت داری کے ماڈل، تعاون کے فریم ورک اور شمولیت کا عمل۔"), ("بصیرت اور تحقیق", "توانائی، انفراسٹرکچر اور صنعتی ٹیکنالوجی پر صنعتی نقطہ نظر۔")])},
+        "support": {"title": "پارٹنر معاونت", "subtitle": "شراکت داری، تکنیکی اور عمومی استفسارات کے لیے TVK Infrastructure & Energy Systems ٹیم سے رابطہ کریں۔", "disclaimer": "فوری آپریشنل معاملات کے لیے اپنے مقرر کردہ شراکت داری نمائندے سے رابطہ کریں۔ عمومی استفسارات کا جواب: 1–2 کاروباری دن۔", "channels": make_channels([("شراکت داری کے استفسارات", "اسٹریٹجک تعاون، پائلٹ مواقع اور طویل مدتی شراکت داری کی ترقی۔"), ("سرمایہ کار تعلقات", "TVK Ecosystem میں سرمایہ کی تشکیل اور اسٹریٹجک سرمایہ کاری کی گفتگو۔"), ("تکنیکی معاونت", "پورٹل تک رسائی، درخواست کی حالت اور تکنیکی سوالات۔"), ("عام رابطہ", "TVK Infrastructure & Energy Systems کے بارے میں عمومی استفسارات۔")])},
+        "install": {"eyebrow": "Partner Portal ایپ", "title": "TVK Partner Portal ایپ حاصل کریں", "subtitle": "اپنے فون پر شراکت داری پورٹل انسٹال کریں — درخواست دیں، اقدامات ٹریک کریں اور ہوم اسکرین آئیکن سے صلاحیت کے دستاویزات تک رسائی حاصل کریں۔ آج Add to Home Screen کے ذریعے دستیاب؛ App Store لisting مرحلہ 2 میں منصوبہ بند ہے۔", "openApp": "Partner Portal کھولیں", "howToInstall": "انسٹال کیسے کریں", "iphone": {"title": "iPhone / iPad", "steps": "Safari → Partner Portal کھولیں → Share → Add to Home Screen"}, "android": {"title": "Android", "steps": "Chrome → Partner Portal کھولیں → menu → Install app یا Add to Home screen"}, "desktop": {"title": "Desktop", "steps": "Chrome یا Edge → address bar میں install آئیکن، یا Partner Portal بک مارک کریں"}},
+    },
+)
+
+LOCALE_BUNDLES["he"] = bundle(
+    "Partner Portal", "קבל את האפליקציה", "אפליקציית Partner Portal ←",
+    {
+        "meta": {"title": "Partner Portal", "description": "פורטל השותפים של TVK Infrastructure & Energy Systems — הגישו בקשה לשותפויות אסטרטגיות, עקבו אחרי יוזמות פיתוח וגשו למסמכי יכולות."},
+        "brand": "TVK Partner Portal", "tagline": "Infrastructure & Energy Systems", "backToSite": "אתר",
+        "navAria": "ניווט פורטל שותפים",
+        "nav": {"dashboard": "לוח בקרה", "apply": "הגשה", "projects": "פרויקטים", "documents": "מסמכים", "support": "תמיכה"},
+        "dashboard": {
+            "title": "לוח בקרה לשותפים",
+            "subtitle": "עקבו אחרי פניית השותפות, יוזמות הפיתוח והצעדים הבאים בתוך TVK Ecosystem.",
+            "stats": [{"label": "שלב שותפות", "value": "פיתוח"}, {"label": "יוזמות פעילות", "value": "6 תחומים"}, {"label": "סטטוס פנייה", "value": "פתוח"}, {"label": "שפות הפורטל", "value": "25"}],
+            "partnershipStatus": {"title": "צינור שותפויות אסטרטגיות", "badge": "בפיתוח", "description": "TVK Infrastructure & Energy Systems נמצאת בשלב מחקר, פיתוח ובניית שותפויות. הגישו בקשה כדי להתחיל שיחת שיתוף פעולה מובנית."},
+            "nextSteps": {"title": "צעדים מומלצים הבאים", "items": ["הגישו בקשת שותפות אסטרטגית עם פרטי הארגון שלכם", "סקרו תחומי יכולות במערכות אנרגיה וטכנולוגיות תשתית", "גלו יוזמות פיתוח פעילות בחלק הפרויקטים", "צרו קשר עם צוות השותפויות שלנו להזדמנויות פיילוט או שיתוף פעולה"]},
+            "cta": "הגישו בקשת שותפות ←",
+        },
+        "apply": {"title": "בקשת שותפות", "subtitle": "הגישו בקשה לשיתוף פעולה אסטרטגי עם TVK Infrastructure & Energy Systems.", "intro": "מלאו טופס זה כדי להציג את הארגון שלכם ולתאר את עניין השותפות. הצוות שלנו בודק את כל הבקשות ומגיב לפניות מתאימות.", "disclaimer": "בקשה זו אינה מהווה הסכם מחייב. TVK Infrastructure & Energy Systems LTD בשלב פיתוח — המידע מתאר תחומי יכולות ולא התחייבויות תפעוליות."},
+        "applyForm": {
+            "interestAreas": ["מערכות אנרגיה", "טכנולוגיות תשתית", "פתרונות תעשייתיים", "Energy Intelligence", "תשתית AI", "שותפויות אסטרטגיות", "פנייה כללית"],
+            "success": {"title": "הבקשה התקבלה", "message": "תודה על העניין בשותפות. הצוות שלנו יבדוק את הבקשה ויגיב תוך 5–10 ימי עסקים."},
+            "fields": {"name": "שם מלא", "company": "ארגון", "role": "תפקיד / תואר", "country": "מדינה", "email": "דוא\"ל", "interest": "תחום שותפות", "allocation": "היקף אינדיקטיבי (USD או תיאור)", "message": "הצעת שותפות", "required": "*"},
+            "placeholders": {"name": "שמכם המלא", "company": "שם הארגון", "role": "תפקידכם", "country": "מדינת הפעילות", "email": "professional@company.com", "interest": "בחרו תחום", "allocation": "לדוגמה: פרויקט פיילוט, שיתוף פעולה של $500K, אינטגרציה טכנולוגית", "message": "תארו את הארגון, ההתאמה האסטרטגית ושיתוף הפעולה המוצע..."},
+            "submit": "הגישו בקשת שותפות",
+        },
+        "projects": {"title": "יוזמות פיתוח", "subtitle": "תחומי יכולות נוכחיים ויוזמות בשלב פיתוח בתוך TVK Ecosystem.", "items": make_projects([("אינטגרציית מערכות אנרגיה", "בפיתוח", "אינטגרציה של אנרגיה מתחדשת, פתרונות אנרגיה תעשייתיים ומסגרות ניהול אנרגיה חכמות."), ("טכנולוגיות תשתית חכמות", "מחקר", "מערכות תשתית דיגיטליות, פלטפורמות ניטור ופיתוח טכנולוגיות תשתית קריטיות."), ("AI תעשייתי ואנליטיקה", "מחקר פעיל", "AI תעשייתי, אנליטיקת תשתית ומחקר אוטומציה חכמה לסביבות תפעול מורכבות.")])},
+        "documents": {"title": "מסמכי יכולות", "subtitle": "תקצירי יכולות רשמיים וחומרי עזר מהאתר התאגידי.", "openLabel": "פתח מסמך", "items": make_docs([("יכולות מערכות אנרגיה", "סקירה של פיתוח מערכות אנרגיה, אינטגרציה מתחדשת ו-Energy Intelligence."), ("טכנולוגיות תשתית", "תשתית חכמה, מערכות דיגיטליות ופיתוח טכנולוגיות תשתית קריטיות."), ("שותפויות אסטרטגיות", "מודלי שותפות, מסגרות שיתוף פעולה ותהליך מעורבות."), ("תובנות ומחקר", "נקודות מבט תעשייתיות על אנרגיה, תשתית וטכנולוגיה תעשייתית.")])},
+        "support": {"title": "תמיכת שותפים", "subtitle": "צרו קשר עם צוות TVK Infrastructure & Energy Systems לשאלות שותפות, טכניות וכלליות.", "disclaimer": "לעניינים תפעוליים דחופים, פנו לנציג השותפות המוקצה. זמני תגובה: 1–2 ימי עסקים לפניות כלליות.", "channels": make_channels([("פניות שותפות", "שיתוף פעולה אסטרטגי, הזדמנויות פיילוט ופיתוח שותפויות לטווח ארוך."), ("קשרי משקיעים", "גיוס הון ודיונים על השקעות אסטרטגיות בתוך TVK Ecosystem."), ("תמיכה טכנית", "גישה לפורטל, סטטוס בקשה ושאלות טכניות."), ("קשר כללי", "פניות כלליות על TVK Infrastructure & Energy Systems.")])},
+        "install": {"eyebrow": "אפליקציית Partner Portal", "title": "קבלו את אפליקציית TVK Partner Portal", "subtitle": "התקינו את פורטל השותפות בטלפון — הגישו בקשות, עקבו אחרי יוזמות וגשו למסמכי יכולות מאייקון מסך הבית. זמין היום דרך Add to Home Screen; פרסום ב-App Store מתוכנן לשלב 2.", "openApp": "פתחו Partner Portal", "howToInstall": "איך להתקין", "iphone": {"title": "iPhone / iPad", "steps": "Safari → פתחו Partner Portal → Share → Add to Home Screen"}, "android": {"title": "Android", "steps": "Chrome → פתחו Partner Portal → menu → Install app או Add to Home screen"}, "desktop": {"title": "Desktop", "steps": "Chrome או Edge → אייקון התקנה בשורת הכתובת, או סמנו את Partner Portal"}},
+    },
+)
