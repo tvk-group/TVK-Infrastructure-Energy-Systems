@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "App downloaden"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal App →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Partnerportaal van TVK Infrastructure & Energy Systems — vraag strategische partnerschappen aan, volg ontwikkelingsinitiatieven en krijg toegang tot capability-documenten."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Website",
+    "navAria": "Partnerportaalnavigatie",
+    "nav": {
+      "dashboard": "Dashboard",
+      "apply": "Aanvragen",
+      "projects": "Projecten",
+      "documents": "Documenten",
+      "support": "Ondersteuning"
+    },
+    "dashboard": {
+      "title": "Partnerdashboard",
+      "subtitle": "Volg uw partnerschapsaanvraag, ontwikkelingsinitiatieven en volgende stappen binnen het TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Partnerschapsfase",
+          "value": "Ontwikkeling"
+        },
+        {
+          "label": "Actieve initiatieven",
+          "value": "6 gebieden"
+        },
+        {
+          "label": "Aanvraagstatus",
+          "value": "Open"
+        },
+        {
+          "label": "Portaal talen",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline strategische partnerschappen",
+        "badge": "In ontwikkeling",
+        "description": "TVK Infrastructure & Energy Systems bevindt zich in een fase van onderzoek, ontwikkeling en partnerschapsopbouw. Dien een aanvraag in om een gestructureerd samenwerkingsgesprek te starten."
+      },
+      "nextSteps": {
+        "title": "Aanbevolen volgende stappen",
+        "items": [
+          "Dien een aanvraag voor een strategisch partnerschap in met de gegevens van uw organisatie",
+          "Bekijk capability-gebieden op het gebied van energiesystemen en infrastructuurtechnologieën",
+          "Verken actieve ontwikkelingsinitiatieven in het projectgedeelte",
+          "Neem contact op met ons partnershipteam voor pilot- of samenwerkingsmogelijkheden"
+        ]
+      },
+      "cta": "Partnerschapsaanvraag indienen →"
+    },
+    "apply": {
+      "title": "Partnerschapsaanvraag",
+      "subtitle": "Vraag strategische samenwerking aan met TVK Infrastructure & Energy Systems.",
+      "intro": "Vul dit formulier in om uw organisatie voor te stellen en uw partnerschapsinteresse te beschrijven. Ons team beoordeelt alle aanvragen en reageert op gekwalificeerde vragen.",
+      "disclaimer": "Deze aanvraag vormt geen bindende overeenkomst. TVK Infrastructure & Energy Systems LTD bevindt zich in een ontwikkelingsfase — informatie beschrijft capability-gebieden, geen operationele verplichtingen."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energiesystemen",
+        "Infrastructuurtechnologieën",
+        "Industriële oplossingen",
+        "Energy Intelligence",
+        "AI-infrastructuur",
+        "Strategische partnerschappen",
+        "Algemene vraag"
+      ],
+      "success": {
+        "title": "Aanvraag ontvangen",
+        "message": "Bedankt voor uw partnerschapsinteresse. Ons team beoordeelt uw aanvraag en reageert binnen 5–10 werkdagen."
+      },
+      "fields": {
+        "name": "Volledige naam",
+        "company": "Organisatie",
+        "role": "Functie / Titel",
+        "country": "Land",
+        "email": "E-mail",
+        "interest": "Partnerschapsgebied",
+        "allocation": "Indicatieve scope (USD of beschrijving)",
+        "message": "Partnerschapsvoorstel",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Uw volledige naam",
+        "company": "Naam van de organisatie",
+        "role": "Uw functie",
+        "country": "Land van operatie",
+        "email": "professioneel@bedrijf.com",
+        "interest": "Selecteer een gebied",
+        "allocation": "bijv. Pilotproject, samenwerking van $500K, technologie-integratie",
+        "message": "Beschrijf uw organisatie, strategische fit en voorgestelde samenwerking..."
+      },
+      "submit": "Partnerschapsaanvraag indienen"
+    },
+    "projects": {
+      "title": "Ontwikkelingsinitiatieven",
+      "subtitle": "Huidige capability-gebieden en initiatieven in ontwikkelingsfase binnen het TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integratie van energiesystemen",
+          "stage": "In ontwikkeling",
+          "stageKey": "development",
+          "description": "Integratie van hernieuwbare energie, industriële energieoplossingen en intelligente energiemanagementframeworks."
+        },
+        {
+          "title": "Slimme infrastructuurtechnologieën",
+          "stage": "Onderzoek",
+          "stageKey": "development",
+          "description": "Digitale infrastructuursystemen, monitoringplatforms en ontwikkeling van kritieke infrastructuurtechnologieën."
+        },
+        {
+          "title": "Industriële AI & analytics",
+          "stage": "Actief onderzoek",
+          "stageKey": "active",
+          "description": "Industriële AI, infrastructuuranalytics en onderzoek naar intelligente automatisering voor complexe operationele omgevingen."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Capability-documenten",
+      "subtitle": "Officiële capability-overzichten en referentiematerialen van de corporate website.",
+      "openLabel": "Document openen",
+      "items": [
+        {
+          "title": "Energiesysteem-capabilities",
+          "description": "Overzicht van energiesysteemontwikkeling, integratie van hernieuwbare energie en Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastructuurtechnologieën",
+          "description": "Slimme infrastructuur, digitale systemen en ontwikkeling van kritieke infrastructuurtechnologieën.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategische partnerschappen",
+          "description": "Partnerschapsmodellen, samenwerkingskaders en engagementproces.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Inzichten & onderzoek",
+          "description": "Sectorperspectieven over energie, infrastructuur en industriële technologie.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partnerondersteuning",
+      "subtitle": "Neem contact op met het team van TVK Infrastructure & Energy Systems voor partnership-, technische en algemene vragen.",
+      "disclaimer": "Voor urgente operationele zaken neemt u contact op met uw toegewezen partnershipvertegenwoordiger. Reactietijden: 1–2 werkdagen voor algemene vragen.",
+      "channels": [
+        {
+          "title": "Partnerschapsvragen",
+          "description": "Strategische samenwerking, pilotmogelijkheden en langdurige partnerschapsontwikkeling.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Investor Relations",
+          "description": "Kapitaalvorming en strategische investeringsgesprekken binnen het TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Technische ondersteuning",
+          "description": "Portaaltoegang, aanvraagstatus en technische vragen.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Algemeen contact",
+          "description": "Algemene vragen over TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal App",
+      "title": "Download de TVK Partner Portal app",
+      "subtitle": "Installeer het partnerschapsportaal op uw telefoon — vraag aan, volg initiatieven en krijg toegang tot capability-documenten via een startschermpictogram. Werkt vandaag via Toevoegen aan startscherm; App Store-vermelding gepland voor fase 2.",
+      "openApp": "Partner Portal openen",
+      "howToInstall": "Installatie-instructies",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Partner Portal openen → Delen → Zet op beginscherm"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Partner Portal openen → menu → App installeren of Toevoegen aan startscherm"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome of Edge → installatiepictogram in de adresbalk, of bookmark Partner Portal"
+      }
+    }
+  }
+}

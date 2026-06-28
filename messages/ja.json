@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "メインナビゲーション",
     "mobileNavAria": "モバイルナビゲーション",
-    "contact": "お問い合わせ"
+    "contact": "お問い合わせ",
+    "partnerPortal": "Partner Portal",
+    "getApp": "アプリを入手"
   },
   "footer": {
     "description": "TVKエコシステムにおいて、エネルギー、インフラ、産業システム、戦略的テクノロジー分野の将来志向のイニシアチブを推進しています。",
@@ -19,7 +21,8 @@
     "connectDescription": "インフラおよびエネルギー分野における戦略的パートナーシップと協業の機会を求めています。",
     "discussOpportunities": "機会について相談する →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
-    "ecosystem": "TVKエコシステムの一員"
+    "ecosystem": "TVKエコシステムの一員",
+    "partnerPortal": "Partner Portal アプリ →"
   },
   "nav": {
     "home": "ホーム",
@@ -877,5 +880,199 @@
         "answer": "はい。TVK Infrastructure & Energy SystemsはTVKエコシステムの一員であり、テクノロジー、産業、戦略的投資の視点を統合しています。"
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems パートナーポータル — 戦略的パートナーシップの申請、開発イニシアチブの追跡、能力ドキュメントへのアクセス。"
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "ウェブサイト",
+    "navAria": "パートナーポータルナビゲーション",
+    "nav": {
+      "dashboard": "ダッシュボード",
+      "apply": "申請",
+      "projects": "プロジェクト",
+      "documents": "ドキュメント",
+      "support": "サポート"
+    },
+    "dashboard": {
+      "title": "パートナーダッシュボード",
+      "subtitle": "TVK Ecosystem 内でパートナーシップの問い合わせ、開発イニシアチブ、次のアクションを追跡します。",
+      "stats": [
+        {
+          "label": "パートナーシップ段階",
+          "value": "開発中"
+        },
+        {
+          "label": "アクティブなイニシアチブ",
+          "value": "6 分野"
+        },
+        {
+          "label": "問い合わせ状況",
+          "value": "受付中"
+        },
+        {
+          "label": "ポータル言語",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "戦略的パートナーシップパイプライン",
+        "badge": "開発中",
+        "description": "TVK Infrastructure & Energy Systems は研究・開発・パートナーシップ構築の段階にあります。申請を提出して、構造化された協業の対話を開始してください。"
+      },
+      "nextSteps": {
+        "title": "推奨される次のステップ",
+        "items": [
+          "組織情報を記載した戦略的パートナーシップ申請を提出する",
+          "エネルギーシステムとインフラ技術の能力分野を確認する",
+          "プロジェクトセクションでアクティブな開発イニシアチブを探索する",
+          "パイロットや協業の機会についてパートナーシップチームに連絡する"
+        ]
+      },
+      "cta": "パートナーシップ申請を提出 →"
+    },
+    "apply": {
+      "title": "パートナーシップ申請",
+      "subtitle": "TVK Infrastructure & Energy Systems との戦略的協業に申請する。",
+      "intro": "このフォームに記入して組織を紹介し、パートナーシップへの関心を説明してください。当社チームがすべての申請を審査し、適格な問い合わせに回答します。",
+      "disclaimer": "本申請は拘束力のある契約を構成するものではありません。TVK Infrastructure & Energy Systems LTD は開発段階にあり — 情報は能力分野を説明するものであり、運用上のコミットメントではありません。"
+    },
+    "applyForm": {
+      "interestAreas": [
+        "エネルギーシステム",
+        "インフラ技術",
+        "産業ソリューション",
+        "Energy Intelligence",
+        "AI インフラ",
+        "戦略的パートナーシップ",
+        "一般問い合わせ"
+      ],
+      "success": {
+        "title": "申請を受け付けました",
+        "message": "パートナーシップへのご関心ありがとうございます。当社チームが申請を審査し、5〜10 営業日以内に回答します。"
+      },
+      "fields": {
+        "name": "氏名",
+        "company": "組織",
+        "role": "役職 / 肩書",
+        "country": "国",
+        "email": "メール",
+        "interest": "パートナーシップ分野",
+        "allocation": "参考規模（USD または説明）",
+        "message": "パートナーシップ提案",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "氏名",
+        "company": "組織名",
+        "role": "役職",
+        "country": "事業国",
+        "email": "professional@company.com",
+        "interest": "分野を選択",
+        "allocation": "例：パイロットプロジェクト、50 万ドルの協業、技術統合",
+        "message": "組織、戦略的適合性、提案する協業について説明..."
+      },
+      "submit": "パートナーシップ申請を提出"
+    },
+    "projects": {
+      "title": "開発イニシアチブ",
+      "subtitle": "TVK Ecosystem 内の現在の能力分野と開発段階のイニシアチブ。",
+      "items": [
+        {
+          "title": "エネルギーシステム統合",
+          "stage": "開発中",
+          "stageKey": "development",
+          "description": "再生可能エネルギー統合、産業用エネルギーソリューション、インテリジェントエネルギー管理フレームワーク。"
+        },
+        {
+          "title": "スマートインフラ技術",
+          "stage": "研究",
+          "stageKey": "development",
+          "description": "デジタルインフラシステム、監視プラットフォーム、重要インフラ技術の開発。"
+        },
+        {
+          "title": "産業 AI と分析",
+          "stage": "アクティブな研究",
+          "stageKey": "active",
+          "description": "複雑な運用環境向けの産業 AI、インフラ分析、インテリジェント自動化の研究。"
+        }
+      ]
+    },
+    "documents": {
+      "title": "能力ドキュメント",
+      "subtitle": "コーポレートサイトの公式能力概要と参考資料。",
+      "openLabel": "ドキュメントを開く",
+      "items": [
+        {
+          "title": "エネルギーシステム能力",
+          "description": "エネルギーシステム開発、再生可能エネルギー統合、Energy Intelligence の概要。",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "インフラ技術",
+          "description": "スマートインフラ、デジタルシステム、重要インフラ技術の開発。",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "戦略的パートナーシップ",
+          "description": "パートナーシップモデル、協業フレームワーク、エンゲージメントプロセス。",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "インサイトと研究",
+          "description": "エネルギー、インフラ、産業技術に関する業界の視点。",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "パートナーサポート",
+      "subtitle": "パートナーシップ、技術、一般の問い合わせについて TVK Infrastructure & Energy Systems チームにお問い合わせください。",
+      "disclaimer": "緊急の運用事項については、担当のパートナーシップ代表者にお問い合わせください。一般問い合わせの回答時間：1〜2 営業日。",
+      "channels": [
+        {
+          "title": "パートナーシップ問い合わせ",
+          "description": "戦略的協業、パイロット機会、長期的なパートナーシップ開発。",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "投資家向け情報",
+          "description": "TVK Ecosystem 内の資本形成と戦略的投資に関する協議。",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "テクニカルサポート",
+          "description": "ポータルアクセス、申請状況、技術的な質問。",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "一般連絡",
+          "description": "TVK Infrastructure & Energy Systems に関する一般問い合わせ。",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal アプリ",
+      "title": "TVK Partner Portal アプリを入手",
+      "subtitle": "スマートフォンにパートナーシップポータルをインストール — 申請、イニシアチブの追跡、ホーム画面アイコンから能力ドキュメントにアクセス。現在はホーム画面に追加で利用可能；App Store 掲載はフェーズ 2 で予定。",
+      "openApp": "Partner Portal を開く",
+      "howToInstall": "インストール方法",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Partner Portal を開く → 共有 → ホーム画面に追加"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Partner Portal を開く → メニュー → アプリをインストールまたはホーム画面に追加"
+      },
+      "desktop": {
+        "title": "デスクトップ",
+        "steps": "Chrome または Edge → アドレスバーのインストールアイコン、または Partner Portal をブックマーク"
+      }
+    }
   }
 }

@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Hlavní navigace",
     "mobileNavAria": "Mobilní navigace",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Stáhnout aplikaci"
   },
   "footer": {
     "description": "Rozvíjí budoucí iniciativy v oblasti energetiky, infrastruktury, průmyslových systémů a strategických technologií v ekosystému TVK.",
@@ -19,7 +21,8 @@
     "connectDescription": "Hledáme strategická partnerství a příležitosti ke spolupráci v oblasti infrastruktury a energetiky.",
     "discussOpportunities": "Projednat příležitosti →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Všechna práva vyhrazena.",
-    "ecosystem": "Součást ekosystému TVK"
+    "ecosystem": "Součást ekosystému TVK",
+    "partnerPortal": "Aplikace Partner Portal →"
   },
   "nav": {
     "home": "Domů",
@@ -773,5 +776,199 @@
       "message": "Popište svůj dotaz, zájem o partnerství nebo projektovou příležitost..."
     },
     "submit": "Prodiskutovat příležitosti v oblasti infrastruktury a energetiky"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Partnerský portál TVK Infrastructure & Energy Systems — žádejte o strategická partnerství, sledujte rozvojové iniciativy a přistupujte k dokumentům o kompetencích."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Web",
+    "navAria": "Navigace partnerského portálu",
+    "nav": {
+      "dashboard": "Přehled",
+      "apply": "Přihlásit se",
+      "projects": "Projekty",
+      "documents": "Dokumenty",
+      "support": "Podpora"
+    },
+    "dashboard": {
+      "title": "Partnerský přehled",
+      "subtitle": "Sledujte svůj partnerský dotaz, rozvojové iniciativy a další kroky v rámci TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Fáze partnerství",
+          "value": "Vývoj"
+        },
+        {
+          "label": "Aktivní iniciativy",
+          "value": "6 oblastí"
+        },
+        {
+          "label": "Stav dotazu",
+          "value": "Otevřený"
+        },
+        {
+          "label": "Jazyky portálu",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline strategických partnerství",
+        "badge": "Ve vývoji",
+        "description": "TVK Infrastructure & Energy Systems je ve fázi výzkumu, vývoje a budování partnerství. Odešlete přihlášku a zahajte strukturovanou spolupracující konverzaci."
+      },
+      "nextSteps": {
+        "title": "Doporučené další kroky",
+        "items": [
+          "Odešlete přihlášku ke strategickému partnerství s údaji o vaší organizaci",
+          "Prostudujte oblasti kompetencí v energetických systémech a infrastrukturních technologiích",
+          "Prozkoumejte aktivní rozvojové iniciativy v sekci projektů",
+          "Kontaktujte náš partnerský tým ohledně pilotních nebo spolupracujících příležitostí"
+        ]
+      },
+      "cta": "Odeslat partnerskou přihlášku →"
+    },
+    "apply": {
+      "title": "Partnerská přihláška",
+      "subtitle": "Přihlaste se ke strategické spolupráci s TVK Infrastructure & Energy Systems.",
+      "intro": "Vyplňte tento formulář, abyste představili svou organizaci a popsali zájem o partnerství. Náš tým posoudí všechny přihlášky a odpoví na kvalifikované dotazy.",
+      "disclaimer": "Tato přihláška nepředstavuje závaznou smlouvu. TVK Infrastructure & Energy Systems LTD je ve fázi vývoje — informace popisují oblasti kompetencí, nikoli provozní závazky."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energetické systémy",
+        "Infrastrukturní technologie",
+        "Průmyslová řešení",
+        "Energy Intelligence",
+        "AI infrastruktura",
+        "Strategická partnerství",
+        "Obecný dotaz"
+      ],
+      "success": {
+        "title": "Přihláška přijata",
+        "message": "Děkujeme za váš zájem o partnerství. Náš tým posoudí vaši přihlášku a odpoví do 5–10 pracovních dnů."
+      },
+      "fields": {
+        "name": "Celé jméno",
+        "company": "Organizace",
+        "role": "Role / Titul",
+        "country": "Země",
+        "email": "E-mail",
+        "interest": "Oblast partnerství",
+        "allocation": "Orientační rozsah (USD nebo popis)",
+        "message": "Návrh partnerství",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Vaše celé jméno",
+        "company": "Název organizace",
+        "role": "Vaše pozice",
+        "country": "Země působení",
+        "email": "professional@company.com",
+        "interest": "Vyberte oblast",
+        "allocation": "např. Pilotní projekt, spolupráce 500 tis. USD, integrace technologií",
+        "message": "Popište svou organizaci, strategickou shodu a navrhovanou spolupráci..."
+      },
+      "submit": "Odeslat partnerskou přihlášku"
+    },
+    "projects": {
+      "title": "Rozvojové iniciativy",
+      "subtitle": "Aktuální oblasti kompetencí a iniciativy ve fázi vývoje v rámci TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integrace energetických systémů",
+          "stage": "Ve vývoji",
+          "stageKey": "development",
+          "description": "Integrace obnovitelných zdrojů, průmyslová energetická řešení a inteligentní rámce pro řízení energie."
+        },
+        {
+          "title": "Technologie chytré infrastruktury",
+          "stage": "Výzkum",
+          "stageKey": "development",
+          "description": "Digitální infrastrukturní systémy, monitorovací platformy a vývoj technologií kritické infrastruktury."
+        },
+        {
+          "title": "Průmyslová AI a analytika",
+          "stage": "Aktivní výzkum",
+          "stageKey": "active",
+          "description": "Průmyslová AI, infrastrukturní analytika a výzkum inteligentní automatizace pro složitá provozní prostředí."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Dokumenty kompetencí",
+      "subtitle": "Oficiální přehledy kompetencí a referenční materiály z firemního webu.",
+      "openLabel": "Otevřít dokument",
+      "items": [
+        {
+          "title": "Kompetence v energetických systémech",
+          "description": "Přehled vývoje energetických systémů, integrace obnovitelných zdrojů a Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastrukturní technologie",
+          "description": "Chytrá infrastruktura, digitální systémy a vývoj technologií kritické infrastruktury.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategická partnerství",
+          "description": "Modely partnerství, rámce spolupráce a proces zapojení.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Pohledy a výzkum",
+          "description": "Oborové perspektivy k energii, infrastruktuře a průmyslovým technologiím.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partnerská podpora",
+      "subtitle": "Kontaktujte tým TVK Infrastructure & Energy Systems ohledně partnerských, technických a obecných dotazů.",
+      "disclaimer": "V naléhavých provozních záležitostech kontaktujte svého přiděleného partnerského zástupce. Doba odpovědi: 1–2 pracovní dny pro obecné dotazy.",
+      "channels": [
+        {
+          "title": "Partnerské dotazy",
+          "description": "Strategická spolupráce, pilotní příležitosti a dlouhodobý rozvoj partnerství.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Vztahy s investory",
+          "description": "Formování kapitálu a strategické investiční diskuse v rámci TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Technická podpora",
+          "description": "Přístup k portálu, stav přihlášky a technické otázky.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Obecný kontakt",
+          "description": "Obecné dotazy týkající se TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Aplikace Partner Portal",
+      "title": "Získejte aplikaci TVK Partner Portal",
+      "subtitle": "Nainstalujte partnerský portál do telefonu — přihlaste se, sledujte iniciativy a přistupujte k dokumentům kompetencí z ikony na domovské obrazovce. Funguje dnes přes Přidat na plochu; uvedení v App Store plánováno pro fázi 2.",
+      "openApp": "Otevřít Partner Portal",
+      "howToInstall": "Jak nainstalovat",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Otevřít Partner Portal → Sdílet → Přidat na plochu"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Otevřít Partner Portal → menu → Nainstalovat aplikaci nebo Přidat na plochu"
+      },
+      "desktop": {
+        "title": "Počítač",
+        "steps": "Chrome nebo Edge → ikona instalace v adresním řádku nebo uložte Partner Portal do záložek"
+      }
+    }
   }
 }

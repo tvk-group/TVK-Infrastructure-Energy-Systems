@@ -3,6 +3,7 @@ import type { Dictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
 import { getCoreAreas } from "@/i18n/navigation";
 import { localizedPath } from "@/i18n/routing";
+import { appPath } from "@/lib/app-config";
 
 const icons: Record<string, React.ReactNode> = {
   energy: (
@@ -107,6 +108,12 @@ export function Hero({ locale, dict }: HomeSectionsProps) {
               className="inline-flex items-center justify-center rounded border border-white/40 px-8 py-4 text-sm font-semibold text-white transition-colors hover:bg-white/10"
             >
               {t.strategicPartnershipInquiry}
+            </Link>
+            <Link
+              href={appPath(locale)}
+              className="inline-flex items-center justify-center rounded border border-energy/50 bg-energy/20 px-8 py-4 text-sm font-semibold text-white transition-colors hover:bg-energy/30"
+            >
+              {dict.header.getApp}
             </Link>
           </div>
         </div>

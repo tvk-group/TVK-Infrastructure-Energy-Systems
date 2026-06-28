@@ -3,6 +3,7 @@ import type { Dictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
 import { getNavItems } from "@/i18n/navigation";
 import { localizedPath } from "@/i18n/routing";
+import { appPath } from "@/lib/app-config";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 
 interface HeaderProps {
@@ -43,6 +44,12 @@ export function Header({ locale, dict }: HeaderProps) {
 
           <div className="flex items-center gap-3 shrink-0">
             <LanguageSwitcher currentLocale={locale} label={dict.header.mainNavAria} />
+            <Link
+              href={appPath(locale)}
+              className="hidden lg:inline-flex items-center justify-center rounded border border-white/25 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-white/10"
+            >
+              {dict.header.getApp}
+            </Link>
             <Link
               href={localizedPath(locale, "/contact")}
               className="hidden sm:inline-flex items-center justify-center rounded bg-energy px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-energy-light"

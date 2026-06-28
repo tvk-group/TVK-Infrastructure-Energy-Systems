@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Descarcă aplicația"
+  },
+  "footer": {
+    "partnerPortal": "Aplicația Partner Portal →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Portal parteneri TVK Infrastructure & Energy Systems — aplicați pentru parteneriate strategice, urmăriți inițiativele de dezvoltare și accesați documentele de competențe."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Site web",
+    "navAria": "Navigare portal parteneri",
+    "nav": {
+      "dashboard": "Panou",
+      "apply": "Aplică",
+      "projects": "Proiecte",
+      "documents": "Documente",
+      "support": "Suport"
+    },
+    "dashboard": {
+      "title": "Panou partener",
+      "subtitle": "Urmăriți solicitarea de parteneriat, inițiativele de dezvoltare și pașii următori în cadrul TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Etapa parteneriatului",
+          "value": "Dezvoltare"
+        },
+        {
+          "label": "Inițiative active",
+          "value": "6 domenii"
+        },
+        {
+          "label": "Starea solicitării",
+          "value": "Deschis"
+        },
+        {
+          "label": "Limbi portal",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline parteneriate strategice",
+        "badge": "În dezvoltare",
+        "description": "TVK Infrastructure & Energy Systems se află într-o etapă de cercetare, dezvoltare și construire a parteneriatelor. Trimiteți o aplicație pentru a începe o conversație structurată de colaborare."
+      },
+      "nextSteps": {
+        "title": "Pași următori recomandați",
+        "items": [
+          "Trimiteți o aplicație de parteneriat strategic cu detaliile organizației dvs.",
+          "Revizuiți domeniile de competențe în sisteme energetice și tehnologii de infrastructură",
+          "Explorați inițiativele active de dezvoltare în secțiunea proiecte",
+          "Contactați echipa noastră de parteneriate pentru oportunități pilot sau de colaborare"
+        ]
+      },
+      "cta": "Trimite aplicația de parteneriat →"
+    },
+    "apply": {
+      "title": "Aplicație de parteneriat",
+      "subtitle": "Aplicați pentru colaborare strategică cu TVK Infrastructure & Energy Systems.",
+      "intro": "Completați acest formular pentru a vă prezenta organizația și a descrie interesul pentru parteneriat. Echipa noastră analizează toate aplicațiile și răspunde solicitărilor calificate.",
+      "disclaimer": "Această aplicație nu constituie un acord obligatoriu. TVK Infrastructure & Energy Systems LTD se află într-o etapă de dezvoltare — informațiile descriu domenii de competențe, nu angajamente operaționale."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Sisteme energetice",
+        "Tehnologii de infrastructură",
+        "Soluții industriale",
+        "Energy Intelligence",
+        "Infrastructură AI",
+        "Parteneriate strategice",
+        "Solicitare generală"
+      ],
+      "success": {
+        "title": "Aplicație primită",
+        "message": "Vă mulțumim pentru interesul față de parteneriat. Echipa noastră va analiza aplicația și va răspunde în 5–10 zile lucrătoare."
+      },
+      "fields": {
+        "name": "Nume complet",
+        "company": "Organizație",
+        "role": "Rol / Titlu",
+        "country": "Țară",
+        "email": "E-mail",
+        "interest": "Domeniu de parteneriat",
+        "allocation": "Domeniu indicativ (USD sau descriere)",
+        "message": "Propunere de parteneriat",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Numele dvs. complet",
+        "company": "Numele organizației",
+        "role": "Poziția dvs.",
+        "country": "Țara de operare",
+        "email": "professional@company.com",
+        "interest": "Selectați un domeniu",
+        "allocation": "de ex. Proiect pilot, colaborare de 500.000 USD, integrare tehnologică",
+        "message": "Descrieți organizația, potrivirea strategică și colaborarea propusă..."
+      },
+      "submit": "Trimite aplicația de parteneriat"
+    },
+    "projects": {
+      "title": "Inițiative de dezvoltare",
+      "subtitle": "Domenii actuale de competențe și inițiative în etapa de dezvoltare în cadrul TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integrarea sistemelor energetice",
+          "stage": "În dezvoltare",
+          "stageKey": "development",
+          "description": "Integrarea energiei regenerabile, soluții energetice industriale și cadre inteligente de management al energiei."
+        },
+        {
+          "title": "Tehnologii de infrastructură inteligentă",
+          "stage": "Cercetare",
+          "stageKey": "development",
+          "description": "Sisteme de infrastructură digitală, platforme de monitorizare și dezvoltarea tehnologiilor de infrastructură critică."
+        },
+        {
+          "title": "AI industrial și analitică",
+          "stage": "Cercetare activă",
+          "stageKey": "active",
+          "description": "AI industrial, analitică de infrastructură și cercetare în automatizare inteligentă pentru medii operaționale complexe."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Documente de competențe",
+      "subtitle": "Rezumate oficiale de competențe și materiale de referință de pe site-ul corporativ.",
+      "openLabel": "Deschide documentul",
+      "items": [
+        {
+          "title": "Competențe în sisteme energetice",
+          "description": "Prezentare generală a dezvoltării sistemelor energetice, integrării regenerabile și Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Tehnologii de infrastructură",
+          "description": "Infrastructură inteligentă, sisteme digitale și dezvoltarea tehnologiilor de infrastructură critică.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Parteneriate strategice",
+          "description": "Modele de parteneriat, cadre de colaborare și proces de implicare.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Perspective și cercetare",
+          "description": "Perspective de industrie privind energia, infrastructura și tehnologia industrială.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Suport parteneri",
+      "subtitle": "Contactați echipa TVK Infrastructure & Energy Systems pentru solicitări de parteneriat, tehnice și generale.",
+      "disclaimer": "Pentru probleme operaționale urgente, contactați reprezentantul de parteneriat desemnat. Timp de răspuns: 1–2 zile lucrătoare pentru solicitări generale.",
+      "channels": [
+        {
+          "title": "Solicitări de parteneriat",
+          "description": "Colaborare strategică, oportunități pilot și dezvoltarea parteneriatelor pe termen lung.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Relații cu investitorii",
+          "description": "Formarea capitalului și discuții despre investiții strategice în cadrul TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Suport tehnic",
+          "description": "Acces la portal, starea aplicației și întrebări tehnice.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Contact general",
+          "description": "Solicitări generale despre TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Aplicația Partner Portal",
+      "title": "Obțineți aplicația TVK Partner Portal",
+      "subtitle": "Instalați portalul de parteneriat pe telefon — aplicați, urmăriți inițiativele și accesați documentele de competențe dintr-o pictogramă pe ecranul principal. Funcționează astăzi prin Adaugă pe ecranul principal; listare în App Store planificată pentru faza 2.",
+      "openApp": "Deschide Partner Portal",
+      "howToInstall": "Cum se instalează",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Deschide Partner Portal → Partajare → Adaugă pe ecranul principal"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Deschide Partner Portal → meniu → Instalează aplicația sau Adaugă pe ecranul principal"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome sau Edge → pictograma de instalare în bara de adrese sau salvați Partner Portal la favorite"
+      }
+    }
+  }
+}

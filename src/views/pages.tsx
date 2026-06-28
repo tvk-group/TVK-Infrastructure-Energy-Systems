@@ -3,6 +3,7 @@ import type { Dictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
 import { localizedPath } from "@/i18n/routing";
 import { Hero, CoreAreas } from "@/components/HomeSections";
+import { PartnerAppSection } from "@/components/app/PartnerAppSection";
 import { ContactForm } from "@/components/ContactForm";
 import { PageHero, Section, FeatureCard, CTABanner, InfoBlock } from "@/components/ui";
 
@@ -57,6 +58,7 @@ export function HomeView({ dict, locale }: PageProps) {
         secondaryLabel={t.cta.secondaryLabel}
         secondaryHref={localizedPath(locale, "/contact")}
       />
+      <PartnerAppSection locale={locale} dict={dict} />
     </>
   );
 }

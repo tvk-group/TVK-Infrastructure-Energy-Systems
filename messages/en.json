@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Main navigation",
     "mobileNavAria": "Mobile navigation",
-    "contact": "Contact"
+    "contact": "Contact",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Get the App"
   },
   "footer": {
     "description": "Developing future-focused initiatives across energy, infrastructure, industrial systems and strategic technologies within the TVK ecosystem.",
@@ -18,6 +20,7 @@
     "connect": "Connect",
     "connectDescription": "Seeking strategic partnerships and collaboration opportunities in infrastructure and energy.",
     "discussOpportunities": "Discuss Opportunities →",
+    "partnerPortal": "Partner Portal App →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
     "ecosystem": "Part of the TVK Ecosystem"
   },
@@ -773,5 +776,199 @@
       "message": "Describe your inquiry, partnership interest, or project opportunity..."
     },
     "submit": "Discuss Infrastructure & Energy Opportunities"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems partner portal — apply for strategic partnerships, track development initiatives, and access capability documents."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Website",
+    "navAria": "Partner portal navigation",
+    "nav": {
+      "dashboard": "Dashboard",
+      "apply": "Apply",
+      "projects": "Projects",
+      "documents": "Documents",
+      "support": "Support"
+    },
+    "dashboard": {
+      "title": "Partner Dashboard",
+      "subtitle": "Track your partnership inquiry, development initiatives, and next actions within the TVK ecosystem.",
+      "stats": [
+        {
+          "label": "Partnership Stage",
+          "value": "Development"
+        },
+        {
+          "label": "Active Initiatives",
+          "value": "6 Areas"
+        },
+        {
+          "label": "Inquiry Status",
+          "value": "Open"
+        },
+        {
+          "label": "Portal Languages",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Strategic Partnership Pipeline",
+        "badge": "In Development",
+        "description": "TVK Infrastructure & Energy Systems is in a research, development, and partnership-building stage. Submit an application to begin a structured collaboration conversation."
+      },
+      "nextSteps": {
+        "title": "Recommended Next Steps",
+        "items": [
+          "Submit a strategic partnership application with your organization details",
+          "Review capability areas across energy systems and infrastructure technologies",
+          "Explore active development initiatives in the projects section",
+          "Contact our partnerships team for pilot or collaboration opportunities"
+        ]
+      },
+      "cta": "Submit Partnership Application →"
+    },
+    "apply": {
+      "title": "Partnership Application",
+      "subtitle": "Apply for strategic collaboration with TVK Infrastructure & Energy Systems.",
+      "intro": "Complete this form to introduce your organization and describe your partnership interest. Our team reviews all applications and responds to qualified inquiries.",
+      "disclaimer": "This application does not constitute a binding agreement. TVK Infrastructure & Energy Systems LTD is in a development stage — information describes capability areas, not operational commitments."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energy Systems",
+        "Infrastructure Technologies",
+        "Industrial Solutions",
+        "Energy Intelligence",
+        "AI Infrastructure",
+        "Strategic Partnerships",
+        "General Inquiry"
+      ],
+      "success": {
+        "title": "Application Received",
+        "message": "Thank you for your partnership interest. Our team will review your application and respond within 5–10 business days."
+      },
+      "fields": {
+        "name": "Full Name",
+        "company": "Organization",
+        "role": "Role / Title",
+        "country": "Country",
+        "email": "Email",
+        "interest": "Partnership Area",
+        "allocation": "Indicative Scope (USD or description)",
+        "message": "Partnership Proposal",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Your full name",
+        "company": "Organization name",
+        "role": "Your position",
+        "country": "Country of operation",
+        "email": "professional@company.com",
+        "interest": "Select an area",
+        "allocation": "e.g. Pilot project, $500K collaboration, technology integration",
+        "message": "Describe your organization, strategic fit, and proposed collaboration..."
+      },
+      "submit": "Submit Partnership Application"
+    },
+    "projects": {
+      "title": "Development Initiatives",
+      "subtitle": "Current capability areas and development-stage initiatives within the TVK ecosystem.",
+      "items": [
+        {
+          "title": "Energy Systems Integration",
+          "stage": "In Development",
+          "stageKey": "development",
+          "description": "Renewable integration, industrial energy solutions, and intelligent energy management frameworks."
+        },
+        {
+          "title": "Smart Infrastructure Technologies",
+          "stage": "Research",
+          "stageKey": "development",
+          "description": "Digital infrastructure systems, monitoring platforms, and critical infrastructure technology development."
+        },
+        {
+          "title": "Industrial AI & Analytics",
+          "stage": "Active Research",
+          "stageKey": "active",
+          "description": "Industrial AI, infrastructure analytics, and intelligent automation research for complex operational environments."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Capability Documents",
+      "subtitle": "Official capability briefs and reference materials from the corporate website.",
+      "openLabel": "Open document",
+      "items": [
+        {
+          "title": "Energy Systems Capabilities",
+          "description": "Overview of energy systems development, renewable integration, and energy intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastructure Technologies",
+          "description": "Smart infrastructure, digital systems, and critical infrastructure technology development.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategic Partnerships",
+          "description": "Partnership models, collaboration frameworks, and engagement process.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Insights & Research",
+          "description": "Industry perspectives on energy, infrastructure, and industrial technology.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partner Support",
+      "subtitle": "Contact the TVK Infrastructure & Energy Systems team for partnership, technical, and general inquiries.",
+      "disclaimer": "For urgent operational matters, contact your assigned partnership representative. Response times: 1–2 business days for general inquiries.",
+      "channels": [
+        {
+          "title": "Partnership Inquiries",
+          "description": "Strategic collaboration, pilot opportunities, and long-term partnership development.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Investor Relations",
+          "description": "Capital formation and strategic investment discussions within the TVK ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Technical Support",
+          "description": "Portal access, application status, and technical questions.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "General Contact",
+          "description": "General inquiries about TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal App",
+      "title": "Get the TVK Partner Portal app",
+      "subtitle": "Install the partnership portal on your phone — apply, track initiatives, and access capability documents from a home-screen icon. Works today via Add to Home Screen; App Store listing planned for Phase 2.",
+      "openApp": "Open Partner Portal",
+      "howToInstall": "How to install",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Open Partner Portal → Share → Add to Home Screen"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Open Partner Portal → menu → Install app or Add to Home screen"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome or Edge → install icon in the address bar, or bookmark the Partner Portal"
+      }
+    }
   }
 }

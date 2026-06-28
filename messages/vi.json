@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Điều hướng chính",
     "mobileNavAria": "Điều hướng di động",
-    "contact": "Liên hệ"
+    "contact": "Liên hệ",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Tải ứng dụng"
   },
   "footer": {
     "description": "Phát triển các sáng kiến hướng tới tương lai trong lĩnh vực năng lượng, hạ tầng, hệ thống công nghiệp và công nghệ chiến lược trong hệ sinh thái TVK.",
@@ -19,7 +21,8 @@
     "connectDescription": "Tìm kiếm quan hệ đối tác chiến lược và cơ hội hợp tác trong lĩnh vực hạ tầng và năng lượng.",
     "discussOpportunities": "Thảo luận cơ hội →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Bảo lưu mọi quyền.",
-    "ecosystem": "Thuộc hệ sinh thái TVK"
+    "ecosystem": "Thuộc hệ sinh thái TVK",
+    "partnerPortal": "Ứng dụng Partner Portal →"
   },
   "nav": {
     "home": "Trang chủ",
@@ -773,5 +776,199 @@
       "message": "Mô tả yêu cầu, sự quan tâm hợp tác hoặc cơ hội dự án của bạn..."
     },
     "submit": "Thảo luận cơ hội hạ tầng & năng lượng"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Cổng đối tác TVK Infrastructure & Energy Systems — đăng ký quan hệ đối tác chiến lược, theo dõi các sáng kiến phát triển và truy cập tài liệu năng lực."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Trang web",
+    "navAria": "Điều hướng cổng đối tác",
+    "nav": {
+      "dashboard": "Bảng điều khiển",
+      "apply": "Đăng ký",
+      "projects": "Dự án",
+      "documents": "Tài liệu",
+      "support": "Hỗ trợ"
+    },
+    "dashboard": {
+      "title": "Bảng điều khiển đối tác",
+      "subtitle": "Theo dõi yêu cầu quan hệ đối tác, các sáng kiến phát triển và các bước tiếp theo trong TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Giai đoạn đối tác",
+          "value": "Phát triển"
+        },
+        {
+          "label": "Sáng kiến đang hoạt động",
+          "value": "6 lĩnh vực"
+        },
+        {
+          "label": "Trạng thái yêu cầu",
+          "value": "Mở"
+        },
+        {
+          "label": "Ngôn ngữ cổng",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Quy trình quan hệ đối tác chiến lược",
+        "badge": "Đang phát triển",
+        "description": "TVK Infrastructure & Energy Systems đang ở giai đoạn nghiên cứu, phát triển và xây dựng quan hệ đối tác. Gửi đơn đăng ký để bắt đầu cuộc trao đổi hợp tác có cấu trúc."
+      },
+      "nextSteps": {
+        "title": "Các bước tiếp theo được đề xuất",
+        "items": [
+          "Gửi đơn đăng ký quan hệ đối tác chiến lược với thông tin tổ chức của bạn",
+          "Xem xét các lĩnh vực năng lực về hệ thống năng lượng và công nghệ hạ tầng",
+          "Khám phá các sáng kiến phát triển đang hoạt động trong phần dự án",
+          "Liên hệ nhóm quan hệ đối tác của chúng tôi để biết cơ hội thí điểm hoặc hợp tác"
+        ]
+      },
+      "cta": "Gửi đơn đăng ký quan hệ đối tác →"
+    },
+    "apply": {
+      "title": "Đơn đăng ký quan hệ đối tác",
+      "subtitle": "Đăng ký hợp tác chiến lược với TVK Infrastructure & Energy Systems.",
+      "intro": "Hoàn thành biểu mẫu này để giới thiệu tổ chức của bạn và mô tả mối quan tâm về quan hệ đối tác. Nhóm của chúng tôi xem xét tất cả đơn đăng ký và phản hồi các yêu cầu đủ điều kiện.",
+      "disclaimer": "Đơn đăng ký này không cấu thành thỏa thuận ràng buộc. TVK Infrastructure & Energy Systems LTD đang ở giai đoạn phát triển — thông tin mô tả các lĩnh vực năng lực, không phải cam kết vận hành."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Hệ thống năng lượng",
+        "Công nghệ hạ tầng",
+        "Giải pháp công nghiệp",
+        "Energy Intelligence",
+        "Hạ tầng AI",
+        "Quan hệ đối tác chiến lược",
+        "Yêu cầu chung"
+      ],
+      "success": {
+        "title": "Đã nhận đơn đăng ký",
+        "message": "Cảm ơn bạn quan tâm đến quan hệ đối tác. Nhóm của chúng tôi sẽ xem xét đơn đăng ký và phản hồi trong 5–10 ngày làm việc."
+      },
+      "fields": {
+        "name": "Họ và tên",
+        "company": "Tổ chức",
+        "role": "Vai trò / Chức danh",
+        "country": "Quốc gia",
+        "email": "Email",
+        "interest": "Lĩnh vực đối tác",
+        "allocation": "Phạm vi tham khảo (USD hoặc mô tả)",
+        "message": "Đề xuất quan hệ đối tác",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Họ và tên của bạn",
+        "company": "Tên tổ chức",
+        "role": "Chức vụ của bạn",
+        "country": "Quốc gia hoạt động",
+        "email": "professional@company.com",
+        "interest": "Chọn lĩnh vực",
+        "allocation": "vd. Dự án thí điểm, hợp tác 500 nghìn USD, tích hợp công nghệ",
+        "message": "Mô tả tổ chức, sự phù hợp chiến lược và hợp tác đề xuất..."
+      },
+      "submit": "Gửi đơn đăng ký quan hệ đối tác"
+    },
+    "projects": {
+      "title": "Sáng kiến phát triển",
+      "subtitle": "Các lĩnh vực năng lực hiện tại và sáng kiến ở giai đoạn phát triển trong TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Tích hợp hệ thống năng lượng",
+          "stage": "Đang phát triển",
+          "stageKey": "development",
+          "description": "Tích hợp năng lượng tái tạo, giải pháp năng lượng công nghiệp và khung quản lý năng lượng thông minh."
+        },
+        {
+          "title": "Công nghệ hạ tầng thông minh",
+          "stage": "Nghiên cứu",
+          "stageKey": "development",
+          "description": "Hệ thống hạ tầng số, nền tảng giám sát và phát triển công nghệ hạ tầng quan trọng."
+        },
+        {
+          "title": "AI công nghiệp & phân tích",
+          "stage": "Nghiên cứu đang hoạt động",
+          "stageKey": "active",
+          "description": "AI công nghiệp, phân tích hạ tầng và nghiên cứu tự động hóa thông minh cho môi trường vận hành phức tạp."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Tài liệu năng lực",
+      "subtitle": "Tóm tắt năng lực chính thức và tài liệu tham khảo từ trang web doanh nghiệp.",
+      "openLabel": "Mở tài liệu",
+      "items": [
+        {
+          "title": "Năng lực hệ thống năng lượng",
+          "description": "Tổng quan về phát triển hệ thống năng lượng, tích hợp năng lượng tái tạo và Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Công nghệ hạ tầng",
+          "description": "Hạ tầng thông minh, hệ thống số và phát triển công nghệ hạ tầng quan trọng.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Quan hệ đối tác chiến lược",
+          "description": "Mô hình đối tác, khung hợp tác và quy trình tham gia.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Thông tin chi tiết & nghiên cứu",
+          "description": "Góc nhìn ngành về năng lượng, hạ tầng và công nghệ công nghiệp.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Hỗ trợ đối tác",
+      "subtitle": "Liên hệ nhóm TVK Infrastructure & Energy Systems để được hỗ trợ về quan hệ đối tác, kỹ thuật và các yêu cầu chung.",
+      "disclaimer": "Đối với các vấn đề vận hành khẩn cấp, hãy liên hệ đại diện quan hệ đối tác được chỉ định. Thời gian phản hồi: 1–2 ngày làm việc cho yêu cầu chung.",
+      "channels": [
+        {
+          "title": "Yêu cầu quan hệ đối tác",
+          "description": "Hợp tác chiến lược, cơ hội thí điểm và phát triển quan hệ đối tác dài hạn.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Quan hệ nhà đầu tư",
+          "description": "Hình thành vốn và thảo luận đầu tư chiến lược trong TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Hỗ trợ kỹ thuật",
+          "description": "Truy cập cổng, trạng thái đơn đăng ký và câu hỏi kỹ thuật.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Liên hệ chung",
+          "description": "Yêu cầu chung về TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Ứng dụng Partner Portal",
+      "title": "Tải ứng dụng TVK Partner Portal",
+      "subtitle": "Cài đặt cổng quan hệ đối tác trên điện thoại — đăng ký, theo dõi sáng kiến và truy cập tài liệu năng lực từ biểu tượng màn hình chính. Hoạt động ngay hôm nay qua Thêm vào Màn hình chính; đăng ký App Store dự kiến cho Giai đoạn 2.",
+      "openApp": "Mở Partner Portal",
+      "howToInstall": "Cách cài đặt",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Mở Partner Portal → Chia sẻ → Thêm vào Màn hình chính"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Mở Partner Portal → menu → Cài đặt ứng dụng hoặc Thêm vào màn hình chính"
+      },
+      "desktop": {
+        "title": "Máy tính",
+        "steps": "Chrome hoặc Edge → biểu tượng cài đặt trên thanh địa chỉ, hoặc đánh dấu Partner Portal"
+      }
+    }
   }
 }

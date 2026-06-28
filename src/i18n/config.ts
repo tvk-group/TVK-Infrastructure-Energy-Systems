@@ -1,3 +1,6 @@
+export const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://tvk-infrastructure-energy-systems.vercel.app";
+
 export const locales = [
   "en", "de", "fr", "es", "it", "pt", "nl", "pl", "ru",
   "ar", "zh", "ja", "ko", "hi", "tr", "sv", "no", "da",

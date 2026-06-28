@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Fő navigáció",
     "mobileNavAria": "Mobil navigáció",
-    "contact": "Kapcsolat"
+    "contact": "Kapcsolat",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Alkalmazás letöltése"
   },
   "footer": {
     "description": "Jövőorientált kezdeményezéseket fejlesztünk az energia, infrastruktúra, ipari rendszerek és stratégiai technológiák területén a TVK ökoszisztémán belül.",
@@ -19,7 +21,8 @@
     "connectDescription": "Stratégiai partnerségeket és együttműködési lehetőségeket keresünk az infrastruktúra és energia területén.",
     "discussOpportunities": "Lehetőségek megvitatása →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Minden jog fenntartva.",
-    "ecosystem": "A TVK ökoszisztéma része"
+    "ecosystem": "A TVK ökoszisztéma része",
+    "partnerPortal": "Partner Portal alkalmazás →"
   },
   "nav": {
     "home": "Kezdőlap",
@@ -773,5 +776,199 @@
       "message": "Írja le megkeresését, partnerségi érdeklődését vagy projektlehetőségét..."
     },
     "submit": "Infrastruktúra- és energia-lehetőségek megvitatása"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "A TVK Infrastructure & Energy Systems partnerportálja — jelentkezzen stratégiai partnerségekre, kövesse a fejlesztési kezdeményezéseket és férjen hozzá a kompetencia-dokumentumokhoz."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Weboldal",
+    "navAria": "Partnerportál navigáció",
+    "nav": {
+      "dashboard": "Irányítópult",
+      "apply": "Jelentkezés",
+      "projects": "Projektek",
+      "documents": "Dokumentumok",
+      "support": "Támogatás"
+    },
+    "dashboard": {
+      "title": "Partner irányítópult",
+      "subtitle": "Kövesse partnerségi megkeresését, fejlesztési kezdeményezéseit és a következő lépéseket a TVK Ecosystem-en belül.",
+      "stats": [
+        {
+          "label": "Partnerségi szakasz",
+          "value": "Fejlesztés"
+        },
+        {
+          "label": "Aktív kezdeményezések",
+          "value": "6 terület"
+        },
+        {
+          "label": "Megkeresés állapota",
+          "value": "Nyitott"
+        },
+        {
+          "label": "Portál nyelvei",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Stratégiai partnerségi folyamat",
+        "badge": "Fejlesztés alatt",
+        "description": "A TVK Infrastructure & Energy Systems kutatási, fejlesztési és partnerségépítési szakaszban van. Küldjön be jelentkezést a strukturált együttműködési beszélgetés megkezdéséhez."
+      },
+      "nextSteps": {
+        "title": "Ajánlott következő lépések",
+        "items": [
+          "Küldjön be stratégiai partnerségi jelentkezést szervezete adataival",
+          "Tekintse át az energiarendszerek és infrastruktúra-technológiák kompetencia-területeit",
+          "Fedezze fel az aktív fejlesztési kezdeményezéseket a projektek szekcióban",
+          "Lépjen kapcsolatba partnerségi csapatunkkal pilot vagy együttműködési lehetőségekért"
+        ]
+      },
+      "cta": "Partnerségi jelentkezés beküldése →"
+    },
+    "apply": {
+      "title": "Partnerségi jelentkezés",
+      "subtitle": "Jelentkezzen stratégiai együttműködésre a TVK Infrastructure & Energy Systems-szel.",
+      "intro": "Töltse ki ezt az űrlapot szervezete bemutatásához és partnerségi érdeklődése leírásához. Csapatunk minden jelentkezést elbírál és válaszol a minősített megkeresésekre.",
+      "disclaimer": "Ez a jelentkezés nem minősül kötelező érvényű megállapodásnak. A TVK Infrastructure & Energy Systems LTD fejlesztési szakaszban van — az információk kompetencia-területeket írnak le, nem operatív kötelezettségeket."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energiarendszerek",
+        "Infrastruktúra-technológiák",
+        "Ipari megoldások",
+        "Energy Intelligence",
+        "MI-infrastruktúra",
+        "Stratégiai partnerségek",
+        "Általános megkeresés"
+      ],
+      "success": {
+        "title": "Jelentkezés beérkezett",
+        "message": "Köszönjük partnerségi érdeklődését. Csapatunk elbírálja jelentkezését és 5–10 munkanapon belül válaszol."
+      },
+      "fields": {
+        "name": "Teljes név",
+        "company": "Szervezet",
+        "role": "Szerepkör / Beosztás",
+        "country": "Ország",
+        "email": "E-mail",
+        "interest": "Partnerségi terület",
+        "allocation": "Tájékoztató jellegű terjedelem (USD vagy leírás)",
+        "message": "Partnerségi javaslat",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Teljes neve",
+        "company": "Szervezet neve",
+        "role": "Beosztása",
+        "country": "Működési ország",
+        "email": "professional@company.com",
+        "interest": "Válasszon területet",
+        "allocation": "pl. Pilot projekt, 500 ezer USD együttműködés, technológiai integráció",
+        "message": "Írja le szervezetét, stratégiai illeszkedését és javasolt együttműködését..."
+      },
+      "submit": "Partnerségi jelentkezés beküldése"
+    },
+    "projects": {
+      "title": "Fejlesztési kezdeményezések",
+      "subtitle": "Jelenlegi kompetencia-területek és fejlesztési szakaszban lévő kezdeményezések a TVK Ecosystem-en belül.",
+      "items": [
+        {
+          "title": "Energiarendszerek integrációja",
+          "stage": "Fejlesztés alatt",
+          "stageKey": "development",
+          "description": "Megújuló integráció, ipari energia-megoldások és intelligens energiamenedzsment-keretrendszerek."
+        },
+        {
+          "title": "Okos infrastruktúra-technológiák",
+          "stage": "Kutatás",
+          "stageKey": "development",
+          "description": "Digitális infrastruktúra-rendszerek, monitorozó platformok és kritikus infrastruktúra-technológia fejlesztése."
+        },
+        {
+          "title": "Ipari MI és analitika",
+          "stage": "Aktív kutatás",
+          "stageKey": "active",
+          "description": "Ipari MI, infrastruktúra-analitika és intelligens automatizálási kutatás összetett operatív környezetekhez."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Kompetencia-dokumentumok",
+      "subtitle": "Hivatalos kompetencia-összefoglalók és referenciaanyagok a vállalati weboldalról.",
+      "openLabel": "Dokumentum megnyitása",
+      "items": [
+        {
+          "title": "Energiarendszerek kompetenciái",
+          "description": "Az energiarendszerek fejlesztésének, a megújulók integrációjának és az Energy Intelligence áttekintése.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastruktúra-technológiák",
+          "description": "Okos infrastruktúra, digitális rendszerek és kritikus infrastruktúra-technológia fejlesztése.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Stratégiai partnerségek",
+          "description": "Partnerségi modellek, együttműködési keretrendszerek és részvételi folyamat.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Betekintések és kutatás",
+          "description": "Iparági perspektívák az energiáról, infrastruktúráról és ipari technológiáról.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partner támogatás",
+      "subtitle": "Lépjen kapcsolatba a TVK Infrastructure & Energy Systems csapatával partnerségi, technikai és általános megkeresések esetén.",
+      "disclaimer": "Sürgős operatív ügyekben forduljon a kijelölt partnerségi képviselőjéhez. Válaszidő: 1–2 munkanap általános megkeresések esetén.",
+      "channels": [
+        {
+          "title": "Partnerségi megkeresések",
+          "description": "Stratégiai együttműködés, pilot lehetőségek és hosszú távú partnerségfejlesztés.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Befektetői kapcsolatok",
+          "description": "Tőkeformálás és stratégiai befektetési megbeszélések a TVK Ecosystem-en belül.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Technikai támogatás",
+          "description": "Portál-hozzáférés, jelentkezés állapota és technikai kérdések.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Általános kapcsolat",
+          "description": "Általános megkeresések a TVK Infrastructure & Energy Systems-szel kapcsolatban.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal alkalmazás",
+      "title": "Szerezze be a TVK Partner Portal alkalmazást",
+      "subtitle": "Telepítse a partnerségi portált telefonjára — jelentkezzen, kövesse a kezdeményezéseket és érjen el kompetencia-dokumentumokat a kezdőképernyő ikonjáról. Ma már működik a Főképernyőhöz adás funkcióval; App Store-listázás a 2. fázisban tervezett.",
+      "openApp": "Partner Portal megnyitása",
+      "howToInstall": "Telepítés módja",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Partner Portal megnyitása → Megosztás → Főképernyőhöz adás"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Partner Portal megnyitása → menü → Alkalmazás telepítése vagy Hozzáadás a kezdőképernyőhöz"
+      },
+      "desktop": {
+        "title": "Asztali",
+        "steps": "Chrome vagy Edge → telepítés ikon a címsorban, vagy mentse a Partner Portal-t a könyvjelzők közé"
+      }
+    }
   }
 }
