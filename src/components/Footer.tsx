@@ -3,6 +3,7 @@ import type { Dictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
 import { getNavItems } from "@/i18n/navigation";
 import { localizedPath } from "@/i18n/routing";
+import { appPath } from "@/lib/app-config";
 
 interface FooterProps {
   locale: Locale;
@@ -70,12 +71,20 @@ export function Footer({ locale, dict }: FooterProps) {
               {dict.footer.connect}
             </h3>
             <p className="text-sm text-white/60 mb-4">{dict.footer.connectDescription}</p>
-            <Link
-              href={localizedPath(locale, "/contact")}
-              className="inline-flex items-center text-sm font-semibold text-energy-light hover:text-white transition-colors"
-            >
-              {dict.footer.discussOpportunities}
-            </Link>
+            <div className="space-y-3">
+              <Link
+                href={appPath(locale)}
+                className="inline-flex items-center text-sm font-semibold text-energy-light hover:text-white transition-colors"
+              >
+                {dict.footer.partnerPortal}
+              </Link>
+              <Link
+                href={localizedPath(locale, "/contact")}
+                className="block text-sm font-semibold text-energy-light hover:text-white transition-colors"
+              >
+                {dict.footer.discussOpportunities}
+              </Link>
+            </div>
           </div>
         </div>
 

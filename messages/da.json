@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Hovednavigation",
     "mobileNavAria": "Mobil navigation",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Hent appen"
   },
   "footer": {
     "description": "Udvikler fremtidsorienterede initiativer inden for energi, infrastruktur, industrielle systemer og strategiske teknologier i TVK-økosystemet.",
@@ -19,7 +21,8 @@
     "connectDescription": "Søger strategiske partnerskaber og samarbejdsmuligheder inden for infrastruktur og energi.",
     "discussOpportunities": "Drøft muligheder →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Alle rettigheder forbeholdes.",
-    "ecosystem": "Del af TVK-økosystemet"
+    "ecosystem": "Del af TVK-økosystemet",
+    "partnerPortal": "Partner Portal-app →"
   },
   "nav": {
     "home": "Forside",
@@ -877,5 +880,199 @@
         "answer": "Ja. TVK Infrastructure & Energy Systems er en del af det bredere TVK Ecosystem og integrerer teknologiske, industrielle og strategiske investeringsperspektiver."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Partnerportal for TVK Infrastructure & Energy Systems — ansøg om strategiske partnerskaber, følg udviklingsinitiativer og få adgang til kapacitetsdokumenter."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Website",
+    "navAria": "Partnerportalnavigation",
+    "nav": {
+      "dashboard": "Dashboard",
+      "apply": "Ansøg",
+      "projects": "Projekter",
+      "documents": "Dokumenter",
+      "support": "Support"
+    },
+    "dashboard": {
+      "title": "Partnerdashboard",
+      "subtitle": "Følg din partnerskabsforespørgsel, udviklingsinitiativer og næste skridt inden for TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Partnerskabsfase",
+          "value": "Udvikling"
+        },
+        {
+          "label": "Aktive initiativer",
+          "value": "6 områder"
+        },
+        {
+          "label": "Forespørgselsstatus",
+          "value": "Åben"
+        },
+        {
+          "label": "Portalsprog",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline for strategiske partnerskaber",
+        "badge": "Under udvikling",
+        "description": "TVK Infrastructure & Energy Systems er i en fase med forskning, udvikling og opbygning af partnerskaber. Indsend en ansøgning for at starte en struktureret samtale om samarbejde."
+      },
+      "nextSteps": {
+        "title": "Anbefalede næste skridt",
+        "items": [
+          "Indsend en ansøgning om strategisk partnerskab med din organisations oplysninger",
+          "Gennemgå kapacitetsområder inden for energisystemer og infrastrukturteknologi",
+          "Udforsk aktive udviklingsinitiativer i projektsektionen",
+          "Kontakt vores partnerskabsteam for pilot- eller samarbejdsmuligheder"
+        ]
+      },
+      "cta": "Indsend partnerskabsansøgning →"
+    },
+    "apply": {
+      "title": "Partnerskabsansøgning",
+      "subtitle": "Ansøg om strategisk samarbejde med TVK Infrastructure & Energy Systems.",
+      "intro": "Udfyld denne formular for at præsentere din organisation og beskrive din partnerskabsinteresse. Vores team gennemgår alle ansøgninger og svarer på kvalificerede forespørgsler.",
+      "disclaimer": "Denne ansøgning udgør ikke en bindende aftale. TVK Infrastructure & Energy Systems LTD er i udviklingsfase — oplysningerne beskriver kapacitetsområder, ikke operationelle forpligtelser."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energisystemer",
+        "Infrastrukturteknologi",
+        "Industrielle løsninger",
+        "Energy Intelligence",
+        "AI-infrastruktur",
+        "Strategiske partnerskaber",
+        "Generel forespørgsel"
+      ],
+      "success": {
+        "title": "Ansøgning modtaget",
+        "message": "Tak for din partnerskabsinteresse. Vores team gennemgår din ansøgning og svarer inden for 5–10 hverdage."
+      },
+      "fields": {
+        "name": "Fulde navn",
+        "company": "Organisation",
+        "role": "Rolle / Titel",
+        "country": "Land",
+        "email": "E-mail",
+        "interest": "Partnerskabsområde",
+        "allocation": "Indikativ omfang (USD eller beskrivelse)",
+        "message": "Partnerskabsforslag",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Dit fulde navn",
+        "company": "Organisationens navn",
+        "role": "Din stilling",
+        "country": "Driftsland",
+        "email": "professional@company.com",
+        "interest": "Vælg et område",
+        "allocation": "f.eks. Pilotprojekt, samarbejde på 500.000 USD, teknologiintegration",
+        "message": "Beskriv din organisation, strategisk pasform og foreslået samarbejde..."
+      },
+      "submit": "Indsend partnerskabsansøgning"
+    },
+    "projects": {
+      "title": "Udviklingsinitiativer",
+      "subtitle": "Aktuelle kapacitetsområder og initiativer i udviklingsfase inden for TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integration af energisystemer",
+          "stage": "Under udvikling",
+          "stageKey": "development",
+          "description": "Integration af vedvarende energi, industrielle energiløsninger og intelligente energistyringssystemer."
+        },
+        {
+          "title": "Smart infrastrukturteknologi",
+          "stage": "Forskning",
+          "stageKey": "development",
+          "description": "Digitale infrastruktursystemer, overvågningsplatforme og udvikling af kritisk infrastrukturteknologi."
+        },
+        {
+          "title": "Industriel AI og analyse",
+          "stage": "Aktiv forskning",
+          "stageKey": "active",
+          "description": "Industriel AI, infrastrukturanalyse og forskning i intelligent automatisering for komplekse operationelle miljøer."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Kapacitetsdokumenter",
+      "subtitle": "Officielle kapacitetsoversigter og referencematerialer fra virksomhedens website.",
+      "openLabel": "Åbn dokument",
+      "items": [
+        {
+          "title": "Energisystemkapaciteter",
+          "description": "Oversigt over energisystemudvikling, integration af vedvarende energi og Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastrukturteknologi",
+          "description": "Smart infrastruktur, digitale systemer og udvikling af kritisk infrastrukturteknologi.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategiske partnerskaber",
+          "description": "Partnerskabsmodeller, samarbejdsrammer og engagementsproces.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Indsigt og forskning",
+          "description": "Brancheperspektiver om energi, infrastruktur og industriteknologi.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partnersupport",
+      "subtitle": "Kontakt TVK Infrastructure & Energy Systems-teamet for partnerskabs-, tekniske og generelle forespørgsler.",
+      "disclaimer": "For presserende operationelle sager, kontakt din tildelte partnerskabsrepræsentant. Svartider: 1–2 hverdage for generelle forespørgsler.",
+      "channels": [
+        {
+          "title": "Partnerskabsforespørgsler",
+          "description": "Strategisk samarbejde, pilotmuligheder og langsigtet partnerskabsudvikling.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Investor Relations",
+          "description": "Kapitaldannelse og strategiske investeringssamtaler inden for TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Teknisk support",
+          "description": "Portaladgang, ansøgningsstatus og tekniske spørgsmål.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Generel kontakt",
+          "description": "Generelle forespørgsler om TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal-app",
+      "title": "Hent TVK Partner Portal-appen",
+      "subtitle": "Installer partnerskabsportalen på din telefon — ansøg, følg initiativer og få adgang til kapacitetsdokumenter fra et startskærmsikon. Fungerer i dag via Føj til startskærm; App Store-notering planlagt til fase 2.",
+      "openApp": "Åbn Partner Portal",
+      "howToInstall": "Sådan installeres",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Åbn Partner Portal → Del → Føj til startskærm"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Åbn Partner Portal → menu → Installer app eller Føj til startskærm"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome eller Edge → installationsikon i adresselinjen, eller bogmærk Partner Portal"
+      }
+    }
   }
 }

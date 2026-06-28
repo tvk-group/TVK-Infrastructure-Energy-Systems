@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Last ned appen"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal-app →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Partnerportal for TVK Infrastructure & Energy Systems — søk om strategiske partnerskap, følg utviklingsinitiativer og få tilgang til kapasitetsdokumenter."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Nettsted",
+    "navAria": "Partnerportalnavigasjon",
+    "nav": {
+      "dashboard": "Dashbord",
+      "apply": "Søk",
+      "projects": "Prosjekter",
+      "documents": "Dokumenter",
+      "support": "Support"
+    },
+    "dashboard": {
+      "title": "Partnerdashbord",
+      "subtitle": "Følg partnerskapsforespørselen din, utviklingsinitiativer og neste steg innen TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Partnerskapsfase",
+          "value": "Utvikling"
+        },
+        {
+          "label": "Aktive initiativer",
+          "value": "6 områder"
+        },
+        {
+          "label": "Forespørselsstatus",
+          "value": "Åpen"
+        },
+        {
+          "label": "Portalspråk",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline for strategiske partnerskap",
+        "badge": "Under utvikling",
+        "description": "TVK Infrastructure & Energy Systems er i en fase med forskning, utvikling og partnerskapsbygging. Send inn en søknad for å starte en strukturert samtale om samarbeid."
+      },
+      "nextSteps": {
+        "title": "Anbefalte neste steg",
+        "items": [
+          "Send inn en søknad om strategisk partnerskap med organisasjonsdetaljene dine",
+          "Gjennomgå kapasitetsområder innen energisystemer og infrastrukturteknologi",
+          "Utforsk aktive utviklingsinitiativer i prosjektseksjonen",
+          "Kontakt partnerskapsteamet vårt for pilot- eller samarbeidsmuligheter"
+        ]
+      },
+      "cta": "Send partnerskapssøknad →"
+    },
+    "apply": {
+      "title": "Partnerskapssøknad",
+      "subtitle": "Søk om strategisk samarbeid med TVK Infrastructure & Energy Systems.",
+      "intro": "Fyll ut dette skjemaet for å presentere organisasjonen din og beskrive partnerskapsinteressen. Teamet vårt vurderer alle søknader og svarer på kvalifiserte forespørsler.",
+      "disclaimer": "Denne søknaden utgjør ikke en bindende avtale. TVK Infrastructure & Energy Systems LTD er i utviklingsfase — informasjonen beskriver kapasitetsområder, ikke operative forpliktelser."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energisystemer",
+        "Infrastrukturteknologi",
+        "Industrielle løsninger",
+        "Energy Intelligence",
+        "AI-infrastruktur",
+        "Strategiske partnerskap",
+        "Generell forespørsel"
+      ],
+      "success": {
+        "title": "Søknad mottatt",
+        "message": "Takk for partnerskapsinteressen. Teamet vårt vil vurdere søknaden din og svare innen 5–10 virkedager."
+      },
+      "fields": {
+        "name": "Fullt navn",
+        "company": "Organisasjon",
+        "role": "Rolle / Tittel",
+        "country": "Land",
+        "email": "E-post",
+        "interest": "Partnerskapsområde",
+        "allocation": "Indikativ omfang (USD eller beskrivelse)",
+        "message": "Partnerskapsforslag",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Ditt fulle navn",
+        "company": "Organisasjonens navn",
+        "role": "Din stilling",
+        "country": "Driftsland",
+        "email": "professional@company.com",
+        "interest": "Velg et område",
+        "allocation": "f.eks. Pilotprosjekt, samarbeid på 500 000 USD, teknologiintegrasjon",
+        "message": "Beskriv organisasjonen din, strategisk passform og foreslått samarbeid..."
+      },
+      "submit": "Send partnerskapssøknad"
+    },
+    "projects": {
+      "title": "Utviklingsinitiativer",
+      "subtitle": "Aktuelle kapasitetsområder og initiativer i utviklingsfase innen TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integrasjon av energisystemer",
+          "stage": "Under utvikling",
+          "stageKey": "development",
+          "description": "Integrasjon av fornybar energi, industrielle energiløsninger og intelligente energistyringsrammeverk."
+        },
+        {
+          "title": "Smart infrastrukturteknologi",
+          "stage": "Forskning",
+          "stageKey": "development",
+          "description": "Digitale infrastruktursystemer, overvåkingsplattformer og utvikling av kritisk infrastrukturteknologi."
+        },
+        {
+          "title": "Industriell AI og analyse",
+          "stage": "Aktiv forskning",
+          "stageKey": "active",
+          "description": "Industriell AI, infrastrukturanalyse og forskning på intelligent automatisering for komplekse operative miljøer."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Kapasitetsdokumenter",
+      "subtitle": "Offisielle kapasitetsoversikter og referansematerialer fra bedriftens nettsted.",
+      "openLabel": "Åpne dokument",
+      "items": [
+        {
+          "title": "Energisystemkapasiteter",
+          "description": "Oversikt over energisystemutvikling, integrasjon av fornybar energi og Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastrukturteknologi",
+          "description": "Smart infrastruktur, digitale systemer og utvikling av kritisk infrastrukturteknologi.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategiske partnerskap",
+          "description": "Partnerskapsmodeller, samarbeidsrammeverk og engasjementsprosess.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Innsikt og forskning",
+          "description": "Bransjeperspektiver om energi, infrastruktur og industriteknologi.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partnerstøtte",
+      "subtitle": "Kontakt TVK Infrastructure & Energy Systems-teamet for partnerskaps-, tekniske og generelle forespørsler.",
+      "disclaimer": "For presserende operative saker, kontakt din tildelte partnerskapsrepresentant. Svartider: 1–2 virkedager for generelle forespørsler.",
+      "channels": [
+        {
+          "title": "Partnerskapsforespørsler",
+          "description": "Strategisk samarbeid, pilotmuligheter og langsiktig partnerskapsutvikling.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Investor Relations",
+          "description": "Kapitaldannelse og strategiske investeringssamtaler innen TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Teknisk støtte",
+          "description": "Portaltilgang, søknadsstatus og tekniske spørsmål.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Generell kontakt",
+          "description": "Generelle forespørsler om TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal-app",
+      "title": "Skaff TVK Partner Portal-appen",
+      "subtitle": "Installer partnerskapsportalen på telefonen — søk, følg initiativer og få tilgang til kapasitetsdokumenter fra et hjemskjermikon. Fungerer i dag via Legg til på Hjem-skjerm; App Store-notering planlagt for fase 2.",
+      "openApp": "Åpne Partner Portal",
+      "howToInstall": "Slik installerer du",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Åpne Partner Portal → Del → Legg til på Hjem-skjerm"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Åpne Partner Portal → meny → Installer app eller Legg til på startskjerm"
+      },
+      "desktop": {
+        "title": "Skrivebord",
+        "steps": "Chrome eller Edge → installeringsikon i adressefeltet, eller bokmerk Partner Portal"
+      }
+    }
+  }
+}

@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "주요 내비게이션",
     "mobileNavAria": "모바일 내비게이션",
-    "contact": "문의"
+    "contact": "문의",
+    "partnerPortal": "Partner Portal",
+    "getApp": "앱 받기"
   },
   "footer": {
     "description": "TVK 에코시스템 내에서 에너지, 인프라, 산업 시스템 및 전략적 기술 분야의 미래 지향적 이니셔티브를 추진합니다.",
@@ -19,7 +21,8 @@
     "connectDescription": "인프라 및 에너지 분야의 전략적 파트너십과 협업 기회를 모색하고 있습니다.",
     "discussOpportunities": "기회 상담하기 →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
-    "ecosystem": "TVK 에코시스템의 일원"
+    "ecosystem": "TVK 에코시스템의 일원",
+    "partnerPortal": "Partner Portal 앱 →"
   },
   "nav": {
     "home": "홈",
@@ -877,5 +880,199 @@
         "answer": "예. TVK Infrastructure & Energy Systems는 기술, 산업 및 전략적 투자 관점을 통합하는 TVK 에코시스템의 일부입니다."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems 파트너 포털 — 전략적 파트너십 신청, 개발 이니셔티브 추적, 역량 문서 접근."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "웹사이트",
+    "navAria": "파트너 포털 탐색",
+    "nav": {
+      "dashboard": "대시보드",
+      "apply": "신청",
+      "projects": "프로젝트",
+      "documents": "문서",
+      "support": "지원"
+    },
+    "dashboard": {
+      "title": "파트너 대시보드",
+      "subtitle": "TVK Ecosystem 내에서 파트너십 문의, 개발 이니셔티브 및 다음 조치를 추적하세요.",
+      "stats": [
+        {
+          "label": "파트너십 단계",
+          "value": "개발"
+        },
+        {
+          "label": "활성 이니셔티브",
+          "value": "6개 영역"
+        },
+        {
+          "label": "문의 상태",
+          "value": "접수 중"
+        },
+        {
+          "label": "포털 언어",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "전략적 파트너십 파이프라인",
+        "badge": "개발 중",
+        "description": "TVK Infrastructure & Energy Systems는 연구, 개발 및 파트너십 구축 단계에 있습니다. 신청서를 제출하여 구조화된 협업 대화를 시작하세요."
+      },
+      "nextSteps": {
+        "title": "권장 다음 단계",
+        "items": [
+          "조직 정보와 함께 전략적 파트너십 신청서 제출",
+          "에너지 시스템 및 인프라 기술 역량 영역 검토",
+          "프로젝트 섹션에서 활성 개발 이니셔티브 탐색",
+          "파일럿 또는 협업 기회를 위해 파트너십 팀에 문의"
+        ]
+      },
+      "cta": "파트너십 신청서 제출 →"
+    },
+    "apply": {
+      "title": "파트너십 신청",
+      "subtitle": "TVK Infrastructure & Energy Systems와의 전략적 협업에 신청하세요.",
+      "intro": "이 양식을 작성하여 조직을 소개하고 파트너십 관심 사항을 설명하세요. 당사 팀이 모든 신청서를 검토하고 자격을 갖춘 문의에 응답합니다.",
+      "disclaimer": "본 신청은 구속력 있는 계약을 구성하지 않습니다. TVK Infrastructure & Energy Systems LTD는 개발 단계에 있으며 — 정보는 역량 영역을 설명하는 것이지 운영상의 약속이 아닙니다."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "에너지 시스템",
+        "인프라 기술",
+        "산업 솔루션",
+        "Energy Intelligence",
+        "AI 인프라",
+        "전략적 파트너십",
+        "일반 문의"
+      ],
+      "success": {
+        "title": "신청 접수됨",
+        "message": "파트너십에 관심을 가져 주셔서 감사합니다. 당사 팀이 신청서를 검토하고 5–10 영업일 내에 응답합니다."
+      },
+      "fields": {
+        "name": "성명",
+        "company": "조직",
+        "role": "직책 / 직함",
+        "country": "국가",
+        "email": "이메일",
+        "interest": "파트너십 영역",
+        "allocation": "참고 범위(USD 또는 설명)",
+        "message": "파트너십 제안",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "성명",
+        "company": "조직명",
+        "role": "직책",
+        "country": "운영 국가",
+        "email": "professional@company.com",
+        "interest": "영역 선택",
+        "allocation": "예: 파일럿 프로젝트, 50만 달러 협업, 기술 통합",
+        "message": "조직, 전략적 적합성 및 제안된 협업을 설명..."
+      },
+      "submit": "파트너십 신청서 제출"
+    },
+    "projects": {
+      "title": "개발 이니셔티브",
+      "subtitle": "TVK Ecosystem 내 현재 역량 영역 및 개발 단계 이니셔티브.",
+      "items": [
+        {
+          "title": "에너지 시스템 통합",
+          "stage": "개발 중",
+          "stageKey": "development",
+          "description": "재생에너지 통합, 산업용 에너지 솔루션 및 지능형 에너지 관리 프레임워크."
+        },
+        {
+          "title": "스마트 인프라 기술",
+          "stage": "연구",
+          "stageKey": "development",
+          "description": "디지털 인프라 시스템, 모니터링 플랫폼 및 핵심 인프라 기술 개발."
+        },
+        {
+          "title": "산업 AI 및 분석",
+          "stage": "활성 연구",
+          "stageKey": "active",
+          "description": "복잡한 운영 환경을 위한 산업 AI, 인프라 분석 및 지능형 자동화 연구."
+        }
+      ]
+    },
+    "documents": {
+      "title": "역량 문서",
+      "subtitle": "기업 웹사이트의 공식 역량 개요 및 참고 자료.",
+      "openLabel": "문서 열기",
+      "items": [
+        {
+          "title": "에너지 시스템 역량",
+          "description": "에너지 시스템 개발, 재생에너지 통합 및 Energy Intelligence 개요.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "인프라 기술",
+          "description": "스마트 인프라, 디지털 시스템 및 핵심 인프라 기술 개발.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "전략적 파트너십",
+          "description": "파트너십 모델, 협업 프레임워크 및 참여 프로세스.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "인사이트 및 연구",
+          "description": "에너지, 인프라 및 산업 기술에 대한 업계 관점.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "파트너 지원",
+      "subtitle": "파트너십, 기술 및 일반 문의는 TVK Infrastructure & Energy Systems 팀에 연락하세요.",
+      "disclaimer": "긴급 운영 사항은 지정된 파트너십 담당자에게 연락하세요. 일반 문의 응답 시간: 1–2 영업일.",
+      "channels": [
+        {
+          "title": "파트너십 문의",
+          "description": "전략적 협업, 파일럿 기회 및 장기 파트너십 개발.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "투자자 관계",
+          "description": "TVK Ecosystem 내 자본 형성 및 전략적 투자 논의.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "기술 지원",
+          "description": "포털 접근, 신청 상태 및 기술 질문.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "일반 연락",
+          "description": "TVK Infrastructure & Energy Systems에 대한 일반 문의.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal 앱",
+      "title": "TVK Partner Portal 앱 받기",
+      "subtitle": "휴대폰에 파트너십 포털 설치 — 신청, 이니셔티브 추적, 홈 화면 아이콘에서 역량 문서 접근. 현재 홈 화면에 추가로 사용 가능; App Store 등록은 2단계 예정.",
+      "openApp": "Partner Portal 열기",
+      "howToInstall": "설치 방법",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Partner Portal 열기 → 공유 → 홈 화면에 추가"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Partner Portal 열기 → 메뉴 → 앱 설치 또는 홈 화면에 추가"
+      },
+      "desktop": {
+        "title": "데스크톱",
+        "steps": "Chrome 또는 Edge → 주소 표시줄의 설치 아이콘 또는 Partner Portal 북마크"
+      }
+    }
   }
 }

@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Pobierz aplikację"
+  },
+  "footer": {
+    "partnerPortal": "Aplikacja Partner Portal →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Portal partnerski TVK Infrastructure & Energy Systems — składaj wnioski o partnerstwa strategiczne, śledź inicjatywy rozwojowe i uzyskuj dostęp do dokumentów kompetencyjnych."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Strona internetowa",
+    "navAria": "Nawigacja portalu partnerskiego",
+    "nav": {
+      "dashboard": "Panel",
+      "apply": "Aplikuj",
+      "projects": "Projekty",
+      "documents": "Dokumenty",
+      "support": "Wsparcie"
+    },
+    "dashboard": {
+      "title": "Panel partnera",
+      "subtitle": "Śledź zapytanie partnerskie, inicjatywy rozwojowe i kolejne kroki w ramach TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Etap partnerstwa",
+          "value": "Rozwój"
+        },
+        {
+          "label": "Aktywne inicjatywy",
+          "value": "6 obszarów"
+        },
+        {
+          "label": "Status zapytania",
+          "value": "Otwarte"
+        },
+        {
+          "label": "Języki portalu",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Lejek partnerstw strategicznych",
+        "badge": "W rozwoju",
+        "description": "TVK Infrastructure & Energy Systems jest na etapie badań, rozwoju i budowania partnerstw. Złóż wniosek, aby rozpocząć ustrukturyzowaną rozmowę o współpracy."
+      },
+      "nextSteps": {
+        "title": "Zalecane kolejne kroki",
+        "items": [
+          "Złóż wniosek o partnerstwo strategiczne z danymi swojej organizacji",
+          "Przejrzyj obszary kompetencyjne w systemach energetycznych i technologiach infrastrukturalnych",
+          "Poznaj aktywne inicjatywy rozwojowe w sekcji projektów",
+          "Skontaktuj się z naszym zespołem partnerskim w sprawie pilotażu lub współpracy"
+        ]
+      },
+      "cta": "Złóż wniosek partnerski →"
+    },
+    "apply": {
+      "title": "Wniosek partnerski",
+      "subtitle": "Aplikuj o strategiczną współpracę z TVK Infrastructure & Energy Systems.",
+      "intro": "Wypełnij ten formularz, aby przedstawić swoją organizację i opisać zainteresowanie partnerstwem. Nasz zespół analizuje wszystkie wnioski i odpowiada na kwalifikujące się zapytania.",
+      "disclaimer": "Ten wniosek nie stanowi wiążącej umowy. TVK Infrastructure & Energy Systems LTD jest na etapie rozwoju — informacje opisują obszary kompetencyjne, a nie zobowiązania operacyjne."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Systemy energetyczne",
+        "Technologie infrastrukturalne",
+        "Rozwiązania przemysłowe",
+        "Energy Intelligence",
+        "Infrastruktura AI",
+        "Partnerstwa strategiczne",
+        "Zapytanie ogólne"
+      ],
+      "success": {
+        "title": "Wniosek otrzymany",
+        "message": "Dziękujemy za zainteresowanie partnerstwem. Nasz zespół przeanalizuje wniosek i odpowie w ciągu 5–10 dni roboczych."
+      },
+      "fields": {
+        "name": "Imię i nazwisko",
+        "company": "Organizacja",
+        "role": "Stanowisko / Tytuł",
+        "country": "Kraj",
+        "email": "E-mail",
+        "interest": "Obszar partnerstwa",
+        "allocation": "Orientacyjny zakres (USD lub opis)",
+        "message": "Propozycja partnerstwa",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Twoje imię i nazwisko",
+        "company": "Nazwa organizacji",
+        "role": "Twoje stanowisko",
+        "country": "Kraj działalności",
+        "email": "profesjonalny@firma.com",
+        "interest": "Wybierz obszar",
+        "allocation": "np. Projekt pilotażowy, współpraca 500 tys. USD, integracja technologiczna",
+        "message": "Opisz organizację, dopasowanie strategiczne i proponowaną współpracę..."
+      },
+      "submit": "Złóż wniosek partnerski"
+    },
+    "projects": {
+      "title": "Inicjatywy rozwojowe",
+      "subtitle": "Aktualne obszary kompetencyjne i inicjatywy na etapie rozwoju w ramach TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integracja systemów energetycznych",
+          "stage": "W rozwoju",
+          "stageKey": "development",
+          "description": "Integracja OZE, rozwiązania energetyczne dla przemysłu i inteligentne frameworki zarządzania energią."
+        },
+        {
+          "title": "Inteligentne technologie infrastrukturalne",
+          "stage": "Badania",
+          "stageKey": "development",
+          "description": "Cyfrowe systemy infrastrukturalne, platformy monitoringu i rozwój technologii infrastruktury krytycznej."
+        },
+        {
+          "title": "Przemysłowa AI i analityka",
+          "stage": "Aktywne badania",
+          "stageKey": "active",
+          "description": "Przemysłowa AI, analityka infrastrukturalna i badania inteligentnej automatyzacji dla złożonych środowisk operacyjnych."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Dokumenty kompetencyjne",
+      "subtitle": "Oficjalne briefy kompetencyjne i materiały referencyjne ze strony korporacyjnej.",
+      "openLabel": "Otwórz dokument",
+      "items": [
+        {
+          "title": "Kompetencje w systemach energetycznych",
+          "description": "Przegląd rozwoju systemów energetycznych, integracji OZE i Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Technologie infrastrukturalne",
+          "description": "Inteligentna infrastruktura, systemy cyfrowe i rozwój technologii infrastruktury krytycznej.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Partnerstwa strategiczne",
+          "description": "Modele partnerstwa, ramy współpracy i proces zaangażowania.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Spojrzenia i badania",
+          "description": "Perspektywy branżowe dotyczące energii, infrastruktury i technologii przemysłowej.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Wsparcie partnerów",
+      "subtitle": "Skontaktuj się z zespołem TVK Infrastructure & Energy Systems w sprawach partnerskich, technicznych i ogólnych.",
+      "disclaimer": "W pilnych sprawach operacyjnych skontaktuj się z przypisanym przedstawicielem partnerskim. Czas odpowiedzi: 1–2 dni robocze dla zapytań ogólnych.",
+      "channels": [
+        {
+          "title": "Zapytania partnerskie",
+          "description": "Współpraca strategiczna, możliwości pilotażowe i długoterminowy rozwój partnerstwa.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Relacje inwestorskie",
+          "description": "Formowanie kapitału i rozmowy o inwestycjach strategicznych w ramach TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Wsparcie techniczne",
+          "description": "Dostęp do portalu, status wniosku i pytania techniczne.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Kontakt ogólny",
+          "description": "Ogólne zapytania dotyczące TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Aplikacja Partner Portal",
+      "title": "Pobierz aplikację TVK Partner Portal",
+      "subtitle": "Zainstaluj portal partnerski na telefonie — aplikuj, śledź inicjatywy i uzyskuj dostęp do dokumentów kompetencyjnych z ikony ekranu głównego. Działa już dziś przez Dodaj do ekranu początkowego; publikacja w App Store planowana na fazę 2.",
+      "openApp": "Otwórz Partner Portal",
+      "howToInstall": "Jak zainstalować",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Otwórz Partner Portal → Udostępnij → Dodaj do ekranu początkowego"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Otwórz Partner Portal → menu → Zainstaluj aplikację lub Dodaj do ekranu głównego"
+      },
+      "desktop": {
+        "title": "Komputer",
+        "steps": "Chrome lub Edge → ikona instalacji na pasku adresu lub dodaj Partner Portal do zakładek"
+      }
+    }
+  }
+}

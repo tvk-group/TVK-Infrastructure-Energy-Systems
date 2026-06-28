@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Navigation principale",
     "mobileNavAria": "Navigation mobile",
-    "contact": "Contact"
+    "contact": "Contact",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Télécharger l'application"
   },
   "footer": {
     "description": "Développement d'initiatives tournées vers l'avenir dans les domaines de l'énergie, des infrastructures, des systèmes industriels et des technologies stratégiques au sein du TVK Ecosystem.",
@@ -19,7 +21,8 @@
     "connectDescription": "À la recherche de partenariats stratégiques et d'opportunités de collaboration dans les domaines des infrastructures et de l'énergie.",
     "discussOpportunities": "Discuter des opportunités →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Tous droits réservés.",
-    "ecosystem": "Membre du TVK Ecosystem"
+    "ecosystem": "Membre du TVK Ecosystem",
+    "partnerPortal": "Application Partner Portal →"
   },
   "nav": {
     "home": "Accueil",
@@ -877,5 +880,199 @@
         "answer": "Oui. TVK Infrastructure & Energy Systems fait partie du TVK Ecosystem plus large, intégrant des perspectives technologiques, industrielles et d'investissement stratégique."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Portail partenaires de TVK Infrastructure & Energy Systems — postulez pour des partenariats stratégiques, suivez les initiatives de développement et accédez aux documents de compétences."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Site web",
+    "navAria": "Navigation du portail partenaires",
+    "nav": {
+      "dashboard": "Tableau de bord",
+      "apply": "Postuler",
+      "projects": "Projets",
+      "documents": "Documents",
+      "support": "Assistance"
+    },
+    "dashboard": {
+      "title": "Tableau de bord partenaire",
+      "subtitle": "Suivez votre demande de partenariat, les initiatives de développement et les prochaines actions au sein du TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Phase de partenariat",
+          "value": "Développement"
+        },
+        {
+          "label": "Initiatives actives",
+          "value": "6 domaines"
+        },
+        {
+          "label": "Statut de la demande",
+          "value": "Ouvert"
+        },
+        {
+          "label": "Langues du portail",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline de partenariats stratégiques",
+        "badge": "En développement",
+        "description": "TVK Infrastructure & Energy Systems est en phase de recherche, de développement et de construction de partenariats. Soumettez une candidature pour entamer une conversation de collaboration structurée."
+      },
+      "nextSteps": {
+        "title": "Prochaines étapes recommandées",
+        "items": [
+          "Soumettez une candidature de partenariat stratégique avec les détails de votre organisation",
+          "Consultez les domaines de compétences en systèmes énergétiques et technologies d'infrastructure",
+          "Explorez les initiatives de développement actives dans la section projets",
+          "Contactez notre équipe partenariats pour des opportunités de pilote ou de collaboration"
+        ]
+      },
+      "cta": "Soumettre une candidature de partenariat →"
+    },
+    "apply": {
+      "title": "Candidature de partenariat",
+      "subtitle": "Postulez pour une collaboration stratégique avec TVK Infrastructure & Energy Systems.",
+      "intro": "Complétez ce formulaire pour présenter votre organisation et décrire votre intérêt pour un partenariat. Notre équipe examine toutes les candidatures et répond aux demandes qualifiées.",
+      "disclaimer": "Cette candidature ne constitue pas un accord contraignant. TVK Infrastructure & Energy Systems LTD est en phase de développement — les informations décrivent des domaines de compétences, et non des engagements opérationnels."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Systèmes énergétiques",
+        "Technologies d'infrastructure",
+        "Solutions industrielles",
+        "Energy Intelligence",
+        "Infrastructure IA",
+        "Partenariats stratégiques",
+        "Demande générale"
+      ],
+      "success": {
+        "title": "Candidature reçue",
+        "message": "Merci pour votre intérêt pour un partenariat. Notre équipe examinera votre candidature et répondra sous 5 à 10 jours ouvrables."
+      },
+      "fields": {
+        "name": "Nom complet",
+        "company": "Organisation",
+        "role": "Fonction / Titre",
+        "country": "Pays",
+        "email": "E-mail",
+        "interest": "Domaine de partenariat",
+        "allocation": "Portée indicative (USD ou description)",
+        "message": "Proposition de partenariat",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Votre nom complet",
+        "company": "Nom de l'organisation",
+        "role": "Votre poste",
+        "country": "Pays d'activité",
+        "email": "professionnel@entreprise.com",
+        "interest": "Sélectionner un domaine",
+        "allocation": "p. ex. Projet pilote, collaboration de 500 000 USD, intégration technologique",
+        "message": "Décrivez votre organisation, l'adéquation stratégique et la collaboration proposée..."
+      },
+      "submit": "Soumettre la candidature de partenariat"
+    },
+    "projects": {
+      "title": "Initiatives de développement",
+      "subtitle": "Domaines de compétences actuels et initiatives en phase de développement au sein du TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Intégration des systèmes énergétiques",
+          "stage": "En développement",
+          "stageKey": "development",
+          "description": "Intégration des énergies renouvelables, solutions énergétiques industrielles et cadres de gestion intelligente de l'énergie."
+        },
+        {
+          "title": "Technologies d'infrastructure intelligente",
+          "stage": "Recherche",
+          "stageKey": "development",
+          "description": "Systèmes d'infrastructure numérique, plateformes de surveillance et développement de technologies d'infrastructure critique."
+        },
+        {
+          "title": "IA industrielle et analytique",
+          "stage": "Recherche active",
+          "stageKey": "active",
+          "description": "IA industrielle, analytique d'infrastructure et recherche en automatisation intelligente pour des environnements opérationnels complexes."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Documents de compétences",
+      "subtitle": "Notes de compétences officielles et documents de référence du site corporate.",
+      "openLabel": "Ouvrir le document",
+      "items": [
+        {
+          "title": "Compétences en systèmes énergétiques",
+          "description": "Aperçu du développement des systèmes énergétiques, de l'intégration des renouvelables et de l'Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Technologies d'infrastructure",
+          "description": "Infrastructure intelligente, systèmes numériques et développement de technologies d'infrastructure critique.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Partenariats stratégiques",
+          "description": "Modèles de partenariat, cadres de collaboration et processus d'engagement.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Perspectives et recherche",
+          "description": "Points de vue sectoriels sur l'énergie, l'infrastructure et la technologie industrielle.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Assistance partenaires",
+      "subtitle": "Contactez l'équipe TVK Infrastructure & Energy Systems pour les demandes de partenariat, techniques et générales.",
+      "disclaimer": "Pour les questions opérationnelles urgentes, contactez votre représentant partenariat assigné. Délais de réponse : 1 à 2 jours ouvrables pour les demandes générales.",
+      "channels": [
+        {
+          "title": "Demandes de partenariat",
+          "description": "Collaboration stratégique, opportunités pilotes et développement de partenariats à long terme.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Relations investisseurs",
+          "description": "Formation de capital et discussions d'investissement stratégique au sein du TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Assistance technique",
+          "description": "Accès au portail, statut de candidature et questions techniques.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Contact général",
+          "description": "Demandes générales concernant TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Application Partner Portal",
+      "title": "Obtenez l'application TVK Partner Portal",
+      "subtitle": "Installez le portail partenaires sur votre téléphone — postulez, suivez les initiatives et accédez aux documents de compétences depuis une icône d'écran d'accueil. Fonctionne dès aujourd'hui via Ajouter à l'écran d'accueil ; publication sur l'App Store prévue pour la phase 2.",
+      "openApp": "Ouvrir Partner Portal",
+      "howToInstall": "Comment installer",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Ouvrir Partner Portal → Partager → Sur l'écran d'accueil"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Ouvrir Partner Portal → menu → Installer l'application ou Ajouter à l'écran d'accueil"
+      },
+      "desktop": {
+        "title": "Bureau",
+        "steps": "Chrome ou Edge → icône d'installation dans la barre d'adresse, ou ajoutez Partner Portal aux favoris"
+      }
+    }
   }
 }

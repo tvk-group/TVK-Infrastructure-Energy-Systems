@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Hämta appen"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal-app →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Partnerportal för TVK Infrastructure & Energy Systems — ansök om strategiska partnerskap, följ utvecklingsinitiativ och få tillgång till kapacitetsdokument."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Webbplats",
+    "navAria": "Partnerportalnavigering",
+    "nav": {
+      "dashboard": "Instrumentpanel",
+      "apply": "Ansök",
+      "projects": "Projekt",
+      "documents": "Dokument",
+      "support": "Support"
+    },
+    "dashboard": {
+      "title": "Partnerinstrumentpanel",
+      "subtitle": "Följ din partnerskapsförfrågan, utvecklingsinitiativ och nästa steg inom TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Partnerskapsfas",
+          "value": "Utveckling"
+        },
+        {
+          "label": "Aktiva initiativ",
+          "value": "6 områden"
+        },
+        {
+          "label": "Förfrågningsstatus",
+          "value": "Öppen"
+        },
+        {
+          "label": "Portalspråk",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline för strategiska partnerskap",
+        "badge": "Under utveckling",
+        "description": "TVK Infrastructure & Energy Systems befinner sig i en fas av forskning, utveckling och partnerskapsuppbyggnad. Skicka in en ansökan för att inleda ett strukturerat samarbetssamtal."
+      },
+      "nextSteps": {
+        "title": "Rekommenderade nästa steg",
+        "items": [
+          "Skicka in en ansökan om strategiskt partnerskap med din organisations uppgifter",
+          "Granska kapacitetsområden inom energisystem och infrastrukturteknik",
+          "Utforska aktiva utvecklingsinitiativ i projektsektionen",
+          "Kontakta vårt partnerskapsteam för pilot- eller samarbetsmöjligheter"
+        ]
+      },
+      "cta": "Skicka partnerskapsansökan →"
+    },
+    "apply": {
+      "title": "Partnerskapsansökan",
+      "subtitle": "Ansök om strategiskt samarbete med TVK Infrastructure & Energy Systems.",
+      "intro": "Fyll i detta formulär för att presentera din organisation och beskriva ditt partnerskapsintresse. Vårt team granskar alla ansökningar och svarar på kvalificerade förfrågningar.",
+      "disclaimer": "Denna ansökan utgör inte ett bindande avtal. TVK Infrastructure & Energy Systems LTD är i utvecklingsfas — informationen beskriver kapacitetsområden, inte operativa åtaganden."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energisystem",
+        "Infrastrukturteknik",
+        "Industriella lösningar",
+        "Energy Intelligence",
+        "AI-infrastruktur",
+        "Strategiska partnerskap",
+        "Allmän förfrågan"
+      ],
+      "success": {
+        "title": "Ansökan mottagen",
+        "message": "Tack för ditt partnerskapsintresse. Vårt team granskar din ansökan och svarar inom 5–10 arbetsdagar."
+      },
+      "fields": {
+        "name": "Fullständigt namn",
+        "company": "Organisation",
+        "role": "Roll / Titel",
+        "country": "Land",
+        "email": "E-post",
+        "interest": "Partnerskapsområde",
+        "allocation": "Indikativ omfattning (USD eller beskrivning)",
+        "message": "Partnerskapsförslag",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Ditt fullständiga namn",
+        "company": "Organisationens namn",
+        "role": "Din befattning",
+        "country": "Verksamhetsland",
+        "email": "professional@company.com",
+        "interest": "Välj ett område",
+        "allocation": "t.ex. Pilotprojekt, samarbete på 500 000 USD, teknikintegration",
+        "message": "Beskriv din organisation, strategisk passform och föreslaget samarbete..."
+      },
+      "submit": "Skicka partnerskapsansökan"
+    },
+    "projects": {
+      "title": "Utvecklingsinitiativ",
+      "subtitle": "Aktuella kapacitetsområden och initiativ i utvecklingsfas inom TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integration av energisystem",
+          "stage": "Under utveckling",
+          "stageKey": "development",
+          "description": "Integration av förnybar energi, industriella energilösningar och intelligenta energihanteringsramverk."
+        },
+        {
+          "title": "Smart infrastrukturteknik",
+          "stage": "Forskning",
+          "stageKey": "development",
+          "description": "Digitala infrastruktursystem, övervakningsplattformar och utveckling av kritisk infrastrukturteknik."
+        },
+        {
+          "title": "Industriell AI och analys",
+          "stage": "Aktiv forskning",
+          "stageKey": "active",
+          "description": "Industriell AI, infrastrukturanalys och forskning om intelligent automatisering för komplexa operativa miljöer."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Kapacitetsdokument",
+      "subtitle": "Officiella kapacitetsöversikter och referensmaterial från företagets webbplats.",
+      "openLabel": "Öppna dokument",
+      "items": [
+        {
+          "title": "Energisystemskapaciteter",
+          "description": "Översikt över energisystemutveckling, integration av förnybar energi och Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastrukturteknik",
+          "description": "Smart infrastruktur, digitala system och utveckling av kritisk infrastrukturteknik.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategiska partnerskap",
+          "description": "Partnerskapsmodeller, samarbetsramverk och engagemangsprocess.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Insikter och forskning",
+          "description": "Branschperspektiv om energi, infrastruktur och industriteknik.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Partnersupport",
+      "subtitle": "Kontakta TVK Infrastructure & Energy Systems-teamet för partnerskaps-, tekniska och allmänna förfrågningar.",
+      "disclaimer": "För brådskande operativa frågor, kontakta din tilldelade partnerskapsrepresentant. Svarstider: 1–2 arbetsdagar för allmänna förfrågningar.",
+      "channels": [
+        {
+          "title": "Partnerskapsförfrågningar",
+          "description": "Strategiskt samarbete, pilotmöjligheter och långsiktig partnerskapsutveckling.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Investerarrelationer",
+          "description": "Kapitalbildning och strategiska investeringsdiskussioner inom TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Teknisk support",
+          "description": "Portalåtkomst, ansökningsstatus och tekniska frågor.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Allmän kontakt",
+          "description": "Allmänna förfrågningar om TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal-app",
+      "title": "Skaffa TVK Partner Portal-appen",
+      "subtitle": "Installera partnerskapsportalen på din telefon — ansök, följ initiativ och få tillgång till kapacitetsdokument från en hemskärmsikon. Fungerar idag via Lägg till på hemskärmen; App Store-notering planerad för fas 2.",
+      "openApp": "Öppna Partner Portal",
+      "howToInstall": "Så installerar du",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Öppna Partner Portal → Dela → Lägg till på hemskärmen"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Öppna Partner Portal → meny → Installera app eller Lägg till på startskärmen"
+      },
+      "desktop": {
+        "title": "Skrivbord",
+        "steps": "Chrome eller Edge → installationsikon i adressfältet, eller bokmärk Partner Portal"
+      }
+    }
+  }
+}

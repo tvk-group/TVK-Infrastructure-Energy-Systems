@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Navigasi utama",
     "mobileNavAria": "Navigasi seluler",
-    "contact": "Kontak"
+    "contact": "Kontak",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Dapatkan aplikasi"
   },
   "footer": {
     "description": "Mengembangkan inisiatif berorientasi masa depan di bidang energi, infrastruktur, sistem industri, dan teknologi strategis dalam ekosistem TVK.",
@@ -19,7 +21,8 @@
     "connectDescription": "Mencari kemitraan strategis dan peluang kolaborasi di bidang infrastruktur dan energi.",
     "discussOpportunities": "Diskusikan Peluang →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Hak cipta dilindungi.",
-    "ecosystem": "Bagian dari Ekosistem TVK"
+    "ecosystem": "Bagian dari Ekosistem TVK",
+    "partnerPortal": "Aplikasi Partner Portal →"
   },
   "nav": {
     "home": "Beranda",
@@ -877,5 +880,199 @@
         "answer": "Ya. TVK Infrastructure & Energy Systems adalah bagian dari TVK Ecosystem yang lebih luas, mengintegrasikan perspektif teknologi, industri, dan investasi strategis."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Portal mitra TVK Infrastructure & Energy Systems — ajukan kemitraan strategis, lacak inisiatif pengembangan, dan akses dokumen kapabilitas."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Situs web",
+    "navAria": "Navigasi portal mitra",
+    "nav": {
+      "dashboard": "Dasbor",
+      "apply": "Ajukan",
+      "projects": "Proyek",
+      "documents": "Dokumen",
+      "support": "Dukungan"
+    },
+    "dashboard": {
+      "title": "Dasbor Mitra",
+      "subtitle": "Lacak permintaan kemitraan, inisiatif pengembangan, dan langkah selanjutnya dalam TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Tahap Kemitraan",
+          "value": "Pengembangan"
+        },
+        {
+          "label": "Inisiatif Aktif",
+          "value": "6 Bidang"
+        },
+        {
+          "label": "Status Permintaan",
+          "value": "Terbuka"
+        },
+        {
+          "label": "Bahasa Portal",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline Kemitraan Strategis",
+        "badge": "Dalam Pengembangan",
+        "description": "TVK Infrastructure & Energy Systems berada dalam tahap penelitian, pengembangan, dan pembangunan kemitraan. Kirim aplikasi untuk memulai percakapan kolaborasi terstruktur."
+      },
+      "nextSteps": {
+        "title": "Langkah Selanjutnya yang Direkomendasikan",
+        "items": [
+          "Kirim aplikasi kemitraan strategis dengan detail organisasi Anda",
+          "Tinjau bidang kapabilitas di sistem energi dan teknologi infrastruktur",
+          "Jelajahi inisiatif pengembangan aktif di bagian proyek",
+          "Hubungi tim kemitraan kami untuk peluang pilot atau kolaborasi"
+        ]
+      },
+      "cta": "Kirim Aplikasi Kemitraan →"
+    },
+    "apply": {
+      "title": "Aplikasi Kemitraan",
+      "subtitle": "Ajukan kolaborasi strategis dengan TVK Infrastructure & Energy Systems.",
+      "intro": "Lengkapi formulir ini untuk memperkenalkan organisasi Anda dan menjelaskan minat kemitraan. Tim kami meninjau semua aplikasi dan merespons permintaan yang memenuhi syarat.",
+      "disclaimer": "Aplikasi ini bukan perjanjian yang mengikat. TVK Infrastructure & Energy Systems LTD berada dalam tahap pengembangan — informasi menjelaskan bidang kapabilitas, bukan komitmen operasional."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Sistem Energi",
+        "Teknologi Infrastruktur",
+        "Solusi Industri",
+        "Energy Intelligence",
+        "Infrastruktur AI",
+        "Kemitraan Strategis",
+        "Permintaan Umum"
+      ],
+      "success": {
+        "title": "Aplikasi Diterima",
+        "message": "Terima kasih atas minat kemitraan Anda. Tim kami akan meninjau aplikasi Anda dan merespons dalam 5–10 hari kerja."
+      },
+      "fields": {
+        "name": "Nama Lengkap",
+        "company": "Organisasi",
+        "role": "Peran / Jabatan",
+        "country": "Negara",
+        "email": "Email",
+        "interest": "Bidang Kemitraan",
+        "allocation": "Cakupan Indikatif (USD atau deskripsi)",
+        "message": "Proposal Kemitraan",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Nama lengkap Anda",
+        "company": "Nama organisasi",
+        "role": "Posisi Anda",
+        "country": "Negara operasi",
+        "email": "professional@company.com",
+        "interest": "Pilih bidang",
+        "allocation": "mis. Proyek pilot, kolaborasi $500K, integrasi teknologi",
+        "message": "Jelaskan organisasi, kesesuaian strategis, dan kolaborasi yang diusulkan..."
+      },
+      "submit": "Kirim Aplikasi Kemitraan"
+    },
+    "projects": {
+      "title": "Inisiatif Pengembangan",
+      "subtitle": "Bidang kapabilitas saat ini dan inisiatif tahap pengembangan dalam TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integrasi Sistem Energi",
+          "stage": "Dalam Pengembangan",
+          "stageKey": "development",
+          "description": "Integrasi energi terbarukan, solusi energi industri, dan kerangka manajemen energi cerdas."
+        },
+        {
+          "title": "Teknologi Infrastruktur Cerdas",
+          "stage": "Penelitian",
+          "stageKey": "development",
+          "description": "Sistem infrastruktur digital, platform pemantauan, dan pengembangan teknologi infrastruktur kritis."
+        },
+        {
+          "title": "AI Industri & Analitik",
+          "stage": "Penelitian Aktif",
+          "stageKey": "active",
+          "description": "AI industri, analitik infrastruktur, dan penelitian otomasi cerdas untuk lingkungan operasional kompleks."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Dokumen Kapabilitas",
+      "subtitle": "Ringkasan kapabilitas resmi dan materi referensi dari situs korporat.",
+      "openLabel": "Buka dokumen",
+      "items": [
+        {
+          "title": "Kapabilitas Sistem Energi",
+          "description": "Ikhtisar pengembangan sistem energi, integrasi energi terbarukan, dan Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Teknologi Infrastruktur",
+          "description": "Infrastruktur cerdas, sistem digital, dan pengembangan teknologi infrastruktur kritis.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Kemitraan Strategis",
+          "description": "Model kemitraan, kerangka kolaborasi, dan proses keterlibatan.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Wawasan & Penelitian",
+          "description": "Perspektif industri tentang energi, infrastruktur, dan teknologi industri.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Dukungan Mitra",
+      "subtitle": "Hubungi tim TVK Infrastructure & Energy Systems untuk pertanyaan kemitraan, teknis, dan umum.",
+      "disclaimer": "Untuk urusan operasional mendesak, hubungi perwakilan kemitraan yang ditugaskan. Waktu respons: 1–2 hari kerja untuk pertanyaan umum.",
+      "channels": [
+        {
+          "title": "Pertanyaan Kemitraan",
+          "description": "Kolaborasi strategis, peluang pilot, dan pengembangan kemitraan jangka panjang.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Hubungan Investor",
+          "description": "Pembentukan modal dan diskusi investasi strategis dalam TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Dukungan Teknis",
+          "description": "Akses portal, status aplikasi, dan pertanyaan teknis.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Kontak Umum",
+          "description": "Pertanyaan umum tentang TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Aplikasi Partner Portal",
+      "title": "Dapatkan aplikasi TVK Partner Portal",
+      "subtitle": "Instal portal kemitraan di ponsel Anda — ajukan, lacak inisiatif, dan akses dokumen kapabilitas dari ikon layar utama. Berfungsi hari ini melalui Tambahkan ke Layar Utama; listing App Store direncanakan untuk Fase 2.",
+      "openApp": "Buka Partner Portal",
+      "howToInstall": "Cara menginstal",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Buka Partner Portal → Bagikan → Tambahkan ke Layar Utama"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Buka Partner Portal → menu → Instal aplikasi atau Tambahkan ke layar utama"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome atau Edge → ikon instal di bilah alamat, atau tandai Partner Portal"
+      }
+    }
   }
 }

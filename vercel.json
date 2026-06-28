@@ -7,6 +7,16 @@
       "source": "/",
       "destination": "/en/",
       "permanent": false
+    },
+    {
+      "source": "/app",
+      "destination": "/en/app/",
+      "permanent": false
+    },
+    {
+      "source": "/app/",
+      "destination": "/en/app/",
+      "permanent": false
     }
   ],
   "headers": [

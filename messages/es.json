@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "Navegación principal",
     "mobileNavAria": "Navegación móvil",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "partnerPortal": "Partner Portal",
+    "getApp": "Descargar la app"
   },
   "footer": {
     "description": "Desarrollo de iniciativas orientadas al futuro en energía, infraestructura, sistemas industriales y tecnologías estratégicas dentro del TVK Ecosystem.",
@@ -19,7 +21,8 @@
     "connectDescription": "Buscamos alianzas estratégicas y oportunidades de colaboración en infraestructura y energía.",
     "discussOpportunities": "Explorar oportunidades →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. Todos los derechos reservados.",
-    "ecosystem": "Parte del TVK Ecosystem"
+    "ecosystem": "Parte del TVK Ecosystem",
+    "partnerPortal": "App Partner Portal →"
   },
   "nav": {
     "home": "Inicio",
@@ -877,5 +880,199 @@
         "answer": "Sí. TVK Infrastructure & Energy Systems forma parte del TVK Ecosystem más amplio, integrando perspectivas tecnológicas, industriales y de inversión estratégica."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Portal de socios de TVK Infrastructure & Energy Systems — solicite alianzas estratégicas, siga iniciativas de desarrollo y acceda a documentos de capacidades."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Sitio web",
+    "navAria": "Navegación del portal de socios",
+    "nav": {
+      "dashboard": "Panel",
+      "apply": "Solicitar",
+      "projects": "Proyectos",
+      "documents": "Documentos",
+      "support": "Soporte"
+    },
+    "dashboard": {
+      "title": "Panel de socios",
+      "subtitle": "Siga su consulta de alianza, iniciativas de desarrollo y próximas acciones dentro del TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Etapa de alianza",
+          "value": "Desarrollo"
+        },
+        {
+          "label": "Iniciativas activas",
+          "value": "6 áreas"
+        },
+        {
+          "label": "Estado de consulta",
+          "value": "Abierto"
+        },
+        {
+          "label": "Idiomas del portal",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Canal de alianzas estratégicas",
+        "badge": "En desarrollo",
+        "description": "TVK Infrastructure & Energy Systems se encuentra en una etapa de investigación, desarrollo y construcción de alianzas. Envíe una solicitud para iniciar una conversación de colaboración estructurada."
+      },
+      "nextSteps": {
+        "title": "Próximos pasos recomendados",
+        "items": [
+          "Envíe una solicitud de alianza estratégica con los datos de su organización",
+          "Revise las áreas de capacidades en sistemas energéticos y tecnologías de infraestructura",
+          "Explore iniciativas de desarrollo activas en la sección de proyectos",
+          "Contacte a nuestro equipo de alianzas para oportunidades piloto o de colaboración"
+        ]
+      },
+      "cta": "Enviar solicitud de alianza →"
+    },
+    "apply": {
+      "title": "Solicitud de alianza",
+      "subtitle": "Solicite colaboración estratégica con TVK Infrastructure & Energy Systems.",
+      "intro": "Complete este formulario para presentar su organización y describir su interés en una alianza. Nuestro equipo revisa todas las solicitudes y responde a consultas calificadas.",
+      "disclaimer": "Esta solicitud no constituye un acuerdo vinculante. TVK Infrastructure & Energy Systems LTD está en etapa de desarrollo — la información describe áreas de capacidades, no compromisos operativos."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Sistemas energéticos",
+        "Tecnologías de infraestructura",
+        "Soluciones industriales",
+        "Energy Intelligence",
+        "Infraestructura de IA",
+        "Alianzas estratégicas",
+        "Consulta general"
+      ],
+      "success": {
+        "title": "Solicitud recibida",
+        "message": "Gracias por su interés en una alianza. Nuestro equipo revisará su solicitud y responderá en 5–10 días hábiles."
+      },
+      "fields": {
+        "name": "Nombre completo",
+        "company": "Organización",
+        "role": "Cargo / Título",
+        "country": "País",
+        "email": "Correo electrónico",
+        "interest": "Área de alianza",
+        "allocation": "Alcance indicativo (USD o descripción)",
+        "message": "Propuesta de alianza",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Su nombre completo",
+        "company": "Nombre de la organización",
+        "role": "Su cargo",
+        "country": "País de operación",
+        "email": "profesional@empresa.com",
+        "interest": "Seleccionar un área",
+        "allocation": "p. ej. Proyecto piloto, colaboración de 500.000 USD, integración tecnológica",
+        "message": "Describa su organización, encaje estratégico y colaboración propuesta..."
+      },
+      "submit": "Enviar solicitud de alianza"
+    },
+    "projects": {
+      "title": "Iniciativas de desarrollo",
+      "subtitle": "Áreas de capacidades actuales e iniciativas en etapa de desarrollo dentro del TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integración de sistemas energéticos",
+          "stage": "En desarrollo",
+          "stageKey": "development",
+          "description": "Integración de renovables, soluciones energéticas industriales y marcos de gestión inteligente de la energía."
+        },
+        {
+          "title": "Tecnologías de infraestructura inteligente",
+          "stage": "Investigación",
+          "stageKey": "development",
+          "description": "Sistemas de infraestructura digital, plataformas de monitorización y desarrollo de tecnologías de infraestructura crítica."
+        },
+        {
+          "title": "IA industrial y analítica",
+          "stage": "Investigación activa",
+          "stageKey": "active",
+          "description": "IA industrial, analítica de infraestructura e investigación en automatización inteligente para entornos operativos complejos."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Documentos de capacidades",
+      "subtitle": "Informes oficiales de capacidades y materiales de referencia del sitio corporativo.",
+      "openLabel": "Abrir documento",
+      "items": [
+        {
+          "title": "Capacidades en sistemas energéticos",
+          "description": "Resumen del desarrollo de sistemas energéticos, integración de renovables y Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Tecnologías de infraestructura",
+          "description": "Infraestructura inteligente, sistemas digitales y desarrollo de tecnologías de infraestructura crítica.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Alianzas estratégicas",
+          "description": "Modelos de alianza, marcos de colaboración y proceso de participación.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Perspectivas e investigación",
+          "description": "Perspectivas sectoriales sobre energía, infraestructura y tecnología industrial.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Soporte para socios",
+      "subtitle": "Contacte al equipo de TVK Infrastructure & Energy Systems para consultas de alianzas, técnicas y generales.",
+      "disclaimer": "Para asuntos operativos urgentes, contacte a su representante de alianzas asignado. Tiempos de respuesta: 1–2 días hábiles para consultas generales.",
+      "channels": [
+        {
+          "title": "Consultas de alianzas",
+          "description": "Colaboración estratégica, oportunidades piloto y desarrollo de alianzas a largo plazo.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Relaciones con inversores",
+          "description": "Formación de capital y conversaciones de inversión estratégica dentro del TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Soporte técnico",
+          "description": "Acceso al portal, estado de solicitud y preguntas técnicas.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Contacto general",
+          "description": "Consultas generales sobre TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "App Partner Portal",
+      "title": "Obtenga la app TVK Partner Portal",
+      "subtitle": "Instale el portal de socios en su teléfono — solicite, siga iniciativas y acceda a documentos de capacidades desde un icono de pantalla de inicio. Funciona hoy mediante Añadir a pantalla de inicio; publicación en App Store prevista para la fase 2.",
+      "openApp": "Abrir Partner Portal",
+      "howToInstall": "Cómo instalar",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Abrir Partner Portal → Compartir → Añadir a pantalla de inicio"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Abrir Partner Portal → menú → Instalar app o Añadir a pantalla de inicio"
+      },
+      "desktop": {
+        "title": "Escritorio",
+        "steps": "Chrome o Edge → icono de instalación en la barra de direcciones, o guarde Partner Portal en favoritos"
+      }
+    }
   }
 }

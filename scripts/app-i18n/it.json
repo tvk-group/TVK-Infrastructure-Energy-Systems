@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Scarica l'app"
+  },
+  "footer": {
+    "partnerPortal": "App Partner Portal →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "Portale partner di TVK Infrastructure & Energy Systems — candidati per partnership strategiche, monitora le iniziative di sviluppo e accedi ai documenti sulle competenze."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Sito web",
+    "navAria": "Navigazione portale partner",
+    "nav": {
+      "dashboard": "Dashboard",
+      "apply": "Candidati",
+      "projects": "Progetti",
+      "documents": "Documenti",
+      "support": "Supporto"
+    },
+    "dashboard": {
+      "title": "Dashboard partner",
+      "subtitle": "Monitora la tua richiesta di partnership, le iniziative di sviluppo e le prossime azioni all'interno del TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "Fase di partnership",
+          "value": "Sviluppo"
+        },
+        {
+          "label": "Iniziative attive",
+          "value": "6 aree"
+        },
+        {
+          "label": "Stato richiesta",
+          "value": "Aperto"
+        },
+        {
+          "label": "Lingue del portale",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Pipeline di partnership strategiche",
+        "badge": "In sviluppo",
+        "description": "TVK Infrastructure & Energy Systems è in una fase di ricerca, sviluppo e costruzione di partnership. Invia una candidatura per avviare una conversazione di collaborazione strutturata."
+      },
+      "nextSteps": {
+        "title": "Prossimi passi consigliati",
+        "items": [
+          "Invia una candidatura di partnership strategica con i dettagli della tua organizzazione",
+          "Esamina le aree di competenza nei sistemi energetici e nelle tecnologie infrastrutturali",
+          "Esplora le iniziative di sviluppo attive nella sezione progetti",
+          "Contatta il nostro team partnership per opportunità pilota o di collaborazione"
+        ]
+      },
+      "cta": "Invia candidatura di partnership →"
+    },
+    "apply": {
+      "title": "Candidatura di partnership",
+      "subtitle": "Candidati per una collaborazione strategica con TVK Infrastructure & Energy Systems.",
+      "intro": "Compila questo modulo per presentare la tua organizzazione e descrivere il tuo interesse per una partnership. Il nostro team esamina tutte le candidature e risponde alle richieste qualificate.",
+      "disclaimer": "Questa candidatura non costituisce un accordo vincolante. TVK Infrastructure & Energy Systems LTD è in fase di sviluppo — le informazioni descrivono aree di competenza, non impegni operativi."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Sistemi energetici",
+        "Tecnologie infrastrutturali",
+        "Soluzioni industriali",
+        "Energy Intelligence",
+        "Infrastruttura IA",
+        "Partnership strategiche",
+        "Richiesta generale"
+      ],
+      "success": {
+        "title": "Candidatura ricevuta",
+        "message": "Grazie per il tuo interesse nella partnership. Il nostro team esaminerà la tua candidatura e risponderà entro 5–10 giorni lavorativi."
+      },
+      "fields": {
+        "name": "Nome completo",
+        "company": "Organizzazione",
+        "role": "Ruolo / Titolo",
+        "country": "Paese",
+        "email": "Email",
+        "interest": "Area di partnership",
+        "allocation": "Ambito indicativo (USD o descrizione)",
+        "message": "Proposta di partnership",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Il tuo nome completo",
+        "company": "Nome dell'organizzazione",
+        "role": "La tua posizione",
+        "country": "Paese di operatività",
+        "email": "professionale@azienda.com",
+        "interest": "Seleziona un'area",
+        "allocation": "es. Progetto pilota, collaborazione da 500.000 USD, integrazione tecnologica",
+        "message": "Descrivi la tua organizzazione, l'allineamento strategico e la collaborazione proposta..."
+      },
+      "submit": "Invia candidatura di partnership"
+    },
+    "projects": {
+      "title": "Iniziative di sviluppo",
+      "subtitle": "Aree di competenza attuali e iniziative in fase di sviluppo all'interno del TVK Ecosystem.",
+      "items": [
+        {
+          "title": "Integrazione dei sistemi energetici",
+          "stage": "In sviluppo",
+          "stageKey": "development",
+          "description": "Integrazione delle rinnovabili, soluzioni energetiche industriali e framework di gestione intelligente dell'energia."
+        },
+        {
+          "title": "Tecnologie di infrastruttura intelligente",
+          "stage": "Ricerca",
+          "stageKey": "development",
+          "description": "Sistemi di infrastruttura digitale, piattaforme di monitoraggio e sviluppo di tecnologie per infrastrutture critiche."
+        },
+        {
+          "title": "IA industriale e analitica",
+          "stage": "Ricerca attiva",
+          "stageKey": "active",
+          "description": "IA industriale, analitica infrastrutturale e ricerca sull'automazione intelligente per ambienti operativi complessi."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Documenti sulle competenze",
+      "subtitle": "Brief ufficiali sulle competenze e materiali di riferimento dal sito corporate.",
+      "openLabel": "Apri documento",
+      "items": [
+        {
+          "title": "Competenze nei sistemi energetici",
+          "description": "Panoramica sullo sviluppo dei sistemi energetici, integrazione delle rinnovabili e Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Tecnologie infrastrutturali",
+          "description": "Infrastruttura intelligente, sistemi digitali e sviluppo di tecnologie per infrastrutture critiche.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Partnership strategiche",
+          "description": "Modelli di partnership, framework di collaborazione e processo di coinvolgimento.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Approfondimenti e ricerca",
+          "description": "Prospettive di settore su energia, infrastrutture e tecnologia industriale.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Supporto partner",
+      "subtitle": "Contatta il team TVK Infrastructure & Energy Systems per richieste di partnership, tecniche e generali.",
+      "disclaimer": "Per questioni operative urgenti, contatta il tuo rappresentante partnership assegnato. Tempi di risposta: 1–2 giorni lavorativi per richieste generali.",
+      "channels": [
+        {
+          "title": "Richieste di partnership",
+          "description": "Collaborazione strategica, opportunità pilota e sviluppo di partnership a lungo termine.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Relazioni con gli investitori",
+          "description": "Formazione del capitale e discussioni sugli investimenti strategici all'interno del TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Supporto tecnico",
+          "description": "Accesso al portale, stato della candidatura e domande tecniche.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Contatto generale",
+          "description": "Richieste generali su TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "App Partner Portal",
+      "title": "Scarica l'app TVK Partner Portal",
+      "subtitle": "Installa il portale partner sul tuo telefono — candidati, monitora le iniziative e accedi ai documenti sulle competenze da un'icona nella schermata Home. Funziona oggi tramite Aggiungi a Home; pubblicazione su App Store prevista per la fase 2.",
+      "openApp": "Apri Partner Portal",
+      "howToInstall": "Come installare",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Apri Partner Portal → Condividi → Aggiungi a Home"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Apri Partner Portal → menu → Installa app o Aggiungi a schermata Home"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome o Edge → icona di installazione nella barra degli indirizzi, oppure aggiungi Partner Portal ai preferiti"
+      }
+    }
+  }
+}

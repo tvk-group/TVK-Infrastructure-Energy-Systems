@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "التنقل الرئيسي",
     "mobileNavAria": "التنقل عبر الجوال",
-    "contact": "اتصل بنا"
+    "contact": "اتصل بنا",
+    "partnerPortal": "Partner Portal",
+    "getApp": "احصل على التطبيق"
   },
   "footer": {
     "description": "تطوير مبادرات مستقبلية في مجالات الطاقة والبنية التحتية والأنظمة الصناعية والتقنيات الاستراتيجية ضمن TVK Ecosystem.",
@@ -19,7 +21,8 @@
     "connectDescription": "البحث عن شراكات استراتيجية وفرص تعاون في البنية التحتية والطاقة.",
     "discussOpportunities": "مناقشة الفرص ←",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
-    "ecosystem": "جزء من TVK Ecosystem"
+    "ecosystem": "جزء من TVK Ecosystem",
+    "partnerPortal": "تطبيق Partner Portal ←"
   },
   "nav": {
     "home": "الرئيسية",
@@ -877,5 +880,199 @@
         "answer": "نعم. TVK Infrastructure & Energy Systems جزء من TVK Ecosystem الأوسع، ويجمع بين منظورات التكنولوجيا والصناعة والاستثمار الاستراتيجي."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "بوابة شركاء TVK Infrastructure & Energy Systems — تقدّم لطلب شراكات استراتيجية، وتتبّع مبادرات التطوير، واطّلع على وثائق القدرات."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "الموقع",
+    "navAria": "تنقل بوابة الشركاء",
+    "nav": {
+      "dashboard": "لوحة التحكم",
+      "apply": "تقديم طلب",
+      "projects": "المشاريع",
+      "documents": "المستندات",
+      "support": "الدعم"
+    },
+    "dashboard": {
+      "title": "لوحة تحكم الشريك",
+      "subtitle": "تتبّع استفسار الشراكة ومبادرات التطوير والخطوات التالية ضمن TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "مرحلة الشراكة",
+          "value": "التطوير"
+        },
+        {
+          "label": "المبادرات النشطة",
+          "value": "6 مجالات"
+        },
+        {
+          "label": "حالة الاستفسار",
+          "value": "مفتوح"
+        },
+        {
+          "label": "لغات البوابة",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "مسار الشراكات الاستراتيجية",
+        "badge": "قيد التطوير",
+        "description": "TVK Infrastructure & Energy Systems في مرحلة البحث والتطوير وبناء الشراكات. قدّم طلبًا لبدء محادثة تعاون منظّمة."
+      },
+      "nextSteps": {
+        "title": "الخطوات التالية الموصى بها",
+        "items": [
+          "قدّم طلب شراكة استراتيجية مع تفاصيل مؤسستك",
+          "راجع مجالات القدرات في أنظمة الطاقة وتقنيات البنية التحتية",
+          "استكشف مبادرات التطوير النشطة في قسم المشاريع",
+          "تواصل مع فريق الشراكات لدينا لفرص التجريب أو التعاون"
+        ]
+      },
+      "cta": "تقديم طلب الشراكة ←"
+    },
+    "apply": {
+      "title": "طلب الشراكة",
+      "subtitle": "قدّم للتعاون الاستراتيجي مع TVK Infrastructure & Energy Systems.",
+      "intro": "أكمل هذا النموذج لتقديم مؤسستك ووصف اهتمامك بالشراكة. يراجع فريقنا جميع الطلبات ويرد على الاستفسارات المؤهلة.",
+      "disclaimer": "هذا الطلب لا يُعدّ اتفاقًا ملزمًا. TVK Infrastructure & Energy Systems LTD في مرحلة التطوير — المعلومات تصف مجالات القدرات وليست التزامات تشغيلية."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "أنظمة الطاقة",
+        "تقنيات البنية التحتية",
+        "الحلول الصناعية",
+        "Energy Intelligence",
+        "بنية الذكاء الاصطناعي",
+        "الشراكات الاستراتيجية",
+        "استفسار عام"
+      ],
+      "success": {
+        "title": "تم استلام الطلب",
+        "message": "شكرًا لاهتمامك بالشراكة. سيراجع فريقنا طلبك ويرد خلال 5–10 أيام عمل."
+      },
+      "fields": {
+        "name": "الاسم الكامل",
+        "company": "المؤسسة",
+        "role": "الدور / المسمى",
+        "country": "البلد",
+        "email": "البريد الإلكتروني",
+        "interest": "مجال الشراكة",
+        "allocation": "النطاق الإرشادي (USD أو وصف)",
+        "message": "مقترح الشراكة",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "اسمك الكامل",
+        "company": "اسم المؤسسة",
+        "role": "منصبك",
+        "country": "بلد العمل",
+        "email": "professional@company.com",
+        "interest": "اختر مجالًا",
+        "allocation": "مثلًا: مشروع تجريبي، تعاون بقيمة 500 ألف دولار، تكامل تقني",
+        "message": "صف مؤسستك والتوافق الاستراتيجي والتعاون المقترح..."
+      },
+      "submit": "تقديم طلب الشراكة"
+    },
+    "projects": {
+      "title": "مبادرات التطوير",
+      "subtitle": "مجالات القدرات الحالية والمبادرات في مرحلة التطوير ضمن TVK Ecosystem.",
+      "items": [
+        {
+          "title": "تكامل أنظمة الطاقة",
+          "stage": "قيد التطوير",
+          "stageKey": "development",
+          "description": "دمج الطاقة المتجددة وحلول الطاقة الصناعية وأطر إدارة الطاقة الذكية."
+        },
+        {
+          "title": "تقنيات البنية التحتية الذكية",
+          "stage": "بحث",
+          "stageKey": "development",
+          "description": "أنظمة البنية التحتية الرقمية ومنصات المراقبة وتطوير تقنيات البنية التحتية الحيوية."
+        },
+        {
+          "title": "الذكاء الاصطناعي الصناعي والتحليلات",
+          "stage": "بحث نشط",
+          "stageKey": "active",
+          "description": "الذكاء الاصطناعي الصناعي وتحليلات البنية التحتية وبحث الأتمتة الذكية للبيئات التشغيلية المعقدة."
+        }
+      ]
+    },
+    "documents": {
+      "title": "وثائق القدرات",
+      "subtitle": "ملخصات رسمية للقدرات ومواد مرجعية من الموقع المؤسسي.",
+      "openLabel": "فتح المستند",
+      "items": [
+        {
+          "title": "قدرات أنظمة الطاقة",
+          "description": "نظرة عامة على تطوير أنظمة الطاقة ودمج المتجددة وEnergy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "تقنيات البنية التحتية",
+          "description": "البنية التحتية الذكية والأنظمة الرقمية وتطوير تقنيات البنية التحتية الحيوية.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "الشراكات الاستراتيجية",
+          "description": "نماذج الشراكة وأطر التعاون وعملية المشاركة.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "رؤى وأبحاث",
+          "description": "منظورات صناعية حول الطاقة والبنية التحتية والتكنولوجيا الصناعية.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "دعم الشركاء",
+      "subtitle": "تواصل مع فريق TVK Infrastructure & Energy Systems للاستفسارات المتعلقة بالشراكة والدعم الفني والاستفسارات العامة.",
+      "disclaimer": "للمسائل التشغيلية العاجلة، تواصل مع ممثل الشراكة المعيّن. أوقات الاستجابة: 1–2 يوم عمل للاستفسارات العامة.",
+      "channels": [
+        {
+          "title": "استفسارات الشراكة",
+          "description": "التعاون الاستراتيجي وفرص التجريب وتطوير الشراكات طويلة الأمد.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "علاقات المستثمرين",
+          "description": "تكوين رأس المال ومناقشات الاستثمار الاستراتيجي ضمن TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "الدعم الفني",
+          "description": "الوصول إلى البوابة وحالة الطلب والأسئلة التقنية.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "اتصال عام",
+          "description": "استفسارات عامة حول TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "تطبيق Partner Portal",
+      "title": "احصل على تطبيق TVK Partner Portal",
+      "subtitle": "ثبّت بوابة الشراكة على هاتفك — قدّم الطلبات، وتتبّع المبادرات، واطّلع على وثائق القدرات من أيقونة الشاشة الرئيسية. يعمل اليوم عبر «إضافة إلى الشاشة الرئيسية»؛ الإدراج في App Store مخطط للمرحلة 2.",
+      "openApp": "فتح Partner Portal",
+      "howToInstall": "كيفية التثبيت",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari ← فتح Partner Portal ← مشاركة ← إضافة إلى الشاشة الرئيسية"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome ← فتح Partner Portal ← القائمة ← تثبيت التطبيق أو إضافة إلى الشاشة الرئيسية"
+      },
+      "desktop": {
+        "title": "سطح المكتب",
+        "steps": "Chrome أو Edge ← أيقونة التثبيت في شريط العنوان، أو احفظ Partner Portal في المفضلة"
+      }
+    }
   }
 }

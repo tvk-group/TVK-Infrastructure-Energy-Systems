@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Uygulamayı indir"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal Uygulaması →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems iş ortağı portalı — stratejik ortaklıklar için başvurun, geliştirme girişimlerini takip edin ve yetkinlik belgelerine erişin."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Web sitesi",
+    "navAria": "İş ortağı portalı navigasyonu",
+    "nav": {
+      "dashboard": "Kontrol Paneli",
+      "apply": "Başvur",
+      "projects": "Projeler",
+      "documents": "Belgeler",
+      "support": "Destek"
+    },
+    "dashboard": {
+      "title": "İş Ortağı Kontrol Paneli",
+      "subtitle": "TVK Ecosystem içinde ortaklık talebinizi, geliştirme girişimlerinizi ve sonraki adımlarınızı takip edin.",
+      "stats": [
+        {
+          "label": "Ortaklık Aşaması",
+          "value": "Geliştirme"
+        },
+        {
+          "label": "Aktif Girişimler",
+          "value": "6 Alan"
+        },
+        {
+          "label": "Talep Durumu",
+          "value": "Açık"
+        },
+        {
+          "label": "Portal Dilleri",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Stratejik Ortaklık Hattı",
+        "badge": "Geliştirme Aşamasında",
+        "description": "TVK Infrastructure & Energy Systems araştırma, geliştirme ve ortaklık oluşturma aşamasındadır. Yapılandırılmış bir iş birliği görüşmesi başlatmak için başvuru gönderin."
+      },
+      "nextSteps": {
+        "title": "Önerilen Sonraki Adımlar",
+        "items": [
+          "Kuruluş bilgilerinizle stratejik ortaklık başvurusu gönderin",
+          "Enerji sistemleri ve altyapı teknolojilerindeki yetkinlik alanlarını inceleyin",
+          "Projeler bölümündeki aktif geliştirme girişimlerini keşfedin",
+          "Pilot veya iş birliği fırsatları için ortaklık ekibimizle iletişime geçin"
+        ]
+      },
+      "cta": "Ortaklık Başvurusu Gönder →"
+    },
+    "apply": {
+      "title": "Ortaklık Başvurusu",
+      "subtitle": "TVK Infrastructure & Energy Systems ile stratejik iş birliği için başvurun.",
+      "intro": "Kuruluşunuzu tanıtmak ve ortaklık ilginizi açıklamak için bu formu doldurun. Ekibimiz tüm başvuruları inceler ve nitelikli taleplere yanıt verir.",
+      "disclaimer": "Bu başvuru bağlayıcı bir anlaşma oluşturmaz. TVK Infrastructure & Energy Systems LTD geliştirme aşamasındadır — bilgiler operasyonel taahhütler değil, yetkinlik alanlarını açıklar."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Enerji Sistemleri",
+        "Altyapı Teknolojileri",
+        "Endüstriyel Çözümler",
+        "Energy Intelligence",
+        "Yapay Zeka Altyapısı",
+        "Stratejik Ortaklıklar",
+        "Genel Talep"
+      ],
+      "success": {
+        "title": "Başvuru Alındı",
+        "message": "Ortaklık ilginiz için teşekkür ederiz. Ekibimiz başvurunuzu inceleyecek ve 5–10 iş günü içinde yanıt verecektir."
+      },
+      "fields": {
+        "name": "Ad Soyad",
+        "company": "Kuruluş",
+        "role": "Görev / Unvan",
+        "country": "Ülke",
+        "email": "E-posta",
+        "interest": "Ortaklık Alanı",
+        "allocation": "Gösterge Kapsam (USD veya açıklama)",
+        "message": "Ortaklık Teklifi",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Adınız ve soyadınız",
+        "company": "Kuruluş adı",
+        "role": "Pozisyonunuz",
+        "country": "Faaliyet ülkesi",
+        "email": "professional@company.com",
+        "interest": "Alan seçin",
+        "allocation": "örn. Pilot proje, 500 bin USD iş birliği, teknoloji entegrasyonu",
+        "message": "Kuruluşunuzu, stratejik uyumu ve önerilen iş birliğini açıklayın..."
+      },
+      "submit": "Ortaklık Başvurusu Gönder"
+    },
+    "projects": {
+      "title": "Geliştirme Girişimleri",
+      "subtitle": "TVK Ecosystem içindeki mevcut yetkinlik alanları ve geliştirme aşamasındaki girişimler.",
+      "items": [
+        {
+          "title": "Enerji Sistemleri Entegrasyonu",
+          "stage": "Geliştirme Aşamasında",
+          "stageKey": "development",
+          "description": "Yenilenebilir entegrasyon, endüstriyel enerji çözümleri ve akıllı enerji yönetimi çerçeveleri."
+        },
+        {
+          "title": "Akıllı Altyapı Teknolojileri",
+          "stage": "Araştırma",
+          "stageKey": "development",
+          "description": "Dijital altyapı sistemleri, izleme platformları ve kritik altyapı teknolojisi geliştirme."
+        },
+        {
+          "title": "Endüstriyel Yapay Zeka ve Analitik",
+          "stage": "Aktif Araştırma",
+          "stageKey": "active",
+          "description": "Karmaşık operasyonel ortamlar için endüstriyel yapay zeka, altyapı analitiği ve akıllı otomasyon araştırması."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Yetkinlik Belgeleri",
+      "subtitle": "Kurumsal web sitesinden resmi yetkinlik özetleri ve referans materyalleri.",
+      "openLabel": "Belgeyi aç",
+      "items": [
+        {
+          "title": "Enerji Sistemleri Yetkinlikleri",
+          "description": "Enerji sistemleri geliştirme, yenilenebilir entegrasyon ve Energy Intelligence genel bakışı.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Altyapı Teknolojileri",
+          "description": "Akıllı altyapı, dijital sistemler ve kritik altyapı teknolojisi geliştirme.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Stratejik Ortaklıklar",
+          "description": "Ortaklık modelleri, iş birliği çerçeveleri ve katılım süreci.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Görüşler ve Araştırma",
+          "description": "Enerji, altyapı ve endüstriyel teknoloji hakkında sektör perspektifleri.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "İş Ortağı Desteği",
+      "subtitle": "Ortaklık, teknik ve genel talepler için TVK Infrastructure & Energy Systems ekibiyle iletişime geçin.",
+      "disclaimer": "Acil operasyonel konular için atanan ortaklık temsilcinizle iletişime geçin. Genel talepler için yanıt süreleri: 1–2 iş günü.",
+      "channels": [
+        {
+          "title": "Ortaklık Talepleri",
+          "description": "Stratejik iş birliği, pilot fırsatları ve uzun vadeli ortaklık geliştirme.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Yatırımcı İlişkileri",
+          "description": "TVK Ecosystem içinde sermaye oluşturma ve stratejik yatırım görüşmeleri.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Teknik Destek",
+          "description": "Portal erişimi, başvuru durumu ve teknik sorular.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Genel İletişim",
+          "description": "TVK Infrastructure & Energy Systems hakkında genel talepler.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal Uygulaması",
+      "title": "TVK Partner Portal uygulamasını edinin",
+      "subtitle": "Ortaklık portalını telefonunuza yükleyin — başvurun, girişimleri takip edin ve ana ekran simgesinden yetkinlik belgelerine erişin. Bugün Ana Ekrana Ekle ile çalışır; App Store listelemesi Faz 2 için planlandı.",
+      "openApp": "Partner Portal'ı Aç",
+      "howToInstall": "Nasıl yüklenir",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Partner Portal'ı Aç → Paylaş → Ana Ekrana Ekle"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Partner Portal'ı Aç → menü → Uygulamayı yükle veya Ana ekrana ekle"
+      },
+      "desktop": {
+        "title": "Masaüstü",
+        "steps": "Chrome veya Edge → adres çubuğundaki yükleme simgesi veya Partner Portal'ı yer imlerine ekleyin"
+      }
+    }
+  }
+}

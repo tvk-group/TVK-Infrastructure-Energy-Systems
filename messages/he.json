@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "ניווט ראשי",
     "mobileNavAria": "ניווט נייד",
-    "contact": "יצירת קשר"
+    "contact": "יצירת קשר",
+    "partnerPortal": "Partner Portal",
+    "getApp": "קבל את האפליקציה"
   },
   "footer": {
     "description": "פיתוח יוזמות ממוקדות עתיד על פני אנרגיה, תשתיות, מערכות תעשייתיות וטכנולוגיות אסטרטגיות בתוך TVK Ecosystem.",
@@ -19,7 +21,8 @@
     "connectDescription": "מחפש שותפויות אסטרטגיות והזדמנויות שיתוף פעולה בתשתיות ואנרגיה.",
     "discussOpportunities": "דון בהזדמנויות ←",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. כל הזכויות שמורות.",
-    "ecosystem": "חלק מ-TVK Ecosystem"
+    "ecosystem": "חלק מ-TVK Ecosystem",
+    "partnerPortal": "אפליקציית Partner Portal ←"
   },
   "nav": {
     "home": "בית",
@@ -877,5 +880,199 @@
         "answer": "כן. TVK Infrastructure & Energy Systems היא חלק מ-TVK Ecosystem הרחב, המשלב פרספקטיבות טכנולוגיה, תעשייה והשקעות אסטרטגיות."
       }
     ]
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "פורטל השותפים של TVK Infrastructure & Energy Systems — הגישו בקשה לשותפויות אסטרטגיות, עקבו אחרי יוזמות פיתוח וגשו למסמכי יכולות."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "אתר",
+    "navAria": "ניווט פורטל שותפים",
+    "nav": {
+      "dashboard": "לוח בקרה",
+      "apply": "הגשה",
+      "projects": "פרויקטים",
+      "documents": "מסמכים",
+      "support": "תמיכה"
+    },
+    "dashboard": {
+      "title": "לוח בקרה לשותפים",
+      "subtitle": "עקבו אחרי פניית השותפות, יוזמות הפיתוח והצעדים הבאים בתוך TVK Ecosystem.",
+      "stats": [
+        {
+          "label": "שלב שותפות",
+          "value": "פיתוח"
+        },
+        {
+          "label": "יוזמות פעילות",
+          "value": "6 תחומים"
+        },
+        {
+          "label": "סטטוס פנייה",
+          "value": "פתוח"
+        },
+        {
+          "label": "שפות הפורטל",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "צינור שותפויות אסטרטגיות",
+        "badge": "בפיתוח",
+        "description": "TVK Infrastructure & Energy Systems נמצאת בשלב מחקר, פיתוח ובניית שותפויות. הגישו בקשה כדי להתחיל שיחת שיתוף פעולה מובנית."
+      },
+      "nextSteps": {
+        "title": "צעדים מומלצים הבאים",
+        "items": [
+          "הגישו בקשת שותפות אסטרטגית עם פרטי הארגון שלכם",
+          "סקרו תחומי יכולות במערכות אנרגיה וטכנולוגיות תשתית",
+          "גלו יוזמות פיתוח פעילות בחלק הפרויקטים",
+          "צרו קשר עם צוות השותפויות שלנו להזדמנויות פיילוט או שיתוף פעולה"
+        ]
+      },
+      "cta": "הגישו בקשת שותפות ←"
+    },
+    "apply": {
+      "title": "בקשת שותפות",
+      "subtitle": "הגישו בקשה לשיתוף פעולה אסטרטגי עם TVK Infrastructure & Energy Systems.",
+      "intro": "מלאו טופס זה כדי להציג את הארגון שלכם ולתאר את עניין השותפות. הצוות שלנו בודק את כל הבקשות ומגיב לפניות מתאימות.",
+      "disclaimer": "בקשה זו אינה מהווה הסכם מחייב. TVK Infrastructure & Energy Systems LTD בשלב פיתוח — המידע מתאר תחומי יכולות ולא התחייבויות תפעוליות."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "מערכות אנרגיה",
+        "טכנולוגיות תשתית",
+        "פתרונות תעשייתיים",
+        "Energy Intelligence",
+        "תשתית AI",
+        "שותפויות אסטרטגיות",
+        "פנייה כללית"
+      ],
+      "success": {
+        "title": "הבקשה התקבלה",
+        "message": "תודה על העניין בשותפות. הצוות שלנו יבדוק את הבקשה ויגיב תוך 5–10 ימי עסקים."
+      },
+      "fields": {
+        "name": "שם מלא",
+        "company": "ארגון",
+        "role": "תפקיד / תואר",
+        "country": "מדינה",
+        "email": "דוא\"ל",
+        "interest": "תחום שותפות",
+        "allocation": "היקף אינדיקטיבי (USD או תיאור)",
+        "message": "הצעת שותפות",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "שמכם המלא",
+        "company": "שם הארגון",
+        "role": "תפקידכם",
+        "country": "מדינת הפעילות",
+        "email": "professional@company.com",
+        "interest": "בחרו תחום",
+        "allocation": "לדוגמה: פרויקט פיילוט, שיתוף פעולה של $500K, אינטגרציה טכנולוגית",
+        "message": "תארו את הארגון, ההתאמה האסטרטגית ושיתוף הפעולה המוצע..."
+      },
+      "submit": "הגישו בקשת שותפות"
+    },
+    "projects": {
+      "title": "יוזמות פיתוח",
+      "subtitle": "תחומי יכולות נוכחיים ויוזמות בשלב פיתוח בתוך TVK Ecosystem.",
+      "items": [
+        {
+          "title": "אינטגרציית מערכות אנרגיה",
+          "stage": "בפיתוח",
+          "stageKey": "development",
+          "description": "אינטגרציה של אנרגיה מתחדשת, פתרונות אנרגיה תעשייתיים ומסגרות ניהול אנרגיה חכמות."
+        },
+        {
+          "title": "טכנולוגיות תשתית חכמות",
+          "stage": "מחקר",
+          "stageKey": "development",
+          "description": "מערכות תשתית דיגיטליות, פלטפורמות ניטור ופיתוח טכנולוגיות תשתית קריטיות."
+        },
+        {
+          "title": "AI תעשייתי ואנליטיקה",
+          "stage": "מחקר פעיל",
+          "stageKey": "active",
+          "description": "AI תעשייתי, אנליטיקת תשתית ומחקר אוטומציה חכמה לסביבות תפעול מורכבות."
+        }
+      ]
+    },
+    "documents": {
+      "title": "מסמכי יכולות",
+      "subtitle": "תקצירי יכולות רשמיים וחומרי עזר מהאתר התאגידי.",
+      "openLabel": "פתח מסמך",
+      "items": [
+        {
+          "title": "יכולות מערכות אנרגיה",
+          "description": "סקירה של פיתוח מערכות אנרגיה, אינטגרציה מתחדשת ו-Energy Intelligence.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "טכנולוגיות תשתית",
+          "description": "תשתית חכמה, מערכות דיגיטליות ופיתוח טכנולוגיות תשתית קריטיות.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "שותפויות אסטרטגיות",
+          "description": "מודלי שותפות, מסגרות שיתוף פעולה ותהליך מעורבות.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "תובנות ומחקר",
+          "description": "נקודות מבט תעשייתיות על אנרגיה, תשתית וטכנולוגיה תעשייתית.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "תמיכת שותפים",
+      "subtitle": "צרו קשר עם צוות TVK Infrastructure & Energy Systems לשאלות שותפות, טכניות וכלליות.",
+      "disclaimer": "לעניינים תפעוליים דחופים, פנו לנציג השותפות המוקצה. זמני תגובה: 1–2 ימי עסקים לפניות כלליות.",
+      "channels": [
+        {
+          "title": "פניות שותפות",
+          "description": "שיתוף פעולה אסטרטגי, הזדמנויות פיילוט ופיתוח שותפויות לטווח ארוך.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "קשרי משקיעים",
+          "description": "גיוס הון ודיונים על השקעות אסטרטגיות בתוך TVK Ecosystem.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "תמיכה טכנית",
+          "description": "גישה לפורטל, סטטוס בקשה ושאלות טכניות.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "קשר כללי",
+          "description": "פניות כלליות על TVK Infrastructure & Energy Systems.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "אפליקציית Partner Portal",
+      "title": "קבלו את אפליקציית TVK Partner Portal",
+      "subtitle": "התקינו את פורטל השותפות בטלפון — הגישו בקשות, עקבו אחרי יוזמות וגשו למסמכי יכולות מאייקון מסך הבית. זמין היום דרך Add to Home Screen; פרסום ב-App Store מתוכנן לשלב 2.",
+      "openApp": "פתחו Partner Portal",
+      "howToInstall": "איך להתקין",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → פתחו Partner Portal → Share → Add to Home Screen"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → פתחו Partner Portal → menu → Install app או Add to Home screen"
+      },
+      "desktop": {
+        "title": "Desktop",
+        "steps": "Chrome או Edge → אייקון התקנה בשורת הכתובת, או סמנו את Partner Portal"
+      }
+    }
   }
 }

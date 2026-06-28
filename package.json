@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/enrich-en-seo.mjs && node scripts/generate-sitemaps.mjs",
+    "prebuild": "node scripts/merge-app-i18n.mjs && node scripts/enrich-en-seo.mjs && node scripts/generate-sitemaps.mjs",
     "dev": "next dev",
     "build": "next build",
     "build:pages": "cp next.config.ts next.config.vercel.bak && cp next.config.pages.ts next.config.ts && next build && mv next.config.vercel.bak next.config.ts",

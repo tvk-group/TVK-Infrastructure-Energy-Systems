@@ -9,7 +9,9 @@
     "brandSub": "& Energy Systems LTD",
     "mainNavAria": "主导航",
     "mobileNavAria": "移动端导航",
-    "contact": "联系我们"
+    "contact": "联系我们",
+    "partnerPortal": "Partner Portal",
+    "getApp": "获取应用"
   },
   "footer": {
     "description": "在 TVK Ecosystem 内开发面向未来的能源、基础设施、工业系统和战略技术举措。",
@@ -19,7 +21,8 @@
     "connectDescription": "寻求基础设施和能源领域的战略合作与合作机会。",
     "discussOpportunities": "探讨合作机会 →",
     "copyright": "© {year} TVK Infrastructure & Energy Systems LTD. All rights reserved.",
-    "ecosystem": "TVK Ecosystem 的一部分"
+    "ecosystem": "TVK Ecosystem 的一部分",
+    "partnerPortal": "Partner Portal 应用 →"
   },
   "nav": {
     "home": "首页",
@@ -834,6 +837,200 @@
       "message": "请描述您的咨询内容、合作意向或项目机会..."
     },
     "submit": "探讨基础设施与能源合作机会"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems 合作伙伴门户 — 申请战略合作、跟踪开发举措并访问能力文档。"
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "网站",
+    "navAria": "合作伙伴门户导航",
+    "nav": {
+      "dashboard": "仪表板",
+      "apply": "申请",
+      "projects": "项目",
+      "documents": "文档",
+      "support": "支持"
+    },
+    "dashboard": {
+      "title": "合作伙伴仪表板",
+      "subtitle": "在 TVK Ecosystem 内跟踪您的合作咨询、开发举措和后续行动。",
+      "stats": [
+        {
+          "label": "合作阶段",
+          "value": "开发中"
+        },
+        {
+          "label": "活跃举措",
+          "value": "6 个领域"
+        },
+        {
+          "label": "咨询状态",
+          "value": "开放"
+        },
+        {
+          "label": "门户语言",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "战略合作管道",
+        "badge": "开发中",
+        "description": "TVK Infrastructure & Energy Systems 目前处于研究、开发和合作伙伴建设阶段。提交申请以开始结构化的合作对话。"
+      },
+      "nextSteps": {
+        "title": "建议的后续步骤",
+        "items": [
+          "提交包含组织信息的战略合作申请",
+          "查阅能源系统和基础设施技术领域的能力",
+          "在项目部分探索活跃的开发举措",
+          "联系我们的合作伙伴团队了解试点或合作机会"
+        ]
+      },
+      "cta": "提交合作申请 →"
+    },
+    "apply": {
+      "title": "合作申请",
+      "subtitle": "申请与 TVK Infrastructure & Energy Systems 进行战略合作。",
+      "intro": "填写此表单以介绍您的组织并描述合作意向。我们的团队会审核所有申请并对符合条件的咨询予以回复。",
+      "disclaimer": "本申请不构成具有约束力的协议。TVK Infrastructure & Energy Systems LTD 处于开发阶段 — 信息描述的是能力领域，而非运营承诺。"
+    },
+    "applyForm": {
+      "interestAreas": [
+        "能源系统",
+        "基础设施技术",
+        "工业解决方案",
+        "Energy Intelligence",
+        "AI 基础设施",
+        "战略合作",
+        "一般咨询"
+      ],
+      "success": {
+        "title": "申请已收到",
+        "message": "感谢您对合作的关注。我们的团队将在 5–10 个工作日内审核您的申请并回复。"
+      },
+      "fields": {
+        "name": "全名",
+        "company": "组织",
+        "role": "职位 / 头衔",
+        "country": "国家",
+        "email": "电子邮件",
+        "interest": "合作领域",
+        "allocation": "参考范围（美元或描述）",
+        "message": "合作提案",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "您的全名",
+        "company": "组织名称",
+        "role": "您的职位",
+        "country": "运营国家/地区",
+        "email": "professional@company.com",
+        "interest": "选择领域",
+        "allocation": "例如：试点项目、50 万美元合作、技术集成",
+        "message": "描述您的组织、战略契合度及拟议合作..."
+      },
+      "submit": "提交合作申请"
+    },
+    "projects": {
+      "title": "开发举措",
+      "subtitle": "TVK Ecosystem 内当前的能力领域和开发阶段举措。",
+      "items": [
+        {
+          "title": "能源系统集成",
+          "stage": "开发中",
+          "stageKey": "development",
+          "description": "可再生能源集成、工业能源解决方案和智能能源管理框架。"
+        },
+        {
+          "title": "智能基础设施技术",
+          "stage": "研究",
+          "stageKey": "development",
+          "description": "数字基础设施系统、监控平台和关键基础设施技术开发。"
+        },
+        {
+          "title": "工业 AI 与分析",
+          "stage": "活跃研究",
+          "stageKey": "active",
+          "description": "面向复杂运营环境的工业 AI、基础设施分析和智能自动化研究。"
+        }
+      ]
+    },
+    "documents": {
+      "title": "能力文档",
+      "subtitle": "来自企业网站的官方能力简介和参考资料。",
+      "openLabel": "打开文档",
+      "items": [
+        {
+          "title": "能源系统能力",
+          "description": "能源系统开发、可再生能源集成和 Energy Intelligence 概述。",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "基础设施技术",
+          "description": "智能基础设施、数字系统和关键基础设施技术开发。",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "战略合作",
+          "description": "合作模式、协作框架和参与流程。",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "洞察与研究",
+          "description": "关于能源、基础设施和工业技术的行业观点。",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "合作伙伴支持",
+      "subtitle": "联系 TVK Infrastructure & Energy Systems 团队，获取合作、技术和一般咨询方面的帮助。",
+      "disclaimer": "如有紧急运营事项，请联系指定的合作伙伴代表。一般咨询的回复时间：1–2 个工作日。",
+      "channels": [
+        {
+          "title": "合作咨询",
+          "description": "战略合作、试点机会和长期合作伙伴关系发展。",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "投资者关系",
+          "description": "TVK Ecosystem 内的资本形成和战略投资讨论。",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "技术支持",
+          "description": "门户访问、申请状态和技术问题。",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "一般联系",
+          "description": "关于 TVK Infrastructure & Energy Systems 的一般咨询。",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal 应用",
+      "title": "获取 TVK Partner Portal 应用",
+      "subtitle": "在手机上安装合作伙伴门户 — 申请、跟踪举措并从主屏幕图标访问能力文档。目前可通过「添加到主屏幕」使用；App Store 上架计划为第二阶段。",
+      "openApp": "打开 Partner Portal",
+      "howToInstall": "如何安装",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → 打开 Partner Portal → 共享 → 添加到主屏幕"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → 打开 Partner Portal → 菜单 → 安装应用或添加到主屏幕"
+      },
+      "desktop": {
+        "title": "桌面",
+        "steps": "Chrome 或 Edge → 地址栏中的安装图标，或将 Partner Portal 加入书签"
+      }
+    }
   },
   "seo": {
     "siteName": "TVK Infrastructure & Energy Systems",

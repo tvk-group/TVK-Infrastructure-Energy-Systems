@@ -1,0 +1,203 @@
+{
+  "header": {
+    "partnerPortal": "Partner Portal",
+    "getApp": "Hae sovellus"
+  },
+  "footer": {
+    "partnerPortal": "Partner Portal -sovellus →"
+  },
+  "app": {
+    "meta": {
+      "title": "Partner Portal",
+      "description": "TVK Infrastructure & Energy Systems -kumppaniportaali — hae strategisia kumppanuuksia, seuraa kehitysaloitteita ja käytä kyvykkyysdokumentteja."
+    },
+    "brand": "TVK Partner Portal",
+    "tagline": "Infrastructure & Energy Systems",
+    "backToSite": "Verkkosivusto",
+    "navAria": "Kumppaniportaalin navigointi",
+    "nav": {
+      "dashboard": "Hallintapaneeli",
+      "apply": "Hae",
+      "projects": "Hankkeet",
+      "documents": "Asiakirjat",
+      "support": "Tuki"
+    },
+    "dashboard": {
+      "title": "Kumppanin hallintapaneeli",
+      "subtitle": "Seuraa kumppanuuskyselyäsi, kehitysaloitteita ja seuraavia toimenpiteitä TVK Ecosystemissa.",
+      "stats": [
+        {
+          "label": "Kumppanuusvaihe",
+          "value": "Kehitys"
+        },
+        {
+          "label": "Aktiiviset aloitteet",
+          "value": "6 aluetta"
+        },
+        {
+          "label": "Kyselyn tila",
+          "value": "Avoin"
+        },
+        {
+          "label": "Portaalin kielet",
+          "value": "25"
+        }
+      ],
+      "partnershipStatus": {
+        "title": "Strategisten kumppanuuksien putki",
+        "badge": "Kehityksessä",
+        "description": "TVK Infrastructure & Energy Systems on tutkimus-, kehitys- ja kumppanuusrakentamisvaiheessa. Lähetä hakemus aloittaaksesi jäsennellyn yhteistyökeskustelun."
+      },
+      "nextSteps": {
+        "title": "Suositellut seuraavat askeleet",
+        "items": [
+          "Lähetä strategisen kumppanuuden hakemus organisaatiosi tiedoilla",
+          "Tutustu energiajärjestelmien ja infrastruktuuriteknologioiden kyvykkyysalueisiin",
+          "Tutki aktiivisia kehitysaloitteita hankkeet-osiossa",
+          "Ota yhteyttä kumppanuustiimiimme pilotti- tai yhteistyömahdollisuuksista"
+        ]
+      },
+      "cta": "Lähetä kumppanuushakemus →"
+    },
+    "apply": {
+      "title": "Kumppanuushakemus",
+      "subtitle": "Hae strategista yhteistyötä TVK Infrastructure & Energy Systemsin kanssa.",
+      "intro": "Täytä tämä lomake esitelläksesi organisaatiosi ja kuvataksesi kumppanuuskiinnostuksesi. Tiimimme käy läpi kaikki hakemukset ja vastaa päteviin kyselyihin.",
+      "disclaimer": "Tämä hakemus ei muodosta sitovaa sopimusta. TVK Infrastructure & Energy Systems LTD on kehitysvaiheessa — tiedot kuvaavat kyvykkyysalueita, eivät operatiivisia sitoumuksia."
+    },
+    "applyForm": {
+      "interestAreas": [
+        "Energiajärjestelmät",
+        "Infrastruktuuriteknologiat",
+        "Teolliset ratkaisut",
+        "Energy Intelligence",
+        "Tekoälyinfrastruktuuri",
+        "Strategiset kumppanuudet",
+        "Yleinen kysely"
+      ],
+      "success": {
+        "title": "Hakemus vastaanotettu",
+        "message": "Kiitos kumppanuuskiinnostuksestasi. Tiimimme käy hakemuksesi läpi ja vastaa 5–10 arkipäivän kuluessa."
+      },
+      "fields": {
+        "name": "Koko nimi",
+        "company": "Organisaatio",
+        "role": "Rooli / Nimike",
+        "country": "Maa",
+        "email": "Sähköposti",
+        "interest": "Kumppanuusalue",
+        "allocation": "Arvioitu laajuus (USD tai kuvaus)",
+        "message": "Kumppanuusehdotus",
+        "required": "*"
+      },
+      "placeholders": {
+        "name": "Koko nimesi",
+        "company": "Organisaation nimi",
+        "role": "Asemasi",
+        "country": "Toimintamaa",
+        "email": "professional@company.com",
+        "interest": "Valitse alue",
+        "allocation": "esim. Pilottihanke, 500 000 USD:n yhteistyö, teknologiaintegraatio",
+        "message": "Kuvaile organisaatiosi, strateginen sopivuus ja ehdotettu yhteistyö..."
+      },
+      "submit": "Lähetä kumppanuushakemus"
+    },
+    "projects": {
+      "title": "Kehitysaloitteet",
+      "subtitle": "Nykyiset kyvykkyysalueet ja kehitysvaiheen aloitteet TVK Ecosystemissa.",
+      "items": [
+        {
+          "title": "Energiajärjestelmien integrointi",
+          "stage": "Kehityksessä",
+          "stageKey": "development",
+          "description": "Uusiutuvan energian integrointi, teolliset energiaratkaisut ja älykkäät energianhallintakehykset."
+        },
+        {
+          "title": "Älykkäät infrastruktuuriteknologiat",
+          "stage": "Tutkimus",
+          "stageKey": "development",
+          "description": "Digitaaliset infrastruktuurijärjestelmät, valvonta-alustat ja kriittisen infrastruktuurin teknologiakehitys."
+        },
+        {
+          "title": "Teollinen tekoäly ja analytiikka",
+          "stage": "Aktiivinen tutkimus",
+          "stageKey": "active",
+          "description": "Teollinen tekoäly, infrastruktuurianalytiikka ja älykkään automaation tutkimus monimutkaisissa operatiivisissa ympäristöissä."
+        }
+      ]
+    },
+    "documents": {
+      "title": "Kyvykkyysasiakirjat",
+      "subtitle": "Viralliset kyvykkyyskatsaukset ja viitemateriaalit yrityksen verkkosivustolta.",
+      "openLabel": "Avaa asiakirja",
+      "items": [
+        {
+          "title": "Energiajärjestelmien kyvykkyydet",
+          "description": "Yleiskatsaus energiajärjestelmien kehityksestä, uusiutuvan energian integroinnista ja Energy Intelligencesta.",
+          "href": "/energy-systems"
+        },
+        {
+          "title": "Infrastruktuuriteknologiat",
+          "description": "Älykäs infrastruktuuri, digitaaliset järjestelmät ja kriittisen infrastruktuurin teknologiakehitys.",
+          "href": "/infrastructure"
+        },
+        {
+          "title": "Strategiset kumppanuudet",
+          "description": "Kumppanuusmallit, yhteistyökehykset ja osallistumisprosessi.",
+          "href": "/strategic-partnerships"
+        },
+        {
+          "title": "Näkemykset ja tutkimus",
+          "description": "Toimialan näkökulmia energiasta, infrastruktuurista ja teollisuusteknologiasta.",
+          "href": "/insights"
+        }
+      ]
+    },
+    "support": {
+      "title": "Kumppanituki",
+      "subtitle": "Ota yhteyttä TVK Infrastructure & Energy Systems -tiimiin kumppanuus-, teknisiä ja yleisiä kyselyitä varten.",
+      "disclaimer": "Kiireellisissä operatiivisissa asioissa ota yhteyttä nimettyyn kumppanuusedustajaasi. Vastausajat: 1–2 arkipäivää yleisiin kyselyihin.",
+      "channels": [
+        {
+          "title": "Kumppanuuskyselyt",
+          "description": "Strateginen yhteistyö, pilottimahdollisuudet ja pitkäaikainen kumppanuuskehitys.",
+          "email": "partners@tvk.group"
+        },
+        {
+          "title": "Sijoittajasuhteet",
+          "description": "Pääoman muodostus ja strategiset sijoituskeskustelut TVK Ecosystemissa.",
+          "email": "invest@tvk.group"
+        },
+        {
+          "title": "Tekninen tuki",
+          "description": "Portaalin käyttö, hakemuksen tila ja tekniset kysymykset.",
+          "email": "support@tvk.group"
+        },
+        {
+          "title": "Yleinen yhteystieto",
+          "description": "Yleiset kyselyt TVK Infrastructure & Energy Systemsistä.",
+          "email": "contact@tvk.group"
+        }
+      ]
+    },
+    "install": {
+      "eyebrow": "Partner Portal -sovellus",
+      "title": "Hanki TVK Partner Portal -sovellus",
+      "subtitle": "Asenna kumppanuusportaali puhelimeesi — hae, seuraa aloitteita ja käytä kyvykkyysdokumentteja kotinäytön kuvakkeesta. Toimii tänään Lisää kotinäytölle -toiminnolla; App Store -julkaisu suunniteltu vaiheeseen 2.",
+      "openApp": "Avaa Partner Portal",
+      "howToInstall": "Asennusohjeet",
+      "iphone": {
+        "title": "iPhone / iPad",
+        "steps": "Safari → Avaa Partner Portal → Jaa → Lisää kotinäytölle"
+      },
+      "android": {
+        "title": "Android",
+        "steps": "Chrome → Avaa Partner Portal → valikko → Asenna sovellus tai Lisää aloitusnäytölle"
+      },
+      "desktop": {
+        "title": "Työpöytä",
+        "steps": "Chrome tai Edge → asennuskuvake osoitepalkissa tai lisää Partner Portal kirjanmerkkeihin"
+      }
+    }
+  }
+}
