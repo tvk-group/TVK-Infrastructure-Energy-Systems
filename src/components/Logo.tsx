@@ -18,20 +18,20 @@ const LOGO_CONFIG: Record<
 > = {
   "full-white": {
     src: "/logo/logo-full-white.svg",
-    width: 440,
-    height: 80,
+    width: 500,
+    height: 76,
     className: "h-10 w-auto sm:h-12",
   },
   "full-tagline": {
     src: "/logo/logo-full-tagline.svg",
-    width: 600,
-    height: 120,
-    className: "h-16 w-auto max-w-full",
+    width: 640,
+    height: 130,
+    className: "h-20 w-auto max-w-full",
   },
   full: {
     src: "/logo/logo-full.svg",
-    width: 440,
-    height: 80,
+    width: 500,
+    height: 76,
     className: "h-10 w-auto sm:h-12",
   },
   "mark-white": {

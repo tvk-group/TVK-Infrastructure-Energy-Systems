@@ -1,12 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 56" fill="none" aria-hidden="true">
   <defs>
-    <linearGradient id="tvkGrad" x1="8%" y1="6%" x2="92%" y2="94%">
-      <stop offset="0%" stop-color="#00d2ff"/>
-      <stop offset="28%" stop-color="#9d50bb"/>
-      <stop offset="52%" stop-color="#ff0055"/>
-      <stop offset="76%" stop-color="#f7971e"/>
-      <stop offset="100%" stop-color="#ffd200"/>
+    <linearGradient id="ribbonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c2ff"/>
+      <stop offset="100%" stop-color="#00a8e8"/>
+    </linearGradient>
+    <linearGradient id="ribbonPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#d600ff"/>
+    </linearGradient>
+    <linearGradient id="ribbonMagenta" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d600ff"/>
+      <stop offset="100%" stop-color="#ff2d7a"/>
+    </linearGradient>
+    <linearGradient id="ribbonWarm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff8a00"/>
+      <stop offset="100%" stop-color="#ffcc00"/>
+    </linearGradient>
+    <linearGradient id="tvkWordGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f2f2e6"/>
     </linearGradient>
   </defs>
-  <path fill="url(#tvkGrad)" d="M8 8h34v6H28v10l14 28h-8L24 30 10 52H2L16 24V14H8V8zm28 0h8v18l12-12h9l-14 14 16 16h-9l-11-12v16h-8V8z"/>
+  <!-- T top bar -->
+  <path fill="url(#ribbonCyan)" d="M3 4h38v6H25v6h-4v-6H3V4z"/>
+  <!-- V left leg -->
+  <path fill="url(#ribbonPurple)" d="M7 12l13 36h6L13 16H7v-4z"/>
+  <!-- V right leg -->
+  <path fill="url(#ribbonMagenta)" d="M19 16l13 32h6L25 12h-6v4z"/>
+  <!-- K diagonal slash -->
+  <path fill="url(#ribbonWarm)" d="M27 10h6l8 36h-6l-4-18-5 18h-6l9-36z"/>
 </svg>
