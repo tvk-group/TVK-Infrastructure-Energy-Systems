@@ -13,12 +13,12 @@ const brandDir = join(root, "public/brand");
 const manifestPath = join(brandDir, "manifest.json");
 
 const INSTALL_MAP = {
-  favicon: [
-    join(root, "public/favicon.ico"),
-    join(root, "src/app/favicon.ico"),
-  ],
+  favicon: [join(root, "public/favicon.ico")],
   appleTouchIcon: [join(root, "src/app/apple-icon.png")],
-  icon192: [join(root, "public/icons/icon-192.png")],
+  icon192: [
+    join(root, "public/icons/icon-192.png"),
+    join(root, "src/app/icon.png"),
+  ],
   icon512: [join(root, "public/icons/icon-512.png")],
   ogImage: [join(root, "public/og-image.png")],
 };
