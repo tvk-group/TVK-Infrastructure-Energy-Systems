@@ -1,38 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="TVK Infrastructure and Energy Systems">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a101c"/>
+      <stop offset="0%" style="stop-color:#0A0F1B"/>
       <stop offset="100%" style="stop-color:#0a1628"/>
     </linearGradient>
-    <linearGradient id="ribbonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00c2ff"/>
-      <stop offset="100%" stop-color="#00a8e8"/>
+    <linearGradient id="gCyan" x1="80" y1="220" x2="240" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00BFFF"/>
+      <stop offset="100%" stop-color="#00BFFF"/>
     </linearGradient>
-    <linearGradient id="ribbonPurple" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#7b2cbf"/>
-      <stop offset="100%" stop-color="#d600ff"/>
+    <linearGradient id="gStem" x1="160" y1="250" x2="160" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#FF1493"/>
     </linearGradient>
-    <linearGradient id="ribbonMagenta" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#d600ff"/>
-      <stop offset="100%" stop-color="#ff2d7a"/>
-    </linearGradient>
-    <linearGradient id="ribbonWarm" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff8a00"/>
-      <stop offset="100%" stop-color="#ffcc00"/>
-    </linearGradient>
-    <linearGradient id="tvkWordGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f2f2e6"/>
+    <linearGradient id="gWarm" x1="185" y1="260" x2="230" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFA500"/>
+      <stop offset="100%" stop-color="#FFFF00"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <g transform="translate(80, 190) scale(2.8)">
-    <path fill="url(#ribbonCyan)" d="M3 4h38v6H25v6h-4v-6H3V4z"/>
-    <path fill="url(#ribbonPurple)" d="M7 12l13 36h6L13 16H7v-4z"/>
-    <path fill="url(#ribbonMagenta)" d="M19 16l13 32h6L25 12h-6v4z"/>
-    <path fill="url(#ribbonWarm)" d="M27 10h6l8 36h-6l-4-18-5 18h-6l9-36z"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <line x1="80" y1="220" x2="240" y2="220" stroke="url(#gCyan)" stroke-width="22"/>
+    <line x1="160" y1="250" x2="160" y2="420" stroke="url(#gStem)" stroke-width="22"/>
+    <line x1="185" y1="260" x2="230" y2="420" stroke="url(#gWarm)" stroke-width="22"/>
   </g>
-  <text x="250" y="260" fill="url(#tvkWordGrad)" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="80" font-weight="700" letter-spacing="0.06em">TVK</text>
-  <text x="250" y="310" fill="#f2f2e6" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="22" font-weight="500" letter-spacing="0.14em">INFRASTRUCTURE &amp; ENERGY SYSTEMS LTD</text>
-  <text x="80" y="420" fill="#ffffff" fill-opacity="0.9" font-family="'Source Sans 3', system-ui, sans-serif" font-size="28">Empowering Resilience with Smart Infrastructure and Green Energy</text>
+  <text x="280" y="280" fill="#ffffff" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="80" font-weight="700" letter-spacing="0.06em">TVK</text>
+  <text x="280" y="330" fill="#ffffff" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="22" font-weight="500" letter-spacing="0.14em">INFRASTRUCTURE &amp; ENERGY SYSTEMS LTD</text>
+  <text x="80" y="420" fill="#ffffff" font-family="'Source Sans 3', system-ui, sans-serif" font-size="28">Empowering Resilience with Smart Infrastructure and Smart Energy</text>
 </svg>

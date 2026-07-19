@@ -1,27 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
   <defs>
-    <linearGradient id="ribbonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00c2ff"/>
-      <stop offset="100%" stop-color="#00a8e8"/>
+    <linearGradient id="gCyan" x1="166" y1="154" x2="346" y2="154" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00BFFF"/>
+      <stop offset="100%" stop-color="#00BFFF"/>
     </linearGradient>
-    <linearGradient id="ribbonPurple" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#7b2cbf"/>
-      <stop offset="100%" stop-color="#d600ff"/>
+    <linearGradient id="gStem" x1="256" y1="180" x2="256" y2="394" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#FF1493"/>
     </linearGradient>
-    <linearGradient id="ribbonMagenta" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#d600ff"/>
-      <stop offset="100%" stop-color="#ff2d7a"/>
-    </linearGradient>
-    <linearGradient id="ribbonWarm" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff8a00"/>
-      <stop offset="100%" stop-color="#ffcc00"/>
+    <linearGradient id="gWarm" x1="282" y1="192" x2="334" y2="394" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFA500"/>
+      <stop offset="100%" stop-color="#FFFF00"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="96" fill="#0a101c"/>
-  <g transform="translate(100, 90) scale(6)">
-    <path fill="url(#ribbonCyan)" d="M3 4h38v6H25v6h-4v-6H3V4z"/>
-    <path fill="url(#ribbonPurple)" d="M7 12l13 36h6L13 16H7v-4z"/>
-    <path fill="url(#ribbonMagenta)" d="M19 16l13 32h6L25 12h-6v4z"/>
-    <path fill="url(#ribbonWarm)" d="M27 10h6l8 36h-6l-4-18-5 18h-6l9-36z"/>
+  <rect width="512" height="512" rx="96" fill="#0A0F1B"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <line x1="166" y1="154" x2="346" y2="154" stroke="url(#gCyan)" stroke-width="36"/>
+    <line x1="256" y1="180" x2="256" y2="394" stroke="url(#gStem)" stroke-width="36"/>
+    <line x1="282" y1="192" x2="334" y2="394" stroke="url(#gWarm)" stroke-width="36"/>
   </g>
 </svg>

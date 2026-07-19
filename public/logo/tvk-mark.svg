@@ -1,32 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 56" fill="none" aria-hidden="true">
   <defs>
-    <linearGradient id="ribbonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00c2ff"/>
-      <stop offset="100%" stop-color="#00a8e8"/>
+    <linearGradient id="gCyan" x1="4" y1="7" x2="40" y2="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00BFFF"/>
+      <stop offset="100%" stop-color="#00BFFF"/>
     </linearGradient>
-    <linearGradient id="ribbonPurple" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#7b2cbf"/>
-      <stop offset="100%" stop-color="#d600ff"/>
+    <linearGradient id="gStem" x1="22" y1="10" x2="22" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#FF1493"/>
     </linearGradient>
-    <linearGradient id="ribbonMagenta" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#d600ff"/>
-      <stop offset="100%" stop-color="#ff2d7a"/>
-    </linearGradient>
-    <linearGradient id="ribbonWarm" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff8a00"/>
-      <stop offset="100%" stop-color="#ffcc00"/>
-    </linearGradient>
-    <linearGradient id="tvkWordGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f2f2e6"/>
+    <linearGradient id="gWarm" x1="27" y1="14" x2="37" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFA500"/>
+      <stop offset="100%" stop-color="#FFFF00"/>
     </linearGradient>
   </defs>
-  <!-- T top bar -->
-  <path fill="url(#ribbonCyan)" d="M3 4h38v6H25v6h-4v-6H3V4z"/>
-  <!-- V left leg -->
-  <path fill="url(#ribbonPurple)" d="M7 12l13 36h6L13 16H7v-4z"/>
-  <!-- V right leg -->
-  <path fill="url(#ribbonMagenta)" d="M19 16l13 32h6L25 12h-6v4z"/>
-  <!-- K diagonal slash -->
-  <path fill="url(#ribbonWarm)" d="M27 10h6l8 36h-6l-4-18-5 18h-6l9-36z"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <line x1="4" y1="7.5" x2="40" y2="7.5" stroke="url(#gCyan)" stroke-width="5.5"/>
+    <line x1="22" y1="10" x2="22" y2="48" stroke="url(#gStem)" stroke-width="5.5"/>
+    <line x1="27" y1="14" x2="37" y2="46" stroke="url(#gWarm)" stroke-width="5.5"/>
+  </g>
 </svg>
