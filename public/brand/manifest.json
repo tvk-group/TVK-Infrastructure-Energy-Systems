@@ -1,6 +1,6 @@
 {
   "_instructions": "Place your uploaded logo/favicon files in public/brand/ unchanged. Set each value below to the exact filename.",
-  "headerLogo": "tvk_logo_512px_light.png",
+  "headerLogo": "tvk_logo_512px_transparent.png",
   "footerLogo": "tvk_logo_1024px_transparent.png",
   "mark": "tvk_logo_64px_light.png",
   "favicon": "tvk_favicon.ico",
