@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/merge-app-i18n.mjs && node scripts/enrich-en-seo.mjs && node scripts/generate-sitemaps.mjs",
+    "prebuild": "node scripts/merge-app-i18n.mjs && node scripts/enrich-en-seo.mjs && node scripts/generate-sitemaps.mjs && node scripts/generate-icons.mjs",
     "dev": "next dev",
     "build": "next build",
     "build:pages": "cp next.config.ts next.config.vercel.bak && cp next.config.pages.ts next.config.ts && next build && mv next.config.vercel.bak next.config.ts",
+    "import-logo": "node scripts/import-official-logo.mjs",
     "start": "next start",
     "lint": "eslint"
   },
@@ -22,6 +23,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
+    "png-to-ico": "^3.0.2",
+    "sharp": "^0.35.3",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

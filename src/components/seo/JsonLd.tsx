@@ -34,7 +34,12 @@ export function JsonLd({ locale, dict, slug, breadcrumbLabels = [], article }: J
     name: dict.seo.organization.name,
     legalName: dict.seo.organization.legalName,
     url: SITE_URL,
-    logo: `${SITE_URL}/og-image.svg`,
+    logo: {
+      "@type": "ImageObject",
+      url: `${SITE_URL}/logo/logo-full.svg`,
+      width: 320,
+      height: 64,
+    },
     description: dict.seo.organization.description,
     sameAs: dict.seo.organization.sameAs,
     areaServed: dict.seo.organization.areaServed,

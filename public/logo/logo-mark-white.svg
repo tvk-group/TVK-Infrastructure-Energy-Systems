@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 52" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="tvGrad" x1="2" y1="4" x2="18" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00d8ff"/>
+      <stop offset="35%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#f72585"/>
+    </linearGradient>
+    <linearGradient id="kGrad" x1="28" y1="4" x2="36" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#ff6b00"/>
+    </linearGradient>
+  </defs>
+  <!-- Merged T/V -->
+  <path fill="url(#tvGrad)" d="M2 4h20v5H13v13L5 46h4.5l7.5-21 7.5 21H29L21 22V9H2V4z"/>
+  <!-- Separate K -->
+  <path fill="url(#kGrad)" d="M27 4h5.5l9.5 22h-4.5l-3.5-9-4.5 9H25l8.5-22H27zm0 0l5 22h4l-2-9 5 9h4.5L31.5 4H27z"/>
+</svg>

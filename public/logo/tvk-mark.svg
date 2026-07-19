@@ -1,19 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 52" fill="none" aria-hidden="true">
   <defs>
-    <linearGradient id="tvGrad" x1="154" y1="144" x2="238" y2="400" gradientUnits="userSpaceOnUse">
+    <linearGradient id="tvGrad" x1="2" y1="6" x2="16" y2="48" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00d8ff"/>
       <stop offset="40%" stop-color="#7b2cbf"/>
       <stop offset="100%" stop-color="#f72585"/>
     </linearGradient>
-    <linearGradient id="kGrad" x1="288" y1="134" x2="352" y2="400" gradientUnits="userSpaceOnUse">
+    <linearGradient id="kGrad" x1="28" y1="6" x2="36" y2="48" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ffcc00"/>
       <stop offset="100%" stop-color="#ff6b00"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="96" fill="#0e141c"/>
-  <g transform="translate(138, 112) scale(5.8)" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- Merged T/V -->
     <polyline points="2,7 18,7 18,12 14,12 14,20 6,46" fill="none" stroke="url(#tvGrad)" stroke-width="5.5"/>
     <line x1="14" y1="20" x2="22" y2="46" stroke="url(#tvGrad)" stroke-width="5.5"/>
+    <!-- Separate K -->
     <line x1="28" y1="6" x2="36" y2="24" stroke="url(#kGrad)" stroke-width="5.5"/>
     <line x1="28" y1="6" x2="36" y2="46" stroke="url(#kGrad)" stroke-width="5.5"/>
   </g>

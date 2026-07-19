@@ -21,6 +21,31 @@ export const metadata: Metadata = {
   description:
     "TVK Infrastructure & Energy Systems develops future-focused initiatives across energy, infrastructure, industrial systems and strategic technologies.",
   robots: { index: true, follow: true },
+  manifest: "/manifest.webmanifest",
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icons/icon-16.png", sizes: "16x16", type: "image/png" },
+      { url: "/icons/icon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+    ],
+    apple: [
+      { url: "/icons/icon-180.png", sizes: "180x180", type: "image/png" },
+    ],
+    other: [
+      { rel: "mask-icon", url: "/logo/logo-mark.svg", color: "#0057b8" },
+    ],
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "TVK",
+  },
+  other: {
+    "msapplication-TileColor": "#0057b8",
+    "msapplication-config": "/browserconfig.xml",
+  },
 };
 
 export default function RootLayout({
@@ -31,9 +56,8 @@ export default function RootLayout({
   return (
     <html suppressHydrationWarning className={`${ibmPlex.variable} ${sourceSans.variable} h-full antialiased`}>
       <head>
-        <link rel="manifest" href="/manifest.webmanifest" />
         <meta name="theme-color" content="#0057b8" />
-        <link rel="apple-touch-icon" href="/icons/icon-192.svg" />
+        <meta name="msapplication-TileColor" content="#0057b8" />
       </head>
       <body className="min-h-full flex flex-col font-sans">{children}</body>
     </html>
