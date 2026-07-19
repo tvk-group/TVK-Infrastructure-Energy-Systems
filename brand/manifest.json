@@ -1,0 +1,11 @@
+{
+  "_instructions": "Place your uploaded logo/favicon files in public/brand/ unchanged. Set each value below to the exact filename.",
+  "headerLogo": "tvk_logo_512px_transparent.png",
+  "footerLogo": "tvk_logo_1024px_transparent.png",
+  "mark": "tvk_logo_64px_light.png",
+  "favicon": "tvk_favicon.ico",
+  "appleTouchIcon": "tvk_favicon_256x256.png",
+  "icon192": "tvk_favicon_128x128.png",
+  "icon512": "tvk_logo_512px_transparent.png",
+  "ogImage": "tvk_logo_1024px_light.png"
+}
