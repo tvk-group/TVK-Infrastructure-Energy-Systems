@@ -1,28 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
   <defs>
-    <linearGradient id="gCyan" x1="154" y1="144" x2="346" y2="144" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#00f2ff"/>
-      <stop offset="100%" stop-color="#00c8e8"/>
+    <linearGradient id="tvGrad" x1="154" y1="144" x2="238" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00d8ff"/>
+      <stop offset="40%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#f72585"/>
     </linearGradient>
-    <linearGradient id="gViolet" x1="186" y1="176" x2="250" y2="400" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#00c8e8"/>
-      <stop offset="45%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#e91e8c"/>
-    </linearGradient>
-    <linearGradient id="gMagenta" x1="218" y1="186" x2="294" y2="400" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#ff4081"/>
-    </linearGradient>
-    <linearGradient id="gWarm" x1="258" y1="154" x2="346" y2="400" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#ff6d00"/>
-      <stop offset="100%" stop-color="#ff9d00"/>
+    <linearGradient id="kGrad" x1="288" y1="134" x2="352" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#ff6b00"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="96" fill="#0d1117"/>
-  <g transform="translate(148, 128) scale(5.3)">
-    <path fill="url(#gCyan)" d="M3 4h36c1.1 0 2 .9 2 2v4c0 1.1-.9 2-2 2H25v5h-4V12H5c-1.1 0-2-.9-2-2V4z"/>
-    <path fill="url(#gViolet)" d="M9 12h5.5l10.5 32H19L9.5 17H9v-5z"/>
-    <path fill="url(#gMagenta)" d="M19.5 15.5L30 44h5.5L25.5 12H20v3.5z"/>
-    <path fill="url(#gWarm)" d="M25 6h6.5l9.5 38h-5.5l-4.5-19.5-5.5 19.5H20l10-38z"/>
+  <rect width="512" height="512" rx="96" fill="#0e141c"/>
+  <g transform="translate(138, 112) scale(5.8)" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="2,7 18,7 18,12 14,12 14,20 6,46" fill="none" stroke="url(#tvGrad)" stroke-width="5.5"/>
+    <line x1="14" y1="20" x2="22" y2="46" stroke="url(#tvGrad)" stroke-width="5.5"/>
+    <line x1="28" y1="6" x2="36" y2="24" stroke="url(#kGrad)" stroke-width="5.5"/>
+    <line x1="28" y1="6" x2="36" y2="46" stroke="url(#kGrad)" stroke-width="5.5"/>
   </g>
 </svg>
