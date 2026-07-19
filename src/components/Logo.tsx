@@ -19,14 +19,14 @@ const LOGO_CONFIG: Record<
   "full-white": {
     src: "/logo/logo-full-white.svg",
     width: 500,
-    height: 76,
-    className: "h-10 w-auto sm:h-12",
+    height: 80,
+    className: "h-11 w-auto sm:h-12",
   },
   "full-tagline": {
     src: "/logo/logo-full-tagline.svg",
     width: 640,
-    height: 130,
-    className: "h-20 w-auto max-w-full",
+    height: 140,
+    className: "h-24 w-auto max-w-full",
   },
   full: {
     src: "/logo/logo-full.svg",

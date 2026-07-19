@@ -1,21 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 56" fill="none" aria-hidden="true">
   <defs>
-    <linearGradient id="gCyan" x1="4" y1="7" x2="40" y2="7" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#00BFFF"/>
-      <stop offset="100%" stop-color="#00BFFF"/>
+    <linearGradient id="gCyan" x1="2" y1="6" x2="40" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#40C9FF"/>
+      <stop offset="100%" stop-color="#00d2ff"/>
     </linearGradient>
-    <linearGradient id="gStem" x1="22" y1="10" x2="22" y2="48" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#8A2BE2"/>
-      <stop offset="100%" stop-color="#FF1493"/>
+    <linearGradient id="gViolet" x1="10" y1="12" x2="22" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="45%" stop-color="#9d50bb"/>
+      <stop offset="100%" stop-color="#DA22FF"/>
     </linearGradient>
-    <linearGradient id="gWarm" x1="27" y1="14" x2="37" y2="46" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFA500"/>
-      <stop offset="100%" stop-color="#FFFF00"/>
+    <linearGradient id="gMagenta" x1="18" y1="14" x2="30" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9733EE"/>
+      <stop offset="100%" stop-color="#ff007f"/>
+    </linearGradient>
+    <linearGradient id="gWarm" x1="26" y1="8" x2="40" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F7971E"/>
+      <stop offset="100%" stop-color="#FFD200"/>
     </linearGradient>
   </defs>
-  <g stroke-linecap="round" stroke-linejoin="round">
-    <line x1="4" y1="7.5" x2="40" y2="7.5" stroke="url(#gCyan)" stroke-width="5.5"/>
-    <line x1="22" y1="10" x2="22" y2="48" stroke="url(#gStem)" stroke-width="5.5"/>
-    <line x1="27" y1="14" x2="37" y2="46" stroke="url(#gWarm)" stroke-width="5.5"/>
-  </g>
+  <path fill="url(#gCyan)" d="M3 4h36c1.1 0 2 .9 2 2v4c0 1.1-.9 2-2 2H25v5h-4V12H5c-1.1 0-2-.9-2-2V4z"/>
+  <path fill="url(#gViolet)" d="M9 12h5.5l10.5 32H19L9.5 17H9v-5z"/>
+  <path fill="url(#gMagenta)" d="M19.5 15.5L30 44h5.5L25.5 12H20v3.5z"/>
+  <path fill="url(#gWarm)" d="M25 6h6.5l9.5 38h-5.5l-4.5-19.5-5.5 19.5H20l10-38z"/>
 </svg>

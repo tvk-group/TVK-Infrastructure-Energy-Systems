@@ -1,29 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="TVK Infrastructure and Energy Systems">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0A0F1B"/>
-      <stop offset="100%" style="stop-color:#0a1628"/>
+      <stop offset="0%" style="stop-color:#0b111b"/>
+      <stop offset="100%" style="stop-color:#0b141e"/>
     </linearGradient>
-    <linearGradient id="gCyan" x1="80" y1="220" x2="240" y2="220" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#00BFFF"/>
-      <stop offset="100%" stop-color="#00BFFF"/>
+    <linearGradient id="gCyan" x1="80" y1="210" x2="220" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#40C9FF"/>
+      <stop offset="100%" stop-color="#00d2ff"/>
     </linearGradient>
-    <linearGradient id="gStem" x1="160" y1="250" x2="160" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#8A2BE2"/>
-      <stop offset="100%" stop-color="#FF1493"/>
+    <linearGradient id="gViolet" x1="110" y1="240" x2="150" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="45%" stop-color="#9d50bb"/>
+      <stop offset="100%" stop-color="#DA22FF"/>
     </linearGradient>
-    <linearGradient id="gWarm" x1="185" y1="260" x2="230" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFA500"/>
-      <stop offset="100%" stop-color="#FFFF00"/>
+    <linearGradient id="gMagenta" x1="140" y1="250" x2="180" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9733EE"/>
+      <stop offset="100%" stop-color="#ff007f"/>
+    </linearGradient>
+    <linearGradient id="gWarm" x1="170" y1="220" x2="220" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F7971E"/>
+      <stop offset="100%" stop-color="#FFD200"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <g stroke-linecap="round" stroke-linejoin="round">
-    <line x1="80" y1="220" x2="240" y2="220" stroke="url(#gCyan)" stroke-width="22"/>
-    <line x1="160" y1="250" x2="160" y2="420" stroke="url(#gStem)" stroke-width="22"/>
-    <line x1="185" y1="260" x2="230" y2="420" stroke="url(#gWarm)" stroke-width="22"/>
+  <g transform="translate(80, 180) scale(2.6)">
+    <path fill="url(#gCyan)" d="M3 4h36c1.1 0 2 .9 2 2v4c0 1.1-.9 2-2 2H25v5h-4V12H5c-1.1 0-2-.9-2-2V4z"/>
+    <path fill="url(#gViolet)" d="M9 12h5.5l10.5 32H19L9.5 17H9v-5z"/>
+    <path fill="url(#gMagenta)" d="M19.5 15.5L30 44h5.5L25.5 12H20v3.5z"/>
+    <path fill="url(#gWarm)" d="M25 6h6.5l9.5 38h-5.5l-4.5-19.5-5.5 19.5H20l10-38z"/>
   </g>
-  <text x="280" y="280" fill="#ffffff" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="80" font-weight="700" letter-spacing="0.06em">TVK</text>
-  <text x="280" y="330" fill="#ffffff" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="22" font-weight="500" letter-spacing="0.14em">INFRASTRUCTURE &amp; ENERGY SYSTEMS LTD</text>
-  <text x="80" y="420" fill="#ffffff" font-family="'Source Sans 3', system-ui, sans-serif" font-size="28">Empowering Resilience with Smart Infrastructure and Smart Energy</text>
+  <text x="260" y="270" fill="#f5f5f0" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="80" font-weight="700" letter-spacing="0.05em">TVK</text>
+  <text x="260" y="310" fill="#f5f5f0" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="20" font-weight="500" letter-spacing="0.16em">INFRASTRUCTURE &amp;</text>
+  <text x="260" y="340" fill="#f5f5f0" font-family="'IBM Plex Sans', system-ui, sans-serif" font-size="20" font-weight="500" letter-spacing="0.16em">ENERGY SYSTEMS LTD</text>
+  <text x="80" y="430" fill="#f5f5f0" fill-opacity="0.92" font-family="'Source Sans 3', system-ui, sans-serif" font-size="28">Empowering Resilience with Smart Infrastructure and Green Energy</text>
 </svg>
