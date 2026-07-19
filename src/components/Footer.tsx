@@ -22,7 +22,7 @@ export function Footer({ locale, dict }: FooterProps) {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
-            <div className="mb-6">
+            <div className="mb-6 max-w-full overflow-hidden">
               {BRAND.footerLogo ? (
                 <Logo variant="footer" dict={dict} />
               ) : BRAND.headerLogo ? (

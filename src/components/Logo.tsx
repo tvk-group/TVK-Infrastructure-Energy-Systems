@@ -17,8 +17,18 @@ const VARIANT_CONFIG: Record<
   LogoVariant,
   { src: keyof typeof BRAND; className: string; width: number; height: number }
 > = {
-  header: { src: "headerLogo", className: "h-11 w-auto sm:h-12", width: 520, height: 76 },
-  footer: { src: "footerLogo", className: "h-24 w-auto max-w-full", width: 640, height: 140 },
+  header: {
+    src: "headerLogo",
+    className: "h-[5.5rem] w-auto max-w-full sm:h-24",
+    width: 1040,
+    height: 152,
+  },
+  footer: {
+    src: "footerLogo",
+    className: "h-48 w-auto max-w-full",
+    width: 1280,
+    height: 280,
+  },
   mark: { src: "mark", className: "h-9 w-9", width: 48, height: 48 },
 };
 
@@ -52,7 +62,7 @@ export function Logo({
 
   if (href) {
     return (
-      <Link href={href} className="flex shrink-0 items-center group">
+      <Link href={href} className="group flex min-w-0 max-w-full shrink items-center">
         {image}
       </Link>
     );
