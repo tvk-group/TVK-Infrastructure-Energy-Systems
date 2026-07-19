@@ -19,8 +19,8 @@ export function Header({ locale, dict }: HeaderProps) {
   return (
     <header className="sticky top-0 z-50 overflow-x-clip border-b border-white/10 bg-navy">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="flex min-h-28 items-center justify-between gap-3 py-2">
-          <div className="min-w-0 max-w-[min(42%,14rem)] shrink sm:max-w-[min(45%,16rem)] xl:max-w-[18rem]">
+        <div className="flex min-h-36 items-center justify-between gap-3 py-2 sm:min-h-40">
+          <div className="min-w-0 max-w-[min(48%,21rem)] shrink sm:max-w-[min(52%,24rem)] xl:max-w-[27rem]">
             {BRAND.headerLogo ? (
               <Logo variant="header" href={localizedPath(locale)} dict={dict} priority />
             ) : (
