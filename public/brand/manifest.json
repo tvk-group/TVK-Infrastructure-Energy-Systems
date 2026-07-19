@@ -1,0 +1,11 @@
+{
+  "_instructions": "Place your uploaded logo/favicon files in public/brand/ unchanged. Set each value below to the exact filename (e.g. \"TVK-Logo.png\").",
+  "headerLogo": null,
+  "footerLogo": null,
+  "mark": null,
+  "favicon": null,
+  "appleTouchIcon": null,
+  "icon192": null,
+  "icon512": null,
+  "ogImage": null
+}

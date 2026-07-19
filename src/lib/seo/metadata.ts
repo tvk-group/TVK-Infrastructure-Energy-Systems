@@ -7,10 +7,11 @@ import {
   type PageSlug,
   pageSlugs,
 } from "@/i18n/config";
+import { BRAND } from "@/lib/brand-assets";
 import type { Dictionary, PageMeta } from "@/i18n/get-dictionary";
 import { localizedPath } from "@/i18n/routing";
 
-const OG_IMAGE = `${SITE_URL}/og-image.svg`;
+const OG_IMAGE = BRAND.ogImage ? `${SITE_URL}${BRAND.ogImage}` : `${SITE_URL}/og-image.svg`;
 const TWITTER_HANDLE = "@TVKInfraEnergy";
 
 export function absoluteUrl(locale: Locale, slug: PageSlug = ""): string {

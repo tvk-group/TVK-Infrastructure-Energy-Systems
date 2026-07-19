@@ -4,6 +4,7 @@ import type { Locale } from "@/i18n/config";
 import { getNavItems } from "@/i18n/navigation";
 import { localizedPath } from "@/i18n/routing";
 import { appPath } from "@/lib/app-config";
+import { BRAND } from "@/lib/brand-assets";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 import { Logo } from "./Logo";
 
@@ -16,32 +17,40 @@ export function Header({ locale, dict }: HeaderProps) {
   const navItems = getNavItems(locale, dict);
 
   return (
-    <header className="sticky top-0 z-50 bg-navy border-b border-white/10">
+    <header className="sticky top-0 z-50 overflow-x-clip border-b border-white/10 bg-navy">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="flex h-20 items-center justify-between gap-4">
-          <Logo
-            variant="full-white"
-            href={localizedPath(locale)}
-            dict={dict}
-            priority
-          />
+        <div className="flex min-h-28 items-center justify-between gap-3 py-2">
+          <div className="min-w-0 max-w-[min(42%,14rem)] shrink sm:max-w-[min(45%,16rem)] xl:max-w-[18rem]">
+            {BRAND.headerLogo ? (
+              <Logo variant="header" href={localizedPath(locale)} dict={dict} priority />
+            ) : (
+              <Link href={localizedPath(locale)} className="group flex shrink-0 flex-col">
+                <span className="font-display text-lg font-semibold tracking-tight text-white sm:text-xl">
+                  {dict.header.brandMain}
+                </span>
+                <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-silver-dark sm:text-xs">
+                  {dict.header.brandSub}
+                </span>
+              </Link>
+            )}
+          </div>
 
           <nav
-            className="hidden xl:flex items-center gap-1"
+            className="hidden min-w-0 flex-1 items-center justify-center gap-0.5 overflow-x-auto scrollbar-hide xl:flex"
             aria-label={dict.header.mainNavAria}
           >
             {navItems.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
-                className="px-3 py-2 text-sm font-medium text-white/80 transition-colors hover:text-white hover:bg-white/5 rounded"
+                className="shrink rounded px-2 py-2 text-xs font-medium text-white/80 transition-colors hover:bg-white/5 hover:text-white 2xl:px-3 2xl:text-sm"
               >
                 {item.label}
               </Link>
             ))}
           </nav>
 
-          <div className="flex items-center gap-3 shrink-0">
+          <div className="flex shrink-0 items-center gap-2 sm:gap-3">
             <LanguageSwitcher currentLocale={locale} label={dict.header.mainNavAria} />
             <Link
               href={appPath(locale)}
@@ -59,7 +68,7 @@ export function Header({ locale, dict }: HeaderProps) {
         </div>
 
         <nav
-          className="xl:hidden flex gap-1 overflow-x-auto pb-3 -mx-4 px-4 scrollbar-hide"
+          className="flex max-w-full gap-1 overflow-x-auto pb-3 scrollbar-hide xl:hidden"
           aria-label={dict.header.mobileNavAria}
         >
           {navItems.map((item) => (

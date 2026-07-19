@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans, Source_Sans_3 } from "next/font/google";
 import { SITE_URL } from "@/i18n/config";
+import { BRAND } from "@/lib/brand-assets";
 import "./globals.css";
 
 const ibmPlex = IBM_Plex_Sans({
@@ -22,29 +23,18 @@ export const metadata: Metadata = {
     "TVK Infrastructure & Energy Systems develops future-focused initiatives across energy, infrastructure, industrial systems and strategic technologies.",
   robots: { index: true, follow: true },
   manifest: "/manifest.webmanifest",
-  icons: {
-    icon: [
-      { url: "/favicon.ico", sizes: "48x48" },
-      { url: "/icons/icon-16.png", sizes: "16x16", type: "image/png" },
-      { url: "/icons/icon-32.png", sizes: "32x32", type: "image/png" },
-      { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
-      { url: "/icon.svg", type: "image/svg+xml" },
-    ],
-    apple: [
-      { url: "/icons/icon-180.png", sizes: "180x180", type: "image/png" },
-    ],
-    other: [
-      { rel: "mask-icon", url: "/logo/logo-mark.svg", color: "#0057b8" },
-    ],
-  },
+  icons: BRAND.favicon
+    ? {
+        icon: [{ url: "/favicon.ico" }],
+        apple: BRAND.appleTouchIcon
+          ? [{ url: "/apple-icon.png", sizes: "180x180", type: "image/png" }]
+          : undefined,
+      }
+    : undefined,
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
     title: "TVK",
-  },
-  other: {
-    "msapplication-TileColor": "#0057b8",
-    "msapplication-config": "/browserconfig.xml",
   },
 };
 
@@ -56,8 +46,8 @@ export default function RootLayout({
   return (
     <html suppressHydrationWarning className={`${ibmPlex.variable} ${sourceSans.variable} h-full antialiased`}>
       <head>
+        <link rel="manifest" href="/manifest.webmanifest" />
         <meta name="theme-color" content="#0057b8" />
-        <meta name="msapplication-TileColor" content="#0057b8" />
       </head>
       <body className="min-h-full flex flex-col font-sans">{children}</body>
     </html>
