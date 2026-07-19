@@ -19,9 +19,9 @@ const VARIANT_CONFIG: Record<
 > = {
   header: {
     src: "headerLogo",
-    className: "h-[5.5rem] w-auto max-w-full sm:h-24",
-    width: 1040,
-    height: 152,
+    className: "h-[8.25rem] w-auto max-w-full sm:h-36",
+    width: 1560,
+    height: 228,
   },
   footer: {
     src: "footerLogo",
