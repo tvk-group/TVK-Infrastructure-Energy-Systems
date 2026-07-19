@@ -1,15 +1,5 @@
-const CACHE = "tvk-partner-v2";
-const PRECACHE = [
-  "/en/app/",
-  "/manifest.webmanifest",
-  "/favicon.ico",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/icon-maskable-512.png",
-  "/logo/tvk-mark.svg",
-  "/logo/logo-full-white.svg",
-  "/logo/logo-full-tagline.svg",
-];
+const CACHE = "tvk-partner-v1";
+const PRECACHE = ["/en/app/", "/manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(PRECACHE)).then(() => self.skipWaiting()));

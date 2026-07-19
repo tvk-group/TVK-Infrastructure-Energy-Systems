@@ -1,6 +1,7 @@
 import type { Dictionary } from "@/i18n/get-dictionary";
 import type { Locale, PageSlug } from "@/i18n/config";
 import { SITE_URL, hreflangMap } from "@/i18n/config";
+import { BRAND } from "@/lib/brand-assets";
 import { absoluteUrl } from "@/lib/seo/metadata";
 import { localizedPath } from "@/i18n/routing";
 
@@ -34,12 +35,9 @@ export function JsonLd({ locale, dict, slug, breadcrumbLabels = [], article }: J
     name: dict.seo.organization.name,
     legalName: dict.seo.organization.legalName,
     url: SITE_URL,
-    logo: {
-      "@type": "ImageObject",
-      url: `${SITE_URL}/logo/logo-full.svg`,
-      width: 320,
-      height: 64,
-    },
+    logo: BRAND.headerLogo
+      ? `${SITE_URL}${BRAND.headerLogo}`
+      : `${SITE_URL}/og-image.svg`,
     description: dict.seo.organization.description,
     sameAs: dict.seo.organization.sameAs,
     areaServed: dict.seo.organization.areaServed,

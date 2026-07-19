@@ -4,6 +4,7 @@ import type { Locale } from "@/i18n/config";
 import { getNavItems } from "@/i18n/navigation";
 import { localizedPath } from "@/i18n/routing";
 import { appPath } from "@/lib/app-config";
+import { BRAND } from "@/lib/brand-assets";
 import { Logo } from "./Logo";
 
 interface FooterProps {
@@ -22,7 +23,20 @@ export function Footer({ locale, dict }: FooterProps) {
         <div className="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <div className="mb-6">
-              <Logo variant="full-tagline" dict={dict} />
+              {BRAND.footerLogo ? (
+                <Logo variant="footer" dict={dict} />
+              ) : BRAND.headerLogo ? (
+                <Logo variant="header" dict={dict} />
+              ) : (
+                <div>
+                  <span className="font-display text-xl font-semibold tracking-tight">
+                    {dict.header.brandMain}
+                  </span>
+                  <span className="block text-xs font-medium uppercase tracking-[0.2em] text-silver-dark mt-1">
+                    {dict.header.brandSub}
+                  </span>
+                </div>
+              )}
             </div>
             <p className="text-sm text-white/60 leading-relaxed max-w-xs">
               {dict.footer.description}

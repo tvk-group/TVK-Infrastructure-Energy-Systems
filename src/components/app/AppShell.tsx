@@ -67,7 +67,7 @@ export function AppShell({ locale, dict, children }: AppShellProps) {
       <header className="sticky top-0 z-40 bg-navy border-b border-white/10 safe-top">
         <div className="mx-auto max-w-lg px-4 h-14 flex items-center justify-between gap-3">
           <div className="flex items-center gap-2.5 min-w-0">
-            <Logo variant="mark-white" dict={dict} className="h-8 w-8 shrink-0" />
+            <Logo variant="mark" dict={dict} className="h-8 w-8 shrink-0" />
             <div className="min-w-0">
               <p className="font-display text-sm font-semibold text-white truncate">{t.brand}</p>
               <p className="text-[10px] uppercase tracking-wider text-white/50 truncate">{t.tagline}</p>
