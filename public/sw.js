@@ -6,8 +6,9 @@ const PRECACHE = [
   "/icons/icon-192.png",
   "/icons/icon-512.png",
   "/icons/icon-maskable-512.png",
-  "/logo/logo-mark.svg",
+  "/logo/tvk-mark.svg",
   "/logo/logo-full-white.svg",
+  "/logo/logo-full-tagline.svg",
 ];
 
 self.addEventListener("install", (event) => {

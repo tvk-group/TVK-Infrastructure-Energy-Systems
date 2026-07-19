@@ -1,5 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="6" fill="#0a1628"/>
-  <path d="M16 6L10 12h4.5v10h3V12H22L16 6z" fill="#0057b8"/>
-  <rect x="8" y="25" width="16" height="2" rx="1" fill="#2d6a4f"/>
+  <defs>
+    <linearGradient id="tvkGrad" x1="8%" y1="6%" x2="92%" y2="94%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="28%" stop-color="#9d50bb"/>
+      <stop offset="52%" stop-color="#ff0055"/>
+      <stop offset="76%" stop-color="#f7971e"/>
+      <stop offset="100%" stop-color="#ffd200"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="#0a0f18"/>
+  <g transform="translate(4, 5) scale(0.75)">
+    <path fill="url(#tvkGrad)" d="M6 4h30v5H24v9l12 24h-7L20 24 8 42H2L14 18V9H6V4zm24 0h7v15l10-10h8l-12 12 14 14h-8l-9-10v10h-7V4z"/>
+  </g>
 </svg>

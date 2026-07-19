@@ -1,6 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" fill="none">
-  <rect width="192" height="192" rx="36" fill="#0a1628"/>
-  <rect x="24" y="24" width="144" height="144" rx="18" fill="#0057b8" fill-opacity="0.15"/>
-  <path d="M96 48L56 88h28v56h24V88h28L96 48z" fill="#0057b8"/>
-  <rect x="48" y="152" width="96" height="8" rx="4" fill="#2d6a4f"/>
+  <defs>
+    <linearGradient id="tvkGrad" x1="8%" y1="6%" x2="92%" y2="94%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="28%" stop-color="#9d50bb"/>
+      <stop offset="52%" stop-color="#ff0055"/>
+      <stop offset="76%" stop-color="#f7971e"/>
+      <stop offset="100%" stop-color="#ffd200"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="36" fill="#0a0f18"/>
+  <g transform="translate(36, 36) scale(3)">
+    <path fill="url(#tvkGrad)" d="M6 4h30v5H24v9l12 24h-7L20 24 8 42H2L14 18V9H6V4zm24 0h7v15l10-10h8l-12 12 14 14h-8l-9-10v10h-7V4z"/>
+  </g>
 </svg>

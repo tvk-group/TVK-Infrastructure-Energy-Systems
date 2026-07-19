@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="TVK">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" aria-hidden="true">
   <defs>
     <linearGradient id="tvkGrad" x1="8%" y1="6%" x2="92%" y2="94%">
       <stop offset="0%" stop-color="#00d2ff"/>
@@ -8,7 +8,5 @@
       <stop offset="100%" stop-color="#ffd200"/>
     </linearGradient>
   </defs>
-  <g transform="translate(8, 10) scale(1.5)">
-    <path fill="url(#tvkGrad)" d="M6 4h30v5H24v9l12 24h-7L20 24 8 42H2L14 18V9H6V4zm24 0h7v15l10-10h8l-12 12 14 14h-8l-9-10v10h-7V4z"/>
-  </g>
+  <path fill="url(#tvkGrad)" d="M8 8h34v6H28v10l14 28h-8L24 30 10 52H2L16 24V14H8V8zm28 0h8v18l12-12h9l-14 14 16 16h-9l-11-12v16h-8V8z"/>
 </svg>

@@ -1,9 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none" role="img" aria-label="TVK Infrastructure and Energy Systems">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 80" fill="none" role="img" aria-label="TVK Infrastructure and Energy Systems">
+  <defs>
+    <linearGradient id="tvkGrad" x1="8%" y1="6%" x2="92%" y2="94%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="28%" stop-color="#9d50bb"/>
+      <stop offset="52%" stop-color="#ff0055"/>
+      <stop offset="76%" stop-color="#f7971e"/>
+      <stop offset="100%" stop-color="#ffd200"/>
+    </linearGradient>
+  </defs>
   <g transform="translate(0, 8)">
-    <rect width="48" height="48" rx="10" fill="#0a1628"/>
-    <path d="M24 14L14 24h7v16h6V24h7L24 14z" fill="#0057b8"/>
-    <rect x="10" y="40" width="28" height="2.5" rx="1.25" fill="#2d6a4f"/>
+    <rect width="48" height="48" rx="8" fill="#0a0f18"/>
+    <g transform="translate(6, 4) scale(1.15)">
+      <path fill="url(#tvkGrad)" d="M6 4h30v5H24v9l12 24h-7L20 24 8 42H2L14 18V9H6V4zm24 0h7v15l10-10h8l-12 12 14 14h-8l-9-10v10h-7V4z"/>
+    </g>
   </g>
-  <text x="56" y="28" fill="#0a1628" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="600" letter-spacing="-0.02em">TVK Infrastructure</text>
-  <text x="56" y="46" fill="#5c6470" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" font-weight="500" letter-spacing="0.2em">&amp; ENERGY SYSTEMS LTD</text>
+  <text x="72" y="36" fill="#0a1628" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="30" font-weight="700" letter-spacing="0.04em">TVK</text>
+  <text x="72" y="52" fill="#5c6470" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="8.5" font-weight="500" letter-spacing="0.18em">INFRASTRUCTURE &amp;</text>
+  <text x="72" y="64" fill="#5c6470" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="8.5" font-weight="500" letter-spacing="0.18em">ENERGY SYSTEMS LTD</text>
 </svg>

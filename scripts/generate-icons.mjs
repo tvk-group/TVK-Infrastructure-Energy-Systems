@@ -13,7 +13,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, "..");
 
 const ICON_SVG = join(root, "public/icons/icon-512.svg");
-const MARK_SVG = join(root, "public/logo/logo-mark.svg");
+const MARK_SVG = join(root, "public/logo/tvk-mark.svg");
 
 const PNG_SIZES = [16, 32, 48, 72, 96, 128, 144, 152, 180, 192, 256, 384, 512];
 
@@ -69,7 +69,7 @@ async function main() {
       bottom: Math.round(maskableSize * 0.2),
       left: Math.round(maskableSize * 0.2),
       right: Math.round(maskableSize * 0.2),
-      background: { r: 10, g: 22, b: 40, alpha: 1 },
+      background: { r: 10, g: 15, b: 24, alpha: 1 },
     })
     .png()
     .toBuffer();
