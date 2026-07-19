@@ -6,7 +6,15 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <text x="80" y="280" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="600">TVK Infrastructure</text>
-  <text x="80" y="340" fill="#0077c8" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400">&amp; Energy Systems LTD</text>
-  <text x="80" y="420" fill="#c0c5ce" font-family="Arial, Helvetica, sans-serif" font-size="28">Powering Infrastructure. Enabling the Future.</text>
+  <g transform="translate(80, 180)">
+    <rect width="120" height="120" rx="24" fill="#0057b8" fill-opacity="0.15"/>
+    <path d="M60 30L35 55h15v40h20V55h15L60 30z" fill="#0057b8"/>
+    <rect x="25" y="100" width="70" height="8" rx="4" fill="#2d6a4f"/>
+  </g>
+  <text x="230" y="260" fill="#ffffff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="56" font-weight="600" letter-spacing="-0.02em">TVK Infrastructure</text>
+  <text x="230" y="320" fill="#0077c8" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="32" font-weight="400">&amp; Energy Systems LTD</text>
+  <text x="230" y="400" fill="#c0c5ce" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="28">Powering Infrastructure. Enabling the Future.</text>
+  <rect x="80" y="520" width="200" height="4" rx="2" fill="url(#bg)"/>
+  <rect x="80" y="520" width="200" height="4" rx="2" fill="#0057b8"/>
+  <rect x="280" y="520" width="80" height="4" rx="2" fill="#2d6a4f"/>
 </svg>

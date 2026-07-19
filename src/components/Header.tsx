@@ -5,6 +5,7 @@ import { getNavItems } from "@/i18n/navigation";
 import { localizedPath } from "@/i18n/routing";
 import { appPath } from "@/lib/app-config";
 import { LanguageSwitcher } from "./LanguageSwitcher";
+import { Logo } from "./Logo";
 
 interface HeaderProps {
   locale: Locale;
@@ -18,14 +19,12 @@ export function Header({ locale, dict }: HeaderProps) {
     <header className="sticky top-0 z-50 bg-navy border-b border-white/10">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-20 items-center justify-between gap-4">
-          <Link href={localizedPath(locale)} className="flex shrink-0 flex-col group">
-            <span className="font-display text-lg font-semibold tracking-tight text-white sm:text-xl">
-              {dict.header.brandMain}
-            </span>
-            <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-silver-dark sm:text-xs">
-              {dict.header.brandSub}
-            </span>
-          </Link>
+          <Logo
+            variant="full-white"
+            href={localizedPath(locale)}
+            dict={dict}
+            priority
+          />
 
           <nav
             className="hidden xl:flex items-center gap-1"
