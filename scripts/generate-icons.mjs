@@ -69,7 +69,7 @@ async function main() {
       bottom: Math.round(maskableSize * 0.2),
       left: Math.round(maskableSize * 0.2),
       right: Math.round(maskableSize * 0.2),
-      background: { r: 13, g: 17, b: 23, alpha: 1 },
+      background: { r: 14, g: 20, b: 28, alpha: 1 },
     })
     .png()
     .toBuffer();
