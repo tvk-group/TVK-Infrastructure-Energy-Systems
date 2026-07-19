@@ -1,21 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 80" fill="none" role="img" aria-label="TVK Infrastructure and Energy Systems">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 76" fill="none" role="img" aria-label="TVK Infrastructure and Energy Systems">
   <defs>
     <linearGradient id="gCyan" x1="2" y1="6" x2="40" y2="6" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#40C9FF"/>
-      <stop offset="100%" stop-color="#00d2ff"/>
+      <stop offset="0%" stop-color="#00f2ff"/>
+      <stop offset="100%" stop-color="#00c8e8"/>
     </linearGradient>
     <linearGradient id="gViolet" x1="10" y1="12" x2="22" y2="48" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#00d2ff"/>
-      <stop offset="45%" stop-color="#9d50bb"/>
-      <stop offset="100%" stop-color="#DA22FF"/>
+      <stop offset="0%" stop-color="#00c8e8"/>
+      <stop offset="40%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#e91e8c"/>
     </linearGradient>
     <linearGradient id="gMagenta" x1="18" y1="14" x2="30" y2="48" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#9733EE"/>
-      <stop offset="100%" stop-color="#ff007f"/>
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#ff1744"/>
+      <stop offset="100%" stop-color="#ff4081"/>
     </linearGradient>
     <linearGradient id="gWarm" x1="26" y1="8" x2="40" y2="48" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#F7971E"/>
-      <stop offset="100%" stop-color="#FFD200"/>
+      <stop offset="0%" stop-color="#ff6d00"/>
+      <stop offset="100%" stop-color="#ff9d00"/>
     </linearGradient>
   </defs>
   <g transform="translate(0, 10) scale(1.05)">
@@ -24,7 +25,6 @@
     <path fill="url(#gMagenta)" d="M19.5 15.5L30 44h5.5L25.5 12H20v3.5z"/>
     <path fill="url(#gWarm)" d="M25 6h6.5l9.5 38h-5.5l-4.5-19.5-5.5 19.5H20l10-38z"/>
   </g>
-  <text x="68" y="36" fill="#f5f5f0" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="32" font-weight="700" letter-spacing="0.05em">TVK</text>
-  <text x="68" y="52" fill="#f5f5f0" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="8.5" font-weight="500" letter-spacing="0.16em">INFRASTRUCTURE &amp;</text>
-  <text x="68" y="64" fill="#f5f5f0" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="8.5" font-weight="500" letter-spacing="0.16em">ENERGY SYSTEMS LTD</text>
+  <text x="68" y="38" fill="#fefaf0" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="32" font-weight="700" letter-spacing="0.05em">TVK</text>
+  <text x="68" y="56" fill="#fefaf0" font-family="'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" font-weight="500" letter-spacing="0.13em">INFRASTRUCTURE &amp; ENERGY SYSTEMS LTD</text>
 </svg>

@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
   <defs>
     <linearGradient id="gCyan" x1="2" y1="6" x2="18" y2="6" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#40C9FF"/>
-      <stop offset="100%" stop-color="#00d2ff"/>
+      <stop offset="0%" stop-color="#00f2ff"/>
+      <stop offset="100%" stop-color="#00c8e8"/>
     </linearGradient>
     <linearGradient id="gViolet" x1="6" y1="8" x2="10" y2="24" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#00d2ff"/>
-      <stop offset="45%" stop-color="#9d50bb"/>
-      <stop offset="100%" stop-color="#DA22FF"/>
+      <stop offset="0%" stop-color="#00c8e8"/>
+      <stop offset="45%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#e91e8c"/>
     </linearGradient>
     <linearGradient id="gMagenta" x1="9" y1="9" x2="13" y2="24" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#9733EE"/>
-      <stop offset="100%" stop-color="#ff007f"/>
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ff4081"/>
     </linearGradient>
     <linearGradient id="gWarm" x1="12" y1="7" x2="18" y2="24" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#F7971E"/>
-      <stop offset="100%" stop-color="#FFD200"/>
+      <stop offset="0%" stop-color="#ff6d00"/>
+      <stop offset="100%" stop-color="#ff9d00"/>
     </linearGradient>
   </defs>
-  <rect width="32" height="32" rx="6" fill="#0b111b"/>
+  <rect width="32" height="32" rx="6" fill="#0d1117"/>
   <g transform="translate(3, 2) scale(0.52)">
     <path fill="url(#gCyan)" d="M3 4h36c1.1 0 2 .9 2 2v4c0 1.1-.9 2-2 2H25v5h-4V12H5c-1.1 0-2-.9-2-2V4z"/>
     <path fill="url(#gViolet)" d="M9 12h5.5l10.5 32H19L9.5 17H9v-5z"/>
